@@ -14,6 +14,7 @@ query="$1"
 db="$2"
 threads="$3"
 max_target_seqs="$4"
+out_dir="$5"
 
 # query="test.fasta"
 # db="/mnt/research/EvansLab/DATABASES/NCBInt_feb23/nt"
@@ -21,7 +22,7 @@ max_target_seqs="$4"
 # max_target_seqs=20
 
 # Construct and run command
-blast_cmd="blastn -query $query -db $db -num_threads $threads -outfmt $outfmt -max_target_seqs $max_target_seqs > blast.out"
+blast_cmd="blastn -query $query -db $db -num_threads $threads -outfmt $outfmt -max_target_seqs $max_target_seqs > ${out_dir}/blast.out"
 
 echo $blast_cmd
 eval "$blast_cmd"

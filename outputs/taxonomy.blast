@@ -1,0 +1,1323 @@
+query,subject,bitscore,e_value,percent_identity,query_coverage,Kingdom,Phylum,Class,Order,Family,Genus,Species
+OTU_219,KY230785,233,4.09e-57,99.225,100,Eukaryota,Arthropoda,Collembola,Poduromorpha,Tullbergiidae,Mesaphorura,Mesaphorura sp. 5F1b1_JC474
+OTU_219,EF023225,233,4.09e-57,99.225,100,Eukaryota,Arthropoda,Collembola,Poduromorpha,Poduridae,,Poduridae environmental sample
+OTU_219,KY230760,222,8.85e-54,97.674,100,Eukaryota,Arthropoda,Collembola,Poduromorpha,Tullbergiidae,Mesaphorura,Mesaphorura sp. 2F1b1_JC412
+OTU_219,KY230720,222,8.85e-54,97.674,100,Eukaryota,Arthropoda,Collembola,Poduromorpha,Tullbergiidae,Stenaphorura,Stenaphorura denisi
+OTU_219,EU740589,217,4.12e-52,96.899,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_219,EF023333,211,1.92e-50,96.825,98,Eukaryota,Arthropoda,Collembola,Poduromorpha,Neanuridae,,Neanurini environmental sample
+OTU_219,EF023325,211,1.92e-50,96.825,98,Eukaryota,Arthropoda,Collembola,Poduromorpha,Poduridae,,Poduridae environmental sample
+OTU_219,EF023134,211,1.92e-50,96.825,98,Eukaryota,Arthropoda,Collembola,Poduromorpha,Poduridae,,Poduridae environmental sample
+OTU_219,KY230731,200,4.15e-47,94.574,100,Eukaryota,Arthropoda,Collembola,Poduromorpha,Tullbergiidae,Metaphorura,Metaphorura affinis
+OTU_219,EU740497,189,8.97e-44,95.082,94,Eukaryota,,,,,,uncultured eukaryote
+OTU_219,DQ016556,189,8.97e-44,95.726,91,Eukaryota,Arthropoda,Collembola,Poduromorpha,Tullbergiidae,Tullbergia,Tullbergia yosii
+OTU_219,KY230747,178,1.94e-40,91.473,100,Eukaryota,Arthropoda,Collembola,Poduromorpha,Hypogastruridae,Ceratophysella,Ceratophysella denticulata
+OTU_219,AY338691,178,1.94e-40,91.473,100,Eukaryota,Arthropoda,Collembola,Poduromorpha,Hypogastruridae,Hypogastrura,Hypogastrura sp. CB02
+OTU_219,KY230762,172,9.04e-39,90.698,100,Eukaryota,Arthropoda,Collembola,Poduromorpha,Hypogastruridae,Ceratophysella,Ceratophysella luteospina
+OTU_219,KY230759,172,9.04e-39,90.698,100,Eukaryota,Arthropoda,Collembola,Poduromorpha,Onychiuridae,Protaphorura,Protaphorura armata
+OTU_219,KY230724,172,9.04e-39,90.698,100,Eukaryota,Arthropoda,Collembola,Poduromorpha,Brachystomellidae,Brachystomella,Brachystomella parvula
+OTU_219,KY230719,172,9.04e-39,90.698,100,Eukaryota,Arthropoda,Collembola,Poduromorpha,Onychiuridae,Protaphorura,Protaphorura armata
+OTU_219,FJ610762,172,9.04e-39,90.698,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_219,AF005452,172,9.04e-39,90.698,100,Eukaryota,Arthropoda,Collembola,Poduromorpha,Poduridae,Podura,Podura aquatica
+OTU_219,AY555519,172,9.04e-39,90.698,100,Eukaryota,Arthropoda,Collembola,Poduromorpha,Onychiuridae,Tetrodontophora,Tetrodontophora bielanensis
+OTU_219,KT799628,169,1.17e-37,97.938,75,Eukaryota,Arthropoda,Collembola,Poduromorpha,Tullbergiidae,Mesaphorura,Mesaphorura yosii
+OTU_219,KY230796,167,4.20e-37,89.922,100,Eukaryota,Arthropoda,Collembola,Poduromorpha,Odontellidae,,Odontellidae sp. site2_VKOL
+OTU_219,KY230761,167,4.20e-37,89.922,100,Eukaryota,Arthropoda,Collembola,Poduromorpha,Onychiuridae,Deuteraphorura,Deuteraphorura inermis
+OTU_219,KY230727,167,4.20e-37,89.922,100,Eukaryota,Arthropoda,Collembola,Poduromorpha,Neanuridae,Friesea,Friesea claviseta
+OTU_219,EU740617,167,4.20e-37,89.922,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_232,JN049673,239,8.79e-59,100.000,100,Eukaryota,Nematoda,,,,,Nematoda environmental sample
+OTU_232,AY878390,207,2.48e-49,95.420,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Panagrolaimidae,Panagrolaimus,Panagrolaimus sp. WS94
+OTU_232,AY878394,195,1.93e-45,93.893,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Panagrolaimidae,Panagrolaimus,Panagrolaimus sp. PS443
+OTU_232,MK087062,187,3.23e-43,93.077,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Panagrolaimidae,Panagrolaimus,Panagrolaimus sp. compost
+OTU_232,JN049681,187,3.23e-43,93.077,100,Eukaryota,Nematoda,,,,,Nematoda environmental sample
+OTU_232,AY284681,187,3.23e-43,97.273,84,Eukaryota,Nematoda,Chromadorea,Rhabditida,Panagrolaimidae,Panagrolaimus,Panagrolaimus subelongatus
+OTU_232,AJ567385,187,3.23e-43,93.023,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Panagrolaimidae,Panagrolaimus,Panagrolaimus davidi
+OTU_232,DQ285636,182,1.50e-41,92.308,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Panagrolaimidae,Panagrolaimus,Panagrolaimus cf. rigidus AF40
+OTU_232,JN049672,180,5.40e-41,91.538,100,Eukaryota,Nematoda,,,,,Nematoda environmental sample
+OTU_232,FJ717462,178,1.94e-40,91.603,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Panagrolaimidae,Panagrolaimus,Panagrolaimus sp. SN103
+OTU_232,FJ717460,178,1.94e-40,91.603,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Panagrolaimidae,Panagrolaimus,Panagrolaimus sp. JB115
+OTU_232,FJ717459,178,1.94e-40,91.603,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Panagrolaimidae,Panagrolaimus,Panagrolaimus sp. AS03
+OTU_232,FJ717458,178,1.94e-40,91.603,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Panagrolaimidae,Panagrolaimus,Panagrolaimus sp. AS02
+OTU_232,FJ717457,178,1.94e-40,91.603,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Panagrolaimidae,Panagrolaimus,Panagrolaimus sp. AS01
+OTU_232,EU543176,178,1.94e-40,91.603,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Panagrolaimidae,Panagrolaimus,Panagrolaimus detritophagus
+OTU_232,AY878397,178,1.94e-40,91.603,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Panagrolaimidae,Panagrolaimus,Panagrolaimus davidi
+OTU_232,AY878396,178,1.94e-40,91.603,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Panagrolaimidae,Panagrolaimus,Panagrolaimus sp. PS1579
+OTU_232,AY878391,178,1.94e-40,91.603,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Panagrolaimidae,Panagrolaimus,Panagrolaimus superbus
+OTU_232,U81579,178,1.94e-40,91.603,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Panagrolaimidae,Panagrolaimus,Panagrolaimus sp. PS1159
+OTU_232,AY878392,176,6.99e-40,91.538,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Panagrolaimidae,Panagrolaimus,Panagrolaimus cf. rigidus AF36
+OTU_232,KC522712,167,4.20e-37,92.437,90,Eukaryota,Nematoda,Chromadorea,Rhabditida,Panagrolaimidae,Panagrolaimus,Panagrolaimus sp. PS443
+OTU_232,FJ717461,167,4.20e-37,90.076,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Panagrolaimidae,Panagrolaimus,Panagrolaimus sp. JB051
+OTU_232,AY878395,167,4.20e-37,90.076,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Panagrolaimidae,Panagrolaimus,Panagrolaimus sp. PS1159
+OTU_232,DQ275363,167,4.20e-37,90.152,99,Eukaryota,Nematoda,Chromadorea,Rhabditida,Panagrolaimidae,Panagrolaimus,Panagrolaimus sp. 217Pan1
+OTU_232,KC522715,161,1.96e-35,91.667,90,Eukaryota,Nematoda,Chromadorea,Rhabditida,Panagrolaimidae,Panagrolaimus,Panagrolaimus sp. PS6470
+OTU_1611,KY791302,211,1.92e-50,96.124,100,Eukaryota,Arthropoda,Arachnida,Araneae,Agelenidae,Draconarius,Draconarius paratrifasciatus
+OTU_1611,KY791283,211,1.92e-50,96.124,100,Eukaryota,Arthropoda,Arachnida,Araneae,Agelenidae,Himalcoelotes,Himalcoelotes xizangensis
+OTU_1611,KY791282,211,1.92e-50,96.124,100,Eukaryota,Arthropoda,Arachnida,Araneae,Agelenidae,Draconarius,Draconarius sp. SD012
+OTU_1611,KY791280,211,1.92e-50,96.124,100,Eukaryota,Arthropoda,Arachnida,Araneae,Agelenidae,Draconarius,Draconarius sp. ZZ934
+OTU_1611,KY791277,211,1.92e-50,96.124,100,Eukaryota,Arthropoda,Arachnida,Araneae,Agelenidae,Draconarius,Draconarius sp. ZZ164
+OTU_1611,KY791277,211,1.92e-50,96.124,100,Eukaryota,Arthropoda,Arachnida,Araneae,Agelenidae,Draconarius,Draconarius sp. ZZ638
+OTU_1611,KY791277,211,1.92e-50,96.124,100,Eukaryota,Arthropoda,Arachnida,Araneae,Agelenidae,Draconarius,Draconarius sp. ZZ975
+OTU_1611,KY791274,211,1.92e-50,96.124,100,Eukaryota,Arthropoda,Arachnida,Araneae,Agelenidae,Draconarius,Draconarius sp. ZZ928
+OTU_1611,KY791274,211,1.92e-50,96.124,100,Eukaryota,Arthropoda,Arachnida,Araneae,Agelenidae,Draconarius,Draconarius sp. ZZ983
+OTU_1611,KY791271,211,1.92e-50,96.124,100,Eukaryota,Arthropoda,Arachnida,Araneae,Agelenidae,Draconarius,Draconarius sp. ZZ688
+OTU_1611,KY791269,211,1.92e-50,96.124,100,Eukaryota,Arthropoda,Arachnida,Araneae,Agelenidae,Draconarius,Draconarius sp. SD034
+OTU_1611,KY791266,211,1.92e-50,96.124,100,Eukaryota,Arthropoda,Arachnida,Araneae,Agelenidae,Draconarius,Draconarius venustus
+OTU_1611,KY791265,211,1.92e-50,96.124,100,Eukaryota,Arthropoda,Arachnida,Araneae,Agelenidae,Draconarius,Draconarius subtitanus
+OTU_1611,KY791260,211,1.92e-50,96.124,100,Eukaryota,Arthropoda,Arachnida,Araneae,Agelenidae,Draconarius,Draconarius sp. SD035
+OTU_1611,KY791260,211,1.92e-50,96.124,100,Eukaryota,Arthropoda,Arachnida,Araneae,Agelenidae,Draconarius,Draconarius sp. SD040
+OTU_1611,KY791260,211,1.92e-50,96.124,100,Eukaryota,Arthropoda,Arachnida,Araneae,Agelenidae,Draconarius,Draconarius sp. ZZ572
+OTU_1611,KY791260,211,1.92e-50,96.124,100,Eukaryota,Arthropoda,Arachnida,Araneae,Agelenidae,Draconarius,Draconarius sp. ZZ573
+OTU_1611,KY791256,211,1.92e-50,96.124,100,Eukaryota,Arthropoda,Arachnida,Araneae,Agelenidae,Draconarius,Draconarius altissimus
+OTU_1611,KY791207,211,1.92e-50,96.124,100,Eukaryota,Arthropoda,Arachnida,Araneae,Agelenidae,Notiocoelotes,Notiocoelotes lingulatus
+OTU_1611,KT302234,211,1.92e-50,96.124,100,Eukaryota,Arthropoda,Arachnida,Opiliones,Triaenonychidae,Prasma,Prasma sp. MCZ IZ 136190
+OTU_1611,MZ160148,211,1.92e-50,96.124,100,Eukaryota,Arthropoda,Arachnida,Araneae,Sparassidae,Sinopoda,Sinopoda yanlingensis
+OTU_1611,MZ160147,211,1.92e-50,96.124,100,Eukaryota,Arthropoda,Arachnida,Araneae,Sparassidae,Sinopoda,Sinopoda yanlingensis
+OTU_1611,MZ160146,211,1.92e-50,96.124,100,Eukaryota,Arthropoda,Arachnida,Araneae,Sparassidae,Sinopoda,Sinopoda yaanensis
+OTU_1611,MZ160145,211,1.92e-50,96.124,100,Eukaryota,Arthropoda,Arachnida,Araneae,Sparassidae,Sinopoda,Sinopoda yaanensis
+OTU_1611,MZ160144,211,1.92e-50,96.124,100,Eukaryota,Arthropoda,Arachnida,Araneae,Sparassidae,Sinopoda,Sinopoda yaanensis
+OTU_1611,MZ160140,211,1.92e-50,96.124,100,Eukaryota,Arthropoda,Arachnida,Araneae,Sparassidae,Sinopoda,Sinopoda triangula
+OTU_1611,MZ160135,211,1.92e-50,96.124,100,Eukaryota,Arthropoda,Arachnida,Araneae,Sparassidae,Sinopoda,Sinopoda pengi
+OTU_1611,MZ160134,211,1.92e-50,96.124,100,Eukaryota,Arthropoda,Arachnida,Araneae,Sparassidae,Sinopoda,Sinopoda nuda
+OTU_1611,MZ160133,211,1.92e-50,96.124,100,Eukaryota,Arthropoda,Arachnida,Araneae,Sparassidae,Sinopoda,Sinopoda nuda
+OTU_1611,MZ160131,211,1.92e-50,96.124,100,Eukaryota,Arthropoda,Arachnida,Araneae,Sparassidae,Sinopoda,Sinopoda mamillata
+OTU_1611,MZ160128,211,1.92e-50,96.124,100,Eukaryota,Arthropoda,Arachnida,Araneae,Sparassidae,Sinopoda,Sinopoda longshan
+OTU_575,MW306052,206,8.91e-49,95.349,100,Eukaryota,Cercozoa,,Cercomonadida,Cercomonadidae,Cercomonas,Cercomonas sp.
+OTU_575,HM536151,206,8.91e-49,95.349,100,Eukaryota,Cercozoa,,Cercomonadida,Cercomonadidae,Cercomonas,Cercomonas sp. HFCC 906
+OTU_575,AB616675,206,8.91e-49,95.349,100,Eukaryota,Cercozoa,,,,,Cercozoa sp. TGS5
+OTU_575,FJ790711,206,8.91e-49,95.349,100,Eukaryota,Cercozoa,,Cercomonadida,Cercomonadidae,Cercomonas,Cercomonas vacuolata
+OTU_575,FJ790710,206,8.91e-49,95.349,100,Eukaryota,Cercozoa,,Cercomonadida,Cercomonadidae,Cercomonas,Cercomonas celer
+OTU_575,EF024268,206,8.91e-49,95.349,100,Eukaryota,Cercozoa,,Cercomonadida,Cercomonadidae,,uncultured cercomonad
+OTU_575,EF024692,206,8.91e-49,95.349,100,Eukaryota,Cercozoa,,Cercomonadida,Cercomonadidae,,uncultured cercomonad
+OTU_575,EF024104,206,8.91e-49,95.349,100,Eukaryota,Cercozoa,Imbricatea,Thaumatomonadida,,,uncultured Thaumatomonadida
+OTU_575,EF024499,206,8.91e-49,95.349,100,Eukaryota,Cercozoa,Imbricatea,Thaumatomonadida,,,uncultured Thaumatomonadida
+OTU_575,EF024494,206,8.91e-49,95.349,100,Eukaryota,Cercozoa,Imbricatea,Thaumatomonadida,,,uncultured Thaumatomonadida
+OTU_575,EF024403,206,8.91e-49,95.349,100,Eukaryota,Cercozoa,Imbricatea,Thaumatomonadida,,,uncultured Thaumatomonadida
+OTU_575,EF024251,206,8.91e-49,95.349,100,Eukaryota,Cercozoa,,Cercomonadida,Cercomonadidae,,uncultured cercomonad
+OTU_575,MG775587,200,4.15e-47,94.574,100,Eukaryota,Cercozoa,,Cercomonadida,Cercomonadidae,Cercomonas,Cercomonas sp.
+OTU_575,HM536149,200,4.15e-47,94.574,100,Eukaryota,Cercozoa,,Cercomonadida,Cercomonadidae,Cercomonas,Cercomonas sp. HFCC 904
+OTU_575,HM536148,200,4.15e-47,94.574,100,Eukaryota,Cercozoa,,Cercomonadida,Cercomonadidae,Cercomonas,Cercomonas pellucida
+OTU_575,HM536147,200,4.15e-47,94.574,100,Eukaryota,Cercozoa,,Cercomonadida,Cercomonadidae,Cercomonas,Cercomonas sp. HFCC 902
+OTU_575,FJ790695,200,4.15e-47,94.574,100,Eukaryota,Cercozoa,,Cercomonadida,Cercomonadidae,Cercomonas,Cercomonas kiaerdammane
+OTU_575,EF455759,200,4.15e-47,94.574,100,Eukaryota,Cercozoa,,Cercomonadida,Cercomonadidae,Cercomonas,Cercomonas sp. ATCC PRA-21
+OTU_575,AY965869,200,4.15e-47,94.574,100,Eukaryota,Cercozoa,,Cercomonadida,,,soil flagellate AND27
+OTU_575,AY965868,200,4.15e-47,94.574,100,Eukaryota,Cercozoa,,Cercomonadida,,,soil flagellate AND25
+OTU_575,AF411266,200,4.15e-47,94.574,100,Eukaryota,Cercozoa,,Cercomonadida,Cercomonadidae,Cercomonas,Cercomonas sp. LargeSA
+OTU_575,MG775586,195,1.93e-45,93.798,100,Eukaryota,Cercozoa,,Cercomonadida,Cercomonadidae,Cercomonas,Cercomonas sp.
+OTU_575,FJ790712,195,1.93e-45,93.798,100,Eukaryota,Cercozoa,,Cercomonadida,Cercomonadidae,Cercomonas,Cercomonas radiata
+OTU_575,FJ790694,195,1.93e-45,93.893,100,Eukaryota,Cercozoa,,Cercomonadida,Cercomonadidae,Cercomonas,Cercomonas rapida
+OTU_575,DQ243998,195,1.93e-45,93.798,100,Eukaryota,Cercozoa,,,,,uncultured freshwater cercozoan
+OTU_168,MH429976,230,5.29e-56,98.473,100,Eukaryota,Rotifera,Eurotatoria,Philodinida,Philodinidae,Philodina,Philodina sp. cmbb21
+OTU_168,KM043270,230,5.29e-56,98.473,100,Eukaryota,Rotifera,Eurotatoria,,,Rotaria,Rotaria tardigrada
+OTU_168,KM043267,230,5.29e-56,98.473,100,Eukaryota,Rotifera,Eurotatoria,,,Rotaria,Rotaria magnacalcarata
+OTU_168,KM043265,230,5.29e-56,98.473,100,Eukaryota,Rotifera,Eurotatoria,Philodinida,Habrotrochidae,Otostephanos,Otostephanos jolantae
+OTU_168,KM043262,230,5.29e-56,98.473,100,Eukaryota,Rotifera,Eurotatoria,Philodinida,Philodinidae,Macrotrachela,Macrotrachela papillosa
+OTU_168,KM043255,230,5.29e-56,98.473,100,Eukaryota,Rotifera,Eurotatoria,Adinetida,Adinetidae,Bradyscela,Bradyscela clauda
+OTU_168,OK534155,230,5.29e-56,98.473,100,Eukaryota,Rotifera,Eurotatoria,Adinetida,,,Adinetida sp. YW-2021
+OTU_168,KF561105,230,5.29e-56,98.473,100,Eukaryota,Rotifera,Eurotatoria,,,Rotaria,Rotaria tardigrada
+OTU_168,KF561104,230,5.29e-56,98.473,100,Eukaryota,Rotifera,Eurotatoria,,,Rotaria,Rotaria rotatoria
+OTU_168,KF561095,230,5.29e-56,98.473,100,Eukaryota,Rotifera,Eurotatoria,Adinetida,Adinetidae,Adineta,Adineta vaga
+OTU_168,JX494739,230,5.29e-56,98.473,100,Eukaryota,Rotifera,Eurotatoria,Adinetida,Adinetidae,Adineta,Adineta vaga
+OTU_168,JX494734,230,5.29e-56,98.473,100,Eukaryota,Rotifera,Eurotatoria,Adinetida,Adinetidae,Adineta,Adineta vaga
+OTU_168,JX494732,230,5.29e-56,98.473,100,Eukaryota,Rotifera,Eurotatoria,Adinetida,Adinetidae,Adineta,Adineta vaga
+OTU_168,GQ922334,230,5.29e-56,98.473,100,Eukaryota,Rotifera,Eurotatoria,,,,Bdelloidea environmental sample
+OTU_168,GQ922331,230,5.29e-56,98.473,100,Eukaryota,Rotifera,Eurotatoria,,,,Bdelloidea environmental sample
+OTU_168,GQ922327,230,5.29e-56,98.473,100,Eukaryota,Rotifera,Eurotatoria,,,,Bdelloidea environmental sample
+OTU_168,GQ922326,230,5.29e-56,98.473,100,Eukaryota,Rotifera,Eurotatoria,,,,Bdelloidea environmental sample
+OTU_168,GQ922325,230,5.29e-56,98.473,100,Eukaryota,Rotifera,Eurotatoria,,,,Bdelloidea environmental sample
+OTU_168,GQ922323,230,5.29e-56,98.473,100,Eukaryota,Rotifera,Eurotatoria,,,,Bdelloidea environmental sample
+OTU_168,GQ922319,230,5.29e-56,98.473,100,Eukaryota,Rotifera,Eurotatoria,,,,Bdelloidea environmental sample
+OTU_168,GQ922317,230,5.29e-56,98.473,100,Eukaryota,Rotifera,Eurotatoria,,,,Bdelloidea environmental sample
+OTU_168,GQ922316,230,5.29e-56,98.473,100,Eukaryota,Rotifera,Eurotatoria,,,,Bdelloidea environmental sample
+OTU_168,GQ922315,230,5.29e-56,98.473,100,Eukaryota,Rotifera,Eurotatoria,,,,Bdelloidea environmental sample
+OTU_168,GQ922314,230,5.29e-56,98.473,100,Eukaryota,Rotifera,Eurotatoria,,,,Bdelloidea environmental sample
+OTU_168,GQ922311,230,5.29e-56,98.473,100,Eukaryota,Rotifera,Eurotatoria,,,,Bdelloidea environmental sample
+OTU_38,XR_003884956,239,8.79e-59,100.000,100,Eukaryota,Arthropoda,Insecta,Hymenoptera,Formicidae,Formica,Formica exsecta
+OTU_38,XR_003822565,239,8.79e-59,100.000,100,Eukaryota,Arthropoda,Insecta,Hymenoptera,Formicidae,Nylanderia,Nylanderia fulva
+OTU_38,XR_003822537,239,8.79e-59,100.000,100,Eukaryota,Arthropoda,Insecta,Hymenoptera,Formicidae,Nylanderia,Nylanderia fulva
+OTU_38,XR_003822524,239,8.79e-59,100.000,100,Eukaryota,Arthropoda,Insecta,Hymenoptera,Formicidae,Nylanderia,Nylanderia fulva
+OTU_38,XR_003822501,239,8.79e-59,100.000,100,Eukaryota,Arthropoda,Insecta,Hymenoptera,Formicidae,Nylanderia,Nylanderia fulva
+OTU_38,XR_003822476,239,8.79e-59,100.000,100,Eukaryota,Arthropoda,Insecta,Hymenoptera,Formicidae,Nylanderia,Nylanderia fulva
+OTU_38,XR_003822337,239,8.79e-59,100.000,100,Eukaryota,Arthropoda,Insecta,Hymenoptera,Formicidae,Nylanderia,Nylanderia fulva
+OTU_38,XR_003822290,239,8.79e-59,100.000,100,Eukaryota,Arthropoda,Insecta,Hymenoptera,Formicidae,Nylanderia,Nylanderia fulva
+OTU_38,XR_003822249,239,8.79e-59,100.000,100,Eukaryota,Arthropoda,Insecta,Hymenoptera,Formicidae,Nylanderia,Nylanderia fulva
+OTU_38,XR_003822181,239,8.79e-59,100.000,100,Eukaryota,Arthropoda,Insecta,Hymenoptera,Formicidae,Nylanderia,Nylanderia fulva
+OTU_38,XR_003822171,239,8.79e-59,100.000,100,Eukaryota,Arthropoda,Insecta,Hymenoptera,Formicidae,Nylanderia,Nylanderia fulva
+OTU_38,XR_003822166,239,8.79e-59,100.000,100,Eukaryota,Arthropoda,Insecta,Hymenoptera,Formicidae,Nylanderia,Nylanderia fulva
+OTU_38,XR_003822098,239,8.79e-59,100.000,100,Eukaryota,Arthropoda,Insecta,Hymenoptera,Formicidae,Nylanderia,Nylanderia fulva
+OTU_38,XR_003821956,239,8.79e-59,100.000,100,Eukaryota,Arthropoda,Insecta,Hymenoptera,Formicidae,Nylanderia,Nylanderia fulva
+OTU_38,XR_003821955,239,8.79e-59,100.000,100,Eukaryota,Arthropoda,Insecta,Hymenoptera,Formicidae,Nylanderia,Nylanderia fulva
+OTU_38,XR_003821823,239,8.79e-59,100.000,100,Eukaryota,Arthropoda,Insecta,Hymenoptera,Formicidae,Nylanderia,Nylanderia fulva
+OTU_38,XR_003821820,239,8.79e-59,100.000,100,Eukaryota,Arthropoda,Insecta,Hymenoptera,Formicidae,Nylanderia,Nylanderia fulva
+OTU_38,XR_003821748,239,8.79e-59,100.000,100,Eukaryota,Arthropoda,Insecta,Hymenoptera,Formicidae,Nylanderia,Nylanderia fulva
+OTU_38,XR_003821747,239,8.79e-59,100.000,100,Eukaryota,Arthropoda,Insecta,Hymenoptera,Formicidae,Nylanderia,Nylanderia fulva
+OTU_38,XR_003821643,239,8.79e-59,100.000,100,Eukaryota,Arthropoda,Insecta,Hymenoptera,Formicidae,Nylanderia,Nylanderia fulva
+OTU_38,XR_003821642,239,8.79e-59,100.000,100,Eukaryota,Arthropoda,Insecta,Hymenoptera,Formicidae,Nylanderia,Nylanderia fulva
+OTU_38,XR_003821641,239,8.79e-59,100.000,100,Eukaryota,Arthropoda,Insecta,Hymenoptera,Formicidae,Nylanderia,Nylanderia fulva
+OTU_38,XR_003821639,239,8.79e-59,100.000,100,Eukaryota,Arthropoda,Insecta,Hymenoptera,Formicidae,Nylanderia,Nylanderia fulva
+OTU_38,XR_003821637,239,8.79e-59,100.000,100,Eukaryota,Arthropoda,Insecta,Hymenoptera,Formicidae,Nylanderia,Nylanderia fulva
+OTU_38,XR_003821614,239,8.79e-59,100.000,100,Eukaryota,Arthropoda,Insecta,Hymenoptera,Formicidae,Nylanderia,Nylanderia fulva
+OTU_30,KC512927,239,8.79e-59,100.000,100,Eukaryota,Arthropoda,Insecta,Thysanoptera,Thripidae,Anaphothrips,Anaphothrips sudanensis
+OTU_30,KC512926,239,8.79e-59,100.000,100,Eukaryota,Arthropoda,Insecta,Thysanoptera,Thripidae,Anaphothrips,Anaphothrips incertus
+OTU_30,KC512925,239,8.79e-59,100.000,100,Eukaryota,Arthropoda,Insecta,Thysanoptera,Thripidae,Anaphothrips,Anaphothrips incertus
+OTU_30,KC512924,228,1.90e-55,98.450,100,Eukaryota,Arthropoda,Insecta,Thysanoptera,Thripidae,Anaphothrips,Anaphothrips cecili
+OTU_30,KC512933,222,8.85e-54,97.674,100,Eukaryota,Arthropoda,Insecta,Thysanoptera,Thripidae,Australothrips,Australothrips bicolor
+OTU_30,KC512991,217,4.12e-52,96.899,100,Eukaryota,Arthropoda,Insecta,Thysanoptera,Thripidae,Palmiothrips,Palmiothrips sp. TH65
+OTU_30,KC512998,206,8.91e-49,95.349,100,Eukaryota,Arthropoda,Insecta,Thysanoptera,Thripidae,Pseudanaphothrips,Pseudanaphothrips achaetus
+OTU_30,KC512953,206,8.91e-49,95.349,100,Eukaryota,Arthropoda,Insecta,Thysanoptera,Thripidae,Echinothrips,Echinothrips americanus
+OTU_30,KC512928,206,8.91e-49,95.349,100,Eukaryota,Arthropoda,Insecta,Thysanoptera,Thripidae,Anascirtothrips,Anascirtothrips arorai
+OTU_30,AP022634,200,4.15e-47,94.574,100,Eukaryota,Streptophyta,Magnoliopsida,Fabales,Fabaceae,Lotus,Lotus japonicus
+OTU_30,AP022634,200,4.15e-47,94.574,100,Eukaryota,Streptophyta,Magnoliopsida,Fabales,Fabaceae,Lotus,Lotus japonicus
+OTU_30,AP022634,200,4.15e-47,94.574,100,Eukaryota,Streptophyta,Magnoliopsida,Fabales,Fabaceae,Lotus,Lotus japonicus
+OTU_30,LR722623,200,4.15e-47,94.574,100,Eukaryota,Streptophyta,Magnoliopsida,Poales,Poaceae,Hordeum,Hordeum vulgare
+OTU_30,XR_003358374,200,4.15e-47,94.574,100,Eukaryota,Streptophyta,Magnoliopsida,Ranunculales,Papaveraceae,Papaver,Papaver somniferum
+OTU_30,AB904181,200,4.15e-47,94.574,100,Eukaryota,Arthropoda,Insecta,Thysanoptera,Thripidae,Frankliniella,Frankliniella intonsa
+OTU_30,AB904179,200,4.15e-47,94.574,100,Eukaryota,Arthropoda,Insecta,Thysanoptera,Thripidae,Frankliniella,Frankliniella intonsa
+OTU_30,AB904175,200,4.15e-47,94.574,100,Eukaryota,Arthropoda,Insecta,Thysanoptera,Thripidae,Frankliniella,Frankliniella intonsa
+OTU_30,XR_006488179,200,4.15e-47,94.574,100,Eukaryota,Streptophyta,Magnoliopsida,Poales,Poaceae,Triticum,Triticum aestivum
+OTU_30,KC513004,200,4.15e-47,94.574,100,Eukaryota,Arthropoda,Insecta,Thysanoptera,Thripidae,Scirtothrips,Scirtothrips aurantii
+OTU_30,KC512999,200,4.15e-47,94.574,100,Eukaryota,Arthropoda,Insecta,Thysanoptera,Thripidae,Pseudanaphothrips,Pseudanaphothrips araucariae
+OTU_30,KC512992,200,4.15e-47,94.574,100,Eukaryota,Arthropoda,Insecta,Thysanoptera,Thripidae,Parabaliothrips,Parabaliothrips sp. TH68
+OTU_30,KC512960,200,4.15e-47,94.574,100,Eukaryota,Arthropoda,Insecta,Thysanoptera,Thripidae,Frankliniella,Frankliniella tritici
+OTU_30,KC512959,200,4.15e-47,94.574,100,Eukaryota,Arthropoda,Insecta,Thysanoptera,Thripidae,Frankliniella,Frankliniella occidentalis
+OTU_30,KC512958,200,4.15e-47,94.574,100,Eukaryota,Arthropoda,Insecta,Thysanoptera,Thripidae,Frankliniella,Frankliniella cf. schultzei/sulphurea TH130
+OTU_30,KC512956,200,4.15e-47,94.574,100,Eukaryota,Arthropoda,Insecta,Thysanoptera,Thripidae,Frankliniella,Frankliniella occidentalis
+OTU_30,KC512955,200,4.15e-47,94.574,100,Eukaryota,Arthropoda,Insecta,Thysanoptera,Thripidae,Frankliniella,Frankliniella occidentalis
+OTU_30,KC512954,200,4.15e-47,94.574,100,Eukaryota,Arthropoda,Insecta,Thysanoptera,Thripidae,Frankliniella,Frankliniella australis
+OTU_199,EU740651,233,4.09e-57,99.225,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_199,AJ966501,233,4.09e-57,99.225,100,Eukaryota,Nematoda,Enoplea,Dorylaimida,Nordiidae,Pungentus,Pungentus sp. PDL-2005
+OTU_199,EF024180,228,1.90e-55,98.450,100,Eukaryota,Streptophyta,Magnoliopsida,Dipsacales,Caprifoliaceae,,Caprifoliaceae environmental sample
+OTU_199,AJ966484,228,1.90e-55,98.450,100,Eukaryota,Nematoda,Enoplea,Dorylaimida,Qudsianematidae,Eudorylaimus,Eudorylaimus carteri
+OTU_199,AJ966472,228,1.90e-55,98.450,100,Eukaryota,Nematoda,Enoplea,Dorylaimida,Qudsianematidae,Allodorylaimus,Allodorylaimus sp. PDL-2005
+OTU_199,JN049662,222,8.85e-54,97.674,100,Eukaryota,Nematoda,,,,,Nematoda environmental sample
+OTU_199,JN049661,222,8.85e-54,97.674,100,Eukaryota,Nematoda,,,,,Nematoda environmental sample
+OTU_199,KY942068,220,3.18e-53,98.400,97,Eukaryota,Nematoda,Enoplea,Dorylaimida,Qudsianematidae,Allodorylaimus,Allodorylaimus sp. 1 WJW-2018
+OTU_199,KY942067,220,3.18e-53,98.400,97,Eukaryota,Nematoda,Enoplea,Dorylaimida,Qudsianematidae,Allodorylaimus,Allodorylaimus sp. 1 WJW-2018
+OTU_199,AJ875137,219,1.14e-52,97.638,98,Eukaryota,Nematoda,,,,,Nematoda environmental sample
+OTU_199,HM851184,217,4.12e-52,96.899,100,Eukaryota,Nematoda,Enoplea,Dorylaimida,Nordiidae,Enchodelus,Enchodelus longispiculus
+OTU_199,HQ404367,217,4.12e-52,96.899,100,Eukaryota,Nematoda,Enoplea,Dorylaimida,Nordiidae,Enchodelus,Enchodelus sardashtensis
+OTU_199,FJ042950,217,4.12e-52,96.899,100,Eukaryota,Nematoda,Enoplea,Dorylaimida,Nordiidae,Enchodelus,Enchodelus babakicus
+OTU_199,EU740557,217,4.12e-52,96.899,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_199,EU740512,217,4.12e-52,96.899,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_199,EU740499,217,4.12e-52,96.923,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_199,EU740440,217,4.12e-52,96.899,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_199,EU740430,217,4.12e-52,96.899,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_199,EF023365,217,4.12e-52,96.923,100,Eukaryota,Arthropoda,Merostomata,Xiphosura,Limulidae,,Limulidae environmental sample
+OTU_199,AY687996,217,4.12e-52,96.899,100,Eukaryota,Nematoda,Enoplea,Dorylaimida,Longidoridae,Longidorus,Longidorus litchii
+OTU_199,AF511416,217,4.12e-52,96.899,100,Eukaryota,Nematoda,Enoplea,Dorylaimida,Longidoridae,Longidorus,Longidorus diadecturus
+OTU_199,AF511415,217,4.12e-52,96.899,100,Eukaryota,Nematoda,Enoplea,Dorylaimida,Longidoridae,Longidorus,Longidorus diadecturus
+OTU_199,AJ875153,217,4.12e-52,96.923,100,Eukaryota,Nematoda,Enoplea,Dorylaimida,Aporcelaimidae,Aporcelaimellus,Aporcelaimellus sp. F2
+OTU_199,MG921264,215,1.48e-51,97.600,97,Eukaryota,Nematoda,Enoplea,Dorylaimida,Belondiridae,Axonchium,Axonchium sp. 1 WJW-2018
+OTU_199,MK946073,211,1.92e-50,96.154,100,Eukaryota,,,,,,uncultured soil eukaryote
+OTU_140,EF024636,222,8.85e-54,97.674,100,Eukaryota,Annelida,Clitellata,Acanthobdellida,,,uncultured Acanthobdellida sp.
+OTU_140,EF024411,222,8.85e-54,97.674,100,Eukaryota,Phoronida,,,,,uncultured Phoroniformea sp.
+OTU_140,EF024103,222,8.85e-54,97.674,100,Eukaryota,Annelida,Clitellata,Acanthobdellida,,,uncultured Acanthobdellida sp.
+OTU_140,EF024103,222,8.85e-54,97.674,100,Eukaryota,Phoronida,,,,,uncultured Phoroniformea sp.
+OTU_140,EF024404,222,8.85e-54,97.674,100,Eukaryota,Phoronida,,,,,uncultured Phoroniformea sp.
+OTU_140,AF411895,222,8.85e-54,97.674,100,Eukaryota,Annelida,Clitellata,Enchytraeida,Enchytraeidae,Buchholzia,Buchholzia fallax
+OTU_140,MK946222,217,4.12e-52,96.899,100,Eukaryota,,,,,,uncultured soil eukaryote
+OTU_140,KU316613,217,4.12e-52,96.899,100,Eukaryota,,,,,,uncultured fungus
+OTU_140,FJ611134,217,4.12e-52,96.899,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_140,AF209453,215,1.48e-51,96.899,100,Eukaryota,Annelida,Clitellata,Enchytraeida,Enchytraeidae,Fridericia,Fridericia tuberosa
+OTU_140,LC012708,211,1.92e-50,96.124,100,Eukaryota,Annelida,Clitellata,Enchytraeida,Enchytraeidae,Mesenchytraeus,Mesenchytraeus nivalis
+OTU_140,FJ611087,211,1.92e-50,96.124,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_140,OX243825,206,8.91e-49,95.385,100,Eukaryota,Annelida,Clitellata,Crassiclitellata,Lumbricidae,Lumbricus,Lumbricus rubellus
+OTU_140,OX243825,206,8.91e-49,95.385,100,Eukaryota,Annelida,Clitellata,Crassiclitellata,Lumbricidae,Lumbricus,Lumbricus rubellus
+OTU_140,OX243825,206,8.91e-49,95.385,100,Eukaryota,Annelida,Clitellata,Crassiclitellata,Lumbricidae,Lumbricus,Lumbricus rubellus
+OTU_140,OX243825,206,8.91e-49,95.385,100,Eukaryota,Annelida,Clitellata,Crassiclitellata,Lumbricidae,Lumbricus,Lumbricus rubellus
+OTU_140,OX243825,206,8.91e-49,95.385,100,Eukaryota,Annelida,Clitellata,Crassiclitellata,Lumbricidae,Lumbricus,Lumbricus rubellus
+OTU_140,OX243825,206,8.91e-49,95.385,100,Eukaryota,Annelida,Clitellata,Crassiclitellata,Lumbricidae,Lumbricus,Lumbricus rubellus
+OTU_140,OX243825,206,8.91e-49,95.385,100,Eukaryota,Annelida,Clitellata,Crassiclitellata,Lumbricidae,Lumbricus,Lumbricus rubellus
+OTU_140,OX243825,206,8.91e-49,95.385,100,Eukaryota,Annelida,Clitellata,Crassiclitellata,Lumbricidae,Lumbricus,Lumbricus rubellus
+OTU_140,OX243825,206,8.91e-49,95.385,100,Eukaryota,Annelida,Clitellata,Crassiclitellata,Lumbricidae,Lumbricus,Lumbricus rubellus
+OTU_140,OX243825,206,8.91e-49,95.385,100,Eukaryota,Annelida,Clitellata,Crassiclitellata,Lumbricidae,Lumbricus,Lumbricus rubellus
+OTU_140,OX243825,206,8.91e-49,95.385,100,Eukaryota,Annelida,Clitellata,Crassiclitellata,Lumbricidae,Lumbricus,Lumbricus rubellus
+OTU_140,OX243825,206,8.91e-49,95.385,100,Eukaryota,Annelida,Clitellata,Crassiclitellata,Lumbricidae,Lumbricus,Lumbricus rubellus
+OTU_140,OX243825,206,8.91e-49,95.385,100,Eukaryota,Annelida,Clitellata,Crassiclitellata,Lumbricidae,Lumbricus,Lumbricus rubellus
+OTU_140,OX243825,206,8.91e-49,95.385,100,Eukaryota,Annelida,Clitellata,Crassiclitellata,Lumbricidae,Lumbricus,Lumbricus rubellus
+OTU_140,OX243825,206,8.91e-49,95.385,100,Eukaryota,Annelida,Clitellata,Crassiclitellata,Lumbricidae,Lumbricus,Lumbricus rubellus
+OTU_140,OX243825,206,8.91e-49,95.385,100,Eukaryota,Annelida,Clitellata,Crassiclitellata,Lumbricidae,Lumbricus,Lumbricus rubellus
+OTU_140,OX243825,206,8.91e-49,95.385,100,Eukaryota,Annelida,Clitellata,Crassiclitellata,Lumbricidae,Lumbricus,Lumbricus rubellus
+OTU_140,OX243825,206,8.91e-49,95.385,100,Eukaryota,Annelida,Clitellata,Crassiclitellata,Lumbricidae,Lumbricus,Lumbricus rubellus
+OTU_140,OX243825,206,8.91e-49,95.385,100,Eukaryota,Annelida,Clitellata,Crassiclitellata,Lumbricidae,Lumbricus,Lumbricus rubellus
+OTU_140,OX243825,206,8.91e-49,95.385,100,Eukaryota,Annelida,Clitellata,Crassiclitellata,Lumbricidae,Lumbricus,Lumbricus rubellus
+OTU_140,OX243825,206,8.91e-49,95.385,100,Eukaryota,Annelida,Clitellata,Crassiclitellata,Lumbricidae,Lumbricus,Lumbricus rubellus
+OTU_140,OX243825,206,8.91e-49,95.385,100,Eukaryota,Annelida,Clitellata,Crassiclitellata,Lumbricidae,Lumbricus,Lumbricus rubellus
+OTU_140,OX243825,206,8.91e-49,95.385,100,Eukaryota,Annelida,Clitellata,Crassiclitellata,Lumbricidae,Lumbricus,Lumbricus rubellus
+OTU_140,OX243825,206,8.91e-49,95.385,100,Eukaryota,Annelida,Clitellata,Crassiclitellata,Lumbricidae,Lumbricus,Lumbricus rubellus
+OTU_140,OX243825,206,8.91e-49,95.385,100,Eukaryota,Annelida,Clitellata,Crassiclitellata,Lumbricidae,Lumbricus,Lumbricus rubellus
+OTU_140,OX243825,206,8.91e-49,95.385,100,Eukaryota,Annelida,Clitellata,Crassiclitellata,Lumbricidae,Lumbricus,Lumbricus rubellus
+OTU_140,OX243825,206,8.91e-49,95.385,100,Eukaryota,Annelida,Clitellata,Crassiclitellata,Lumbricidae,Lumbricus,Lumbricus rubellus
+OTU_140,OX243825,206,8.91e-49,95.385,100,Eukaryota,Annelida,Clitellata,Crassiclitellata,Lumbricidae,Lumbricus,Lumbricus rubellus
+OTU_140,OX243825,206,8.91e-49,95.385,100,Eukaryota,Annelida,Clitellata,Crassiclitellata,Lumbricidae,Lumbricus,Lumbricus rubellus
+OTU_140,OX243825,206,8.91e-49,95.385,100,Eukaryota,Annelida,Clitellata,Crassiclitellata,Lumbricidae,Lumbricus,Lumbricus rubellus
+OTU_140,OX243825,206,8.91e-49,95.385,100,Eukaryota,Annelida,Clitellata,Crassiclitellata,Lumbricidae,Lumbricus,Lumbricus rubellus
+OTU_140,OX243825,206,8.91e-49,95.385,100,Eukaryota,Annelida,Clitellata,Crassiclitellata,Lumbricidae,Lumbricus,Lumbricus rubellus
+OTU_140,OX243825,206,8.91e-49,95.385,100,Eukaryota,Annelida,Clitellata,Crassiclitellata,Lumbricidae,Lumbricus,Lumbricus rubellus
+OTU_140,OX243825,206,8.91e-49,95.385,100,Eukaryota,Annelida,Clitellata,Crassiclitellata,Lumbricidae,Lumbricus,Lumbricus rubellus
+OTU_140,OX243825,206,8.91e-49,95.385,100,Eukaryota,Annelida,Clitellata,Crassiclitellata,Lumbricidae,Lumbricus,Lumbricus rubellus
+OTU_140,OX243825,206,8.91e-49,95.385,100,Eukaryota,Annelida,Clitellata,Crassiclitellata,Lumbricidae,Lumbricus,Lumbricus rubellus
+OTU_140,OX243825,206,8.91e-49,95.385,100,Eukaryota,Annelida,Clitellata,Crassiclitellata,Lumbricidae,Lumbricus,Lumbricus rubellus
+OTU_140,OX243825,206,8.91e-49,95.385,100,Eukaryota,Annelida,Clitellata,Crassiclitellata,Lumbricidae,Lumbricus,Lumbricus rubellus
+OTU_140,OX243825,206,8.91e-49,95.385,100,Eukaryota,Annelida,Clitellata,Crassiclitellata,Lumbricidae,Lumbricus,Lumbricus rubellus
+OTU_140,OX243825,206,8.91e-49,95.385,100,Eukaryota,Annelida,Clitellata,Crassiclitellata,Lumbricidae,Lumbricus,Lumbricus rubellus
+OTU_140,OX243825,206,8.91e-49,95.385,100,Eukaryota,Annelida,Clitellata,Crassiclitellata,Lumbricidae,Lumbricus,Lumbricus rubellus
+OTU_140,OX243825,206,8.91e-49,95.385,100,Eukaryota,Annelida,Clitellata,Crassiclitellata,Lumbricidae,Lumbricus,Lumbricus rubellus
+OTU_140,OX243825,206,8.91e-49,95.385,100,Eukaryota,Annelida,Clitellata,Crassiclitellata,Lumbricidae,Lumbricus,Lumbricus rubellus
+OTU_140,OX243825,206,8.91e-49,95.385,100,Eukaryota,Annelida,Clitellata,Crassiclitellata,Lumbricidae,Lumbricus,Lumbricus rubellus
+OTU_140,OX243825,206,8.91e-49,95.385,100,Eukaryota,Annelida,Clitellata,Crassiclitellata,Lumbricidae,Lumbricus,Lumbricus rubellus
+OTU_140,OX243825,206,8.91e-49,95.385,100,Eukaryota,Annelida,Clitellata,Crassiclitellata,Lumbricidae,Lumbricus,Lumbricus rubellus
+OTU_140,OX243825,206,8.91e-49,95.385,100,Eukaryota,Annelida,Clitellata,Crassiclitellata,Lumbricidae,Lumbricus,Lumbricus rubellus
+OTU_140,KF205934,206,8.91e-49,95.385,100,Eukaryota,Annelida,Clitellata,Crassiclitellata,Lumbricidae,Aporrectodea,Aporrectodea trapezoides
+OTU_140,KF205933,206,8.91e-49,95.385,100,Eukaryota,Annelida,Clitellata,Crassiclitellata,Lumbricidae,Eisenia,Eisenia andrei
+OTU_140,HQ691211,206,8.91e-49,95.385,100,Eukaryota,Annelida,Clitellata,Crassiclitellata,Lumbricidae,Lumbricus,Lumbricus terrestris
+OTU_140,GU453341,206,8.91e-49,94.574,100,Eukaryota,Annelida,Clitellata,Enchytraeida,Enchytraeidae,Henlea,Henlea nasuta
+OTU_140,EF024303,206,8.91e-49,95.385,100,Eukaryota,Annelida,Clitellata,Acanthobdellida,,,uncultured Acanthobdellida sp.
+OTU_140,EF024303,206,8.91e-49,95.385,100,Eukaryota,,,,,,invertebrate environmental sample
+OTU_140,EF534709,206,8.91e-49,95.385,100,Eukaryota,Annelida,Clitellata,Crassiclitellata,Lumbricidae,Eisenia,Eisenia fetida
+OTU_140,AF209458,206,8.91e-49,95.385,100,Eukaryota,Annelida,Clitellata,Crassiclitellata,Lumbricidae,Lumbricus,Lumbricus castaneus
+OTU_140,AJ272527,206,8.91e-49,95.385,100,Eukaryota,Annelida,Clitellata,Crassiclitellata,Lumbricidae,Dendrobaena,Dendrobaena clujensis
+OTU_140,AJ272312,206,8.91e-49,95.385,100,Eukaryota,Annelida,Clitellata,Crassiclitellata,Lumbricidae,Octolasion,Octolasion lacteum
+OTU_140,AB076887,206,8.91e-49,95.385,100,Eukaryota,Annelida,Clitellata,Crassiclitellata,Lumbricidae,Eisenia,Eisenia fetida
+OTU_140,AJ272183,206,8.91e-49,95.385,100,Eukaryota,Annelida,Clitellata,Crassiclitellata,Lumbricidae,Lumbricus,Lumbricus terrestris
+OTU_140,X79872,206,8.91e-49,95.385,100,Eukaryota,Annelida,Clitellata,Crassiclitellata,Lumbricidae,Eisenia,Eisenia fetida
+OTU_140,AF209457,204,3.20e-48,95.349,100,Eukaryota,Annelida,Clitellata,Lumbriculida,Lumbriculidae,Lumbriculus,Lumbriculus variegatus
+OTU_1218,AB618063,211,1.92e-50,96.154,100,Eukaryota,Arthropoda,Arachnida,Mesostigmata,Phytoseiidae,Amblyseius,Amblyseius tsugawai
+OTU_1218,AB618062,206,8.91e-49,95.385,100,Eukaryota,Arthropoda,Arachnida,Mesostigmata,Phytoseiidae,Neoseiulus,Neoseiulus womersleyi
+OTU_1218,AB618061,206,8.91e-49,95.385,100,Eukaryota,Arthropoda,Arachnida,Mesostigmata,Phytoseiidae,Neoseiulus,Neoseiulus womersleyi
+OTU_1218,AB618060,206,8.91e-49,95.385,100,Eukaryota,Arthropoda,Arachnida,Mesostigmata,Phytoseiidae,Neoseiulus,Neoseiulus womersleyi
+OTU_1218,AB618059,206,8.91e-49,95.385,100,Eukaryota,Arthropoda,Arachnida,Mesostigmata,Phytoseiidae,Amblyseius,Amblyseius eharai
+OTU_1218,AB618058,206,8.91e-49,95.385,100,Eukaryota,Arthropoda,Arachnida,Mesostigmata,Phytoseiidae,Amblyseius,Amblyseius eharai
+OTU_1218,L76343,206,8.91e-49,95.349,100,Eukaryota,Arthropoda,Arachnida,Mesostigmata,Laelapidae,Cosmolaelaps,Cosmolaelaps trifidus
+OTU_1218,AY620939,204,3.20e-48,95.385,100,Eukaryota,Arthropoda,Arachnida,Mesostigmata,Macrochelidae,Macrocheles,Macrocheles sp. AL5995
+OTU_1218,XR_003777136,200,4.15e-47,94.615,100,Eukaryota,Arthropoda,Arachnida,Mesostigmata,Phytoseiidae,Galendromus,Galendromus occidentalis
+OTU_1218,XR_003777128,200,4.15e-47,94.615,100,Eukaryota,Arthropoda,Arachnida,Mesostigmata,Phytoseiidae,Galendromus,Galendromus occidentalis
+OTU_1218,LC333816,200,4.15e-47,94.656,100,Eukaryota,Arthropoda,Arachnida,Mesostigmata,Phytoseiidae,Gynaeseius,Gynaeseius liturivorus
+OTU_1218,KY922102,200,4.15e-47,97.436,91,Eukaryota,Arthropoda,Arachnida,Mesostigmata,Laelapidae,Stratiolaelaps,Stratiolaelaps sp. AD1286
+OTU_1218,AB862883,200,4.15e-47,94.615,100,Eukaryota,Arthropoda,Arachnida,Mesostigmata,Phytoseiidae,Neoseiulus,Neoseiulus makuwa
+OTU_1218,AB862881,200,4.15e-47,94.615,100,Eukaryota,Arthropoda,Arachnida,Mesostigmata,Phytoseiidae,Typhlodromus,Typhlodromus vulgaris
+OTU_1218,AB618057,200,4.15e-47,94.615,100,Eukaryota,Arthropoda,Arachnida,Mesostigmata,Phytoseiidae,Neoseiulus,Neoseiulus californicus
+OTU_1218,AB618055,200,4.15e-47,94.615,100,Eukaryota,Arthropoda,Arachnida,Mesostigmata,Phytoseiidae,Neoseiulus,Neoseiulus californicus
+OTU_1218,GQ129213,200,4.15e-47,94.574,100,Eukaryota,Arthropoda,Arachnida,Mesostigmata,Dermanyssidae,Dermanyssus,Dermanyssus gallinae
+OTU_1218,AY620940,200,4.15e-47,94.574,100,Eukaryota,Arthropoda,Arachnida,Mesostigmata,Varroidae,Varroa,Varroa destructor
+OTU_1218,AY620938,200,4.15e-47,94.615,100,Eukaryota,Arthropoda,Arachnida,Mesostigmata,Blattisociidae,Lasioseius,Lasioseius sp. AL6866
+OTU_1218,AY620937,200,4.15e-47,95.238,98,Eukaryota,Arthropoda,Arachnida,Mesostigmata,Laelapidae,Cosmolaelaps,Cosmolaelaps trifidus
+OTU_1218,LC333817,195,1.93e-45,93.893,100,Eukaryota,Arthropoda,Arachnida,Mesostigmata,Phytoseiidae,Gynaeseius,Gynaeseius liturivorus
+OTU_1218,AB862882,195,1.93e-45,93.846,100,Eukaryota,Arthropoda,Arachnida,Mesostigmata,Phytoseiidae,Neoseiulus,Neoseiulus makuwa
+OTU_1218,AB618065,195,1.93e-45,93.846,100,Eukaryota,Arthropoda,Arachnida,Mesostigmata,Phytoseiidae,Euseius,Euseius sojaensis
+OTU_1218,AB618064,195,1.93e-45,93.846,100,Eukaryota,Arthropoda,Arachnida,Mesostigmata,Phytoseiidae,Euseius,Euseius sojaensis
+OTU_1218,AB618056,195,1.93e-45,93.846,100,Eukaryota,Arthropoda,Arachnida,Mesostigmata,Phytoseiidae,Neoseiulus,Neoseiulus californicus
+OTU_147,MG684566,239,8.79e-59,100.000,100,Eukaryota,Arthropoda,Insecta,Diptera,Cecidomyiidae,Dirhiza,Dirhiza lateritia
+OTU_147,MN201415,233,4.09e-57,99.225,100,Eukaryota,Arthropoda,Insecta,Diptera,Cecidomyiidae,Placochela,Placochela nigripes
+OTU_147,MN201412,233,4.09e-57,99.225,100,Eukaryota,Arthropoda,Insecta,Diptera,Cecidomyiidae,Parallelodiplosis,Parallelodiplosis galliperda
+OTU_147,MN201389,233,4.09e-57,99.225,100,Eukaryota,Arthropoda,Insecta,Diptera,Cecidomyiidae,Kiefferia,Kiefferia pericarpiicola
+OTU_147,MN201377,233,4.09e-57,99.225,100,Eukaryota,Arthropoda,Insecta,Diptera,Cecidomyiidae,Halodiplosis,Halodiplosis sp. 1 JOS-2019
+OTU_147,MN201373,233,4.09e-57,99.225,100,Eukaryota,Arthropoda,Insecta,Diptera,Cecidomyiidae,Drisina,Drisina glutinosa
+OTU_147,MN201372,233,4.09e-57,99.225,100,Eukaryota,Arthropoda,Insecta,Diptera,Cecidomyiidae,Didymomyia,Didymomyia tiliacea
+OTU_147,MG684601,233,4.09e-57,99.225,100,Eukaryota,Arthropoda,Insecta,Diptera,Cecidomyiidae,Peromyia,Peromyia sp. JSC51
+OTU_147,MG684600,233,4.09e-57,99.225,100,Eukaryota,Arthropoda,Insecta,Diptera,Cecidomyiidae,Peromyia,Peromyia fungicola
+OTU_147,MG684598,233,4.09e-57,99.225,100,Eukaryota,Arthropoda,Insecta,Diptera,Cecidomyiidae,Pseudomonardia,Pseudomonardia communis
+OTU_147,MG684597,233,4.09e-57,99.225,100,Eukaryota,Arthropoda,Insecta,Diptera,Cecidomyiidae,Polyardis,Polyardis silvalis
+OTU_147,MG684596,233,4.09e-57,99.225,100,Eukaryota,Arthropoda,Insecta,Diptera,Cecidomyiidae,Tropaprionus,Tropaprionus sp. JSMJ9
+OTU_147,MG684595,233,4.09e-57,99.225,100,Eukaryota,Arthropoda,Insecta,Diptera,Cecidomyiidae,Aprionus,Aprionus spiniger
+OTU_147,MG684594,233,4.09e-57,99.225,100,Eukaryota,Arthropoda,Insecta,Diptera,Cecidomyiidae,Aprionus,Aprionus brachypterus
+OTU_147,MG684593,233,4.09e-57,99.225,100,Eukaryota,Arthropoda,Insecta,Diptera,Cecidomyiidae,Monardia,Monardia abnormis
+OTU_147,MG684592,233,4.09e-57,99.225,100,Eukaryota,Arthropoda,Insecta,Diptera,Cecidomyiidae,Neurolyga,Neurolyga excavata
+OTU_147,MG684591,233,4.09e-57,99.225,100,Eukaryota,Arthropoda,Insecta,Diptera,Cecidomyiidae,Campylomyza,Campylomyza flavipes
+OTU_147,MG684565,233,4.09e-57,99.225,100,Eukaryota,Arthropoda,Insecta,Diptera,Cecidomyiidae,Claspettomyia,Claspettomyia sp. JSC57
+OTU_147,MG684553,233,4.09e-57,99.225,100,Eukaryota,Arthropoda,Insecta,Diptera,Cecidomyiidae,Loewiola,Loewiola centaureae
+OTU_147,MG684552,233,4.09e-57,99.225,100,Eukaryota,Arthropoda,Insecta,Diptera,Cecidomyiidae,Schizomyia,Schizomyia galiorum
+OTU_147,MG684551,233,4.09e-57,99.225,100,Eukaryota,Arthropoda,Insecta,Diptera,Cecidomyiidae,Placochela,Placochela nigripes
+OTU_147,MG684550,233,4.09e-57,99.225,100,Eukaryota,Arthropoda,Insecta,Diptera,Cecidomyiidae,Contarinia,Contarinia asclepiadis
+OTU_147,MG684549,233,4.09e-57,99.225,100,Eukaryota,Arthropoda,Insecta,Diptera,Cecidomyiidae,Contarinia,Contarinia loti
+OTU_147,MG684548,233,4.09e-57,99.225,100,Eukaryota,Arthropoda,Insecta,Diptera,Cecidomyiidae,Obolodiplosis,Obolodiplosis robiniae
+OTU_147,MG684547,233,4.09e-57,99.225,100,Eukaryota,Arthropoda,Insecta,Diptera,Cecidomyiidae,Asphondylia,Asphondylia pruniperda
+OTU_23,GU453340,239,8.79e-59,100.000,100,Eukaryota,Annelida,Clitellata,Enchytraeida,Enchytraeidae,Enchytraeus,Enchytraeus albidus
+OTU_23,U67325,239,8.79e-59,100.000,100,Eukaryota,Annelida,Clitellata,Enchytraeida,Enchytraeidae,Enchytraeus,Enchytraeus sp.
+OTU_23,AY040683,233,4.09e-57,100.000,98,Eukaryota,Annelida,Clitellata,Enchytraeida,Enchytraeidae,Enchytraeus,Enchytraeus cf. albidus
+OTU_23,U95948,233,4.09e-57,99.225,100,Eukaryota,Annelida,Clitellata,Enchytraeida,Enchytraeidae,Enchytraeus,Enchytraeus sp. 'Aguinaldo
+OTU_23,Z83750,233,4.09e-57,99.231,100,Eukaryota,Annelida,Clitellata,Enchytraeida,Enchytraeidae,Enchytraeus,Enchytraeus sp.
+OTU_23,KU862790,200,4.15e-47,94.574,100,Eukaryota,Annelida,Clitellata,Enchytraeida,Enchytraeidae,Lumbricillus,Lumbricillus dubius
+OTU_23,AJ875123,200,4.15e-47,94.574,100,Eukaryota,Nematoda,,,,,Nematoda environmental sample
+OTU_23,GU901871,193,6.94e-45,100.000,81,Eukaryota,Annelida,Clitellata,Enchytraeida,Enchytraeidae,Enchytraeus,Enchytraeus buchholzi
+OTU_23,KU862793,189,8.97e-44,93.023,100,Eukaryota,Annelida,Clitellata,Enchytraeida,Enchytraeidae,Lumbricillus,Lumbricillus knoellneri
+OTU_23,KU862817,183,4.18e-42,92.248,100,Eukaryota,Annelida,Clitellata,Enchytraeida,Enchytraeidae,Lumbricillus,Lumbricillus pagenstecheri complex sp. A MJK-2016
+OTU_23,GU453338,183,4.18e-42,92.248,100,Eukaryota,Annelida,Clitellata,Enchytraeida,Enchytraeidae,Cernosvitoviella,Cernosvitoviella atrata
+OTU_23,FJ611134,183,4.18e-42,92.308,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_23,EF024636,183,4.18e-42,92.308,100,Eukaryota,Annelida,Clitellata,Acanthobdellida,,,uncultured Acanthobdellida sp.
+OTU_23,EF024411,183,4.18e-42,92.308,100,Eukaryota,Phoronida,,,,,uncultured Phoroniformea sp.
+OTU_23,EF024103,183,4.18e-42,92.308,100,Eukaryota,Annelida,Clitellata,Acanthobdellida,,,uncultured Acanthobdellida sp.
+OTU_23,EF024103,183,4.18e-42,92.308,100,Eukaryota,Phoronida,,,,,uncultured Phoroniformea sp.
+OTU_23,EF024404,183,4.18e-42,92.308,100,Eukaryota,Phoronida,,,,,uncultured Phoroniformea sp.
+OTU_23,AF411895,183,4.18e-42,92.308,100,Eukaryota,Annelida,Clitellata,Enchytraeida,Enchytraeidae,Buchholzia,Buchholzia fallax
+OTU_23,AF209453,182,1.50e-41,92.308,100,Eukaryota,Annelida,Clitellata,Enchytraeida,Enchytraeidae,Fridericia,Fridericia tuberosa
+OTU_23,MK946222,178,1.94e-40,91.538,100,Eukaryota,,,,,,uncultured soil eukaryote
+OTU_23,KU862794,178,1.94e-40,91.473,100,Eukaryota,Annelida,Clitellata,Enchytraeida,Enchytraeidae,Lumbricillus,Lumbricillus cf. helgolandicus MJK-2016
+OTU_23,KU316613,178,1.94e-40,91.538,100,Eukaryota,,,,,,uncultured fungus
+OTU_23,FJ611087,178,1.94e-40,91.538,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_23,KY636891,174,2.51e-39,90.698,100,Eukaryota,Annelida,Clitellata,Tubificida,Naididae,Limnodrilus,Limnodrilus hoffmeisteri
+OTU_23,KY636889,174,2.51e-39,90.698,100,Eukaryota,Annelida,Clitellata,Tubificida,Naididae,Limnodrilus,Limnodrilus hoffmeisteri
+OTU_23,KU862805,174,2.51e-39,90.698,100,Eukaryota,Annelida,Clitellata,Enchytraeida,Enchytraeidae,Lumbricillus,Lumbricillus rubidus
+OTU_375,FJ611087,206,8.91e-49,95.349,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_375,MK946222,200,4.15e-47,94.574,100,Eukaryota,,,,,,uncultured soil eukaryote
+OTU_375,FJ611134,200,4.15e-47,94.574,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_375,AJ875123,195,1.93e-45,93.798,100,Eukaryota,Nematoda,,,,,Nematoda environmental sample
+OTU_375,EF024636,189,8.97e-44,93.023,100,Eukaryota,Annelida,Clitellata,Acanthobdellida,,,uncultured Acanthobdellida sp.
+OTU_375,EF024411,189,8.97e-44,93.023,100,Eukaryota,Phoronida,,,,,uncultured Phoroniformea sp.
+OTU_375,EF024103,189,8.97e-44,93.023,100,Eukaryota,Annelida,Clitellata,Acanthobdellida,,,uncultured Acanthobdellida sp.
+OTU_375,EF024103,189,8.97e-44,93.023,100,Eukaryota,Phoronida,,,,,uncultured Phoroniformea sp.
+OTU_375,EF024404,189,8.97e-44,93.023,100,Eukaryota,Phoronida,,,,,uncultured Phoroniformea sp.
+OTU_375,AF411895,189,8.97e-44,93.023,100,Eukaryota,Annelida,Clitellata,Enchytraeida,Enchytraeidae,Buchholzia,Buchholzia fallax
+OTU_375,GU901854,187,3.23e-43,99.038,81,Eukaryota,Annelida,Clitellata,Crassiclitellata,Megascolecidae,Achaeta,Achaeta bibulba
+OTU_375,GU901853,187,3.23e-43,99.038,81,Eukaryota,Annelida,Clitellata,Crassiclitellata,Megascolecidae,Achaeta,Achaeta danica
+OTU_375,KU862790,183,4.18e-42,92.248,100,Eukaryota,Annelida,Clitellata,Enchytraeida,Enchytraeidae,Lumbricillus,Lumbricillus dubius
+OTU_375,KU316613,183,4.18e-42,92.248,100,Eukaryota,,,,,,uncultured fungus
+OTU_375,GU453338,183,4.18e-42,92.248,100,Eukaryota,Annelida,Clitellata,Enchytraeida,Enchytraeidae,Cernosvitoviella,Cernosvitoviella atrata
+OTU_375,GU901855,182,1.50e-41,98.077,81,Eukaryota,Annelida,Clitellata,Crassiclitellata,Megascolecidae,Achaeta,Achaeta bifollicula
+OTU_375,AF209453,182,1.50e-41,92.248,100,Eukaryota,Annelida,Clitellata,Enchytraeida,Enchytraeidae,Fridericia,Fridericia tuberosa
+OTU_375,KU862817,178,1.94e-40,91.473,100,Eukaryota,Annelida,Clitellata,Enchytraeida,Enchytraeidae,Lumbricillus,Lumbricillus pagenstecheri complex sp. A MJK-2016
+OTU_375,KU862794,178,1.94e-40,91.473,100,Eukaryota,Annelida,Clitellata,Enchytraeida,Enchytraeidae,Lumbricillus,Lumbricillus cf. helgolandicus MJK-2016
+OTU_375,KU862793,178,1.94e-40,91.473,100,Eukaryota,Annelida,Clitellata,Enchytraeida,Enchytraeidae,Lumbricillus,Lumbricillus knoellneri
+OTU_375,EF467052,178,1.94e-40,91.473,100,Eukaryota,Annelida,Clitellata,Tubificida,Naididae,Tubifex,Tubifex tubifex
+OTU_375,FJ611094,174,2.51e-39,96.226,82,Eukaryota,,,,,,uncultured eukaryote
+OTU_375,KU862811,172,9.04e-39,90.698,100,Eukaryota,Annelida,Clitellata,Enchytraeida,Enchytraeidae,Lumbricillus,Lumbricillus lineatus
+OTU_375,KU862810,172,9.04e-39,90.698,100,Eukaryota,Annelida,Clitellata,Enchytraeida,Enchytraeidae,Lumbricillus,Lumbricillus lineatus
+OTU_375,KU862807,172,9.04e-39,90.698,100,Eukaryota,Annelida,Clitellata,Enchytraeida,Enchytraeidae,Lumbricillus,Lumbricillus sp. G MJK-2016
+OTU_375,JF412522,172,9.04e-39,90.698,100,Eukaryota,Annelida,Clitellata,Tubificida,Naididae,Tubifex,Tubifex tubifex
+OTU_4096,KM516200,174,2.51e-39,90.909,100,Eukaryota,,Choanoflagellata,Acanthoecida,Acanthoecidae,Acanthoeca,Acanthoeca sp. SIOpierAcanth1
+OTU_4096,KJ757075,169,1.17e-37,90.152,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_4096,KX465184,167,4.20e-37,90.000,100,Eukaryota,,Choanoflagellata,,,,uncultured Choanoflagellida
+OTU_4096,KJ631039,167,4.20e-37,90.000,100,Eukaryota,,Choanoflagellata,Craspedida,Salpingoecidae,Salpingoeca,Salpingoeca fusiformis
+OTU_4096,EU371175,165,1.51e-36,90.076,100,Eukaryota,,,,,,uncultured marine eukaryote
+OTU_4096,KJ762435,163,5.44e-36,89.474,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_4096,EF526839,163,5.44e-36,90.476,95,Eukaryota,,,,,,uncultured marine eukaryote
+OTU_4096,EF024885,158,2.53e-34,88.636,100,Eukaryota,Apicomplexa,Conoidasida,Eucoccidiorida,Eimeriidae,,uncultured Eimeriidae
+OTU_4096,KU587848,156,9.10e-34,88.722,100,Eukaryota,,Choanoflagellata,Acanthoecida,Stephanoecidae,Diaphanoeca,Diaphanoeca undulata
+OTU_4096,KT757482,154,3.27e-33,89.431,95,Eukaryota,,Choanoflagellata,Craspedida,Salpingoecidae,Salpingoeca,Salpingoeca macrocollata
+OTU_4096,KM387288,154,3.27e-33,88.462,100,Eukaryota,,Choanoflagellata,Craspedida,Salpingoecidae,Monosiga,Monosiga brevicollis
+OTU_4096,KF130426,154,3.27e-33,88.462,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_4096,KF130422,154,3.27e-33,88.462,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_4096,KF130421,154,3.27e-33,88.462,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_4096,KF130419,154,3.27e-33,88.462,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_4096,KF130417,154,3.27e-33,88.462,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_4096,KF130416,154,3.27e-33,88.462,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_4096,KF130412,154,3.27e-33,88.462,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_4096,KF130411,154,3.27e-33,88.462,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_4096,KF130408,154,3.27e-33,88.462,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_4096,KF130407,154,3.27e-33,88.462,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_4096,KF130403,154,3.27e-33,88.462,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_4096,KF130401,154,3.27e-33,88.462,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_4096,KF130399,154,3.27e-33,88.462,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_4096,KF130397,154,3.27e-33,88.462,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_1192,EF025015,239,8.79e-59,100.000,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_1192,EF023764,239,8.79e-59,100.000,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_1192,EF023379,239,8.79e-59,100.000,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_1192,EF024680,233,4.09e-57,99.225,100,Eukaryota,Cercozoa,,,,,uncultured Cercozoa
+OTU_1192,EF024274,233,4.09e-57,99.225,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_1192,EF023353,233,4.09e-57,99.225,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_1192,EF024525,228,1.90e-55,98.450,100,Eukaryota,Cercozoa,,,,,uncultured Cercozoa
+OTU_1192,EF023774,228,1.90e-55,98.450,100,Eukaryota,Apicomplexa,Conoidasida,Eucoccidiorida,Eimeriidae,,uncultured Eimeriidae
+OTU_1192,EF023694,228,1.90e-55,98.450,100,Eukaryota,Apicomplexa,Conoidasida,Eucoccidiorida,Eimeriidae,,uncultured Eimeriidae
+OTU_1192,EF023692,228,1.90e-55,98.450,100,Eukaryota,Apicomplexa,Conoidasida,Eucoccidiorida,Eimeriidae,,uncultured Eimeriidae
+OTU_1192,EF023541,228,1.90e-55,98.450,100,Eukaryota,Apicomplexa,Conoidasida,Eucoccidiorida,Eimeriidae,,uncultured Eimeriidae
+OTU_1192,EF023500,228,1.90e-55,98.450,100,Eukaryota,Discosea,,Longamoebia,Acanthamoebidae,Acanthamoeba,uncultured Acanthamoeba
+OTU_1192,EF023500,228,1.90e-55,98.450,100,Eukaryota,Apicomplexa,Conoidasida,Eucoccidiorida,Eimeriidae,,uncultured Eimeriidae
+OTU_1192,DQ243997,228,1.90e-55,98.450,100,Eukaryota,Cercozoa,,,,,uncultured freshwater cercozoan
+OTU_1192,MW306080,226,6.84e-55,98.438,99,Eukaryota,Cercozoa,Thecofilosea,Cryomonadida,Rhogostomidae,,Rhogostomidae sp.
+OTU_1192,HQ121430,222,8.85e-54,97.674,100,Eukaryota,Cercozoa,Thecofilosea,Cryomonadida,Rhogostomidae,Rhogostoma,Rhogostoma schuessleri
+OTU_1192,DQ243995,222,8.85e-54,97.674,100,Eukaryota,Cercozoa,,,,,uncultured freshwater cercozoan
+OTU_1192,AB585966,220,3.18e-53,97.656,99,Eukaryota,Cercozoa,,,,,Cercozoa sp. TGS3
+OTU_1192,GU070876,220,3.18e-53,98.400,97,Eukaryota,,,,,,invertebrate environmental sample
+OTU_1192,MH625651,217,4.12e-52,99.167,93,Eukaryota,,,,,,fungal sp.
+OTU_1192,MW306081,215,1.48e-51,96.875,99,Eukaryota,Cercozoa,Thecofilosea,Cryomonadida,Rhogostomidae,,Rhogostomidae sp.
+OTU_1192,MH625502,211,1.92e-50,98.333,93,Eukaryota,,,,,,fungal sp.
+OTU_1192,MH624980,211,1.92e-50,98.333,93,Eukaryota,,,,,,fungal sp.
+OTU_1192,EF023895,211,1.92e-50,96.124,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_1192,EF023812,211,1.92e-50,96.124,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_1192,EF023585,211,1.92e-50,96.124,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_47,AJ875123,239,8.79e-59,100.000,100,Eukaryota,Nematoda,,,,,Nematoda environmental sample
+OTU_47,KU862790,217,4.12e-52,96.899,100,Eukaryota,Annelida,Clitellata,Enchytraeida,Enchytraeidae,Lumbricillus,Lumbricillus dubius
+OTU_47,GU453338,217,4.12e-52,96.899,100,Eukaryota,Annelida,Clitellata,Enchytraeida,Enchytraeidae,Cernosvitoviella,Cernosvitoviella atrata
+OTU_47,MK946222,211,1.92e-50,96.124,100,Eukaryota,,,,,,uncultured soil eukaryote
+OTU_47,KU862793,211,1.92e-50,96.124,100,Eukaryota,Annelida,Clitellata,Enchytraeida,Enchytraeidae,Lumbricillus,Lumbricillus knoellneri
+OTU_47,FJ611134,211,1.92e-50,96.124,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_47,EF024636,211,1.92e-50,96.124,100,Eukaryota,Annelida,Clitellata,Acanthobdellida,,,uncultured Acanthobdellida sp.
+OTU_47,EF024411,211,1.92e-50,96.124,100,Eukaryota,Phoronida,,,,,uncultured Phoroniformea sp.
+OTU_47,EF024103,211,1.92e-50,96.124,100,Eukaryota,Annelida,Clitellata,Acanthobdellida,,,uncultured Acanthobdellida sp.
+OTU_47,EF024103,211,1.92e-50,96.124,100,Eukaryota,Phoronida,,,,,uncultured Phoroniformea sp.
+OTU_47,EF024404,211,1.92e-50,96.124,100,Eukaryota,Phoronida,,,,,uncultured Phoroniformea sp.
+OTU_47,AF411895,211,1.92e-50,96.124,100,Eukaryota,Annelida,Clitellata,Enchytraeida,Enchytraeidae,Buchholzia,Buchholzia fallax
+OTU_47,KU316613,206,8.91e-49,95.349,100,Eukaryota,,,,,,uncultured fungus
+OTU_47,GU453341,206,8.91e-49,94.574,100,Eukaryota,Annelida,Clitellata,Enchytraeida,Enchytraeidae,Henlea,Henlea nasuta
+OTU_47,FJ611087,206,8.91e-49,95.349,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_47,AF209453,204,3.20e-48,95.349,100,Eukaryota,Annelida,Clitellata,Enchytraeida,Enchytraeidae,Fridericia,Fridericia tuberosa
+OTU_47,KU862817,200,4.15e-47,94.574,100,Eukaryota,Annelida,Clitellata,Enchytraeida,Enchytraeidae,Lumbricillus,Lumbricillus pagenstecheri complex sp. A MJK-2016
+OTU_47,KU862794,200,4.15e-47,94.574,100,Eukaryota,Annelida,Clitellata,Enchytraeida,Enchytraeidae,Lumbricillus,Lumbricillus cf. helgolandicus MJK-2016
+OTU_47,LC012708,200,4.15e-47,94.574,100,Eukaryota,Annelida,Clitellata,Enchytraeida,Enchytraeidae,Mesenchytraeus,Mesenchytraeus nivalis
+OTU_47,GU453340,200,4.15e-47,94.574,100,Eukaryota,Annelida,Clitellata,Enchytraeida,Enchytraeidae,Enchytraeus,Enchytraeus albidus
+OTU_47,U67325,200,4.15e-47,94.574,100,Eukaryota,Annelida,Clitellata,Enchytraeida,Enchytraeidae,Enchytraeus,Enchytraeus sp.
+OTU_47,KU862805,196,5.36e-46,93.798,100,Eukaryota,Annelida,Clitellata,Enchytraeida,Enchytraeidae,Lumbricillus,Lumbricillus rubidus
+OTU_47,KU862798,196,5.36e-46,93.798,100,Eukaryota,Annelida,Clitellata,Enchytraeida,Enchytraeidae,Lumbricillus,Lumbricillus rutilus
+OTU_47,KU862813,195,1.93e-45,93.846,100,Eukaryota,Annelida,Clitellata,Enchytraeida,Enchytraeidae,Lumbricillus,Lumbricillus rivalis
+OTU_47,KU862811,195,1.93e-45,93.798,100,Eukaryota,Annelida,Clitellata,Enchytraeida,Enchytraeidae,Lumbricillus,Lumbricillus lineatus
+OTU_47,KU862810,195,1.93e-45,93.798,100,Eukaryota,Annelida,Clitellata,Enchytraeida,Enchytraeidae,Lumbricillus,Lumbricillus lineatus
+OTU_60,XR_003083727,239,8.79e-59,100.000,100,Eukaryota,Arthropoda,Arachnida,Trombidiformes,Tetranychidae,Tetranychus,Tetranychus urticae
+OTU_60,XR_003083726,239,8.79e-59,100.000,100,Eukaryota,Arthropoda,Arachnida,Trombidiformes,Tetranychidae,Tetranychus,Tetranychus urticae
+OTU_60,XR_003083724,239,8.79e-59,100.000,100,Eukaryota,Arthropoda,Arachnida,Trombidiformes,Tetranychidae,Tetranychus,Tetranychus urticae
+OTU_60,XR_003083723,239,8.79e-59,100.000,100,Eukaryota,Arthropoda,Arachnida,Trombidiformes,Tetranychidae,Tetranychus,Tetranychus urticae
+OTU_60,XR_003083722,239,8.79e-59,100.000,100,Eukaryota,Arthropoda,Arachnida,Trombidiformes,Tetranychidae,Tetranychus,Tetranychus urticae
+OTU_60,XR_003083721,239,8.79e-59,100.000,100,Eukaryota,Arthropoda,Arachnida,Trombidiformes,Tetranychidae,Tetranychus,Tetranychus urticae
+OTU_60,XR_003083720,239,8.79e-59,100.000,100,Eukaryota,Arthropoda,Arachnida,Trombidiformes,Tetranychidae,Tetranychus,Tetranychus urticae
+OTU_60,XR_003083719,239,8.79e-59,100.000,100,Eukaryota,Arthropoda,Arachnida,Trombidiformes,Tetranychidae,Tetranychus,Tetranychus urticae
+OTU_60,XR_003083718,239,8.79e-59,100.000,100,Eukaryota,Arthropoda,Arachnida,Trombidiformes,Tetranychidae,Tetranychus,Tetranychus urticae
+OTU_60,XR_003083717,239,8.79e-59,100.000,100,Eukaryota,Arthropoda,Arachnida,Trombidiformes,Tetranychidae,Tetranychus,Tetranychus urticae
+OTU_60,XR_003083662,239,8.79e-59,100.000,100,Eukaryota,Arthropoda,Arachnida,Trombidiformes,Tetranychidae,Tetranychus,Tetranychus urticae
+OTU_60,XR_003082111,239,8.79e-59,100.000,100,Eukaryota,Arthropoda,Arachnida,Trombidiformes,Tetranychidae,Tetranychus,Tetranychus urticae
+OTU_60,XR_003082110,239,8.79e-59,100.000,100,Eukaryota,Arthropoda,Arachnida,Trombidiformes,Tetranychidae,Tetranychus,Tetranychus urticae
+OTU_60,XR_003082109,239,8.79e-59,100.000,100,Eukaryota,Arthropoda,Arachnida,Trombidiformes,Tetranychidae,Tetranychus,Tetranychus urticae
+OTU_60,XR_003082108,239,8.79e-59,100.000,100,Eukaryota,Arthropoda,Arachnida,Trombidiformes,Tetranychidae,Tetranychus,Tetranychus urticae
+OTU_60,XR_003082107,239,8.79e-59,100.000,100,Eukaryota,Arthropoda,Arachnida,Trombidiformes,Tetranychidae,Tetranychus,Tetranychus urticae
+OTU_60,XR_003082106,239,8.79e-59,100.000,100,Eukaryota,Arthropoda,Arachnida,Trombidiformes,Tetranychidae,Tetranychus,Tetranychus urticae
+OTU_60,XR_003082105,239,8.79e-59,100.000,100,Eukaryota,Arthropoda,Arachnida,Trombidiformes,Tetranychidae,Tetranychus,Tetranychus urticae
+OTU_60,KY922196,239,8.79e-59,100.000,100,Eukaryota,Arthropoda,Arachnida,Trombidiformes,Tetranychidae,Tetranychus,Tetranychus urticae
+OTU_60,GU339365,239,8.79e-59,100.000,100,Eukaryota,Arthropoda,Arachnida,Trombidiformes,Tetranychidae,Tetranychus,Tetranychus urticae
+OTU_60,KY922197,233,4.09e-57,99.231,100,Eukaryota,Arthropoda,Arachnida,Trombidiformes,Tetranychidae,Tetranychus,Tetranychus urticae
+OTU_60,XR_003083725,231,1.47e-56,99.225,100,Eukaryota,Arthropoda,Arachnida,Trombidiformes,Tetranychidae,Tetranychus,Tetranychus urticae
+OTU_60,KY922195,230,5.29e-56,99.213,98,Eukaryota,Arthropoda,Arachnida,Trombidiformes,Tetranychidae,Eotetranychus,Eotetranychus sp. AD1954
+OTU_60,AB853934,226,6.84e-55,100.000,95,Eukaryota,Arthropoda,Arachnida,Trombidiformes,Tetranychidae,Tetranychus,Tetranychus kanzawai
+OTU_60,KP276498,185,1.16e-42,95.000,91,Eukaryota,Arthropoda,Arachnida,Trombidiformes,Tetranychidae,Eotetranychus,Eotetranychus sp. ARP-2015
+OTU_301,MT209942,239,8.79e-59,100.000,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Telotylenchidae,Tylenchorhynchus,Tylenchorhynchus annulatus
+OTU_301,MT209937,239,8.79e-59,100.000,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Telotylenchidae,Tylenchorhynchus,Tylenchorhynchus annulatus
+OTU_301,MT209934,239,8.79e-59,100.000,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Telotylenchidae,Tylenchorhynchus,Tylenchorhynchus annulatus
+OTU_301,MT209932,239,8.79e-59,100.000,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Telotylenchidae,Tylenchorhynchus,Tylenchorhynchus annulatus
+OTU_301,MH789979,239,8.79e-59,100.000,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Telotylenchidae,Tylenchorhynchus,Tylenchorhynchus claytoni
+OTU_301,MG430283,239,8.79e-59,100.000,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Telotylenchidae,Tylenchorhynchus,Tylenchorhynchus annulatus
+OTU_301,MT492483,239,8.79e-59,100.000,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Telotylenchidae,Tylenchorhynchus,Tylenchorhynchus annulatus
+OTU_301,MT492481,239,8.79e-59,100.000,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Telotylenchidae,Tylenchorhynchus,Tylenchorhynchus annulatus
+OTU_301,MT492480,239,8.79e-59,100.000,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Telotylenchidae,Tylenchorhynchus,Tylenchorhynchus annulatus
+OTU_301,MT492478,239,8.79e-59,100.000,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Telotylenchidae,Tylenchorhynchus,Tylenchorhynchus annulatus
+OTU_301,MT492477,239,8.79e-59,100.000,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Telotylenchidae,Tylenchorhynchus,Tylenchorhynchus annulatus
+OTU_301,MT492476,239,8.79e-59,100.000,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Telotylenchidae,Tylenchorhynchus,Tylenchorhynchus annulatus
+OTU_301,MT492474,239,8.79e-59,100.000,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Telotylenchidae,Tylenchorhynchus,Tylenchorhynchus annulatus
+OTU_301,MT492473,239,8.79e-59,100.000,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Telotylenchidae,Tylenchorhynchus,Tylenchorhynchus annulatus
+OTU_301,MT492472,239,8.79e-59,100.000,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Telotylenchidae,Tylenchorhynchus,Tylenchorhynchus annulatus
+OTU_301,MT492468,239,8.79e-59,100.000,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Telotylenchidae,Tylenchorhynchus,Tylenchorhynchus annulatus
+OTU_301,MT492465,239,8.79e-59,100.000,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Telotylenchidae,Tylenchorhynchus,Tylenchorhynchus annulatus
+OTU_301,KJ934141,239,8.79e-59,100.000,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Telotylenchidae,Tylenchorhynchus,Tylenchorhynchus claytoni
+OTU_301,KJ934130,239,8.79e-59,100.000,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Telotylenchidae,Tylenchorhynchus,Tylenchorhynchus claytoni
+OTU_301,EF030983,239,8.79e-59,100.000,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Telotylenchidae,Tylenchorhynchus,Tylenchorhynchus annulatus
+OTU_301,MT492482,233,4.09e-57,99.225,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Telotylenchidae,Tylenchorhynchus,Tylenchorhynchus annulatus
+OTU_301,MT492479,233,4.09e-57,99.225,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Telotylenchidae,Tylenchorhynchus,Tylenchorhynchus annulatus
+OTU_301,MT492475,233,4.09e-57,99.225,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Telotylenchidae,Tylenchorhynchus,Tylenchorhynchus annulatus
+OTU_301,MT492471,233,4.09e-57,99.225,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Telotylenchidae,Tylenchorhynchus,Tylenchorhynchus annulatus
+OTU_301,MT492469,233,4.09e-57,99.225,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Telotylenchidae,Tylenchorhynchus,Tylenchorhynchus annulatus
+OTU_245,MK292127,187,3.23e-43,93.023,100,Eukaryota,Nematoda,Enoplea,Dorylaimida,Qudsianematidae,Ecumenicus,Ecumenicus sp. 85G11
+OTU_245,JN049668,187,3.23e-43,93.023,100,Eukaryota,Nematoda,,,,,Nematoda environmental sample
+OTU_245,AJ875153,187,3.23e-43,93.077,100,Eukaryota,Nematoda,Enoplea,Dorylaimida,Aporcelaimidae,Aporcelaimellus,Aporcelaimellus sp. F2
+OTU_245,MG921256,183,4.18e-42,92.969,98,Eukaryota,Nematoda,Enoplea,Dorylaimida,Dorylaimidae,Mesodorylaimus,Mesodorylaimus sp. 2 WJW-2018
+OTU_245,MG921255,183,4.18e-42,92.969,98,Eukaryota,Nematoda,Enoplea,Dorylaimida,Dorylaimidae,Mesodorylaimus,Mesodorylaimus sp. 2 WJW-2018
+OTU_245,MK946073,182,1.50e-41,92.308,100,Eukaryota,,,,,,uncultured soil eukaryote
+OTU_245,KM067902,182,1.50e-41,92.248,100,Eukaryota,Nematoda,Enoplea,Dorylaimida,Actinolaimidae,Paractinolaimus,Paractinolaimus sp. ESB-2014
+OTU_245,JN049678,182,1.50e-41,92.308,100,Eukaryota,Nematoda,,,,,Nematoda environmental sample
+OTU_245,JN049677,182,1.50e-41,92.308,100,Eukaryota,Nematoda,,,,,Nematoda environmental sample
+OTU_245,JN049659,182,1.50e-41,92.308,100,Eukaryota,Nematoda,,,,,Nematoda environmental sample
+OTU_245,FJ611118,182,1.50e-41,92.308,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_245,FJ611113,182,1.50e-41,92.308,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_245,FJ610793,182,1.50e-41,92.308,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_245,EU740554,182,1.50e-41,92.308,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_245,EU740547,182,1.50e-41,92.308,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_245,EU740530,182,1.50e-41,92.308,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_245,EF024986,182,1.50e-41,92.308,100,Eukaryota,Apicomplexa,Conoidasida,Eucoccidiorida,Eimeriidae,,uncultured Eimeriidae
+OTU_245,EF024830,182,1.50e-41,92.308,100,Eukaryota,Ciliophora,Spirotrichea,Sporadotrichida,Oxytrichidae,,uncultured Oxytrichidae
+OTU_245,EF024797,182,1.50e-41,92.308,100,Eukaryota,Ciliophora,Spirotrichea,Sporadotrichida,Oxytrichidae,,uncultured Oxytrichidae
+OTU_245,EF024457,182,1.50e-41,92.308,100,Eukaryota,Ciliophora,Spirotrichea,Sporadotrichida,Oxytrichidae,,uncultured Oxytrichidae
+OTU_245,EF024622,182,1.50e-41,92.308,100,Eukaryota,Arthropoda,Collembola,Poduromorpha,Poduridae,,Poduridae environmental sample
+OTU_245,EF024209,182,1.50e-41,92.308,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_245,EF024209,182,1.50e-41,92.308,100,Eukaryota,Ciliophora,Spirotrichea,Sporadotrichida,Oxytrichidae,,uncultured Oxytrichidae
+OTU_245,EF024229,182,1.50e-41,92.308,100,Eukaryota,Ciliophora,Spirotrichea,Sporadotrichida,Oxytrichidae,,uncultured Oxytrichidae
+OTU_245,EF023365,182,1.50e-41,92.308,100,Eukaryota,Arthropoda,Merostomata,Xiphosura,Limulidae,,Limulidae environmental sample
+OTU_245,AJ875154,182,1.50e-41,92.308,100,Eukaryota,Nematoda,Enoplea,Dorylaimida,Aporcelaimidae,Aporcelaimellus,Aporcelaimellus sp. G2
+OTU_245,AJ875154,182,1.50e-41,92.308,100,Eukaryota,Nematoda,Enoplea,Dorylaimida,Aporcelaimidae,Aporcelaimellus,Aporcelaimellus sp. F5
+OTU_79,MK292136,239,8.79e-59,100.000,100,Eukaryota,Nematoda,Enoplea,Dorylaimida,Longidoridae,Xiphinema,Xiphinema sp. 104F83
+OTU_79,MK292135,239,8.79e-59,100.000,100,Eukaryota,Nematoda,Enoplea,Dorylaimida,Longidoridae,Xiphinema,Xiphinema sp. 06D2
+OTU_79,MF372952,239,8.79e-59,100.000,100,Eukaryota,Nematoda,Enoplea,Dorylaimida,Longidoridae,Xiphinema,Xiphinema primum
+OTU_79,MF372951,239,8.79e-59,100.000,100,Eukaryota,Nematoda,Enoplea,Dorylaimida,Longidoridae,Xiphinema,Xiphinema primum
+OTU_79,OM812094,239,8.79e-59,100.000,100,Eukaryota,Nematoda,Enoplea,Dorylaimida,Longidoridae,Xiphinema,Xiphinema sp. E18-1
+OTU_79,KJ934159,239,8.79e-59,100.000,100,Eukaryota,Nematoda,Enoplea,Dorylaimida,Longidoridae,Xiphinema,Xiphinema americanum
+OTU_79,KJ934158,239,8.79e-59,100.000,100,Eukaryota,Nematoda,Enoplea,Dorylaimida,Longidoridae,Xiphinema,Xiphinema americanum
+OTU_79,KF748494,239,8.79e-59,100.000,100,Eukaryota,Nematoda,Enoplea,Dorylaimida,Longidoridae,Xiphinema,Xiphinema americanum
+OTU_79,KF748493,239,8.79e-59,100.000,100,Eukaryota,Nematoda,Enoplea,Dorylaimida,Longidoridae,Xiphinema,Xiphinema americanum
+OTU_79,KF748492,239,8.79e-59,100.000,100,Eukaryota,Nematoda,Enoplea,Dorylaimida,Longidoridae,Xiphinema,Xiphinema americanum
+OTU_79,KF748491,239,8.79e-59,100.000,100,Eukaryota,Nematoda,Enoplea,Dorylaimida,Longidoridae,Xiphinema,Xiphinema americanum
+OTU_79,KF748489,239,8.79e-59,100.000,100,Eukaryota,Nematoda,Enoplea,Dorylaimida,Longidoridae,Xiphinema,Xiphinema americanum
+OTU_79,KF748488,239,8.79e-59,100.000,100,Eukaryota,Nematoda,Enoplea,Dorylaimida,Longidoridae,Xiphinema,Xiphinema americanum
+OTU_79,KF748487,239,8.79e-59,100.000,100,Eukaryota,Nematoda,Enoplea,Dorylaimida,Longidoridae,Xiphinema,Xiphinema americanum
+OTU_79,KF748485,239,8.79e-59,100.000,100,Eukaryota,Nematoda,Enoplea,Dorylaimida,Longidoridae,Xiphinema,Xiphinema americanum
+OTU_79,KF748484,239,8.79e-59,100.000,100,Eukaryota,Nematoda,Enoplea,Dorylaimida,Longidoridae,Xiphinema,Xiphinema americanum
+OTU_79,KF748483,239,8.79e-59,100.000,100,Eukaryota,Nematoda,Enoplea,Dorylaimida,Longidoridae,Xiphinema,Xiphinema americanum
+OTU_79,KF748482,239,8.79e-59,100.000,100,Eukaryota,Nematoda,Enoplea,Dorylaimida,Longidoridae,Xiphinema,Xiphinema americanum
+OTU_79,KF748480,239,8.79e-59,100.000,100,Eukaryota,Nematoda,Enoplea,Dorylaimida,Longidoridae,Xiphinema,Xiphinema americanum
+OTU_79,KF748479,239,8.79e-59,100.000,100,Eukaryota,Nematoda,Enoplea,Dorylaimida,Longidoridae,Xiphinema,Xiphinema americanum
+OTU_79,KF748478,239,8.79e-59,100.000,100,Eukaryota,Nematoda,Enoplea,Dorylaimida,Longidoridae,Xiphinema,Xiphinema americanum
+OTU_79,KF748477,239,8.79e-59,100.000,100,Eukaryota,Nematoda,Enoplea,Dorylaimida,Longidoridae,Xiphinema,Xiphinema americanum
+OTU_79,KF748476,239,8.79e-59,100.000,100,Eukaryota,Nematoda,Enoplea,Dorylaimida,Longidoridae,Xiphinema,Xiphinema americanum
+OTU_79,KF748474,239,8.79e-59,100.000,100,Eukaryota,Nematoda,Enoplea,Dorylaimida,Longidoridae,Xiphinema,Xiphinema americanum
+OTU_79,KF748473,239,8.79e-59,100.000,100,Eukaryota,Nematoda,Enoplea,Dorylaimida,Longidoridae,Xiphinema,Xiphinema americanum
+OTU_270,EF456754,167,4.20e-37,90.076,100,Eukaryota,Cercozoa,Imbricatea,Euglyphida,Euglyphidae,Euglypha,Euglypha cf. ciliata
+OTU_270,EF456753,167,4.20e-37,90.076,100,Eukaryota,Cercozoa,Imbricatea,Euglyphida,Euglyphidae,Euglypha,Euglypha penardi
+OTU_270,AJ418782,161,1.96e-35,89.313,100,Eukaryota,Cercozoa,Imbricatea,Euglyphida,Euglyphidae,Euglypha,Euglypha rotunda
+OTU_270,AJ418786,156,9.10e-34,88.550,100,Eukaryota,Cercozoa,Imbricatea,Euglyphida,Euglyphidae,Euglypha,Euglypha filifera
+OTU_270,AJ418785,150,4.23e-32,87.786,100,Eukaryota,Cercozoa,Imbricatea,Euglyphida,Euglyphidae,Euglypha,Euglypha filifera
+OTU_270,EF023835,148,1.52e-31,87.597,100,Eukaryota,Cercozoa,,Cercomonadida,,,Cercomonadida environmental sample
+OTU_270,EF023332,148,1.52e-31,87.597,100,Eukaryota,Cercozoa,,Cercomonadida,,,Cercomonadida environmental sample
+OTU_270,EF023300,148,1.52e-31,87.597,100,Eukaryota,Cercozoa,,Cercomonadida,,,Cercomonadida environmental sample
+OTU_270,X77692,148,1.52e-31,87.786,100,Eukaryota,Cercozoa,Imbricatea,Euglyphida,Euglyphidae,Euglypha,Euglypha rotunda
+OTU_270,EF456748,145,1.97e-30,86.822,100,Eukaryota,Cercozoa,Imbricatea,Euglyphida,Euglyphidae,Placocista,Placocista spinosa
+OTU_270,AJ418783,145,1.97e-30,87.121,100,Eukaryota,Cercozoa,Imbricatea,Euglyphida,Euglyphidae,Euglypha,Euglypha rotunda
+OTU_270,EF023453,143,7.09e-30,86.923,100,Eukaryota,Streptophyta,Magnoliopsida,Fabales,Fabaceae,,Phaseoleae environmental sample
+OTU_270,AJ418784,139,9.17e-29,86.364,100,Eukaryota,Cercozoa,Imbricatea,Euglyphida,Euglyphidae,Euglypha,Euglypha rotunda
+OTU_270,MH625506,137,3.30e-28,87.603,93,Eukaryota,,,,,,fungal sp.
+OTU_270,KF539408,137,3.30e-28,86.047,100,Eukaryota,Cercozoa,Imbricatea,Euglyphida,Sphenoderiidae,Sphenoderia,Sphenoderia pseudominuta
+OTU_270,KT072121,135,1.19e-27,86.508,98,Eukaryota,,,,,,uncultured eukaryote
+OTU_270,AJ418787,134,4.26e-27,85.271,100,Eukaryota,Cercozoa,Imbricatea,Euglyphida,Euglyphidae,Euglypha,Euglypha tuberculata
+OTU_270,EF024104,134,4.26e-27,85.496,100,Eukaryota,Cercozoa,Imbricatea,Thaumatomonadida,,,uncultured Thaumatomonadida
+OTU_270,EF024499,134,4.26e-27,85.496,100,Eukaryota,Cercozoa,Imbricatea,Thaumatomonadida,,,uncultured Thaumatomonadida
+OTU_270,EF024494,134,4.26e-27,85.496,100,Eukaryota,Cercozoa,Imbricatea,Thaumatomonadida,,,uncultured Thaumatomonadida
+OTU_270,EF024403,134,4.26e-27,85.496,100,Eukaryota,Cercozoa,Imbricatea,Thaumatomonadida,,,uncultured Thaumatomonadida
+OTU_270,KX999711,132,1.53e-26,85.821,100,Eukaryota,Cercozoa,Imbricatea,Euglyphida,Euglyphidae,,uncultured Euglyphidae sp.
+OTU_270,EF025028,128,1.98e-25,84.615,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_270,EF025021,128,1.98e-25,84.615,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_270,EF024455,128,1.98e-25,84.496,100,Eukaryota,Cercozoa,,Cercomonadida,,,Cercomonadida environmental sample
+OTU_53,KU316613,233,4.09e-57,99.225,100,Eukaryota,,,,,,uncultured fungus
+OTU_53,MK946222,228,1.90e-55,98.450,100,Eukaryota,,,,,,uncultured soil eukaryote
+OTU_53,EF024636,228,1.90e-55,98.450,100,Eukaryota,Annelida,Clitellata,Acanthobdellida,,,uncultured Acanthobdellida sp.
+OTU_53,EF024411,228,1.90e-55,98.450,100,Eukaryota,Phoronida,,,,,uncultured Phoroniformea sp.
+OTU_53,EF024103,228,1.90e-55,98.450,100,Eukaryota,Annelida,Clitellata,Acanthobdellida,,,uncultured Acanthobdellida sp.
+OTU_53,EF024103,228,1.90e-55,98.450,100,Eukaryota,Phoronida,,,,,uncultured Phoroniformea sp.
+OTU_53,EF024404,228,1.90e-55,98.450,100,Eukaryota,Phoronida,,,,,uncultured Phoroniformea sp.
+OTU_53,AF411895,228,1.90e-55,98.450,100,Eukaryota,Annelida,Clitellata,Enchytraeida,Enchytraeidae,Buchholzia,Buchholzia fallax
+OTU_53,GU453338,222,8.85e-54,97.674,100,Eukaryota,Annelida,Clitellata,Enchytraeida,Enchytraeidae,Cernosvitoviella,Cernosvitoviella atrata
+OTU_53,AF209453,220,3.18e-53,97.674,100,Eukaryota,Annelida,Clitellata,Enchytraeida,Enchytraeidae,Fridericia,Fridericia tuberosa
+OTU_53,LC012708,217,4.12e-52,96.899,100,Eukaryota,Annelida,Clitellata,Enchytraeida,Enchytraeidae,Mesenchytraeus,Mesenchytraeus nivalis
+OTU_53,FJ611134,217,4.12e-52,96.899,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_53,GU453341,211,1.92e-50,95.349,100,Eukaryota,Annelida,Clitellata,Enchytraeida,Enchytraeidae,Henlea,Henlea nasuta
+OTU_53,FJ611087,211,1.92e-50,96.124,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_53,AJ875123,211,1.92e-50,96.124,100,Eukaryota,Nematoda,,,,,Nematoda environmental sample
+OTU_53,KU862793,206,8.91e-49,95.349,100,Eukaryota,Annelida,Clitellata,Enchytraeida,Enchytraeidae,Lumbricillus,Lumbricillus knoellneri
+OTU_53,KU862790,206,8.91e-49,95.349,100,Eukaryota,Annelida,Clitellata,Enchytraeida,Enchytraeidae,Lumbricillus,Lumbricillus dubius
+OTU_53,KU862805,202,1.15e-47,94.574,100,Eukaryota,Annelida,Clitellata,Enchytraeida,Enchytraeidae,Lumbricillus,Lumbricillus rubidus
+OTU_53,KU862798,202,1.15e-47,94.574,100,Eukaryota,Annelida,Clitellata,Enchytraeida,Enchytraeidae,Lumbricillus,Lumbricillus rutilus
+OTU_53,KU862811,200,4.15e-47,94.574,100,Eukaryota,Annelida,Clitellata,Enchytraeida,Enchytraeidae,Lumbricillus,Lumbricillus lineatus
+OTU_53,KU862810,200,4.15e-47,94.574,100,Eukaryota,Annelida,Clitellata,Enchytraeida,Enchytraeidae,Lumbricillus,Lumbricillus lineatus
+OTU_53,KU862807,200,4.15e-47,94.574,100,Eukaryota,Annelida,Clitellata,Enchytraeida,Enchytraeidae,Lumbricillus,Lumbricillus sp. G MJK-2016
+OTU_53,KU862803,196,5.36e-46,93.798,100,Eukaryota,Annelida,Clitellata,Enchytraeida,Enchytraeidae,Lumbricillus,Lumbricillus pumilio
+OTU_53,KU862803,196,5.36e-46,93.798,100,Eukaryota,Annelida,Clitellata,Enchytraeida,Enchytraeidae,Lumbricillus,Lumbricillus rubidus
+OTU_53,KU862813,195,1.93e-45,93.846,100,Eukaryota,Annelida,Clitellata,Enchytraeida,Enchytraeidae,Lumbricillus,Lumbricillus rivalis
+OTU_53,KU862794,195,1.93e-45,93.798,100,Eukaryota,Annelida,Clitellata,Enchytraeida,Enchytraeidae,Lumbricillus,Lumbricillus cf. helgolandicus MJK-2016
+OTU_53,KF205932,195,1.93e-45,93.798,100,Eukaryota,Annelida,Clitellata,Moniligastrida,Moniligastridae,Drawida,Drawida japonica
+OTU_1285,AB618062,239,8.79e-59,100.000,100,Eukaryota,Arthropoda,Arachnida,Mesostigmata,Phytoseiidae,Neoseiulus,Neoseiulus womersleyi
+OTU_1285,AB618061,239,8.79e-59,100.000,100,Eukaryota,Arthropoda,Arachnida,Mesostigmata,Phytoseiidae,Neoseiulus,Neoseiulus womersleyi
+OTU_1285,AB618060,239,8.79e-59,100.000,100,Eukaryota,Arthropoda,Arachnida,Mesostigmata,Phytoseiidae,Neoseiulus,Neoseiulus womersleyi
+OTU_1285,XR_003777136,233,4.09e-57,99.225,100,Eukaryota,Arthropoda,Arachnida,Mesostigmata,Phytoseiidae,Galendromus,Galendromus occidentalis
+OTU_1285,XR_003777128,233,4.09e-57,99.225,100,Eukaryota,Arthropoda,Arachnida,Mesostigmata,Phytoseiidae,Galendromus,Galendromus occidentalis
+OTU_1285,AB862883,233,4.09e-57,99.225,100,Eukaryota,Arthropoda,Arachnida,Mesostigmata,Phytoseiidae,Neoseiulus,Neoseiulus makuwa
+OTU_1285,AB618063,233,4.09e-57,99.225,100,Eukaryota,Arthropoda,Arachnida,Mesostigmata,Phytoseiidae,Amblyseius,Amblyseius tsugawai
+OTU_1285,AY620938,233,4.09e-57,99.225,100,Eukaryota,Arthropoda,Arachnida,Mesostigmata,Blattisociidae,Lasioseius,Lasioseius sp. AL6866
+OTU_1285,AB862882,228,1.90e-55,98.450,100,Eukaryota,Arthropoda,Arachnida,Mesostigmata,Phytoseiidae,Neoseiulus,Neoseiulus makuwa
+OTU_1285,AB618065,228,1.90e-55,98.450,100,Eukaryota,Arthropoda,Arachnida,Mesostigmata,Phytoseiidae,Euseius,Euseius sojaensis
+OTU_1285,AB618064,228,1.90e-55,98.450,100,Eukaryota,Arthropoda,Arachnida,Mesostigmata,Phytoseiidae,Euseius,Euseius sojaensis
+OTU_1285,AB618059,228,1.90e-55,98.450,100,Eukaryota,Arthropoda,Arachnida,Mesostigmata,Phytoseiidae,Amblyseius,Amblyseius eharai
+OTU_1285,AB618058,228,1.90e-55,98.450,100,Eukaryota,Arthropoda,Arachnida,Mesostigmata,Phytoseiidae,Amblyseius,Amblyseius eharai
+OTU_1285,LC333816,222,8.85e-54,97.692,100,Eukaryota,Arthropoda,Arachnida,Mesostigmata,Phytoseiidae,Gynaeseius,Gynaeseius liturivorus
+OTU_1285,AB862881,222,8.85e-54,97.674,100,Eukaryota,Arthropoda,Arachnida,Mesostigmata,Phytoseiidae,Typhlodromus,Typhlodromus vulgaris
+OTU_1285,AB618057,222,8.85e-54,97.674,100,Eukaryota,Arthropoda,Arachnida,Mesostigmata,Phytoseiidae,Neoseiulus,Neoseiulus californicus
+OTU_1285,AB618055,222,8.85e-54,97.674,100,Eukaryota,Arthropoda,Arachnida,Mesostigmata,Phytoseiidae,Neoseiulus,Neoseiulus californicus
+OTU_1285,LC333817,217,4.12e-52,96.923,100,Eukaryota,Arthropoda,Arachnida,Mesostigmata,Phytoseiidae,Gynaeseius,Gynaeseius liturivorus
+OTU_1285,AB618056,217,4.12e-52,96.899,100,Eukaryota,Arthropoda,Arachnida,Mesostigmata,Phytoseiidae,Neoseiulus,Neoseiulus californicus
+OTU_1285,L76343,217,4.12e-52,96.899,100,Eukaryota,Arthropoda,Arachnida,Mesostigmata,Laelapidae,Cosmolaelaps,Cosmolaelaps trifidus
+OTU_1285,AB862880,211,1.92e-50,96.124,100,Eukaryota,Arthropoda,Arachnida,Mesostigmata,Phytoseiidae,Typhlodromips,Typhlodromips okinawanus
+OTU_1285,GQ129213,211,1.92e-50,96.124,100,Eukaryota,Arthropoda,Arachnida,Mesostigmata,Dermanyssidae,Dermanyssus,Dermanyssus gallinae
+OTU_1285,AY620937,211,1.92e-50,96.825,98,Eukaryota,Arthropoda,Arachnida,Mesostigmata,Laelapidae,Cosmolaelaps,Cosmolaelaps trifidus
+OTU_1285,AY620939,204,3.20e-48,95.349,100,Eukaryota,Arthropoda,Arachnida,Mesostigmata,Macrochelidae,Macrocheles,Macrocheles sp. AL5995
+OTU_1285,AF115374,200,4.15e-47,94.574,100,Eukaryota,Arthropoda,Arachnida,Mesostigmata,Ologamasidae,Gamasiphis,Gamasiphis pulchellus
+OTU_87,EU740659,239,8.79e-59,100.000,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_87,EU740472,239,8.79e-59,100.000,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_87,EU740429,239,8.79e-59,100.000,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_87,EU740452,233,4.09e-57,99.225,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_87,KY230741,206,8.91e-49,95.349,100,Eukaryota,Arthropoda,Collembola,Symphypleona,Katiannidae,Sminthurinus,Sminthurinus aureus
+OTU_87,KY554604,206,8.91e-49,95.349,100,Eukaryota,Arthropoda,Collembola,Symphypleona,Katiannidae,,Katiannidae sp. R35
+OTU_87,KY230782,200,4.15e-47,94.615,100,Eukaryota,Arthropoda,Collembola,Symphypleona,Katiannidae,Sminthurinus,Sminthurinus elegans
+OTU_87,KY230769,200,4.15e-47,94.574,100,Eukaryota,Arthropoda,Collembola,Symphypleona,Dicyrtomidae,Dicyrtomina,Dicyrtomina cf. minuta 8G1a1_JC431
+OTU_87,KY230768,200,4.15e-47,94.574,100,Eukaryota,Arthropoda,Collembola,Symphypleona,Dicyrtomidae,Dicyrtomina,Dicyrtomina ornata
+OTU_87,KY554614,200,4.15e-47,94.574,100,Eukaryota,Arthropoda,Collembola,Symphypleona,Dicyrtomidae,,Dicyrtomidae sp. R6
+OTU_87,KY554620,195,1.93e-45,93.798,100,Eukaryota,Arthropoda,Collembola,Symphypleona,Bourletiellidae,,Bourletiellidae sp. R37
+OTU_87,KY554615,195,1.93e-45,93.798,100,Eukaryota,Arthropoda,Collembola,Symphypleona,Dicyrtomidae,,Dicyrtomidae sp. R7
+OTU_87,KY554609,195,1.93e-45,93.798,100,Eukaryota,Arthropoda,Collembola,Symphypleona,Dicyrtomidae,,Dicyrtomidae sp. R1
+OTU_87,AY555522,195,1.93e-45,93.798,100,Eukaryota,Arthropoda,Collembola,Symphypleona,Katiannidae,Sminthurinus,Sminthurinus bimaculatus
+OTU_87,KY230779,189,8.97e-44,93.023,100,Eukaryota,Arthropoda,Collembola,Entomobryomorpha,Isotomidae,Isotoma,Isotoma anglicana
+OTU_87,KY230775,189,8.97e-44,93.023,100,Eukaryota,Arthropoda,Collembola,Entomobryomorpha,Isotomidae,Vertagopus,Vertagopus arboreus
+OTU_87,KY230774,189,8.97e-44,93.023,100,Eukaryota,Arthropoda,Collembola,Entomobryomorpha,Isotomidae,Isotoma,Isotoma viridis
+OTU_87,KY230762,189,8.97e-44,93.023,100,Eukaryota,Arthropoda,Collembola,Poduromorpha,Hypogastruridae,Ceratophysella,Ceratophysella luteospina
+OTU_87,KY230759,189,8.97e-44,93.023,100,Eukaryota,Arthropoda,Collembola,Poduromorpha,Onychiuridae,Protaphorura,Protaphorura armata
+OTU_87,KY230752,189,8.97e-44,93.023,100,Eukaryota,Arthropoda,Collembola,Entomobryomorpha,Isotomidae,Isotoma,Isotoma viridis
+OTU_87,KY230736,189,8.97e-44,93.023,100,Eukaryota,Arthropoda,Collembola,Entomobryomorpha,Isotomidae,Desoria,Desoria violacea
+OTU_87,KY230725,189,8.97e-44,93.023,100,Eukaryota,Arthropoda,Collembola,Poduromorpha,Hypogastruridae,Hypogastrura,Hypogastrura burkilli
+OTU_87,KY230719,189,8.97e-44,93.023,100,Eukaryota,Arthropoda,Collembola,Poduromorpha,Onychiuridae,Protaphorura,Protaphorura armata
+OTU_87,KY230708,189,8.97e-44,93.023,100,Eukaryota,Arthropoda,Collembola,Entomobryomorpha,Isotomidae,Isotoma,Isotoma viridis
+OTU_87,KY230703,189,8.97e-44,93.023,100,Eukaryota,Arthropoda,Collembola,Entomobryomorpha,Isotomidae,Isotoma,Isotoma anglicana
+OTU_780,MZ279926,239,8.79e-59,100.000,100,Eukaryota,Arthropoda,Arachnida,Trombidiformes,Eriophyidae,Abacarus,Abacarus hystrix
+OTU_780,MZ280008,228,1.90e-55,98.450,100,Eukaryota,Arthropoda,Arachnida,Trombidiformes,Eriophyidae,Tetraspinus,Tetraspinus cf. indocalami Z278_2
+OTU_780,MZ280002,228,1.90e-55,98.450,100,Eukaryota,Arthropoda,Arachnida,Trombidiformes,Eriophyidae,Tegolophus,Tegolophus sp. YN449b 1
+OTU_780,MZ280001,228,1.90e-55,98.450,100,Eukaryota,Arthropoda,Arachnida,Trombidiformes,Eriophyidae,Tegolophus,Tegolophus sp. YN449a 2
+OTU_780,MZ279987,228,1.90e-55,98.450,100,Eukaryota,Arthropoda,Arachnida,Trombidiformes,Eriophyidae,Tegolophus,Tegolophus sp. KK3
+OTU_780,MZ279964,228,1.90e-55,98.450,100,Eukaryota,Arthropoda,Arachnida,Trombidiformes,Eriophyidae,Tegolophus,Tegolophus sp. SC4 2
+OTU_780,MZ279958,228,1.90e-55,98.450,100,Eukaryota,Arthropoda,Arachnida,Trombidiformes,Eriophyidae,Neotetra,Neotetra bambusae
+OTU_780,MZ279944,228,1.90e-55,98.450,100,Eukaryota,Arthropoda,Arachnida,Trombidiformes,Eriophyidae,Neotetra,Neotetra bambusae
+OTU_780,MZ279906,228,1.90e-55,98.450,100,Eukaryota,Arthropoda,Arachnida,Trombidiformes,Eriophyidae,Knorella,Knorella gigantochloae
+OTU_780,MZ279880,228,1.90e-55,98.450,100,Eukaryota,Arthropoda,Arachnida,Trombidiformes,Eriophyidae,Aculus,Aculus sp. GZ22 1
+OTU_780,MZ279859,228,1.90e-55,98.450,100,Eukaryota,Arthropoda,Arachnida,Trombidiformes,Eriophyidae,Abacarus,Abacarus bambusae
+OTU_780,MZ279843,228,1.90e-55,98.450,100,Eukaryota,Arthropoda,Arachnida,Trombidiformes,Eriophyidae,Abacarus,Abacarus bambusae
+OTU_780,MZ279826,228,1.90e-55,98.450,100,Eukaryota,Arthropoda,Arachnida,Trombidiformes,Eriophyidae,Bambusacarus,Bambusacarus longipalpis
+OTU_780,MZ279825,228,1.90e-55,98.450,100,Eukaryota,Arthropoda,Arachnida,Trombidiformes,Eriophyidae,Abacarus,Abacarus bambusae
+OTU_780,MZ279794,228,1.90e-55,98.450,100,Eukaryota,Arthropoda,Arachnida,Trombidiformes,Eriophyidae,Tegolophus,Tegolophus sp. FJ21_2
+OTU_780,MZ279793,228,1.90e-55,98.450,100,Eukaryota,Arthropoda,Arachnida,Trombidiformes,Eriophyidae,Tegolophus,Tegolophus sp. FJ21 1
+OTU_780,MZ279777,228,1.90e-55,98.450,100,Eukaryota,Arthropoda,Arachnida,Trombidiformes,Eriophyidae,Jaranasia,Jaranasia cf. anamensiae CQ3_1
+OTU_780,MZ279743,228,1.90e-55,98.450,100,Eukaryota,Arthropoda,Arachnida,Trombidiformes,Eriophyidae,Bambusacarus,Bambusacarus longipalpis
+OTU_780,MZ279739,228,1.90e-55,98.450,100,Eukaryota,Arthropoda,Arachnida,Trombidiformes,Eriophyidae,Bambusacarus,Bambusacarus longipalpis
+OTU_780,MZ279738,228,1.90e-55,98.450,100,Eukaryota,Arthropoda,Arachnida,Trombidiformes,Eriophyidae,Tetra,Tetra spicrostrae
+OTU_780,MZ279716,228,1.90e-55,98.450,100,Eukaryota,Arthropoda,Arachnida,Trombidiformes,Eriophyidae,Abacarus,Abacarus bambusae
+OTU_780,MZ279830,222,8.85e-54,97.674,100,Eukaryota,Arthropoda,Arachnida,Trombidiformes,Eriophyidae,Aculops,Aculops sp. GD119 1
+OTU_780,MZ279904,219,1.14e-52,98.387,96,Eukaryota,Arthropoda,Arachnida,Trombidiformes,Eriophyidae,Abacarus,Abacarus bambusae
+OTU_780,MZ279946,217,4.12e-52,96.923,100,Eukaryota,Arthropoda,Arachnida,Trombidiformes,Eriophyidae,,cf. Vittacus sp. S109
+OTU_780,MZ279799,215,1.48e-51,96.899,100,Eukaryota,Arthropoda,Arachnida,Trombidiformes,Eriophyidae,Neotegonotus,Neotegonotus sp. FJ27
+OTU_1515,LC030334,217,4.12e-52,96.899,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Pratylenchidae,Pratylenchus,Pratylenchus penetrans
+OTU_1515,LC030332,217,4.12e-52,96.899,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Pratylenchidae,Pratylenchus,Pratylenchus penetrans
+OTU_1515,MH796905,195,1.93e-45,93.798,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Pratylenchidae,Pratylenchus,Pratylenchus capsici
+OTU_1515,LC030333,189,8.97e-44,93.182,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Pratylenchidae,Pratylenchus,Pratylenchus penetrans
+OTU_1515,LC030336,183,4.18e-42,92.308,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Pratylenchidae,Pratylenchus,Pratylenchus penetrans
+OTU_1515,LC030331,183,4.18e-42,92.308,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Pratylenchidae,Pratylenchus,Pratylenchus penetrans
+OTU_1515,LC030330,183,4.18e-42,92.308,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Pratylenchidae,Pratylenchus,Pratylenchus penetrans
+OTU_1515,LC030335,178,1.94e-40,91.538,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Pratylenchidae,Pratylenchus,Pratylenchus penetrans
+OTU_1515,LC030329,172,9.04e-39,90.769,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Pratylenchidae,Pratylenchus,Pratylenchus penetrans
+OTU_1515,OK490338,172,9.04e-39,90.840,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Pratylenchidae,Pratylenchus,Pratylenchus smoliki
+OTU_1515,OK490337,172,9.04e-39,90.840,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Pratylenchidae,Pratylenchus,Pratylenchus smoliki
+OTU_1515,OK490336,172,9.04e-39,90.840,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Pratylenchidae,Pratylenchus,Pratylenchus smoliki
+OTU_1515,FJ969136,171,3.25e-38,90.769,99,Eukaryota,Nematoda,Chromadorea,Rhabditida,Pratylenchidae,Pratylenchus,Pratylenchus convallariae
+OTU_1515,MW403999,169,1.17e-37,90.698,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Meloidogynidae,Meloidogyne,Meloidogyne incognita
+OTU_1515,DQ909022,169,1.17e-37,90.698,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Meloidogynidae,Meloidogyne,Meloidogyne graminicola
+OTU_1515,MT586763,167,4.20e-37,90.076,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Pratylenchidae,Pratylenchus,Pratylenchus scribneri
+OTU_1515,MT586755,167,4.20e-37,90.076,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Pratylenchidae,Pratylenchus,Pratylenchus scribneri
+OTU_1515,MN757910,167,4.20e-37,89.922,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Telotylenchidae,Tylenchorhynchus,Tylenchorhynchus zeae
+OTU_1515,MK292133,167,4.20e-37,90.076,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Pratylenchidae,Pratylenchus,Pratylenchus scribneri
+OTU_1515,MK208689,167,4.20e-37,90.076,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Pratylenchidae,Pratylenchus,Pratylenchus scribneri
+OTU_1515,MH729053,167,4.20e-37,90.076,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Pratylenchidae,Pratylenchus,Pratylenchus scribneri
+OTU_1515,KY424229,167,4.20e-37,90.076,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Pratylenchidae,Pratylenchus,Pratylenchus scribneri
+OTU_1515,KY424228,167,4.20e-37,90.076,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Pratylenchidae,Pratylenchus,Pratylenchus scribneri
+OTU_1515,KY424227,167,4.20e-37,90.076,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Pratylenchidae,Pratylenchus,Pratylenchus scribneri
+OTU_1515,KY424226,167,4.20e-37,90.076,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Pratylenchidae,Pratylenchus,Pratylenchus scribneri
+OTU_149,EU740523,239,8.79e-59,100.000,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_149,EU740487,239,8.79e-59,100.000,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_149,EU740677,233,4.09e-57,99.231,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_149,KY922212,230,5.29e-56,100.000,96,Eukaryota,Arthropoda,Arachnida,Sarcoptiformes,Epilohmanniidae,Epilohmannia,Epilohmannia aff. pallida AD1282
+OTU_149,KY922216,217,4.12e-52,96.899,100,Eukaryota,Arthropoda,Arachnida,Sarcoptiformes,Nothridae,Nothrus,Nothrus borussicus
+OTU_149,KR081605,217,4.12e-52,96.899,100,Eukaryota,Arthropoda,Arachnida,Sarcoptiformes,Crotoniidae,Crotonia,Crotonia reticulata
+OTU_149,LC108997,217,4.12e-52,96.899,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_149,EF091422,217,4.12e-52,96.899,100,Eukaryota,Arthropoda,Arachnida,Sarcoptiformes,Camisiidae,Platynothrus,Platynothrus peltifer
+OTU_149,ON866945,217,4.12e-52,96.899,100,Eukaryota,Arthropoda,Arachnida,Sarcoptiformes,Nothridae,Nothrus,Nothrus sp.
+OTU_149,JQ000046,217,4.12e-52,96.899,100,Eukaryota,Arthropoda,Arachnida,Sarcoptiformes,Trhypochthoniidae,Trhypochthonius,Trhypochthonius americanus
+OTU_149,HQ661380,217,4.12e-52,96.899,100,Eukaryota,Arthropoda,Arachnida,Sarcoptiformes,Trhypochthoniidae,Trhypochthonius,Trhypochthonius tectorum
+OTU_149,HQ661380,217,4.12e-52,96.899,100,Eukaryota,Arthropoda,Arachnida,Sarcoptiformes,Trhypochthoniidae,Trhypochthonius,Trhypochthonius silvestris
+OTU_149,HQ661380,217,4.12e-52,96.899,100,Eukaryota,Arthropoda,Arachnida,Sarcoptiformes,Trhypochthoniidae,Trhypochthonius,Trhypochthonius japonicus
+OTU_149,HQ661379,217,4.12e-52,96.899,100,Eukaryota,Arthropoda,Arachnida,Sarcoptiformes,Trhypochthoniidae,Archegozetes,Archegozetes longisetosus
+OTU_149,FJ611157,217,4.12e-52,96.899,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_149,EF081307,217,4.12e-52,96.899,100,Eukaryota,Arthropoda,Arachnida,Sarcoptiformes,Nothridae,Novonothrus,Novonothrus flagellatus
+OTU_149,EF081306,217,4.12e-52,96.899,100,Eukaryota,Arthropoda,Arachnida,Sarcoptiformes,Nothridae,Nothrus,Nothrus truncatus
+OTU_149,EF081305,217,4.12e-52,96.899,100,Eukaryota,Arthropoda,Arachnida,Sarcoptiformes,Nothridae,Nothrus,Nothrus silvestris
+OTU_149,EF081304,217,4.12e-52,96.899,100,Eukaryota,Arthropoda,Arachnida,Sarcoptiformes,Crotoniidae,Crotonia,Crotonia cf. caudata KD-2006
+OTU_149,EF081303,217,4.12e-52,96.899,100,Eukaryota,Arthropoda,Arachnida,Sarcoptiformes,Crotoniidae,Crotonia,Crotonia brachyrostrum
+OTU_149,EF081301,217,4.12e-52,96.899,100,Eukaryota,Arthropoda,Arachnida,Sarcoptiformes,Trhypochthoniidae,Mainothrus,Mainothrus badius
+OTU_149,EF081300,217,4.12e-52,96.899,100,Eukaryota,Arthropoda,Arachnida,Sarcoptiformes,Trhypochthoniidae,Trhypochthoniellus,Trhypochthoniellus crassus
+OTU_149,EF081299,217,4.12e-52,96.899,100,Eukaryota,Arthropoda,Arachnida,Sarcoptiformes,Trhypochthoniidae,Mucronothrus,Mucronothrus nasalis
+OTU_149,EF091423,217,4.12e-52,96.899,100,Eukaryota,Arthropoda,Arachnida,Sarcoptiformes,Camisiidae,Heminothrus,Heminothrus paolianus
+OTU_149,EF091420,217,4.12e-52,96.899,100,Eukaryota,Arthropoda,Arachnida,Sarcoptiformes,Camisiidae,Camisia,Camisia spinifer
+OTU_149,AF022041,217,4.12e-52,96.899,100,Eukaryota,Arthropoda,Arachnida,Sarcoptiformes,Trhypochthoniidae,Trhypochthonius,Trhypochthonius tectorum
+OTU_149,MF773739,211,1.92e-50,96.124,100,Eukaryota,Arthropoda,Arachnida,Sarcoptiformes,Cepheidae,Tritegeus,Tritegeus bisulcatus
+OTU_142,KY230753,239,8.79e-59,100.000,100,Eukaryota,Arthropoda,Collembola,Symphypleona,Bourletiellidae,Deuterosminthurus,Deuterosminthurus sulphureus
+OTU_142,KY230733,239,8.79e-59,100.000,100,Eukaryota,Arthropoda,Collembola,Symphypleona,Bourletiellidae,Deuterosminthurus,Deuterosminthurus sulphureus
+OTU_142,KY230700,239,8.79e-59,100.000,100,Eukaryota,Arthropoda,Collembola,Symphypleona,Bourletiellidae,Bourletiella,Bourletiella hortensis
+OTU_142,EF024979,239,8.79e-59,100.000,100,Eukaryota,Arthropoda,Collembola,Symphypleona,Sminthuridae,,Sminthuridae environmental sample
+OTU_142,EF024710,239,8.79e-59,100.000,100,Eukaryota,Arthropoda,Collembola,Symphypleona,Sminthuridae,,Sminthuridae environmental sample
+OTU_142,EF024829,239,8.79e-59,100.000,100,Eukaryota,Arthropoda,Collembola,Symphypleona,Sminthuridae,,Sminthuridae environmental sample
+OTU_142,EF024821,239,8.79e-59,100.000,100,Eukaryota,Arthropoda,Collembola,Symphypleona,Sminthuridae,,Sminthuridae environmental sample
+OTU_142,EF024377,239,8.79e-59,100.000,100,Eukaryota,Arthropoda,Collembola,Symphypleona,Sminthuridae,,Sminthuridae environmental sample
+OTU_142,EF024377,239,8.79e-59,100.000,100,Eukaryota,Arthropoda,Collembola,Poduromorpha,Poduridae,,Poduridae environmental sample
+OTU_142,EF024185,239,8.79e-59,100.000,100,Eukaryota,Arthropoda,Collembola,Symphypleona,Sminthuridae,,Sminthuridae environmental sample
+OTU_142,EF024185,239,8.79e-59,100.000,100,Eukaryota,Arthropoda,Collembola,Poduromorpha,Poduridae,,Poduridae environmental sample
+OTU_142,EF024658,239,8.79e-59,100.000,100,Eukaryota,Arthropoda,Collembola,Symphypleona,Sminthuridae,,Sminthuridae environmental sample
+OTU_142,EF024538,239,8.79e-59,100.000,100,Eukaryota,Streptophyta,Magnoliopsida,Fabales,Fabaceae,,Phaseoleae environmental sample
+OTU_142,EF024518,239,8.79e-59,100.000,100,Eukaryota,Arthropoda,Collembola,Symphypleona,Sminthuridae,,Sminthuridae environmental sample
+OTU_142,EF024424,239,8.79e-59,100.000,100,Eukaryota,Streptophyta,Magnoliopsida,Fabales,Fabaceae,,Phaseoleae environmental sample
+OTU_142,EF024459,239,8.79e-59,100.000,100,Eukaryota,Arthropoda,Collembola,Symphypleona,Sminthuridae,,Sminthuridae environmental sample
+OTU_142,EF024371,239,8.79e-59,100.000,100,Eukaryota,Arthropoda,Collembola,Symphypleona,Sminthuridae,,Sminthuridae environmental sample
+OTU_142,EF024364,239,8.79e-59,100.000,100,Eukaryota,Arthropoda,Collembola,Symphypleona,Sminthuridae,,Sminthuridae environmental sample
+OTU_142,EF024321,239,8.79e-59,100.000,100,Eukaryota,Arthropoda,Collembola,Poduromorpha,Poduridae,,Poduridae environmental sample
+OTU_142,EF024231,239,8.79e-59,100.000,100,Eukaryota,Arthropoda,Collembola,Poduromorpha,Poduridae,,Poduridae environmental sample
+OTU_142,EF024192,239,8.79e-59,100.000,100,Eukaryota,Arthropoda,Collembola,Symphypleona,Sminthuridae,,Sminthuridae environmental sample
+OTU_142,EF024531,233,4.09e-57,99.225,100,Eukaryota,Arthropoda,Collembola,Symphypleona,Sminthuridae,,Sminthuridae environmental sample
+OTU_142,EF024227,233,4.09e-57,99.225,100,Eukaryota,Arthropoda,Collembola,Symphypleona,Sminthuridae,,Sminthuridae environmental sample
+OTU_142,EF024190,233,4.09e-57,99.225,100,Eukaryota,Arthropoda,Collembola,Poduromorpha,Poduridae,,Poduridae environmental sample
+OTU_142,KY230734,222,8.85e-54,97.674,100,Eukaryota,Arthropoda,Collembola,Symphypleona,Bourletiellidae,Heterosminthurus,Heterosminthurus bilineatus
+OTU_142,KY230735,217,4.12e-52,96.899,100,Eukaryota,Arthropoda,Collembola,Symphypleona,Sminthuridae,Allacma,Allacma fusca
+OTU_142,KY230702,217,4.12e-52,96.899,100,Eukaryota,Arthropoda,Collembola,Symphypleona,Sminthuridae,Allacma,Allacma fusca
+OTU_75,MZ279988,222,8.85e-54,97.674,100,Eukaryota,Arthropoda,Arachnida,Trombidiformes,Eriophyidae,Tegolophus,Tegolophus suffruticosae
+OTU_75,MZ279974,222,8.85e-54,97.674,100,Eukaryota,Arthropoda,Arachnida,Trombidiformes,Eriophyidae,Scolotosus,Scolotosus sp. GX54
+OTU_75,MZ279871,222,8.85e-54,97.674,100,Eukaryota,Arthropoda,Arachnida,Trombidiformes,Eriophyidae,Aculops,Aculops sp. GX47
+OTU_75,MZ279870,222,8.85e-54,97.674,100,Eukaryota,Arthropoda,Arachnida,Trombidiformes,Eriophyidae,Tegolophus,Tegolophus sp. GX46
+OTU_75,MZ279748,222,8.85e-54,97.674,100,Eukaryota,Arthropoda,Arachnida,Trombidiformes,Eriophyidae,Tetra,Tetra dalbergiae
+OTU_75,MZ279747,222,8.85e-54,97.674,100,Eukaryota,Arthropoda,Arachnida,Trombidiformes,Eriophyidae,Aculus,Aculus sp. AH14
+OTU_75,LR131163,217,4.12e-52,96.899,100,Eukaryota,Arthropoda,Arachnida,Trombidiformes,Eriophyidae,Aceria,Aceria massalongoi
+OTU_75,MZ279980,217,4.12e-52,96.899,100,Eukaryota,Arthropoda,Arachnida,Trombidiformes,Eriophyidae,Epitrimerus,Epitrimerus sabinae
+OTU_75,MZ279977,217,4.12e-52,96.899,100,Eukaryota,Arthropoda,Arachnida,Trombidiformes,Eriophyidae,Aculops,Aculops sp. SD3
+OTU_75,MZ279893,217,4.12e-52,96.899,100,Eukaryota,Arthropoda,Arachnida,Trombidiformes,Eriophyidae,Tetra,Tetra sp. H95
+OTU_75,MZ279789,217,4.12e-52,96.899,100,Eukaryota,Arthropoda,Arachnida,Trombidiformes,Eriophyidae,Notallus,Notallus nerii
+OTU_75,KJ841967,217,4.12e-52,96.899,100,Eukaryota,Arthropoda,Arachnida,Trombidiformes,Eriophyidae,Tetra,Tetra sp. NJAUEriHN109
+OTU_75,MZ279913,206,8.91e-49,95.349,100,Eukaryota,Arthropoda,Arachnida,Trombidiformes,Eriophyidae,Tegolophus,Tegolophus hunanensis
+OTU_75,MZ279998,200,4.15e-47,94.574,100,Eukaryota,Arthropoda,Arachnida,Trombidiformes,Eriophyidae,Tegolophus,Tegolophus zizyphagus
+OTU_75,MZ279981,195,1.93e-45,93.798,100,Eukaryota,Arthropoda,Arachnida,Trombidiformes,Eriophyidae,Aculops,Aculops taihangensis
+OTU_75,MZ279731,195,1.93e-45,93.798,100,Eukaryota,Arthropoda,Arachnida,Trombidiformes,Eriophyidae,Aculops,Aculops taihangensis
+OTU_75,KJ841949,189,8.97e-44,93.023,100,Eukaryota,Arthropoda,Arachnida,Trombidiformes,Eriophyidae,Aculus,Aculus sp. NJAUEriYN216
+OTU_75,MN415994,189,8.97e-44,93.798,100,Eukaryota,Arthropoda,Arachnida,Trombidiformes,Eriophyidae,Tegolophus,Tegolophus suffruticosae
+OTU_75,MZ279978,183,4.18e-42,92.248,100,Eukaryota,Arthropoda,Arachnida,Trombidiformes,Eriophyidae,Tetra,Tetra lobulifera
+OTU_75,MZ279924,183,4.18e-42,92.248,100,Eukaryota,Arthropoda,Arachnida,Trombidiformes,Eriophyidae,Tetra,Tetra lobulifera
+OTU_75,MZ279826,183,4.18e-42,92.308,100,Eukaryota,Arthropoda,Arachnida,Trombidiformes,Eriophyidae,Bambusacarus,Bambusacarus longipalpis
+OTU_75,MZ280008,178,1.94e-40,91.538,100,Eukaryota,Arthropoda,Arachnida,Trombidiformes,Eriophyidae,Tetraspinus,Tetraspinus cf. indocalami Z278_2
+OTU_75,MZ279944,178,1.94e-40,91.538,100,Eukaryota,Arthropoda,Arachnida,Trombidiformes,Eriophyidae,Neotetra,Neotetra bambusae
+OTU_75,MZ279843,178,1.94e-40,91.473,100,Eukaryota,Arthropoda,Arachnida,Trombidiformes,Eriophyidae,Abacarus,Abacarus bambusae
+OTU_75,MZ279825,178,1.94e-40,91.473,100,Eukaryota,Arthropoda,Arachnida,Trombidiformes,Eriophyidae,Abacarus,Abacarus bambusae
+OTU_105,KC512957,217,4.12e-52,96.899,100,Eukaryota,Arthropoda,Insecta,Thysanoptera,Thripidae,Frankliniella,Frankliniella schultzei
+OTU_105,AP022634,211,1.92e-50,96.124,100,Eukaryota,Streptophyta,Magnoliopsida,Fabales,Fabaceae,Lotus,Lotus japonicus
+OTU_105,AP022634,211,1.92e-50,96.124,100,Eukaryota,Streptophyta,Magnoliopsida,Fabales,Fabaceae,Lotus,Lotus japonicus
+OTU_105,AP022634,211,1.92e-50,96.124,100,Eukaryota,Streptophyta,Magnoliopsida,Fabales,Fabaceae,Lotus,Lotus japonicus
+OTU_105,LR722623,211,1.92e-50,96.124,100,Eukaryota,Streptophyta,Magnoliopsida,Poales,Poaceae,Hordeum,Hordeum vulgare
+OTU_105,XR_003358374,211,1.92e-50,96.124,100,Eukaryota,Streptophyta,Magnoliopsida,Ranunculales,Papaveraceae,Papaver,Papaver somniferum
+OTU_105,AB904181,211,1.92e-50,96.124,100,Eukaryota,Arthropoda,Insecta,Thysanoptera,Thripidae,Frankliniella,Frankliniella intonsa
+OTU_105,AB904179,211,1.92e-50,96.124,100,Eukaryota,Arthropoda,Insecta,Thysanoptera,Thripidae,Frankliniella,Frankliniella intonsa
+OTU_105,AB904175,211,1.92e-50,96.124,100,Eukaryota,Arthropoda,Insecta,Thysanoptera,Thripidae,Frankliniella,Frankliniella intonsa
+OTU_105,XR_006488179,211,1.92e-50,96.124,100,Eukaryota,Streptophyta,Magnoliopsida,Poales,Poaceae,Triticum,Triticum aestivum
+OTU_105,KC513004,211,1.92e-50,96.124,100,Eukaryota,Arthropoda,Insecta,Thysanoptera,Thripidae,Scirtothrips,Scirtothrips aurantii
+OTU_105,KC512999,211,1.92e-50,96.124,100,Eukaryota,Arthropoda,Insecta,Thysanoptera,Thripidae,Pseudanaphothrips,Pseudanaphothrips araucariae
+OTU_105,KC512998,211,1.92e-50,96.154,100,Eukaryota,Arthropoda,Insecta,Thysanoptera,Thripidae,Pseudanaphothrips,Pseudanaphothrips achaetus
+OTU_105,KC512960,211,1.92e-50,96.124,100,Eukaryota,Arthropoda,Insecta,Thysanoptera,Thripidae,Frankliniella,Frankliniella tritici
+OTU_105,KC512959,211,1.92e-50,96.124,100,Eukaryota,Arthropoda,Insecta,Thysanoptera,Thripidae,Frankliniella,Frankliniella occidentalis
+OTU_105,KC512958,211,1.92e-50,96.124,100,Eukaryota,Arthropoda,Insecta,Thysanoptera,Thripidae,Frankliniella,Frankliniella cf. schultzei/sulphurea TH130
+OTU_105,KC512956,211,1.92e-50,96.124,100,Eukaryota,Arthropoda,Insecta,Thysanoptera,Thripidae,Frankliniella,Frankliniella occidentalis
+OTU_105,KC512955,211,1.92e-50,96.124,100,Eukaryota,Arthropoda,Insecta,Thysanoptera,Thripidae,Frankliniella,Frankliniella occidentalis
+OTU_105,KC512954,211,1.92e-50,96.124,100,Eukaryota,Arthropoda,Insecta,Thysanoptera,Thripidae,Frankliniella,Frankliniella australis
+OTU_105,EU740571,211,1.92e-50,96.124,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_105,EU740549,211,1.92e-50,96.124,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_105,EU740533,211,1.92e-50,96.124,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_105,AB904173,206,8.91e-49,95.349,100,Eukaryota,Arthropoda,Insecta,Thysanoptera,Thripidae,Scirtothrips,Scirtothrips dorsalis
+OTU_105,AB904172,206,8.91e-49,95.349,100,Eukaryota,Arthropoda,Insecta,Thysanoptera,Thripidae,Scirtothrips,Scirtothrips dorsalis
+OTU_105,KC513008,206,8.91e-49,95.385,100,Eukaryota,Arthropoda,Insecta,Thysanoptera,Thripidae,Sericothrips,Sericothrips staphylinus
+OTU_105,KC512987,206,8.91e-49,95.385,100,Eukaryota,Arthropoda,Insecta,Thysanoptera,Thripidae,Neohydatothrips,Neohydatothrips annulipes
+OTU_105,KC512976,206,8.91e-49,95.385,100,Eukaryota,Arthropoda,Insecta,Thysanoptera,Thripidae,Hydatothrips,Hydatothrips argenticinctus
+OTU_482,EF024104,239,8.79e-59,100.000,100,Eukaryota,Cercozoa,Imbricatea,Thaumatomonadida,,,uncultured Thaumatomonadida
+OTU_482,EF024499,239,8.79e-59,100.000,100,Eukaryota,Cercozoa,Imbricatea,Thaumatomonadida,,,uncultured Thaumatomonadida
+OTU_482,EF024494,239,8.79e-59,100.000,100,Eukaryota,Cercozoa,Imbricatea,Thaumatomonadida,,,uncultured Thaumatomonadida
+OTU_482,EF024403,239,8.79e-59,100.000,100,Eukaryota,Cercozoa,Imbricatea,Thaumatomonadida,,,uncultured Thaumatomonadida
+OTU_482,EF024268,211,1.92e-50,96.124,100,Eukaryota,Cercozoa,,Cercomonadida,Cercomonadidae,,uncultured cercomonad
+OTU_482,EF024692,211,1.92e-50,96.124,100,Eukaryota,Cercozoa,,Cercomonadida,Cercomonadidae,,uncultured cercomonad
+OTU_482,EF024251,211,1.92e-50,96.124,100,Eukaryota,Cercozoa,,Cercomonadida,Cercomonadidae,,uncultured cercomonad
+OTU_482,MG775587,206,8.91e-49,95.349,100,Eukaryota,Cercozoa,,Cercomonadida,Cercomonadidae,Cercomonas,Cercomonas sp.
+OTU_482,HM536149,206,8.91e-49,95.349,100,Eukaryota,Cercozoa,,Cercomonadida,Cercomonadidae,Cercomonas,Cercomonas sp. HFCC 904
+OTU_482,HM536148,206,8.91e-49,95.349,100,Eukaryota,Cercozoa,,Cercomonadida,Cercomonadidae,Cercomonas,Cercomonas pellucida
+OTU_482,HM536147,206,8.91e-49,95.349,100,Eukaryota,Cercozoa,,Cercomonadida,Cercomonadidae,Cercomonas,Cercomonas sp. HFCC 902
+OTU_482,FJ790712,206,8.91e-49,95.349,100,Eukaryota,Cercozoa,,Cercomonadida,Cercomonadidae,Cercomonas,Cercomonas radiata
+OTU_482,FJ790695,206,8.91e-49,95.349,100,Eukaryota,Cercozoa,,Cercomonadida,Cercomonadidae,Cercomonas,Cercomonas kiaerdammane
+OTU_482,EF455759,206,8.91e-49,95.349,100,Eukaryota,Cercozoa,,Cercomonadida,Cercomonadidae,Cercomonas,Cercomonas sp. ATCC PRA-21
+OTU_482,AY965869,206,8.91e-49,95.349,100,Eukaryota,Cercozoa,,Cercomonadida,,,soil flagellate AND27
+OTU_482,AY965868,206,8.91e-49,95.349,100,Eukaryota,Cercozoa,,Cercomonadida,,,soil flagellate AND25
+OTU_482,AF411266,206,8.91e-49,95.349,100,Eukaryota,Cercozoa,,Cercomonadida,Cercomonadidae,Cercomonas,Cercomonas sp. LargeSA
+OTU_482,MG775586,200,4.15e-47,94.574,100,Eukaryota,Cercozoa,,Cercomonadida,Cercomonadidae,Cercomonas,Cercomonas sp.
+OTU_482,MW306052,200,4.15e-47,94.574,100,Eukaryota,Cercozoa,,Cercomonadida,Cercomonadidae,Cercomonas,Cercomonas sp.
+OTU_482,HM536151,200,4.15e-47,94.574,100,Eukaryota,Cercozoa,,Cercomonadida,Cercomonadidae,Cercomonas,Cercomonas sp. HFCC 906
+OTU_482,AB616675,200,4.15e-47,94.574,100,Eukaryota,Cercozoa,,,,,Cercozoa sp. TGS5
+OTU_482,FJ790711,200,4.15e-47,94.574,100,Eukaryota,Cercozoa,,Cercomonadida,Cercomonadidae,Cercomonas,Cercomonas vacuolata
+OTU_482,FJ790710,200,4.15e-47,94.574,100,Eukaryota,Cercozoa,,Cercomonadida,Cercomonadidae,Cercomonas,Cercomonas celer
+OTU_482,FJ790701,200,4.15e-47,94.574,100,Eukaryota,Cercozoa,,Cercomonadida,Cercomonadidae,Cercomonas,Cercomonas rotunda
+OTU_482,FJ790700,200,4.15e-47,94.574,100,Eukaryota,Cercozoa,,Cercomonadida,Cercomonadidae,Cercomonas,Cercomonas fastiga
+OTU_129,EF023149,239,8.79e-59,100.000,100,Eukaryota,Arthropoda,Merostomata,Xiphosura,Limulidae,,Limulidae environmental sample
+OTU_129,EF024763,233,4.09e-57,99.225,100,Eukaryota,Arthropoda,Chilopoda,Lithobiomorpha,Henicopidae,Paralamyctes,Paralamyctes environmental sample
+OTU_129,EF024168,233,4.09e-57,99.225,100,Eukaryota,Arthropoda,Chilopoda,Lithobiomorpha,Henicopidae,Paralamyctes,Paralamyctes environmental sample
+OTU_129,EF023156,231,1.47e-56,99.225,100,Eukaryota,Arthropoda,Pycnogonida,Pantopoda,Callipallenidae,,Callipallenidae environmental sample
+OTU_129,EF024023,228,1.90e-55,98.450,100,Eukaryota,Apicomplexa,Conoidasida,Eucoccidiorida,Eimeriidae,,uncultured Eimeriidae
+OTU_129,EF023985,228,1.90e-55,98.450,100,Eukaryota,Apicomplexa,Conoidasida,Eucoccidiorida,Eimeriidae,,uncultured Eimeriidae
+OTU_129,EF023655,228,1.90e-55,98.450,100,Eukaryota,Arthropoda,Arachnida,Ricinulei,,,Ricinulei environmental sample
+OTU_129,EF023278,228,1.90e-55,98.450,100,Eukaryota,Apicomplexa,Conoidasida,Eucoccidiorida,Eimeriidae,,uncultured Eimeriidae
+OTU_129,EF023271,228,1.90e-55,98.450,100,Eukaryota,Arthropoda,Chilopoda,Lithobiomorpha,Henicopidae,Paralamyctes,Paralamyctes environmental sample
+OTU_129,EF023163,228,1.90e-55,98.450,100,Eukaryota,Streptophyta,Magnoliopsida,Caryophyllales,,,Caryophyllaceae environmental sample
+OTU_129,JN705524,220,3.18e-53,98.400,97,Eukaryota,,,,,,uncultured microeukaryote
+OTU_129,EF024646,217,4.12e-52,96.899,100,Eukaryota,Arthropoda,Chilopoda,Lithobiomorpha,Henicopidae,Paralamyctes,Paralamyctes environmental sample
+OTU_129,EF023624,195,1.93e-45,93.798,100,Eukaryota,Arthropoda,Arachnida,Amblypygi,Phrynidae,,Phrynidae environmental sample
+OTU_129,EF023597,195,1.93e-45,93.798,100,Eukaryota,Arthropoda,Arachnida,Amblypygi,Phrynidae,,Phrynidae environmental sample
+OTU_129,EF023467,195,1.93e-45,93.798,100,Eukaryota,Arthropoda,Arachnida,Amblypygi,Phrynidae,,Phrynidae environmental sample
+OTU_129,EF023472,183,4.18e-42,94.309,95,Eukaryota,Arthropoda,Merostomata,Xiphosura,Limulidae,,Limulidae environmental sample
+OTU_129,AY593937,183,4.18e-42,97.222,84,Eukaryota,Nematoda,Chromadorea,Monhysterida,Monhysteridae,Eumonhystera,Eumonhystera filiformis
+OTU_129,AY593936,183,4.18e-42,97.222,84,Eukaryota,Nematoda,Chromadorea,Monhysterida,Monhysteridae,Eumonhystera,Eumonhystera filiformis
+OTU_129,KY554501,167,4.20e-37,89.922,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_129,FJ611108,167,4.20e-37,89.922,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_129,AJ966507,167,4.20e-37,89.922,100,Eukaryota,Nematoda,Chromadorea,Monhysterida,Monhysteridae,Tridentulus,Tridentulus sp. PDL-2005
+OTU_129,AJ875122,163,5.44e-36,89.764,98,Eukaryota,Nematoda,,,,,Nematoda environmental sample
+OTU_129,EU910601,159,7.04e-35,89.600,97,Eukaryota,Nematoda,,,,,Nematoda environmental sample
+OTU_129,KF846534,156,9.10e-34,88.372,100,Eukaryota,Nematoda,Chromadorea,Monhysterida,Monhysteridae,Halomonhystera,Halomonhystera sp. n. JVC-2014
+OTU_129,KF846533,156,9.10e-34,88.372,100,Eukaryota,Nematoda,Chromadorea,Monhysterida,Monhysteridae,Halomonhystera,Halomonhystera sp. n. JVC-2014
+OTU_98,FJ610801,239,8.79e-59,100.000,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_98,FJ610784,239,8.79e-59,100.000,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_98,AJ966510,233,4.09e-57,99.225,100,Eukaryota,Nematoda,Enoplea,Dorylaimida,Tylencholaimidae,Tylencholaimus,Tylencholaimus sp. PDL-2005
+OTU_98,MG921235,226,6.84e-55,99.200,97,Eukaryota,Nematoda,Enoplea,Dorylaimida,Aporcelaimidae,Aporcella,Aporcella vitrinus
+OTU_98,MG921234,226,6.84e-55,99.200,97,Eukaryota,Nematoda,Enoplea,Dorylaimida,Aporcelaimidae,Aporcella,Aporcella vitrinus
+OTU_98,FJ610793,222,8.85e-54,97.674,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_98,MK292127,211,1.92e-50,96.124,100,Eukaryota,Nematoda,Enoplea,Dorylaimida,Qudsianematidae,Ecumenicus,Ecumenicus sp. 85G11
+OTU_98,KX244935,211,1.92e-50,96.124,100,Eukaryota,Nematoda,Enoplea,Dorylaimida,Longidoridae,Xiphinema,Xiphinema duriense
+OTU_98,KM067902,211,1.92e-50,96.154,100,Eukaryota,Nematoda,Enoplea,Dorylaimida,Actinolaimidae,Paractinolaimus,Paractinolaimus sp. ESB-2014
+OTU_98,JN049662,211,1.92e-50,96.124,100,Eukaryota,Nematoda,,,,,Nematoda environmental sample
+OTU_98,EF023689,211,1.92e-50,96.124,100,Eukaryota,Arthropoda,Merostomata,Xiphosura,Limulidae,,Limulidae environmental sample
+OTU_98,KT258983,209,6.89e-50,96.800,97,Eukaryota,Nematoda,Enoplea,Dorylaimida,Belondiridae,Belondira,Belondira bagongshanensis
+OTU_98,KT258982,209,6.89e-50,96.800,97,Eukaryota,Nematoda,Enoplea,Dorylaimida,Belondiridae,Belondira,Belondira bagongshanensis
+OTU_98,KT308878,206,8.91e-49,95.349,100,Eukaryota,Nematoda,Enoplea,Dorylaimida,Longidoridae,Longidorus,Longidorus indalus
+OTU_98,KP268973,206,8.91e-49,95.349,100,Eukaryota,Nematoda,Enoplea,Dorylaimida,Longidoridae,Xiphinema,Xiphinema plesiopachtaicum
+OTU_98,KP268972,206,8.91e-49,95.349,100,Eukaryota,Nematoda,Enoplea,Dorylaimida,Longidoridae,Xiphinema,Xiphinema astaregiense
+OTU_98,KP407873,206,8.91e-49,95.349,100,Eukaryota,Nematoda,Enoplea,Dorylaimida,Longidoridae,Xiphinema,Xiphinema pachtaicum
+OTU_98,JN049668,206,8.91e-49,95.349,100,Eukaryota,Nematoda,,,,,Nematoda environmental sample
+OTU_98,AY283155,206,8.91e-49,95.349,100,Eukaryota,Nematoda,Enoplea,Dorylaimida,Longidoridae,Californidorus,Californidorus sp. Arkansas-WY-2003
+OTU_98,EU477380,206,8.91e-49,95.349,100,Eukaryota,Nematoda,Enoplea,Dorylaimida,Nordiidae,Enchodelus,Enchodelus veletensis
+OTU_98,EU503148,206,8.91e-49,95.349,100,Eukaryota,Nematoda,Enoplea,Dorylaimida,Longidoridae,Longidorus,Longidorus kheirii
+OTU_98,EU740557,206,8.91e-49,95.349,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_98,EU740512,206,8.91e-49,95.349,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_98,EU740440,206,8.91e-49,95.349,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_98,EU740430,206,8.91e-49,95.349,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_446,EU740650,239,8.79e-59,100.000,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_446,AJ966489,239,8.79e-59,100.000,100,Eukaryota,Nematoda,Enoplea,Dorylaimida,Dorylaimidae,Mesodorylaimus,Mesodorylaimus japonicus
+OTU_446,EU740652,233,4.09e-57,99.231,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_446,MG921251,231,1.47e-56,100.000,97,Eukaryota,Nematoda,Enoplea,Dorylaimida,Dorylaimidae,Mesodorylaimus,Mesodorylaimus sp. 1 WJW-2018
+OTU_446,MG921248,220,3.18e-53,98.400,97,Eukaryota,Nematoda,Enoplea,Dorylaimida,Dorylaimidae,Mesodorylaimus,Mesodorylaimus subtilis
+OTU_446,MG921247,220,3.18e-53,98.400,97,Eukaryota,Nematoda,Enoplea,Dorylaimida,Dorylaimidae,Mesodorylaimus,Mesodorylaimus subtilis
+OTU_446,MK292127,217,4.12e-52,96.899,100,Eukaryota,Nematoda,Enoplea,Dorylaimida,Qudsianematidae,Ecumenicus,Ecumenicus sp. 85G11
+OTU_446,JN049666,217,4.12e-52,96.899,100,Eukaryota,Nematoda,,,,,Nematoda environmental sample
+OTU_446,AJ966488,217,4.12e-52,96.899,100,Eukaryota,Nematoda,Enoplea,Dorylaimida,Dorylaimidae,Mesodorylaimus,Mesodorylaimus bastiani
+OTU_446,KX372263,215,1.48e-51,97.600,97,Eukaryota,Nematoda,Enoplea,Dorylaimida,Longidoridae,Xiphinema,Xiphinema sp. FOFIFA-MG-6-4
+OTU_446,KX372261,215,1.48e-51,97.600,97,Eukaryota,Nematoda,Enoplea,Dorylaimida,Longidoridae,Xiphinema,Xiphinema sp. FOFIFA-MG-6-2
+OTU_446,AJ875133,213,5.33e-51,96.850,98,Eukaryota,Nematoda,,,,,Nematoda environmental sample
+OTU_446,MG921244,209,6.89e-50,96.800,97,Eukaryota,Nematoda,Enoplea,Dorylaimida,Dorylaimidae,Calcaridorylaimus,Calcaridorylaimus sp. 1 WJW-2018
+OTU_446,MG921242,209,6.89e-50,96.800,97,Eukaryota,Nematoda,Enoplea,Dorylaimida,Dorylaimidae,Calcaridorylaimus,Calcaridorylaimus sp. 1 WJW-2018
+OTU_446,MK946073,206,8.91e-49,95.385,100,Eukaryota,,,,,,uncultured soil eukaryote
+OTU_446,JN049678,206,8.91e-49,95.385,100,Eukaryota,Nematoda,,,,,Nematoda environmental sample
+OTU_446,JN049677,206,8.91e-49,95.385,100,Eukaryota,Nematoda,,,,,Nematoda environmental sample
+OTU_446,JN049659,206,8.91e-49,95.385,100,Eukaryota,Nematoda,,,,,Nematoda environmental sample
+OTU_446,FJ611118,206,8.91e-49,95.385,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_446,FJ611113,206,8.91e-49,95.385,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_446,FJ610793,206,8.91e-49,95.349,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_446,EU740554,206,8.91e-49,95.385,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_446,EU740547,206,8.91e-49,95.385,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_446,EU740530,206,8.91e-49,95.385,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_446,EF024986,206,8.91e-49,95.385,100,Eukaryota,Apicomplexa,Conoidasida,Eucoccidiorida,Eimeriidae,,uncultured Eimeriidae
+OTU_827,MN542209,233,4.09e-57,99.225,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Tylenchidae,Tylenchus,Tylenchus arcuatus
+OTU_827,MW716338,233,4.09e-57,99.225,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Tylenchidae,Tylenchus,Tylenchus arcuatus
+OTU_827,MW716337,233,4.09e-57,99.225,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Tylenchidae,Tylenchus,Tylenchus arcuatus
+OTU_827,EU306349,233,4.09e-57,99.225,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Tylenchidae,Tylenchus,Tylenchus arcuatus
+OTU_827,JQ814878,228,1.90e-55,98.450,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Tylenchidae,Filenchus,Filenchus sp. 4 TJP-2012
+OTU_827,JQ814875,228,1.90e-55,98.450,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Tylenchidae,Filenchus,Filenchus sp. 1 TJP-2012
+OTU_827,EU306348,228,1.90e-55,98.450,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Tylenchidae,Tylenchus,Tylenchus arcuatus
+OTU_827,JQ814877,217,4.12e-52,96.899,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Tylenchidae,Filenchus,Filenchus sp. 3 TJP-2012
+OTU_827,MN542200,211,1.92e-50,96.124,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Tylenchidae,Filenchus,Filenchus vulgaris
+OTU_827,KX156304,211,1.92e-50,96.124,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Tylenchidae,Filenchus,Filenchus hamuliger
+OTU_827,JQ814876,211,1.92e-50,96.124,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Tylenchidae,Filenchus,Filenchus sp. 2 TJP-2012
+OTU_827,FJ969113,209,6.89e-50,96.124,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Tylenchidae,Aglenchus,Aglenchus agricola
+OTU_827,MN542210,206,8.91e-49,95.385,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Tylenchidae,Tylenchus,Tylenchus arcuatus
+OTU_827,JQ814880,206,8.91e-49,95.349,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Tylenchidae,Filenchus,Filenchus annulatus
+OTU_827,JQ814879,206,8.91e-49,95.349,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Tylenchidae,Filenchus,Filenchus sp. 5 TJP-2012
+OTU_827,MW716352,204,3.20e-48,95.349,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Tylenchidae,Coslenchus,Coslenchus franklinae
+OTU_827,MW716351,204,3.20e-48,95.349,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Tylenchidae,Coslenchus,Coslenchus franklinae
+OTU_827,MW716347,204,3.20e-48,95.349,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Tylenchidae,Coslenchus,Coslenchus costatus
+OTU_827,MW716333,204,3.20e-48,95.349,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Tylenchidae,Aglenchus,Aglenchus geraerti
+OTU_827,MT079821,204,3.20e-48,95.385,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Tylenchidae,Aglenchus,Aglenchus muktii
+OTU_827,MN542201,202,1.15e-47,94.656,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Tylenchidae,Filenchus,Filenchus vulgaris
+OTU_827,MW716320,200,4.15e-47,94.574,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Tylenchidae,Filenchus,Filenchus vulgaris
+OTU_827,ON025932,198,1.49e-46,94.615,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Tylenchidae,Aglenchus,Aglenchus agricola
+OTU_827,KJ869322,198,1.49e-46,99.091,85,Eukaryota,Nematoda,Chromadorea,Rhabditida,Tylenchidae,Tylenchus,Tylenchus arcuatus
+OTU_827,KJ869304,198,1.49e-46,99.091,85,Eukaryota,Nematoda,Chromadorea,Rhabditida,Tylenchidae,Tylenchus,Tylenchus arcuatus
+OTU_4439,MH625040,206,8.91e-49,97.500,93,Eukaryota,,,,,,fungal sp.
+OTU_4439,MH625496,200,4.15e-47,96.667,93,Eukaryota,,,,,,fungal sp.
+OTU_4439,MH624836,200,4.15e-47,96.667,93,Eukaryota,,,,,,fungal sp.
+OTU_4439,MH624690,200,4.15e-47,96.667,93,Eukaryota,,,,,,fungal sp.
+OTU_4439,MH624859,189,8.97e-44,95.000,93,Eukaryota,,,,,,fungal sp.
+OTU_4439,AF084230,189,8.97e-44,93.023,100,Eukaryota,,Choanoflagellata,Craspedida,Salpingoecidae,Monosiga,Monosiga ovata
+OTU_4439,AF271999,189,8.97e-44,93.023,100,Eukaryota,,Choanoflagellata,Craspedida,Salpingoecidae,Monosiga,Monosiga ovata
+OTU_4439,KJ631039,183,4.18e-42,92.248,100,Eukaryota,,Choanoflagellata,Craspedida,Salpingoecidae,Salpingoeca,Salpingoeca fusiformis
+OTU_4439,MH625011,178,1.94e-40,93.333,93,Eukaryota,,,,,,fungal sp.
+OTU_4439,AF084231,176,6.99e-40,92.063,96,Eukaryota,,Choanoflagellata,Craspedida,Salpingoecidae,Desmarella,Desmarella moniliformis
+OTU_4439,MH625232,172,9.04e-39,92.500,93,Eukaryota,,,,,,fungal sp.
+OTU_4439,MH625605,167,4.20e-37,91.803,93,Eukaryota,,,,,,fungal sp.
+OTU_4439,MH625334,167,4.20e-37,91.803,93,Eukaryota,,,,,,fungal sp.
+OTU_4439,MF190553,163,5.44e-36,89.313,100,Eukaryota,,Filasterea,,,Pigoraptor,Pigoraptor chileana
+OTU_4439,EF024885,163,5.44e-36,89.313,100,Eukaryota,Apicomplexa,Conoidasida,Eucoccidiorida,Eimeriidae,,uncultured Eimeriidae
+OTU_4439,MH625302,161,1.96e-35,90.984,93,Eukaryota,,,,,,fungal sp.
+OTU_4439,EU011928,161,1.96e-35,89.394,100,Eukaryota,,Choanoflagellata,Acanthoecida,Acanthoecidae,Savillea,Savillea micropora
+OTU_4439,EU371175,159,7.04e-35,89.231,100,Eukaryota,,,,,,uncultured marine eukaryote
+OTU_4439,MH625622,158,2.53e-34,90.164,93,Eukaryota,,,,,,fungal sp.
+OTU_4439,KJ762435,158,2.53e-34,88.636,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_4439,MT611055,158,2.53e-34,88.636,100,Eukaryota,,,,,Tunicaraptor,Tunicaraptor unikontum
+OTU_4439,HM799849,158,2.53e-34,88.889,100,Eukaryota,,,,,,marine Metazoa environmental sample
+OTU_4439,AF358113,158,2.53e-34,88.889,100,Eukaryota,Ctenophora,Tentaculata,Cydippida,Mertensiidae,Charistephane,Charistephane fugiens
+OTU_4439,AF293682,158,2.53e-34,88.889,100,Eukaryota,Ctenophora,Tentaculata,Cydippida,Mertensiidae,Charistephane,Charistephane fugiens
+OTU_4439,MH624891,156,9.10e-34,90.164,93,Eukaryota,,,,,,fungal sp.
+OTU_52,KY687577,239,8.79e-59,100.000,100,Eukaryota,,,,,,uncultured fungus
+OTU_52,KY687529,239,8.79e-59,100.000,100,Eukaryota,,,,,,uncultured fungus
+OTU_52,FJ554135,239,8.79e-59,100.000,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_52,FJ553490,239,8.79e-59,100.000,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_52,FJ553005,233,4.09e-57,99.225,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_52,MK946217,84.2,4.36e-12,78.626,100,Eukaryota,,,,,,uncultured soil eukaryote
+OTU_52,MN447324,73.1,9.43e-09,90.741,42,Eukaryota,Nematoda,Enoplea,Trichinellida,Trichuridae,Trichuris,Trichuris sp. Rr1 GY-2019
+OTU_52,KY687732,73.1,9.43e-09,77.612,100,Eukaryota,,,,,,uncultured fungus
+OTU_52,KX287535,73.1,9.43e-09,77.444,100,Eukaryota,Ascomycota,Dothideomycetes,Mycosphaerellales,Mycosphaerellaceae,Ramularia,Ramularia valerianae
+OTU_52,KX287512,73.1,9.43e-09,77.444,100,Eukaryota,Ascomycota,Dothideomycetes,Mycosphaerellales,Mycosphaerellaceae,Ramularia,Ramularia sp. E JZG-2016
+OTU_52,KX287511,73.1,9.43e-09,77.444,100,Eukaryota,Ascomycota,Dothideomycetes,Mycosphaerellales,Mycosphaerellaceae,Ramularia,Ramularia sp. E JZG-2016
+OTU_52,KX287510,73.1,9.43e-09,77.444,100,Eukaryota,Ascomycota,Dothideomycetes,Mycosphaerellales,Mycosphaerellaceae,Ramularia,Ramularia sp. E JZG-2016
+OTU_52,KX287508,73.1,9.43e-09,77.444,100,Eukaryota,Ascomycota,Dothideomycetes,Mycosphaerellales,Mycosphaerellaceae,Ramularia,Ramularia sp. E JZG-2016
+OTU_52,KX287507,73.1,9.43e-09,77.444,100,Eukaryota,Ascomycota,Dothideomycetes,Mycosphaerellales,Mycosphaerellaceae,Ramularia,Ramularia sp. E JZG-2016
+OTU_52,OP151196,73.1,9.43e-09,93.750,37,Eukaryota,Chordata,Actinopteri,Myctophiformes,Myctophidae,Idiolychnus,Idiolychnus urolampus
+OTU_52,OP151195,73.1,9.43e-09,93.750,37,Eukaryota,Chordata,Actinopteri,Myctophiformes,Myctophidae,Ceratoscopelus,Ceratoscopelus townsendi
+OTU_52,OP151187,73.1,9.43e-09,93.750,37,Eukaryota,Chordata,Actinopteri,Myctophiformes,Myctophidae,Diaphus,Diaphus anderseni
+OTU_52,OP151186,73.1,9.43e-09,93.750,37,Eukaryota,Chordata,Actinopteri,Myctophiformes,Myctophidae,Nannobrachium,Nannobrachium hawaiiensis
+OTU_52,OP151185,73.1,9.43e-09,93.750,37,Eukaryota,Chordata,Actinopteri,Myctophiformes,Myctophidae,Symbolophorus,Symbolophorus californiensis
+OTU_52,OP151184,73.1,9.43e-09,93.750,37,Eukaryota,Chordata,Actinopteri,Myctophiformes,Myctophidae,Notoscopelus,Notoscopelus resplendens
+OTU_52,OP151183,73.1,9.43e-09,93.750,37,Eukaryota,Chordata,Actinopteri,Myctophiformes,Myctophidae,Notolychnus,Notolychnus valdiviae
+OTU_52,OP151179,73.1,9.43e-09,93.750,37,Eukaryota,Chordata,Actinopteri,Myctophiformes,Myctophidae,Lampanyctus,Lampanyctus tenuiformis
+OTU_52,OP151177,73.1,9.43e-09,93.750,37,Eukaryota,Chordata,Actinopteri,Myctophiformes,Myctophidae,Diaphus,Diaphus phillipsi
+OTU_52,OP151176,73.1,9.43e-09,93.750,37,Eukaryota,Chordata,Actinopteri,Myctophiformes,Myctophidae,Taaningichthys,Taaningichthys bathyphilus
+OTU_52,OP151169,73.1,9.43e-09,93.750,37,Eukaryota,Chordata,Actinopteri,Myctophiformes,Myctophidae,Nannobrachium,Nannobrachium bristori
+OTU_311,KM043249,217,4.12e-52,96.899,100,Eukaryota,Rotifera,Eurotatoria,Philodinavidae,,Abrochtha,Abrochtha meselsoni
+OTU_311,GQ922299,217,4.12e-52,96.899,100,Eukaryota,Rotifera,Eurotatoria,,,,Bdelloidea environmental sample
+OTU_311,KF561099,215,1.48e-51,96.899,100,Eukaryota,Rotifera,Eurotatoria,Philodinida,Philodinidae,Dissotrocha,Dissotrocha macrostyla
+OTU_311,JX494745,215,1.48e-51,96.899,100,Eukaryota,Rotifera,Eurotatoria,Philodinida,Philodinidae,Dissotrocha,Dissotrocha macrostyla
+OTU_311,MK946076,211,1.92e-50,96.124,100,Eukaryota,,,,,,uncultured soil eukaryote
+OTU_311,MH429976,211,1.92e-50,96.124,100,Eukaryota,Rotifera,Eurotatoria,Philodinida,Philodinidae,Philodina,Philodina sp. cmbb21
+OTU_311,KM043270,211,1.92e-50,96.124,100,Eukaryota,Rotifera,Eurotatoria,,,Rotaria,Rotaria tardigrada
+OTU_311,KM043265,211,1.92e-50,96.124,100,Eukaryota,Rotifera,Eurotatoria,Philodinida,Habrotrochidae,Otostephanos,Otostephanos jolantae
+OTU_311,KM043262,211,1.92e-50,96.124,100,Eukaryota,Rotifera,Eurotatoria,Philodinida,Philodinidae,Macrotrachela,Macrotrachela papillosa
+OTU_311,KM043255,211,1.92e-50,96.124,100,Eukaryota,Rotifera,Eurotatoria,Adinetida,Adinetidae,Bradyscela,Bradyscela clauda
+OTU_311,OK534155,211,1.92e-50,96.124,100,Eukaryota,Rotifera,Eurotatoria,Adinetida,,,Adinetida sp. YW-2021
+OTU_311,KF561104,211,1.92e-50,96.124,100,Eukaryota,Rotifera,Eurotatoria,,,Rotaria,Rotaria rotatoria
+OTU_311,JX494733,211,1.92e-50,96.124,100,Eukaryota,Rotifera,Eurotatoria,Adinetida,Adinetidae,Adineta,Adineta vaga
+OTU_311,GQ922318,211,1.92e-50,96.124,100,Eukaryota,Rotifera,Eurotatoria,,,,Bdelloidea environmental sample
+OTU_311,GQ922317,211,1.92e-50,96.124,100,Eukaryota,Rotifera,Eurotatoria,,,,Bdelloidea environmental sample
+OTU_311,GQ922311,211,1.92e-50,96.124,100,Eukaryota,Rotifera,Eurotatoria,,,,Bdelloidea environmental sample
+OTU_311,GQ922310,211,1.92e-50,96.124,100,Eukaryota,Rotifera,Eurotatoria,,,,Bdelloidea environmental sample
+OTU_311,GQ922309,211,1.92e-50,96.124,100,Eukaryota,Rotifera,Eurotatoria,,,,Bdelloidea environmental sample
+OTU_311,GQ922306,211,1.92e-50,96.124,100,Eukaryota,Rotifera,Eurotatoria,,,,Bdelloidea environmental sample
+OTU_311,GQ922304,211,1.92e-50,96.124,100,Eukaryota,Rotifera,Eurotatoria,,,,Bdelloidea environmental sample
+OTU_311,GQ922303,211,1.92e-50,96.124,100,Eukaryota,Rotifera,Eurotatoria,,,,Bdelloidea environmental sample
+OTU_311,GQ922301,211,1.92e-50,96.124,100,Eukaryota,Rotifera,Eurotatoria,,,,Bdelloidea environmental sample
+OTU_311,GQ922300,211,1.92e-50,96.124,100,Eukaryota,Rotifera,Eurotatoria,,,,Bdelloidea environmental sample
+OTU_311,MK946164,206,8.91e-49,95.349,100,Eukaryota,,,,,,uncultured soil eukaryote
+OTU_311,KM043271,206,8.91e-49,95.349,100,Eukaryota,Rotifera,Eurotatoria,Philodinida,Philodinidae,Zelinkiella,Zelinkiella synaptae
+OTU_183,MF773738,217,4.12e-52,96.899,100,Eukaryota,Arthropoda,Arachnida,Sarcoptiformes,Oribatellidae,Oribatella,Oribatella sp. XG-2017
+OTU_183,JQ000048,217,4.12e-52,96.899,100,Eukaryota,Arthropoda,Arachnida,Sarcoptiformes,Achipteriidae,Anachipteria,Anachipteria sp. AD1103
+OTU_183,MH198178,211,1.92e-50,96.124,100,Eukaryota,Arthropoda,Arachnida,Sarcoptiformes,Ceratozetidae,Edwardzetes,Edwardzetes edwardsi
+OTU_183,KX397636,211,1.92e-50,96.124,100,Eukaryota,Arthropoda,Arachnida,Sarcoptiformes,Limnozetidae,Limnozetes,Limnozetes rugosus
+OTU_183,KX397635,211,1.92e-50,96.124,100,Eukaryota,Arthropoda,Arachnida,Sarcoptiformes,Limnozetidae,Limnozetes,Limnozetes onondaga
+OTU_183,KX397634,211,1.92e-50,96.124,100,Eukaryota,Arthropoda,Arachnida,Sarcoptiformes,Limnozetidae,Limnozetes,Limnozetes foveolatus
+OTU_183,KX397633,211,1.92e-50,96.124,100,Eukaryota,Arthropoda,Arachnida,Sarcoptiformes,Hydrozetidae,Hydrozetes,Hydrozetes thienemanni
+OTU_183,KX397632,211,1.92e-50,96.124,100,Eukaryota,Arthropoda,Arachnida,Sarcoptiformes,Hydrozetidae,Hydrozetes,Hydrozetes lemnae
+OTU_183,KX397631,211,1.92e-50,96.124,100,Eukaryota,Arthropoda,Arachnida,Sarcoptiformes,Hydrozetidae,Hydrozetes,Hydrozetes lacustris
+OTU_183,KX397630,211,1.92e-50,96.124,100,Eukaryota,Arthropoda,Arachnida,Sarcoptiformes,Galumnidae,Galumna,Galumna lanceata
+OTU_183,EF091419,211,1.92e-50,96.124,100,Eukaryota,Arthropoda,Arachnida,Sarcoptiformes,Phenopelopidae,Eupelops,Eupelops plicatus
+OTU_183,KJ423065,211,1.92e-50,96.124,100,Eukaryota,Arthropoda,Arachnida,Sarcoptiformes,Galumnidae,Pilogalumna,Pilogalumna rosauraruizae
+OTU_183,AB818523,211,1.92e-50,96.124,100,Eukaryota,Arthropoda,Arachnida,Sarcoptiformes,Hydrozetidae,Hydrozetes,Hydrozetes confervae
+OTU_183,EU433987,211,1.92e-50,96.124,100,Eukaryota,Arthropoda,Arachnida,Sarcoptiformes,Hydrozetidae,Hydrozetes,Hydrozetes lacustris
+OTU_183,KR081614,206,8.91e-49,95.349,100,Eukaryota,Arthropoda,Arachnida,Sarcoptiformes,Gymnodamaeidae,Gymnodamaeus,Gymnodamaeus bicostatus
+OTU_183,KR081603,206,8.91e-49,95.349,100,Eukaryota,Arthropoda,Arachnida,Sarcoptiformes,Achipteriidae,Campachipteria,Campachipteria brevisetosa
+OTU_183,KT354348,206,8.91e-49,95.349,100,Eukaryota,Arthropoda,Arachnida,Pseudoscorpiones,Cheliferidae,Dactylochelifer,Dactylochelifer copiosus
+OTU_183,FJ611093,206,8.91e-49,95.349,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_183,MK630359,200,4.15e-47,94.574,100,Eukaryota,Arthropoda,Arachnida,Sarcoptiformes,Banksinomidae,Banksinoma,Banksinoma lanceolata
+OTU_183,MK630354,200,4.15e-47,94.574,100,Eukaryota,Arthropoda,Arachnida,Sarcoptiformes,Cepheidae,Cepheus,Cepheus dentatus
+OTU_183,KR081634,200,4.15e-47,94.574,100,Eukaryota,Arthropoda,Arachnida,Sarcoptiformes,Plasmobatidae,Solenozetes,Solenozetes carinatus
+OTU_183,KR081631,200,4.15e-47,94.574,100,Eukaryota,Arthropoda,Arachnida,Sarcoptiformes,Tetracondylidae,Plenotocepheus,Plenotocepheus neotropicus
+OTU_183,OL839306,200,4.15e-47,94.574,100,Eukaryota,Arthropoda,Arachnida,Sarcoptiformes,Cepheidae,Cepheus,Cepheus dentatus
+OTU_183,MW298513,200,4.15e-47,94.574,100,Eukaryota,Arthropoda,Arachnida,Sarcoptiformes,Selenoribatidae,Arotrobates,Arotrobates granulatus
+OTU_183,MW298512,200,4.15e-47,94.574,100,Eukaryota,Arthropoda,Arachnida,Sarcoptiformes,Selenoribatidae,Arotrobates,Arotrobates granulatus
+OTU_256,MN887605,178,1.94e-40,96.296,84,Eukaryota,Nematoda,Enoplea,Dorylaimida,Nygolaimidae,Nygolaimus,Nygolaimus brachyurus
+OTU_256,MN887604,178,1.94e-40,96.296,84,Eukaryota,Nematoda,Enoplea,Dorylaimida,Nygolaimidae,Nygolaimus,Nygolaimus obtusus
+OTU_256,MN887603,178,1.94e-40,96.296,84,Eukaryota,Nematoda,Enoplea,Dorylaimida,Nygolaimidae,Nygolaimus,Nygolaimus paratenuis
+OTU_256,MN887602,178,1.94e-40,96.296,84,Eukaryota,Nematoda,Enoplea,Dorylaimida,Nygolaimidae,Nygolaimus,Nygolaimus parvus
+OTU_256,AY284770,178,1.94e-40,96.296,84,Eukaryota,Nematoda,Enoplea,Dorylaimida,Nygolaimidae,Nygolaimus,Nygolaimus cf. brachyuris JH-2004
+OTU_256,MG921239,176,6.99e-40,92.000,97,Eukaryota,Nematoda,Enoplea,Dorylaimida,Aetholaimidae,Aetholaimus,Aetholaimus rotundicauda
+OTU_256,MG921238,176,6.99e-40,92.000,97,Eukaryota,Nematoda,Enoplea,Dorylaimida,Aetholaimidae,Aetholaimus,Aetholaimus rotundicauda
+OTU_256,KJ636342,172,9.04e-39,95.370,84,Eukaryota,Nematoda,Enoplea,Dorylaimida,Nygolaimidae,Aquatides,Aquatides aquaticus
+OTU_256,FJ610801,172,9.04e-39,90.769,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_256,FJ610784,172,9.04e-39,90.769,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_256,AJ966510,172,9.04e-39,90.698,100,Eukaryota,Nematoda,Enoplea,Dorylaimida,Tylencholaimidae,Tylencholaimus,Tylencholaimus sp. PDL-2005
+OTU_256,AY593944,172,9.04e-39,95.370,84,Eukaryota,Nematoda,Enoplea,Dorylaimida,Nygolaimidae,Clavicaudoides,Clavicaudoides clavicaudatus
+OTU_256,MG921240,171,3.25e-38,91.200,97,Eukaryota,Nematoda,Enoplea,Dorylaimida,Aetholaimidae,Aetholaimus,Aetholaimus rotundicauda
+OTU_256,JN049662,167,4.20e-37,89.922,100,Eukaryota,Nematoda,,,,,Nematoda environmental sample
+OTU_256,EU477380,167,4.20e-37,89.922,100,Eukaryota,Nematoda,Enoplea,Dorylaimida,Nordiidae,Enchodelus,Enchodelus veletensis
+OTU_256,AY284771,167,4.20e-37,94.545,84,Eukaryota,Nematoda,Enoplea,Dorylaimida,Nygolaimidae,Nygolaimus,Nygolaimus cf. brachyuris JH-2004
+OTU_256,MG921235,165,1.51e-36,90.400,97,Eukaryota,Nematoda,Enoplea,Dorylaimida,Aporcelaimidae,Aporcella,Aporcella vitrinus
+OTU_256,MG921234,165,1.51e-36,90.400,97,Eukaryota,Nematoda,Enoplea,Dorylaimida,Aporcelaimidae,Aporcella,Aporcella vitrinus
+OTU_256,FJ610793,161,1.96e-35,89.147,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_256,EU740557,161,1.96e-35,89.147,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_256,EU740512,161,1.96e-35,89.147,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_256,EU740440,161,1.96e-35,89.147,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_256,EU740430,161,1.96e-35,89.147,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_256,AJ966484,161,1.96e-35,89.147,100,Eukaryota,Nematoda,Enoplea,Dorylaimida,Qudsianematidae,Eudorylaimus,Eudorylaimus carteri
+OTU_256,KX244935,156,9.10e-34,88.372,100,Eukaryota,Nematoda,Enoplea,Dorylaimida,Longidoridae,Xiphinema,Xiphinema duriense
+OTU_37,FJ611197,239,8.79e-59,100.000,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_37,FJ611182,239,8.79e-59,100.000,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_37,FJ610977,239,8.79e-59,100.000,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_37,FJ610948,239,8.79e-59,100.000,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_37,FJ610922,239,8.79e-59,100.000,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_37,FJ610776,239,8.79e-59,100.000,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_37,EU740658,239,8.79e-59,100.000,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_37,EU740646,239,8.79e-59,100.000,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_37,EU740561,239,8.79e-59,100.000,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_37,EU740539,239,8.79e-59,100.000,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_37,EU740509,239,8.79e-59,100.000,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_37,EU740496,239,8.79e-59,100.000,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_37,EU740493,239,8.79e-59,100.000,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_37,EU740489,239,8.79e-59,100.000,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_37,EU740468,239,8.79e-59,100.000,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_37,EU740444,239,8.79e-59,100.000,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_37,EU740436,239,8.79e-59,100.000,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_37,EU740434,239,8.79e-59,100.000,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_37,FJ611195,233,4.09e-57,100.000,98,Eukaryota,,,,,,uncultured eukaryote
+OTU_37,KY922138,228,1.90e-55,100.000,95,Eukaryota,Arthropoda,Arachnida,Sarcoptiformes,Alicorhagiidae,Stigmalychus,Stigmalychus sp. 3 PBK-2017
+OTU_37,KY922137,228,1.90e-55,100.000,95,Eukaryota,Arthropoda,Arachnida,Sarcoptiformes,Alicorhagiidae,Stigmalychus,Stigmalychus sp. 2 PBK-2017
+OTU_37,JQ000033,228,1.90e-55,100.000,95,Eukaryota,Arthropoda,Arachnida,Sarcoptiformes,Alicorhagiidae,Stigmalychus,Stigmalychus sp. 1 PBK-2017
+OTU_37,FJ610964,228,1.90e-55,98.462,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_37,FJ610799,228,1.90e-55,100.000,95,Eukaryota,,,,,,uncultured eukaryote
+OTU_37,EU740461,226,6.84e-55,98.450,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_545,AJ567385,233,4.09e-57,99.225,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Panagrolaimidae,Panagrolaimus,Panagrolaimus davidi
+OTU_545,MK087062,195,1.93e-45,93.798,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Panagrolaimidae,Panagrolaimus,Panagrolaimus sp. compost
+OTU_545,JN049681,195,1.93e-45,93.798,100,Eukaryota,Nematoda,,,,,Nematoda environmental sample
+OTU_545,JN049673,195,1.93e-45,93.893,100,Eukaryota,Nematoda,,,,,Nematoda environmental sample
+OTU_545,FJ717462,185,1.16e-42,92.366,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Panagrolaimidae,Panagrolaimus,Panagrolaimus sp. SN103
+OTU_545,FJ717460,185,1.16e-42,92.366,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Panagrolaimidae,Panagrolaimus,Panagrolaimus sp. JB115
+OTU_545,FJ717459,185,1.16e-42,92.366,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Panagrolaimidae,Panagrolaimus,Panagrolaimus sp. AS03
+OTU_545,FJ717458,185,1.16e-42,92.366,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Panagrolaimidae,Panagrolaimus,Panagrolaimus sp. AS02
+OTU_545,FJ717457,185,1.16e-42,92.366,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Panagrolaimidae,Panagrolaimus,Panagrolaimus sp. AS01
+OTU_545,EU543176,185,1.16e-42,92.366,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Panagrolaimidae,Panagrolaimus,Panagrolaimus detritophagus
+OTU_545,AY878397,185,1.16e-42,92.366,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Panagrolaimidae,Panagrolaimus,Panagrolaimus davidi
+OTU_545,AY878396,185,1.16e-42,92.366,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Panagrolaimidae,Panagrolaimus,Panagrolaimus sp. PS1579
+OTU_545,U81579,185,1.16e-42,92.366,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Panagrolaimidae,Panagrolaimus,Panagrolaimus sp. PS1159
+OTU_545,AY878394,180,5.40e-41,91.603,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Panagrolaimidae,Panagrolaimus,Panagrolaimus sp. PS443
+OTU_545,AY878390,180,5.40e-41,91.729,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Panagrolaimidae,Panagrolaimus,Panagrolaimus sp. WS94
+OTU_545,AY878391,178,1.94e-40,91.603,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Panagrolaimidae,Panagrolaimus,Panagrolaimus superbus
+OTU_545,JN049672,176,6.99e-40,90.698,100,Eukaryota,Nematoda,,,,,Nematoda environmental sample
+OTU_545,DQ285636,176,6.99e-40,91.538,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Panagrolaimidae,Panagrolaimus,Panagrolaimus cf. rigidus AF40
+OTU_545,FJ717461,174,2.51e-39,90.840,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Panagrolaimidae,Panagrolaimus,Panagrolaimus sp. JB051
+OTU_545,AY878395,174,2.51e-39,90.840,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Panagrolaimidae,Panagrolaimus,Panagrolaimus sp. PS1159
+OTU_545,DQ275363,172,9.04e-39,90.840,98,Eukaryota,Nematoda,Chromadorea,Rhabditida,Panagrolaimidae,Panagrolaimus,Panagrolaimus sp. 217Pan1
+OTU_545,AY878392,171,3.25e-38,90.769,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Panagrolaimidae,Panagrolaimus,Panagrolaimus cf. rigidus AF36
+OTU_545,KC522709,163,5.44e-36,92.241,89,Eukaryota,Nematoda,Chromadorea,Rhabditida,Panagrolaimidae,Panagrolaimus,Panagrolaimus sp. AS03
+OTU_545,KC522716,159,7.04e-35,91.453,89,Eukaryota,Nematoda,Chromadorea,Rhabditida,Panagrolaimidae,Panagrolaimus,Panagrolaimus sp. SN103
+OTU_545,KC522713,159,7.04e-35,91.453,89,Eukaryota,Nematoda,Chromadorea,Rhabditida,Panagrolaimidae,Panagrolaimus,Panagrolaimus sp. PS1159
+OTU_204,KY230741,239,8.79e-59,100.000,100,Eukaryota,Arthropoda,Collembola,Symphypleona,Katiannidae,Sminthurinus,Sminthurinus aureus
+OTU_204,KY230782,233,4.09e-57,99.231,100,Eukaryota,Arthropoda,Collembola,Symphypleona,Katiannidae,Sminthurinus,Sminthurinus elegans
+OTU_204,KY554604,228,1.90e-55,98.450,100,Eukaryota,Arthropoda,Collembola,Symphypleona,Katiannidae,,Katiannidae sp. R35
+OTU_204,KY230769,217,4.12e-52,96.899,100,Eukaryota,Arthropoda,Collembola,Symphypleona,Dicyrtomidae,Dicyrtomina,Dicyrtomina cf. minuta 8G1a1_JC431
+OTU_204,KY230768,217,4.12e-52,96.899,100,Eukaryota,Arthropoda,Collembola,Symphypleona,Dicyrtomidae,Dicyrtomina,Dicyrtomina ornata
+OTU_204,KY554620,217,4.12e-52,96.899,100,Eukaryota,Arthropoda,Collembola,Symphypleona,Bourletiellidae,,Bourletiellidae sp. R37
+OTU_204,KY554614,217,4.12e-52,96.899,100,Eukaryota,Arthropoda,Collembola,Symphypleona,Dicyrtomidae,,Dicyrtomidae sp. R6
+OTU_204,AY555522,217,4.12e-52,96.899,100,Eukaryota,Arthropoda,Collembola,Symphypleona,Katiannidae,Sminthurinus,Sminthurinus bimaculatus
+OTU_204,KY554615,211,1.92e-50,96.124,100,Eukaryota,Arthropoda,Collembola,Symphypleona,Dicyrtomidae,,Dicyrtomidae sp. R7
+OTU_204,KY554609,211,1.92e-50,96.124,100,Eukaryota,Arthropoda,Collembola,Symphypleona,Dicyrtomidae,,Dicyrtomidae sp. R1
+OTU_204,EU740452,211,1.92e-50,96.124,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_204,KY230762,206,8.91e-49,95.385,100,Eukaryota,Arthropoda,Collembola,Poduromorpha,Hypogastruridae,Ceratophysella,Ceratophysella luteospina
+OTU_204,KY230759,206,8.91e-49,95.385,100,Eukaryota,Arthropoda,Collembola,Poduromorpha,Onychiuridae,Protaphorura,Protaphorura armata
+OTU_204,KY230719,206,8.91e-49,95.385,100,Eukaryota,Arthropoda,Collembola,Poduromorpha,Onychiuridae,Protaphorura,Protaphorura armata
+OTU_204,EU740659,206,8.91e-49,95.349,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_204,EU740472,206,8.91e-49,95.349,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_204,EU740429,206,8.91e-49,95.349,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_204,AF005452,206,8.91e-49,95.385,100,Eukaryota,Arthropoda,Collembola,Poduromorpha,Poduridae,Podura,Podura aquatica
+OTU_204,KY554621,204,3.20e-48,95.349,100,Eukaryota,Arthropoda,Collembola,Symphypleona,Dicyrtomidae,,Dicyrtomidae sp. R4
+OTU_204,KY230784,200,4.15e-47,94.574,100,Eukaryota,Arthropoda,Collembola,Symphypleona,Sminthurididae,Stenacidia,Stenacidia violacea
+OTU_204,KY230779,200,4.15e-47,94.574,100,Eukaryota,Arthropoda,Collembola,Entomobryomorpha,Isotomidae,Isotoma,Isotoma anglicana
+OTU_204,KY230775,200,4.15e-47,94.574,100,Eukaryota,Arthropoda,Collembola,Entomobryomorpha,Isotomidae,Vertagopus,Vertagopus arboreus
+OTU_204,KY230774,200,4.15e-47,94.574,100,Eukaryota,Arthropoda,Collembola,Entomobryomorpha,Isotomidae,Isotoma,Isotoma viridis
+OTU_204,KY230761,200,4.15e-47,94.615,100,Eukaryota,Arthropoda,Collembola,Poduromorpha,Onychiuridae,Deuteraphorura,Deuteraphorura inermis
+OTU_204,KY230757,200,4.15e-47,94.574,100,Eukaryota,Arthropoda,Collembola,Poduromorpha,Hypogastruridae,Willemia,Willemia denisi
+OTU_208,KY554494,239,8.79e-59,100.000,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_208,OL839310,239,8.79e-59,100.000,100,Eukaryota,Arthropoda,Arachnida,Sarcoptiformes,Brachychthoniidae,Liochthonius,Liochthonius peduncularius
+OTU_208,OL839308,239,8.79e-59,100.000,100,Eukaryota,Arthropoda,Arachnida,Sarcoptiformes,Brachychthoniidae,Liochthonius,Liochthonius neglectus
+OTU_208,AY267973,226,6.84e-55,98.438,99,Eukaryota,,,,,,uncultured eukaryote
+OTU_208,AY267970,226,6.84e-55,98.438,99,Eukaryota,,,,,,uncultured eukaryote
+OTU_208,JQ000035,224,2.46e-54,100.000,94,Eukaryota,Arthropoda,Arachnida,Sarcoptiformes,Brachychthoniidae,Liochthonius,Liochthonius brevis complex sp. AD1300
+OTU_208,AY267974,220,3.18e-53,97.656,99,Eukaryota,,,,,,uncultured eukaryote
+OTU_208,OL839311,206,8.91e-49,95.385,100,Eukaryota,Arthropoda,Arachnida,Sarcoptiformes,Brachychthoniidae,Brachychthonius,Brachychthonius bimaculatus
+OTU_208,OL839309,206,8.91e-49,95.385,100,Eukaryota,Arthropoda,Arachnida,Sarcoptiformes,Brachychthoniidae,Sellnickochthonius,Sellnickochthonius cricoides
+OTU_208,EU740663,206,8.91e-49,95.385,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_208,EU740623,206,8.91e-49,95.385,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_208,EU740608,206,8.91e-49,95.385,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_208,EU740479,206,8.91e-49,95.385,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_208,EU740626,200,4.15e-47,94.615,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_208,EU740615,200,4.15e-47,94.615,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_208,EU740595,200,4.15e-47,94.615,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_208,EU740504,200,4.15e-47,94.615,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_208,EU740482,200,4.15e-47,94.615,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_208,EU740618,195,1.93e-45,95.161,95,Eukaryota,,,,,,uncultured eukaryote
+OTU_208,EU740515,195,1.93e-45,93.846,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_208,EU740633,193,6.94e-45,93.846,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_208,EU740605,193,6.94e-45,93.846,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_208,EU740604,193,6.94e-45,93.846,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_208,EU740588,193,6.94e-45,93.846,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_208,EU740508,193,6.94e-45,93.846,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_162,KX999712,161,1.96e-35,89.313,100,Eukaryota,Cercozoa,Imbricatea,Euglyphida,Euglyphidae,,uncultured Euglyphidae sp.
+OTU_162,FN263282,143,7.09e-30,86.923,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_162,KF539408,134,4.26e-27,85.496,100,Eukaryota,Cercozoa,Imbricatea,Euglyphida,Sphenoderiidae,Sphenoderia,Sphenoderia pseudominuta
+OTU_162,HQ852090,124,2.57e-24,84.328,100,Eukaryota,Brachiopoda,Rhynchonellata,Terebratulida,Terebratulidae,Kanakythyris,Kanakythyris pachyrhynchos
+OTU_162,AF119078,124,2.57e-24,84.328,100,Eukaryota,Brachiopoda,Rhynchonellata,Terebratulida,Megathyrididae,Argyrotheca,Argyrotheca cordata
+OTU_162,Z83752,124,2.57e-24,84.559,100,Eukaryota,Annelida,Clitellata,Hirudinida,Hirudinidae,Hirudo,Hirudo medicinalis
+OTU_162,MW365857,122,9.23e-24,84.211,100,Eukaryota,Arthropoda,Insecta,Blattodea,Blaberidae,Geoscapheus,Geoscapheus dilatatus
+OTU_162,HQ203104,122,9.23e-24,84.058,100,Eukaryota,Annelida,Clitellata,Hirudinida,Haemadipsidae,Haemadipsa,Haemadipsa zeylanica
+OTU_162,HQ203103,122,9.23e-24,84.058,100,Eukaryota,Annelida,Clitellata,Hirudinida,Haemadipsidae,Haemadipsa,Haemadipsa zeylanica
+OTU_162,AY775754,122,9.23e-24,84.211,100,Eukaryota,Platyhelminthes,Turbellaria,,,Ciliopharyngiella,Ciliopharyngiella constricta
+OTU_162,Z83751,121,3.32e-23,83.942,100,Eukaryota,Annelida,Clitellata,Rhynchobdellida,Glossiphoniidae,Glossiphonia,Glossiphonia sp.
+OTU_162,MH424932,119,1.19e-22,83.704,100,Eukaryota,Arthropoda,Arachnida,Opiliones,Pettalidae,Austropurcellia,Austropurcellia sp. QM38121.2
+OTU_162,MH424931,119,1.19e-22,83.704,100,Eukaryota,Arthropoda,Arachnida,Opiliones,Pettalidae,Austropurcellia,Austropurcellia fragosa
+OTU_162,MH424928,119,1.19e-22,83.704,100,Eukaryota,Arthropoda,Arachnida,Opiliones,Pettalidae,Austropurcellia,Austropurcellia finniganensis
+OTU_162,KT072121,119,1.19e-22,84.375,97,Eukaryota,,,,,,uncultured eukaryote
+OTU_162,KJ767478,119,1.19e-22,83.704,100,Eukaryota,Arthropoda,Arachnida,Opiliones,Pettalidae,Austropurcellia,Austropurcellia sharmai
+OTU_162,KJ767477,119,1.19e-22,83.704,100,Eukaryota,Arthropoda,Arachnida,Opiliones,Pettalidae,Austropurcellia,Austropurcellia sharmai
+OTU_162,KJ767476,119,1.19e-22,83.704,100,Eukaryota,Arthropoda,Arachnida,Opiliones,Pettalidae,Austropurcellia,Austropurcellia giribeti
+OTU_162,JX303677,119,1.19e-22,83.582,100,Eukaryota,Arthropoda,Insecta,Hymenoptera,Scelionidae,Probaryconus,Probaryconus sp. 2 EJT-2013
+OTU_162,JN018237,119,1.19e-22,83.459,100,Eukaryota,Arthropoda,Arachnida,Araneae,Atypidae,Atypus,Atypus affinis
+OTU_162,JN623117,119,1.19e-22,83.333,100,Eukaryota,Arthropoda,Insecta,Hymenoptera,Scelionidae,Archaeoteleia,Archaeoteleia sp. D2030
+OTU_162,HQ219472,119,1.19e-22,83.969,100,Eukaryota,,Ichthyosporea,,,,uncultured Ichthyosporea
+OTU_162,GQ410639,119,1.19e-22,83.333,100,Eukaryota,Arthropoda,Insecta,Hymenoptera,Scelionidae,Archaeoteleia,Archaeoteleia mellea
+OTU_162,GQ261956,119,1.19e-22,83.459,100,Eukaryota,Brachiopoda,Rhynchonellata,Terebratulida,Terebratellidae,Terebratella,Terebratella dorsata
+OTU_162,DQ871289,119,1.19e-22,83.459,100,Eukaryota,Brachiopoda,Rhynchonellata,Terebratulida,Terebratellidae,Magellania,Magellania venosa
+OTU_99,AP022634,233,4.09e-57,99.225,100,Eukaryota,Streptophyta,Magnoliopsida,Fabales,Fabaceae,Lotus,Lotus japonicus
+OTU_99,AP022634,233,4.09e-57,99.225,100,Eukaryota,Streptophyta,Magnoliopsida,Fabales,Fabaceae,Lotus,Lotus japonicus
+OTU_99,AP022634,233,4.09e-57,99.225,100,Eukaryota,Streptophyta,Magnoliopsida,Fabales,Fabaceae,Lotus,Lotus japonicus
+OTU_99,LR722623,233,4.09e-57,99.225,100,Eukaryota,Streptophyta,Magnoliopsida,Poales,Poaceae,Hordeum,Hordeum vulgare
+OTU_99,XR_003358374,233,4.09e-57,99.225,100,Eukaryota,Streptophyta,Magnoliopsida,Ranunculales,Papaveraceae,Papaver,Papaver somniferum
+OTU_99,AB904181,233,4.09e-57,99.225,100,Eukaryota,Arthropoda,Insecta,Thysanoptera,Thripidae,Frankliniella,Frankliniella intonsa
+OTU_99,AB904179,233,4.09e-57,99.225,100,Eukaryota,Arthropoda,Insecta,Thysanoptera,Thripidae,Frankliniella,Frankliniella intonsa
+OTU_99,AB904175,233,4.09e-57,99.225,100,Eukaryota,Arthropoda,Insecta,Thysanoptera,Thripidae,Frankliniella,Frankliniella intonsa
+OTU_99,XR_006488179,233,4.09e-57,99.225,100,Eukaryota,Streptophyta,Magnoliopsida,Poales,Poaceae,Triticum,Triticum aestivum
+OTU_99,KC513004,233,4.09e-57,99.225,100,Eukaryota,Arthropoda,Insecta,Thysanoptera,Thripidae,Scirtothrips,Scirtothrips aurantii
+OTU_99,KC512999,233,4.09e-57,99.225,100,Eukaryota,Arthropoda,Insecta,Thysanoptera,Thripidae,Pseudanaphothrips,Pseudanaphothrips araucariae
+OTU_99,KC512960,233,4.09e-57,99.225,100,Eukaryota,Arthropoda,Insecta,Thysanoptera,Thripidae,Frankliniella,Frankliniella tritici
+OTU_99,KC512959,233,4.09e-57,99.225,100,Eukaryota,Arthropoda,Insecta,Thysanoptera,Thripidae,Frankliniella,Frankliniella occidentalis
+OTU_99,KC512958,233,4.09e-57,99.225,100,Eukaryota,Arthropoda,Insecta,Thysanoptera,Thripidae,Frankliniella,Frankliniella cf. schultzei/sulphurea TH130
+OTU_99,KC512956,233,4.09e-57,99.225,100,Eukaryota,Arthropoda,Insecta,Thysanoptera,Thripidae,Frankliniella,Frankliniella occidentalis
+OTU_99,KC512955,233,4.09e-57,99.225,100,Eukaryota,Arthropoda,Insecta,Thysanoptera,Thripidae,Frankliniella,Frankliniella occidentalis
+OTU_99,KC512954,233,4.09e-57,99.225,100,Eukaryota,Arthropoda,Insecta,Thysanoptera,Thripidae,Frankliniella,Frankliniella australis
+OTU_99,EU740571,233,4.09e-57,99.225,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_99,EU740549,233,4.09e-57,99.225,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_99,EU740533,233,4.09e-57,99.225,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_99,AB904173,228,1.90e-55,98.450,100,Eukaryota,Arthropoda,Insecta,Thysanoptera,Thripidae,Scirtothrips,Scirtothrips dorsalis
+OTU_99,AB904172,228,1.90e-55,98.450,100,Eukaryota,Arthropoda,Insecta,Thysanoptera,Thripidae,Scirtothrips,Scirtothrips dorsalis
+OTU_99,KC512998,228,1.90e-55,98.450,100,Eukaryota,Arthropoda,Insecta,Thysanoptera,Thripidae,Pseudanaphothrips,Pseudanaphothrips achaetus
+OTU_99,KC512957,228,1.90e-55,98.450,100,Eukaryota,Arthropoda,Insecta,Thysanoptera,Thripidae,Frankliniella,Frankliniella schultzei
+OTU_99,KC512928,228,1.90e-55,98.450,100,Eukaryota,Arthropoda,Insecta,Thysanoptera,Thripidae,Anascirtothrips,Anascirtothrips arorai
+OTU_99,JN797295,224,2.46e-54,99.194,96,Eukaryota,Arthropoda,Insecta,Thysanoptera,Thripidae,Thrips,Thrips sp. JRC-2012
+OTU_99,KC513008,222,8.85e-54,97.674,100,Eukaryota,Arthropoda,Insecta,Thysanoptera,Thripidae,Sericothrips,Sericothrips staphylinus
+OTU_2422,XR_003777136,178,1.94e-40,91.538,100,Eukaryota,Arthropoda,Arachnida,Mesostigmata,Phytoseiidae,Galendromus,Galendromus occidentalis
+OTU_2422,XR_003777128,178,1.94e-40,91.538,100,Eukaryota,Arthropoda,Arachnida,Mesostigmata,Phytoseiidae,Galendromus,Galendromus occidentalis
+OTU_2422,KY554629,178,1.94e-40,91.603,100,Eukaryota,Arthropoda,Arachnida,,,,Arachnida sp. R39
+OTU_2422,AB862883,178,1.94e-40,91.538,100,Eukaryota,Arthropoda,Arachnida,Mesostigmata,Phytoseiidae,Neoseiulus,Neoseiulus makuwa
+OTU_2422,AY620938,178,1.94e-40,91.538,100,Eukaryota,Arthropoda,Arachnida,Mesostigmata,Blattisociidae,Lasioseius,Lasioseius sp. AL6866
+OTU_2422,LC333816,172,9.04e-39,90.769,100,Eukaryota,Arthropoda,Arachnida,Mesostigmata,Phytoseiidae,Gynaeseius,Gynaeseius liturivorus
+OTU_2422,AB862882,172,9.04e-39,90.769,100,Eukaryota,Arthropoda,Arachnida,Mesostigmata,Phytoseiidae,Neoseiulus,Neoseiulus makuwa
+OTU_2422,AB618065,172,9.04e-39,90.769,100,Eukaryota,Arthropoda,Arachnida,Mesostigmata,Phytoseiidae,Euseius,Euseius sojaensis
+OTU_2422,AB618064,172,9.04e-39,90.769,100,Eukaryota,Arthropoda,Arachnida,Mesostigmata,Phytoseiidae,Euseius,Euseius sojaensis
+OTU_2422,AB618062,172,9.04e-39,90.769,100,Eukaryota,Arthropoda,Arachnida,Mesostigmata,Phytoseiidae,Neoseiulus,Neoseiulus womersleyi
+OTU_2422,AB618061,172,9.04e-39,90.769,100,Eukaryota,Arthropoda,Arachnida,Mesostigmata,Phytoseiidae,Neoseiulus,Neoseiulus womersleyi
+OTU_2422,AB618060,172,9.04e-39,90.769,100,Eukaryota,Arthropoda,Arachnida,Mesostigmata,Phytoseiidae,Neoseiulus,Neoseiulus womersleyi
+OTU_2422,AB618059,172,9.04e-39,90.769,100,Eukaryota,Arthropoda,Arachnida,Mesostigmata,Phytoseiidae,Amblyseius,Amblyseius eharai
+OTU_2422,AB618058,172,9.04e-39,90.769,100,Eukaryota,Arthropoda,Arachnida,Mesostigmata,Phytoseiidae,Amblyseius,Amblyseius eharai
+OTU_2422,AY620935,172,9.04e-39,90.909,100,Eukaryota,Arthropoda,Arachnida,Mesostigmata,Parasitidae,Phorytocarpais,Phorytocarpais fimetorum
+OTU_2422,LC333817,167,4.20e-37,90.000,100,Eukaryota,Arthropoda,Arachnida,Mesostigmata,Phytoseiidae,Gynaeseius,Gynaeseius liturivorus
+OTU_2422,AB862881,167,4.20e-37,90.000,100,Eukaryota,Arthropoda,Arachnida,Mesostigmata,Phytoseiidae,Typhlodromus,Typhlodromus vulgaris
+OTU_2422,AB862880,167,4.20e-37,90.000,100,Eukaryota,Arthropoda,Arachnida,Mesostigmata,Phytoseiidae,Typhlodromips,Typhlodromips okinawanus
+OTU_2422,AB618063,167,4.20e-37,90.000,100,Eukaryota,Arthropoda,Arachnida,Mesostigmata,Phytoseiidae,Amblyseius,Amblyseius tsugawai
+OTU_2422,GQ129213,167,4.20e-37,90.000,100,Eukaryota,Arthropoda,Arachnida,Mesostigmata,Dermanyssidae,Dermanyssus,Dermanyssus gallinae
+OTU_2422,AF115374,167,4.20e-37,90.000,100,Eukaryota,Arthropoda,Arachnida,Mesostigmata,Ologamasidae,Gamasiphis,Gamasiphis pulchellus
+OTU_2422,AY620940,167,4.20e-37,90.000,100,Eukaryota,Arthropoda,Arachnida,Mesostigmata,Varroidae,Varroa,Varroa destructor
+OTU_2422,AY620934,163,5.44e-36,89.474,100,Eukaryota,Arthropoda,Arachnida,Mesostigmata,Parasitidae,Pergamasus,Pergamasus cf. canestrinii OSAL000418
+OTU_2422,AY620936,158,2.53e-34,88.636,100,Eukaryota,Arthropoda,Arachnida,Mesostigmata,Parasitidae,Poecilochirus,Poecilochirus sp. AL6585
+OTU_2422,AB618057,156,9.10e-34,88.462,100,Eukaryota,Arthropoda,Arachnida,Mesostigmata,Phytoseiidae,Neoseiulus,Neoseiulus californicus
+OTU_330,AJ418786,239,8.79e-59,100.000,100,Eukaryota,Cercozoa,Imbricatea,Euglyphida,Euglyphidae,Euglypha,Euglypha filifera
+OTU_330,AJ418785,233,4.09e-57,99.225,100,Eukaryota,Cercozoa,Imbricatea,Euglyphida,Euglyphidae,Euglypha,Euglypha filifera
+OTU_330,AJ418782,233,4.09e-57,99.225,100,Eukaryota,Cercozoa,Imbricatea,Euglyphida,Euglyphidae,Euglypha,Euglypha rotunda
+OTU_330,X77692,231,1.47e-56,99.225,100,Eukaryota,Cercozoa,Imbricatea,Euglyphida,Euglyphidae,Euglypha,Euglypha rotunda
+OTU_330,AJ418783,222,8.85e-54,97.692,100,Eukaryota,Cercozoa,Imbricatea,Euglyphida,Euglyphidae,Euglypha,Euglypha rotunda
+OTU_330,EF456754,217,4.12e-52,96.899,100,Eukaryota,Cercozoa,Imbricatea,Euglyphida,Euglyphidae,Euglypha,Euglypha cf. ciliata
+OTU_330,EF456753,217,4.12e-52,96.899,100,Eukaryota,Cercozoa,Imbricatea,Euglyphida,Euglyphidae,Euglypha,Euglypha penardi
+OTU_330,AJ418784,206,8.91e-49,95.385,100,Eukaryota,Cercozoa,Imbricatea,Euglyphida,Euglyphidae,Euglypha,Euglypha rotunda
+OTU_330,AJ418787,189,8.97e-44,93.023,100,Eukaryota,Cercozoa,Imbricatea,Euglyphida,Euglyphidae,Euglypha,Euglypha tuberculata
+OTU_330,EF023835,165,1.51e-36,90.000,100,Eukaryota,Cercozoa,,Cercomonadida,,,Cercomonadida environmental sample
+OTU_330,EF023332,165,1.51e-36,90.000,100,Eukaryota,Cercozoa,,Cercomonadida,,,Cercomonadida environmental sample
+OTU_330,EF023300,165,1.51e-36,90.000,100,Eukaryota,Cercozoa,,Cercomonadida,,,Cercomonadida environmental sample
+OTU_330,KF539408,159,7.04e-35,89.147,100,Eukaryota,Cercozoa,Imbricatea,Euglyphida,Sphenoderiidae,Sphenoderia,Sphenoderia pseudominuta
+OTU_330,EF023453,159,7.04e-35,89.231,100,Eukaryota,Streptophyta,Magnoliopsida,Fabales,Fabaceae,,Phaseoleae environmental sample
+OTU_330,AB901953,156,9.10e-34,88.550,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_330,GU228868,156,9.10e-34,88.462,100,Eukaryota,Cercozoa,Imbricatea,Euglyphida,Cyphoderiidae,Cyphoderia,Cyphoderia cf. compressa
+OTU_330,EF024104,156,9.10e-34,88.462,100,Eukaryota,Cercozoa,Imbricatea,Thaumatomonadida,,,uncultured Thaumatomonadida
+OTU_330,EF024499,156,9.10e-34,88.462,100,Eukaryota,Cercozoa,Imbricatea,Thaumatomonadida,,,uncultured Thaumatomonadida
+OTU_330,EF024494,156,9.10e-34,88.462,100,Eukaryota,Cercozoa,Imbricatea,Thaumatomonadida,,,uncultured Thaumatomonadida
+OTU_330,EF024403,156,9.10e-34,88.462,100,Eukaryota,Cercozoa,Imbricatea,Thaumatomonadida,,,uncultured Thaumatomonadida
+OTU_330,AJ418788,156,9.10e-34,88.462,100,Eukaryota,Cercozoa,Imbricatea,Euglyphida,Euglyphidae,Euglypha,Euglypha acanthophora
+OTU_330,EF025028,150,4.23e-32,87.786,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_330,EF025021,150,4.23e-32,87.786,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_330,EF456752,148,1.52e-31,87.786,100,Eukaryota,Cercozoa,Imbricatea,Euglyphida,Trinematidae,Trinema,Trinema lineare
+OTU_330,MK367939,145,1.97e-30,86.923,100,Eukaryota,,Dinophyceae,Syndiniales,Amoebophryaceae,Amoebophrya,Amoebophrya sp.
+OTU_536,KR081633,239,8.79e-59,100.000,100,Eukaryota,Arthropoda,Arachnida,Sarcoptiformes,Haplozetidae,Rostrozetes,Rostrozetes nebulosus
+OTU_536,KR081616,239,8.79e-59,100.000,100,Eukaryota,Arthropoda,Arachnida,Sarcoptiformes,Hemileiidae,Hemileius,Hemileius microclava
+OTU_536,AB818532,239,8.79e-59,100.000,100,Eukaryota,Arthropoda,Arachnida,Sarcoptiformes,Oripodidae,Oripoda,Oripoda sp. SK-2013
+OTU_536,AB818528,239,8.79e-59,100.000,100,Eukaryota,Arthropoda,Arachnida,Sarcoptiformes,Haplozetidae,Protoribates,Protoribates hakonensis
+OTU_536,MT406363,239,8.79e-59,100.000,100,Eukaryota,Arthropoda,Arachnida,Sarcoptiformes,Scheloribatidae,Siculobata,Siculobata sicula
+OTU_536,MT406362,239,8.79e-59,100.000,100,Eukaryota,Arthropoda,Arachnida,Sarcoptiformes,Scheloribatidae,Siculobata,Siculobata sicula
+OTU_536,MT406361,239,8.79e-59,100.000,100,Eukaryota,Arthropoda,Arachnida,Sarcoptiformes,Scheloribatidae,Siculobata,Siculobata sicula
+OTU_536,EU433990,239,8.79e-59,100.000,100,Eukaryota,Arthropoda,Arachnida,Sarcoptiformes,Oribatulidae,Oribatula,Oribatula tibialis
+OTU_536,EU433988,239,8.79e-59,100.000,100,Eukaryota,Arthropoda,Arachnida,Sarcoptiformes,Haplozetidae,Rostrozetes,Rostrozetes sp. 1 IS-2008
+OTU_536,AY494235,237,3.16e-58,100.000,99,Eukaryota,,,,,,uncultured eukaryote
+OTU_536,MK630358,233,4.09e-57,99.225,100,Eukaryota,Arthropoda,Arachnida,Sarcoptiformes,Haplozetidae,Rostrozetes,Rostrozetes ovulum
+OTU_536,MK630357,233,4.09e-57,99.225,100,Eukaryota,Arthropoda,Arachnida,Sarcoptiformes,Haplozetidae,Rostrozetes,Rostrozetes ovulum
+OTU_536,AB818530,233,4.09e-57,99.225,100,Eukaryota,Arthropoda,Arachnida,Sarcoptiformes,Oribatulidae,Oribatula,Oribatula sakamorii
+OTU_536,AB818527,233,4.09e-57,99.225,100,Eukaryota,Arthropoda,Arachnida,Sarcoptiformes,Scheloribatidae,Scheloribates,Scheloribates pallidulus
+OTU_536,MT406360,233,4.09e-57,99.225,100,Eukaryota,Arthropoda,Arachnida,Sarcoptiformes,Scheloribatidae,Paraleius,Paraleius sp. 1 SS-2020
+OTU_536,MT406359,233,4.09e-57,99.225,100,Eukaryota,Arthropoda,Arachnida,Sarcoptiformes,Scheloribatidae,Paraleius,Paraleius sp. 1 SS-2020
+OTU_536,MT406358,233,4.09e-57,99.225,100,Eukaryota,Arthropoda,Arachnida,Sarcoptiformes,Scheloribatidae,Paraleius,Paraleius sp. 6 SS-2020
+OTU_536,MT406357,233,4.09e-57,99.225,100,Eukaryota,Arthropoda,Arachnida,Sarcoptiformes,Scheloribatidae,Paraleius,Paraleius sp. 6 SS-2020
+OTU_536,MT406356,233,4.09e-57,99.225,100,Eukaryota,Arthropoda,Arachnida,Sarcoptiformes,Scheloribatidae,Paraleius,Paraleius sp. 6 SS-2020
+OTU_536,MT406355,233,4.09e-57,99.225,100,Eukaryota,Arthropoda,Arachnida,Sarcoptiformes,Scheloribatidae,Paraleius,Paraleius sp. 1 SS-2020
+OTU_536,MT406354,233,4.09e-57,99.225,100,Eukaryota,Arthropoda,Arachnida,Sarcoptiformes,Scheloribatidae,Paraleius,Paraleius sp. 6 SS-2020
+OTU_536,MT406353,233,4.09e-57,99.225,100,Eukaryota,Arthropoda,Arachnida,Sarcoptiformes,Scheloribatidae,Paraleius,Paraleius sp. 6 SS-2020
+OTU_536,MT406352,233,4.09e-57,99.225,100,Eukaryota,Arthropoda,Arachnida,Sarcoptiformes,Scheloribatidae,Paraleius,Paraleius sp. 1 SS-2020
+OTU_536,MT406351,233,4.09e-57,99.225,100,Eukaryota,Arthropoda,Arachnida,Sarcoptiformes,Scheloribatidae,Paraleius,Paraleius sp. 4 SS-2020
+OTU_536,MT406350,233,4.09e-57,99.225,100,Eukaryota,Arthropoda,Arachnida,Sarcoptiformes,Scheloribatidae,Paraleius,Paraleius sp. 4 SS-2020
+OTU_458,EU740653,239,8.79e-59,100.000,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_458,EU740647,239,8.79e-59,100.000,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_458,EU740641,239,8.79e-59,100.000,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_458,EU740640,239,8.79e-59,100.000,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_458,EU740518,239,8.79e-59,100.000,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_458,EU740514,239,8.79e-59,100.000,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_458,EU740495,239,8.79e-59,100.000,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_458,EU740460,239,8.79e-59,100.000,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_458,EU740453,239,8.79e-59,100.000,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_458,EU740449,239,8.79e-59,100.000,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_458,EU740438,239,8.79e-59,100.000,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_458,EU740437,239,8.79e-59,100.000,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_458,EU740431,239,8.79e-59,100.000,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_458,MH924837,228,1.90e-55,98.450,100,Eukaryota,Nematoda,Chromadorea,Plectida,Plectidae,Plectus,Plectus aff. parvus AS-2019
+OTU_458,KY554582,228,1.90e-55,98.450,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_458,KY554557,228,1.90e-55,98.450,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_458,KY554540,228,1.90e-55,98.450,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_458,KY554537,228,1.90e-55,98.450,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_458,KY554523,228,1.90e-55,98.450,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_458,KY554518,228,1.90e-55,98.450,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_458,KY554487,228,1.90e-55,98.450,100,Eukaryota,,,,,,uncultured eukaryote
+OTU_458,KC206041,228,1.90e-55,98.450,100,Eukaryota,Nematoda,Chromadorea,Plectida,Plectidae,Plectus,Plectus velox
+OTU_458,KC206040,228,1.90e-55,98.450,100,Eukaryota,Nematoda,Chromadorea,Plectida,Plectidae,Plectus,Plectus minimus
+OTU_458,KC206039,228,1.90e-55,98.450,100,Eukaryota,Nematoda,Chromadorea,Rhabditida,Cephalobidae,Acrobeloides,Acrobeloides buetschlii
+OTU_458,AB649028,228,1.90e-55,98.450,100,Eukaryota,Nematoda,Chromadorea,Plectida,Plectidae,Plectus,Plectus murrayi

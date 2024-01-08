@@ -1,0 +1,22 @@
+#!/bin/bash --login
+
+#SBATCH --time=24:00:00      
+#SBATCH --ntasks=1           
+#SBATCH --cpus-per-task=20   
+#SBATCH --mem=32G   
+#SBATCH --job-name dowl_nt
+#SBACTH -A shade-cole-bonito
+
+cd ${SLURM_SUBMIT_DIR}
+
+cores=$SLURM_CPUS_PER_TASK
+RAM_GB=$SLURM_MEM_PER_NODE
+
+for i in $(seq -w 00 124)
+do
+    sed -e '/^#/d' "https://ftp.ncbi.nlm.nih.gov/blast/db/nt.${i}.tar.gz" | 
+    wget "https://ftp.ncbi.nlm.nih.gov/blast/db/nt.${i}.tar.gz"
+done
+
+
+# https://unix.stackexchange.com/questions/381700/how-to-loop-over-numbered-files-and-also-the-outputs
