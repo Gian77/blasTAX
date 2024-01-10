@@ -2,12 +2,6 @@ import sys
 import os
 import pandas as pd
 
-# This script calculates the score at each rank and uses the same principles adopted by QIIME2 for 
-# blast classified. The hits are filtered by those which pass thresholds for percent ID and e-value. 
-# After that, the confidence of each rank is the percent of hits which agree with the most common 
-# taxon for that rank. For example, a confidence of 0.8 for Tuber means that 4 of 5 hits passing 
-# the filters have Tuber as the genus.
-
 def reformat_BLAST(blast_file, output_dir, confidence, max_hits, ethresh, p_iden_thresh, ranks):
     if ranks[0] == "Kingdom":
         classification_buf = "OTU_ID\tOTU_Score\tKingdom\tK_score\tPhylum\tP_score\tClass\tC_score"
@@ -34,15 +28,15 @@ def reformat_BLAST(blast_file, output_dir, confidence, max_hits, ethresh, p_iden
                 if t not in q_sub.columns and t == "Kingdom":
                     t = "Domain"
                 vcs = q_sub[t].value_counts(normalize=True)
-                if len(vcs) == 0 or "unidentified" in vcs.index[0] or vcs[0] < confidence or (
+                if len(vcs) == 0 or "unidentified" in vcs.index[0] or vcs.iloc[0] < confidence or (
                         t == ranks[-1] and vcs.index[0].endswith("_sp")):
                     break
                 else:
                     if "ncertae_sedis" in vcs.index[0]:
-                        q_list.extend(["Incertae_sedis", str(vcs[0])])
+                        q_list.extend(["Incertae_sedis", str(vcs.iloc[0])])
                     else:
-                        q_list.extend([vcs.index[0], str(vcs[0])])
-                    q_list[1] = str(vcs[0])
+                        q_list.extend([vcs.index[0], str(vcs.iloc[0])])
+                    q_list[1] = str(vcs.iloc[0])
 
         classification_buf += "\t".join(q_list) + "\n"
 

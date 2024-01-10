@@ -34,7 +34,7 @@ show_help() {
 
 # Default values
 input_file=train.fasta
-db="/mnt/research/EvansLab/DATABASES/NCBInt_feb23/nt"
+db="/mnt/research/EvansLab/DATABASES/NCBInt_feb23"
 threads=16
 max_hits=25
 confidence=0.7
@@ -89,9 +89,13 @@ done
 eval "$(conda shell.bash hook)"
 conda activate BLAST
 
+# remove white spaces in the fasta headers
+python code/parseFasta.py $input_file ${out_dir} --prefix Query
+
 echo -e ">>>> Running BLAST <<<<\n"
-sh code/blast.sh $input_file $db $threads $max_hits $out_dir
+sh code/blast.sh ${out_dir}/parsed_input.fasta $db/nt $threads $max_hits $out_dir
 echo -e "\nBLAST hits obtained. Moving on...\n"
+
 # modify the output to spread the hits that gave the same score
 python code/modBlast.py -i ${out_dir}/blast.out -o ${out_dir}/blast_mod.out -d $out_dir
  
@@ -99,8 +103,8 @@ python code/modBlast.py -i ${out_dir}/blast.out -o ${out_dir}/blast_mod.out -d $
 cut -f 1,3 ${out_dir}/blast_mod.out > ${out_dir}/taxids.txt
 
 # Need to modify the db variable for taxonkit
-NCBI_nt=$(echo $db | cut -d"/" -f1,2,3,4,5,6) 
-grep "OTU" ${out_dir}/taxids.txt | cut -f 2 | taxonkit reformat -I 1 --threads $threads --data-dir $NCBI_nt > ${out_dir}/full_lineage.txt
+#NCBI_nt=$(echo $db | cut -d"/" -f1,2,3,4,5,6) 
+grep "Query" ${out_dir}/taxids.txt | cut -f 2 | taxonkit reformat -I 1 --threads $threads --data-dir $db > ${out_dir}/full_lineage.txt
 
 paste ${out_dir}/blast_mod.out ${out_dir}/taxids.txt ${out_dir}/full_lineage.txt > ${out_dir}/taxformat.txt
 

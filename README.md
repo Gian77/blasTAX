@@ -2,7 +2,7 @@
 
 ### A taxonomy classifier program based on BLAST!
 
-This is a standalone classifier for marker gene sequences, like those produced in microbiome studies, that form a `.fasta` file that outputs a taxonomy table with Kingdom, Phylum, Class, Order, Family, Genus, Species. The classification is made using [BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi) against the whole NCBI nt (nucleotide) sequence [database](https://ftp.ncbi.nlm.nih.gov/blast/db/) that must be available locally. 
+This is a standalone classifier for marker gene sequences, like those produced in microbiome studies, that form a `.fasta` file that outputs a taxonomy table with Kingdom, Phylum, Class, Order, Family, Genus, Species and confidence scores at each rank. The classification is made using [BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi) against the whole NCBI nt (nucleotide) sequence [database](https://ftp.ncbi.nlm.nih.gov/blast/db/) that must be available locally. 
 
 **blasTAX** calculates the score at each rank and uses the same principles adopted by [QIIME2](https://qiime2.org/) for blast classified. The hits are filtered by those which pass thresholds for percent ID (percent identity) and e-value. After that, the confidence of each rank is the percent of hits which agree with the most common taxon for that rank. For example, a confidence of 0.8 for Tuber means that 4 of 5 hits passing the filters have Tuber as the genus.
 
