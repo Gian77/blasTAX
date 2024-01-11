@@ -1,40 +1,20 @@
->Bacteria; Actinobacteria; Actinomycetia; Micrococcales; Micrococcaceae; Arthrobacter; Arthrobacter sp. 131MFCol6.1	Query_1
->Bacteria; Actinobacteria; Actinomycetia; Micrococcales; Micrococcaceae; Arthrobacter; Arthrobacter sp. 161MFSha2.1	Query_2
->Bacteria; Actinobacteria; Actinomycetia; Micrococcales; Microbacteriaceae; Curtobacterium; Curtobacterium sp. 314Chir4.1	Query_3
->Bacteria; Actinobacteria; Actinomycetia; Streptomycetales; Streptomycetaceae; Streptomyces; Streptomyces sp. 303MFCol5.2	Query_4
->Bacteria; Actinobacteria; Actinomycetia; Corynebacteriales; Mycobacteriaceae; Mycobacterium; Mycobacterium sp. UNC267MFSha1.1M11	Query_5
->Bacteria; Actinobacteria; Actinomycetia; Corynebacteriales; Nocardiaceae; Rhodococcus; Rhodococcus sp. 29MFTsu3.1	Query_6
->Bacteria; Actinobacteria; Actinomycetia; Streptomycetales; Streptomycetaceae; Streptomyces; Streptomyces canus 299MFChir4.1	Query_7
->Bacteria; Actinobacteria; Actinomycetia; Propionibacteriales; Nocardioidaceae; Nocardioides; Nocardioides sp. UNC345MFTsu5.1	Query_8
->Bacteria; Actinobacteria; Actinomycetia; Streptomycetales; Streptomycetaceae; Streptomyces; Streptomyces sp. UNC401CLCol	Query_9
->Bacteria; Proteobacteria; Alphaproteobacteria; Caulobacterales; Caulobacteraceae; Brevundimonas; Brevundimonas sp. 374	Query_10
->Bacteria; Proteobacteria; Alphaproteobacteria; Hyphomicrobiales; Rhizobiaceae; Agrobacterium; Agrobacterium sp. 33MFTa1.1	Query_11
->Bacteria; Proteobacteria; Alphaproteobacteria; Hyphomicrobiales; Methylobacteriaceae; Methylobacterium; Methylobacterium sp. 285MFTsu5.1	Query_12
->Bacteria; Proteobacteria; Alphaproteobacteria; Hyphomicrobiales; Brucellaceae; Ochrobactrum; Ochrobactrum sp. 370MFChir3.1	Query_13
->Bacteria; Proteobacteria; Alphaproteobacteria; Hyphomicrobiales; Rhizobiaceae; Rhizobium; Rhizobium sp. 2MFCol3.1	Query_14
->Bacteria; Proteobacteria; Alphaproteobacteria; Hyphomicrobiales; Phyllobacteriaceae; Phyllobacterium; Phyllobacterium sp. UNC302MFCol5.2	Query_15
->Bacteria; Proteobacteria; Alphaproteobacteria; Hyphomicrobiales; Boseaceae; Bosea; Bosea sp. UNC402CLCol	Query_16
->Bacteria; Bacteroidetes; Flavobacteriia; Flavobacteriales; Weeksellaceae; Chryseobacterium; Chryseobacterium sp. UNC8MFCol	Query_17
->Bacteria; Bacteroidetes; Flavobacteriia; Flavobacteriales; Flavobacteriaceae; Flavobacterium; Flavobacterium sp. 40S8	Query_18
->Bacteria; Bacteroidetes; Flavobacteriia; Flavobacteriales; Weeksellaceae; Chryseobacterium; Chryseobacterium sp. RU37D	Query_19
->Bacteria; Bacteroidetes; Flavobacteriia; Flavobacteriales; Weeksellaceae; Chryseobacterium; Chryseobacterium sp. RU33C	Query_20
->Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Burkholderiaceae; Burkholderia; Burkholderia CL11	Query_21
->Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Burkholderiaceae; Ralstonia; Ralstonia sp. UNC404CL21Col	Query_22
->Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Comamonadaceae; Variovorax; Variovorax paradoxus CL14	Query_23
->Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Oxalobacteraceae; Janthinobacterium; Janthinobacterium sp. TND4EL3	Query_24
->Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Comamonadaceae; Pseudacidovorax; Pseudacidovorax sp. RU35E	Query_25
->Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Priestia; Priestia megaterium 27Col1.1E	Query_26
->Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Bacillus; Bacillus sp. UNC41MFS5	Query_27
->Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Bacillus; Bacillus sp. UNC125MFCrub1.1	Query_28
->Bacteria; Firmicutes; Bacilli; Bacillales; Paenibacillaceae; Paenibacillus; Paenibacillus sp. RU4X	Query_29
->Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Bacillus; Bacillus sp. RU27A	Query_30
->Bacteria; Firmicutes; Bacilli; Bacillales; Paenibacillaceae; Paenibacillus; Paenibacillus sp. RU26A	Query_31
->Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia; Escherichia coli DH5a	Query_32
->Bacteria; Proteobacteria; Gammaproteobacteria; Xanthomonadales; Rhodanobacteraceae; Dyella; Dyella japonica UNC79MFTsu3.2	Query_33
->Bacteria; Proteobacteria; Gammaproteobacteria; Xanthomonadales; Rhodanobacteraceae; Luteibacter; Luteibacter sp. Sphag1AF	Query_34
->Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales; Erwiniaceae; Pantoea; Pantoea sp. AlfR4	Query_35
->Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Pseudomonadaceae; Pseudomonas; Pseudomonas sp 395MF	Query_36
->Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Pseudomonadaceae; Pseudomonas; Pseudomonas sp. KD5	Query_37
->Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Pseudomonadaceae; Pseudomonas; Pseudomonas umsongensis UNC430CL58Col	Query_38
->Bacteria; Proteobacteria; Gammaproteobacteria; Moraxellales; Moraxellaceae; Acinetobacter; Acinetobacter sp. UNC434CL69Tsu2S25	Query_39
->Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Pseudomonadaceae; Pseudomonas; Pseudomonas simiae WCS417	Query_40
+>BR61a_Tuber_floridanum	Query_1
+>BR64_Tuber_rugosum	Query_2
+>BR107_Morchella_americana	Query_3
+>BR294_Cyclocybe_aegerita	Query_4
+>BR309_Ganoderma_lucidum_Commercial_Strain_ME-G21	Query_5
+>BR401_Pholiota_adiposa_Commercial_Strain_ME-P14	Query_6
+>BR402_Panellus_serotinus_Commercial_Strain_ME-P26_synonym_Sarcomyxa_serotina	Query_7
+>BR403_Kuehneromyces_mutabilis_Commercial_Strain_ME-K1	Query_8
+>BR404_Pleurotus_ostreatus_Commercial_Strain_ME-P35	Query_9
+>BR405_Lentinula_edodes_Commercial_Strain_AM-P8	Query_10
+>BR453j_Fusarium_oxysporum	Query_11
+>BR460_Mucor_circinelloides	Query_12
+>BR486_Morchella_rufobrunnea	Query_13
+>BR536_Artomyces_pyxidatus	Query_14
+>BR538_Hymenopellis_furfuracea	Query_15
+>BR539_Phellinus_alni	Query_16
+>BR540_Ganoderma_applanatum	Query_17
+>BR544_Hypomyces_tubariicola	Query_18
+>BR552_Tuber_mexiusanum	Query_19
+>BR5_Hericium_americanum	Query_20

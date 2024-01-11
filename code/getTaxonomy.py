@@ -20,25 +20,31 @@ def reformat_BLAST(blast_file, output_dir, confidence, max_hits, ethresh, p_iden
         q_list = [q.split(" ")[0], "0.0"]
         q_sub = blast_res[(blast_res["query"] == q) & (blast_res["e_value"] <= ethresh) & (blast_res["percent_identity"] >= p_iden_thresh)]
 
-        if len(q_sub) == 0:
-            q_list.extend([""] * len(ranks) * 2)
-        else:
-            q_sub = q_sub[:min([len(q_sub), max_hits])]
-            for t in ranks:
-                if t not in q_sub.columns and t == "Kingdom":
-                    t = "Domain"
-                vcs = q_sub[t].value_counts(normalize=True)
-                if len(vcs) == 0 or "unidentified" in vcs.index[0] or vcs.iloc[0] < confidence or (
-                        t == ranks[-1] and vcs.index[0].endswith("_sp")):
-                    break
-                else:
-                    if "ncertae_sedis" in vcs.index[0]:
-                        q_list.extend(["Incertae_sedis", str(vcs.iloc[0])])
-                    else:
-                        q_list.extend([vcs.index[0], str(vcs.iloc[0])])
-                    q_list[1] = str(vcs.iloc[0])
+        print(f"Query: {q}, Length of q_sub: {len(q_sub)}")
 
-        classification_buf += "\t".join(q_list) + "\n"
+        if len(q_sub) == 0:
+         q_list.extend([""] * len(ranks) * 2)
+        else:
+         q_sub = q_sub[:min([len(q_sub), max_hits])]
+         for t in ranks:
+             if t not in q_sub.columns and t == "Kingdom":
+                 t = "Domain"
+             vcs = q_sub[t].value_counts(normalize=True)
+             if len(vcs) == 0 or "unidentified" in vcs.index[0] or vcs.iloc[0] < confidence or (
+                     t == ranks[-1] and vcs.index[0].endswith("_sp")):
+                 break
+             else:
+                 if "ncertae_sedis" in vcs.index[0]:
+                     q_list.extend(["Incertae_sedis", str(vcs.iloc[0])])
+                 else:
+                     q_list.extend([vcs.index[0], str(vcs.iloc[0])])
+                 q_list[1] = str(vcs.iloc[0])
+
+        # Use a formatted string with a fixed width for each column
+        classification_buf += "{:<15}\t{:<6}".format(q_list[0], q_list[1])
+        for i in range(2, len(q_list), 2):
+         classification_buf += "\t{:<15}\t{:<6}".format(q_list[i], q_list[i + 1])
+        classification_buf += "\n"
 
     with open(output_file, "w") as ofile:
         ofile.write(classification_buf)

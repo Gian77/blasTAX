@@ -1,993 +1,516 @@
-882688	Bacteria;Actinomycetota;Actinomycetes;Micrococcales;Micrococcaceae;Arthrobacter;Arthrobacter sp. d9(2010)
-409291	Bacteria;Actinomycetota;Actinomycetes;Micrococcales;Micrococcaceae;Arthrobacter;Arthrobacter humicola
-409291	Bacteria;Actinomycetota;Actinomycetes;Micrococcales;Micrococcaceae;Arthrobacter;Arthrobacter humicola
-1233464	Bacteria;Actinomycetota;Actinomycetes;Micrococcales;Micrococcaceae;Arthrobacter;Arthrobacter sp. BJC15-A6
-2578107	Bacteria;Actinomycetota;Actinomycetes;Micrococcales;Micrococcaceae;Arthrobacter;Arthrobacter sp. KBS0702
-2578107	Bacteria;Actinomycetota;Actinomycetes;Micrococcales;Micrococcaceae;Arthrobacter;Arthrobacter sp. KBS0702
-2578107	Bacteria;Actinomycetota;Actinomycetes;Micrococcales;Micrococcaceae;Arthrobacter;Arthrobacter sp. KBS0702
-2578107	Bacteria;Actinomycetota;Actinomycetes;Micrococcales;Micrococcaceae;Arthrobacter;Arthrobacter sp. KBS0702
-2578107	Bacteria;Actinomycetota;Actinomycetes;Micrococcales;Micrococcaceae;Arthrobacter;Arthrobacter sp. KBS0702
-409291	Bacteria;Actinomycetota;Actinomycetes;Micrococcales;Micrococcaceae;Arthrobacter;Arthrobacter humicola
-409291	Bacteria;Actinomycetota;Actinomycetes;Micrococcales;Micrococcaceae;Arthrobacter;Arthrobacter humicola
-1667	Bacteria;Actinomycetota;Actinomycetes;Micrococcales;Micrococcaceae;Arthrobacter;Arthrobacter sp.
-2703675	Bacteria;Actinomycetota;Actinomycetes;Micrococcales;Micrococcaceae;Arthrobacter;Arthrobacter sp. H-02-3
-1807514	Bacteria;Actinomycetota;Actinomycetes;Micrococcales;Micrococcaceae;Arthrobacter;Arthrobacter sp. MW3
-1667	Bacteria;Actinomycetota;Actinomycetes;Micrococcales;Micrococcaceae;Arthrobacter;Arthrobacter sp.
-1667	Bacteria;Actinomycetota;Actinomycetes;Micrococcales;Micrococcaceae;Arthrobacter;Arthrobacter sp.
-1883427	Bacteria;Actinomycetota;Actinomycetes;;;;Actinomycetia bacterium
-1883427	Bacteria;Actinomycetota;Actinomycetes;;;;Actinomycetia bacterium
-409291	Bacteria;Actinomycetota;Actinomycetes;Micrococcales;Micrococcaceae;Arthrobacter;Arthrobacter humicola
-77133	Bacteria;;;;;;uncultured bacterium
-2830998	Bacteria;Actinomycetota;Actinomycetes;Micrococcales;Micrococcaceae;Arthrobacter;Arthrobacter sp. NicSoilB8
-2830998	Bacteria;Actinomycetota;Actinomycetes;Micrococcales;Micrococcaceae;Arthrobacter;Arthrobacter sp. NicSoilB8
-2830998	Bacteria;Actinomycetota;Actinomycetes;Micrococcales;Micrococcaceae;Arthrobacter;Arthrobacter sp. NicSoilB8
-2830998	Bacteria;Actinomycetota;Actinomycetes;Micrococcales;Micrococcaceae;Arthrobacter;Arthrobacter sp. NicSoilB8
-2830998	Bacteria;Actinomycetota;Actinomycetes;Micrococcales;Micrococcaceae;Arthrobacter;Arthrobacter sp. NicSoilB8
-640194	Bacteria;Actinomycetota;Actinomycetes;Micrococcales;Micrococcaceae;Arthrobacter;Arthrobacter sp. 210_4
-409291	Bacteria;Actinomycetota;Actinomycetes;Micrococcales;Micrococcaceae;Arthrobacter;Arthrobacter humicola
-637546	Bacteria;Actinomycetota;Actinomycetes;Micrococcales;Micrococcaceae;Arthrobacter;Arthrobacter sp. S21004
-637627	Bacteria;Actinomycetota;Actinomycetes;Micrococcales;Micrococcaceae;Arthrobacter;Arthrobacter sp. S22236
-409291	Bacteria;Actinomycetota;Actinomycetes;Micrococcales;Micrococcaceae;Arthrobacter;Arthrobacter humicola
-1682502	Bacteria;Actinomycetota;Actinomycetes;Micrococcales;Micrococcaceae;Arthrobacter;Arthrobacter sp. NCCP-1110
-29320	Bacteria;Actinomycetota;Actinomycetes;Micrococcales;Micrococcaceae;Paenarthrobacter;Paenarthrobacter nicotinovorans
-29320	Bacteria;Actinomycetota;Actinomycetes;Micrococcales;Micrococcaceae;Paenarthrobacter;Paenarthrobacter nicotinovorans
-1931993	Bacteria;Actinomycetota;Actinomycetes;Micrococcales;Micrococcaceae;Paenarthrobacter;Paenarthrobacter sp.
-29320	Bacteria;Actinomycetota;Actinomycetes;Micrococcales;Micrococcaceae;Paenarthrobacter;Paenarthrobacter nicotinovorans
-1940304	Bacteria;Actinomycetota;Actinomycetes;Micrococcales;Micrococcaceae;Arthrobacter;Arthrobacter sp. GBD-1
-1931993	Bacteria;Actinomycetota;Actinomycetes;Micrococcales;Micrococcaceae;Paenarthrobacter;Paenarthrobacter sp.
-993070	Bacteria;Actinomycetota;Actinomycetes;Micrococcales;Micrococcaceae;Pseudarthrobacter;Pseudarthrobacter enclensis
-1869227	Bacteria;;;;;;bacterium
-1931993	Bacteria;Actinomycetota;Actinomycetes;Micrococcales;Micrococcaceae;Paenarthrobacter;Paenarthrobacter sp.
-29320	Bacteria;Actinomycetota;Actinomycetes;Micrococcales;Micrococcaceae;Paenarthrobacter;Paenarthrobacter nicotinovorans
-29320	Bacteria;Actinomycetota;Actinomycetes;Micrococcales;Micrococcaceae;Paenarthrobacter;Paenarthrobacter nicotinovorans
-1869227	Bacteria;;;;;;bacterium
-1869227	Bacteria;;;;;;bacterium
-29320	Bacteria;Actinomycetota;Actinomycetes;Micrococcales;Micrococcaceae;Paenarthrobacter;Paenarthrobacter nicotinovorans
-29320	Bacteria;Actinomycetota;Actinomycetes;Micrococcales;Micrococcaceae;Paenarthrobacter;Paenarthrobacter nicotinovorans
-29320	Bacteria;Actinomycetota;Actinomycetes;Micrococcales;Micrococcaceae;Paenarthrobacter;Paenarthrobacter nicotinovorans
-1667	Bacteria;Actinomycetota;Actinomycetes;Micrococcales;Micrococcaceae;Arthrobacter;Arthrobacter sp.
-1667	Bacteria;Actinomycetota;Actinomycetes;Micrococcales;Micrococcaceae;Arthrobacter;Arthrobacter sp.
-1869227	Bacteria;;;;;;bacterium
-1869227	Bacteria;;;;;;bacterium
-1869344	Bacteria;Actinomycetota;Actinomycetes;Micrococcales;Microbacteriaceae;Curtobacterium;Curtobacterium sp.
-2036	Bacteria;Actinomycetota;Actinomycetes;Micrococcales;Microbacteriaceae;Curtobacterium;Curtobacterium citreum
-1869344	Bacteria;Actinomycetota;Actinomycetes;Micrococcales;Microbacteriaceae;Curtobacterium;Curtobacterium sp.
-331964	Bacteria;Actinomycetota;Actinomycetes;Micrococcales;Microbacteriaceae;Curtobacterium;uncultured Curtobacterium sp.
-1746671	Bacteria;Actinomycetota;Actinomycetes;Micrococcales;Microbacteriaceae;Curtobacterium;Curtobacterium sp. HBUM179747
-1544191	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;Flavobacterium sp. L303(2014)
-1486771	Bacteria;Actinomycetota;Actinomycetes;Micrococcales;Microbacteriaceae;Curtobacterium;Curtobacterium sp. FSGSY23
-649976	Bacteria;Actinomycetota;Actinomycetes;Micrococcales;Microbacteriaceae;Curtobacterium;Curtobacterium sp. LCR25
-1869344	Bacteria;Actinomycetota;Actinomycetes;Micrococcales;Microbacteriaceae;Curtobacterium;Curtobacterium sp.
-465820	Bacteria;Actinomycetota;Actinomycetes;Micrococcales;Microbacteriaceae;Curtobacterium;Curtobacterium oceanosedimentum
-2036	Bacteria;Actinomycetota;Actinomycetes;Micrococcales;Microbacteriaceae;Curtobacterium;Curtobacterium citreum
-1766148	Bacteria;;;;;;bacterium R48
-1746670	Bacteria;Actinomycetota;Actinomycetes;Micrococcales;Microbacteriaceae;Curtobacterium;Curtobacterium sp. HBUM179744
-649975	Bacteria;Actinomycetota;Actinomycetes;Micrococcales;Microbacteriaceae;Curtobacterium;Curtobacterium sp. LCR22
-1869344	Bacteria;Actinomycetota;Actinomycetes;Micrococcales;Microbacteriaceae;Curtobacterium;Curtobacterium sp.
-1869344	Bacteria;Actinomycetota;Actinomycetes;Micrococcales;Microbacteriaceae;Curtobacterium;Curtobacterium sp.
-465820	Bacteria;Actinomycetota;Actinomycetes;Micrococcales;Microbacteriaceae;Curtobacterium;Curtobacterium oceanosedimentum
-465820	Bacteria;Actinomycetota;Actinomycetes;Micrococcales;Microbacteriaceae;Curtobacterium;Curtobacterium oceanosedimentum
-1746668	Bacteria;Actinomycetota;Actinomycetes;Micrococcales;Microbacteriaceae;Curtobacterium;Curtobacterium sp. HBUM179125
-50728	Bacteria;Actinomycetota;Actinomycetes;Micrococcales;Microbacteriaceae;Curtobacterium;Curtobacterium albidum
-486956	Bacteria;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;Streptomyces neopeptinius
-486956	Bacteria;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;Streptomyces neopeptinius
-1931	Bacteria;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;Streptomyces sp.
-1883427	Bacteria;Actinomycetota;Actinomycetes;;;;Actinomycetia bacterium
-68264	Bacteria;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;Streptomyces rishiriensis
-68264	Bacteria;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;Streptomyces rishiriensis
-1931	Bacteria;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;Streptomyces sp.
-1883427	Bacteria;Actinomycetota;Actinomycetes;;;;Actinomycetia bacterium
-2768453	Bacteria;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;Streptomyces sp. SLBN-115
-1931	Bacteria;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;Streptomyces sp.
-285506	Bacteria;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;Streptomyces ryensis
-1045481	Bacteria;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;Streptomyces sp. Ank150
-1237039	Bacteria;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;Streptomyces sp. YRA005
-499211	Bacteria;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;Streptomyces sp. 18-7
-68264	Bacteria;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;Streptomyces rishiriensis
-285506	Bacteria;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;Streptomyces ryensis
-68264	Bacteria;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;Streptomyces rishiriensis
-1931	Bacteria;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;Streptomyces sp.
-68264	Bacteria;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;Streptomyces rishiriensis
-1632101	Bacteria;Actinomycetota;Actinomycetes;;;;actinobacterium S7
-258505	Bacteria;Actinomycetota;Actinomycetes;Mycobacteriales;Mycobacteriaceae;Mycolicibacterium;Mycolicibacterium fluoranthenivorans
-258505	Bacteria;Actinomycetota;Actinomycetes;Mycobacteriales;Mycobacteriaceae;Mycolicibacterium;Mycolicibacterium fluoranthenivorans
-258505	Bacteria;Actinomycetota;Actinomycetes;Mycobacteriales;Mycobacteriaceae;Mycolicibacterium;Mycolicibacterium fluoranthenivorans
-258505	Bacteria;Actinomycetota;Actinomycetes;Mycobacteriales;Mycobacteriaceae;Mycolicibacterium;Mycolicibacterium fluoranthenivorans
-258505	Bacteria;Actinomycetota;Actinomycetes;Mycobacteriales;Mycobacteriaceae;Mycolicibacterium;Mycolicibacterium fluoranthenivorans
-556106	Bacteria;Actinomycetota;Actinomycetes;Mycobacteriales;Mycobacteriaceae;Mycobacterium;Mycobacterium sp. WPCB170
-228909	Bacteria;Actinomycetota;Actinomycetes;Mycobacteriales;Mycobacteriaceae;Mycobacterium;Mycobacterium hackensackense
-258505	Bacteria;Actinomycetota;Actinomycetes;Mycobacteriales;Mycobacteriaceae;Mycolicibacterium;Mycolicibacterium fluoranthenivorans
-459978	Bacteria;;;;;;bacterium 1a-G2
-2320850	Bacteria;Actinomycetota;Actinomycetes;Mycobacteriales;Mycobacteriaceae;Mycolicibacterium;Mycolicibacterium sp.
-2320850	Bacteria;Actinomycetota;Actinomycetes;Mycobacteriales;Mycobacteriaceae;Mycolicibacterium;Mycolicibacterium sp.
-315481	Bacteria;Actinomycetota;Actinomycetes;Mycobacteriales;Mycobacteriaceae;Mycobacterium;Mycobacterium sp. K128WA
-1785	Bacteria;Actinomycetota;Actinomycetes;Mycobacteriales;Mycobacteriaceae;Mycobacterium;Mycobacterium sp.
-258505	Bacteria;Actinomycetota;Actinomycetes;Mycobacteriales;Mycobacteriaceae;Mycolicibacterium;Mycolicibacterium fluoranthenivorans
-1682113	Bacteria;Actinomycetota;Actinomycetes;Mycobacteriales;Mycobacteriaceae;Mycobacterium;Mycobacterium sp. YC-RL4
-1682113	Bacteria;Actinomycetota;Actinomycetes;Mycobacteriales;Mycobacteriaceae;Mycobacterium;Mycobacterium sp. YC-RL4
-1785	Bacteria;Actinomycetota;Actinomycetes;Mycobacteriales;Mycobacteriaceae;Mycobacterium;Mycobacterium sp.
-1358126	Bacteria;Actinomycetota;Actinomycetes;Mycobacteriales;Mycobacteriaceae;Mycobacterium;Mycobacterium sp. enrichment culture clone WP-5
-1250416	Bacteria;Actinomycetota;Actinomycetes;Mycobacteriales;Mycobacteriaceae;Mycobacterium;Mycobacterium sp. WP16
-945245	Bacteria;Actinomycetota;Actinomycetes;Mycobacteriales;Mycobacteriaceae;Mycobacterium;Mycobacterium sp. H5(2011)
-258505	Bacteria;Actinomycetota;Actinomycetes;Mycobacteriales;Mycobacteriaceae;Mycolicibacterium;Mycolicibacterium fluoranthenivorans
-388042	Bacteria;Actinomycetota;Actinomycetes;Mycobacteriales;Mycobacteriaceae;Mycobacterium;Mycobacterium sp. ZD-19
-345445	Bacteria;Actinomycetota;Actinomycetes;Mycobacteriales;Mycobacteriaceae;Mycobacterium;Mycobacterium sp. O228YA
-1831	Bacteria;Actinomycetota;Actinomycetes;Mycobacteriales;Nocardiaceae;Rhodococcus;Rhodococcus sp.
-1831	Bacteria;Actinomycetota;Actinomycetes;Mycobacteriales;Nocardiaceae;Rhodococcus;Rhodococcus sp.
-1831	Bacteria;Actinomycetota;Actinomycetes;Mycobacteriales;Nocardiaceae;Rhodococcus;Rhodococcus sp.
-1831	Bacteria;Actinomycetota;Actinomycetes;Mycobacteriales;Nocardiaceae;Rhodococcus;Rhodococcus sp.
-1831	Bacteria;Actinomycetota;Actinomycetes;Mycobacteriales;Nocardiaceae;Rhodococcus;Rhodococcus sp.
-278209	Bacteria;Actinomycetota;Actinomycetes;Mycobacteriales;Nocardiaceae;Rhodococcus;Rhodococcus yunnanensis
-207688	Bacteria;;;;;;bacterium CAGY6
-202295	Bacteria;Actinomycetota;Actinomycetes;Mycobacteriales;Nocardiaceae;Rhodococcus;Rhodococcus sp. V4.ME.27
-1831	Bacteria;Actinomycetota;Actinomycetes;Mycobacteriales;Nocardiaceae;Rhodococcus;Rhodococcus sp.
-1831	Bacteria;Actinomycetota;Actinomycetes;Mycobacteriales;Nocardiaceae;Rhodococcus;Rhodococcus sp.
-489916	Bacteria;Actinomycetota;Actinomycetes;Mycobacteriales;Nocardiaceae;Rhodococcus;Rhodococcus cercidiphylli
-1828	Bacteria;Actinomycetota;Actinomycetes;Mycobacteriales;Nocardiaceae;Rhodococcus;Rhodococcus fascians
-1030320	Bacteria;Actinomycetota;Actinomycetes;Mycobacteriales;Nocardiaceae;Rhodococcus;Rhodococcus sp. 28-JH4M
-1828	Bacteria;Actinomycetota;Actinomycetes;Mycobacteriales;Nocardiaceae;Rhodococcus;Rhodococcus fascians
-489916	Bacteria;Actinomycetota;Actinomycetes;Mycobacteriales;Nocardiaceae;Rhodococcus;Rhodococcus cercidiphylli
-77133	Bacteria;;;;;;uncultured bacterium
-1831	Bacteria;Actinomycetota;Actinomycetes;Mycobacteriales;Nocardiaceae;Rhodococcus;Rhodococcus sp.
-1187977	Bacteria;Actinomycetota;Actinomycetes;Mycobacteriales;Nocardiaceae;Rhodococcus;Rhodococcus sp. Pp2
-1452404	Bacteria;Actinomycetota;Actinomycetes;Mycobacteriales;Nocardiaceae;Rhodococcus;Rhodococcus sp. M4S2
-489916	Bacteria;Actinomycetota;Actinomycetes;Mycobacteriales;Nocardiaceae;Rhodococcus;Rhodococcus cercidiphylli
-499210	Bacteria;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;Streptomyces sp. 18-13
-58343	Bacteria;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;Streptomyces canus
-1283138	Bacteria;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;Streptomyces sp. SAUAS2-3
-285630	Bacteria;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;Streptomyces sp. R46S
-67356	Bacteria;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;Streptomyces resistomycificus
-1931	Bacteria;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;Streptomyces sp.
-67350	Bacteria;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;Streptomyces pseudovenezuelae
-67350	Bacteria;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;Streptomyces pseudovenezuelae
-58343	Bacteria;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;Streptomyces canus
-77133	Bacteria;;;;;;uncultured bacterium
-67350	Bacteria;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;Streptomyces pseudovenezuelae
-67350	Bacteria;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;Streptomyces pseudovenezuelae
-67350	Bacteria;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;Streptomyces pseudovenezuelae
-511811	Bacteria;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;Streptomyces plumbiresistens
-1883427	Bacteria;Actinomycetota;Actinomycetes;;;;Actinomycetia bacterium
-1517598	Bacteria;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;Streptomyces sp. THG S11-19
-67350	Bacteria;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;Streptomyces pseudovenezuelae
-67350	Bacteria;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;Streptomyces pseudovenezuelae
-174707	Bacteria;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;uncultured Streptomyces sp.
-77133	Bacteria;;;;;;uncultured bacterium
-67350	Bacteria;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;Streptomyces pseudovenezuelae
-35761	Bacteria;Actinomycetota;Actinomycetes;Propionibacteriales;Nocardioidaceae;Nocardioides;Nocardioides sp.
-200618	Bacteria;Actinomycetota;Actinomycetes;Propionibacteriales;Nocardioidaceae;Nocardioides;Nocardioides aromaticivorans
-200618	Bacteria;Actinomycetota;Actinomycetes;Propionibacteriales;Nocardioidaceae;Nocardioides;Nocardioides aromaticivorans
-200618	Bacteria;Actinomycetota;Actinomycetes;Propionibacteriales;Nocardioidaceae;Nocardioides;Nocardioides aromaticivorans
-304383	Bacteria;Actinomycetota;Actinomycetes;Propionibacteriales;Nocardioidaceae;Nocardioides;Nocardioides sp. IC177
-200621	Bacteria;Actinomycetota;Actinomycetes;Propionibacteriales;Nocardioidaceae;Nocardioides;Nocardioides sp. A-3
-200618	Bacteria;Actinomycetota;Actinomycetes;Propionibacteriales;Nocardioidaceae;Nocardioides;Nocardioides aromaticivorans
-200620	Bacteria;Actinomycetota;Actinomycetes;Propionibacteriales;Nocardioidaceae;Nocardioides;Nocardioides sp. NSA1-2
-273167	Bacteria;Actinomycetota;Actinomycetes;Propionibacteriales;Nocardioidaceae;Nocardioides;Nocardioides sp. RS3-1
-200619	Bacteria;Actinomycetota;Actinomycetes;Propionibacteriales;Nocardioidaceae;Nocardioides;Nocardioides sp. NSA1-1
-77133	Bacteria;;;;;;uncultured bacterium
-200622	Bacteria;Actinomycetota;Actinomycetes;Propionibacteriales;Nocardioidaceae;Nocardioides;Nocardioides sp. H-2
-200618	Bacteria;Actinomycetota;Actinomycetes;Propionibacteriales;Nocardioidaceae;Nocardioides;Nocardioides aromaticivorans
-35761	Bacteria;Actinomycetota;Actinomycetes;Propionibacteriales;Nocardioidaceae;Nocardioides;Nocardioides sp.
-2045	Bacteria;Actinomycetota;Actinomycetes;Propionibacteriales;Nocardioidaceae;Pimelobacter;Pimelobacter simplex
-200618	Bacteria;Actinomycetota;Actinomycetes;Propionibacteriales;Nocardioidaceae;Nocardioides;Nocardioides aromaticivorans
-35761	Bacteria;Actinomycetota;Actinomycetes;Propionibacteriales;Nocardioidaceae;Nocardioides;Nocardioides sp.
-2045	Bacteria;Actinomycetota;Actinomycetes;Propionibacteriales;Nocardioidaceae;Pimelobacter;Pimelobacter simplex
-680677	Bacteria;Actinomycetota;Actinomycetes;Propionibacteriales;Nocardioidaceae;Nocardioides;Nocardioides sp. C1S
-35761	Bacteria;Actinomycetota;Actinomycetes;Propionibacteriales;Nocardioidaceae;Nocardioides;Nocardioides sp.
-2045	Bacteria;Actinomycetota;Actinomycetes;Propionibacteriales;Nocardioidaceae;Pimelobacter;Pimelobacter simplex
-2045	Bacteria;Actinomycetota;Actinomycetes;Propionibacteriales;Nocardioidaceae;Pimelobacter;Pimelobacter simplex
-2045	Bacteria;Actinomycetota;Actinomycetes;Propionibacteriales;Nocardioidaceae;Pimelobacter;Pimelobacter simplex
-2045	Bacteria;Actinomycetota;Actinomycetes;Propionibacteriales;Nocardioidaceae;Pimelobacter;Pimelobacter simplex
-2045	Bacteria;Actinomycetota;Actinomycetes;Propionibacteriales;Nocardioidaceae;Pimelobacter;Pimelobacter simplex
-1931	Bacteria;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;Streptomyces sp.
-59299	Bacteria;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;Streptomyces thermocarboxydus
-59299	Bacteria;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;Streptomyces thermocarboxydus
-59299	Bacteria;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;Streptomyces thermocarboxydus
-59299	Bacteria;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;Streptomyces thermocarboxydus
-59299	Bacteria;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;Streptomyces thermocarboxydus
-59299	Bacteria;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;Streptomyces thermocarboxydus
-59299	Bacteria;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;Streptomyces thermocarboxydus
-59299	Bacteria;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;Streptomyces thermocarboxydus
-59299	Bacteria;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;Streptomyces thermocarboxydus
-59299	Bacteria;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;Streptomyces thermocarboxydus
-59299	Bacteria;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;Streptomyces thermocarboxydus
-1931	Bacteria;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;Streptomyces sp.
-59299	Bacteria;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;Streptomyces thermocarboxydus
-319426	Bacteria;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;Streptomyces sp. FQ1
-1355309	Bacteria;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;Streptomyces sp. HW13
-59299	Bacteria;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;Streptomyces thermocarboxydus
-59299	Bacteria;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;Streptomyces thermocarboxydus
-174707	Bacteria;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;uncultured Streptomyces sp.
-1931	Bacteria;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;Streptomyces sp.
-1028245	Bacteria;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;Streptomyces sp. 172120
-193461	Bacteria;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;Streptomyces aureus
-392890	Bacteria;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;Streptomyces sp. 3860
-412742	Bacteria;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;Streptomyces sp. JXNT-A-12
-425665	Bacteria;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;Streptomyces sp. 3048
-425667	Bacteria;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;Streptomyces sp. 349-2-2-199
-59299	Bacteria;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;Streptomyces thermocarboxydus
-59299	Bacteria;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;Streptomyces thermocarboxydus
-59299	Bacteria;Actinomycetota;Actinomycetes;Kitasatosporales;Streptomycetaceae;Streptomyces;Streptomyces thermocarboxydus
-41276	Bacteria;Pseudomonadota;Alphaproteobacteria;Caulobacterales;Caulobacteraceae;Brevundimonas;Brevundimonas vesicularis
-41276	Bacteria;Pseudomonadota;Alphaproteobacteria;Caulobacterales;Caulobacteraceae;Brevundimonas;Brevundimonas vesicularis
-77133	Bacteria;;;;;;uncultured bacterium
-41276	Bacteria;Pseudomonadota;Alphaproteobacteria;Caulobacterales;Caulobacteraceae;Brevundimonas;Brevundimonas vesicularis
-172043	Bacteria;Pseudomonadota;Alphaproteobacteria;Caulobacterales;Caulobacteraceae;Brevundimonas;Brevundimonas nasdae
-77133	Bacteria;;;;;;uncultured bacterium
-1869227	Bacteria;;;;;;bacterium
-1869227	Bacteria;;;;;;bacterium
-1871086	Bacteria;Pseudomonadota;Alphaproteobacteria;Caulobacterales;Caulobacteraceae;Brevundimonas;Brevundimonas sp.
-77133	Bacteria;;;;;;uncultured bacterium
-1871086	Bacteria;Pseudomonadota;Alphaproteobacteria;Caulobacterales;Caulobacteraceae;Brevundimonas;Brevundimonas sp.
-2579977	Bacteria;Pseudomonadota;Alphaproteobacteria;Caulobacterales;Caulobacteraceae;Brevundimonas;Brevundimonas sp. SGAir0440
-2579977	Bacteria;Pseudomonadota;Alphaproteobacteria;Caulobacterales;Caulobacteraceae;Brevundimonas;Brevundimonas sp. SGAir0440
-1871086	Bacteria;Pseudomonadota;Alphaproteobacteria;Caulobacterales;Caulobacteraceae;Brevundimonas;Brevundimonas sp.
-172043	Bacteria;Pseudomonadota;Alphaproteobacteria;Caulobacterales;Caulobacteraceae;Brevundimonas;Brevundimonas nasdae
-1792877	Bacteria;Pseudomonadota;Alphaproteobacteria;Caulobacterales;Caulobacteraceae;Brevundimonas;Brevundimonas sp. FPBTIH1
-41276	Bacteria;Pseudomonadota;Alphaproteobacteria;Caulobacterales;Caulobacteraceae;Brevundimonas;Brevundimonas vesicularis
-1871086	Bacteria;Pseudomonadota;Alphaproteobacteria;Caulobacterales;Caulobacteraceae;Brevundimonas;Brevundimonas sp.
-41276	Bacteria;Pseudomonadota;Alphaproteobacteria;Caulobacterales;Caulobacteraceae;Brevundimonas;Brevundimonas vesicularis
-41276	Bacteria;Pseudomonadota;Alphaproteobacteria;Caulobacterales;Caulobacteraceae;Brevundimonas;Brevundimonas vesicularis
-41276	Bacteria;Pseudomonadota;Alphaproteobacteria;Caulobacterales;Caulobacteraceae;Brevundimonas;Brevundimonas vesicularis
-41276	Bacteria;Pseudomonadota;Alphaproteobacteria;Caulobacterales;Caulobacteraceae;Brevundimonas;Brevundimonas vesicularis
-2725493	Bacteria;Pseudomonadota;Alphaproteobacteria;Caulobacterales;Caulobacteraceae;Brevundimonas;Brevundimonas huaxiensis
-41276	Bacteria;Pseudomonadota;Alphaproteobacteria;Caulobacterales;Caulobacteraceae;Brevundimonas;Brevundimonas vesicularis
-1869227	Bacteria;;;;;;bacterium
-648995	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Rhizobiaceae;Rhizobium;Rhizobium pusense
-648995	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Rhizobiaceae;Rhizobium;Rhizobium pusense
-946019	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Rhizobiaceae;Agrobacterium;Agrobacterium sp. PAE1
-648995	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Rhizobiaceae;Rhizobium;Rhizobium pusense
-648995	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Rhizobiaceae;Rhizobium;Rhizobium pusense
-391	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Rhizobiaceae;Rhizobium;Rhizobium sp.
-648995	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Rhizobiaceae;Rhizobium;Rhizobium pusense
-1605895	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Rhizobiaceae;Rhizobium;Rhizobium sp. LMB-1
-648995	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Rhizobiaceae;Rhizobium;Rhizobium pusense
-358	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Rhizobiaceae;Agrobacterium;Agrobacterium tumefaciens
-358	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Rhizobiaceae;Agrobacterium;Agrobacterium tumefaciens
-1869227	Bacteria;;;;;;bacterium
-648995	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Rhizobiaceae;Rhizobium;Rhizobium pusense
-358	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Rhizobiaceae;Agrobacterium;Agrobacterium tumefaciens
-391	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Rhizobiaceae;Rhizobium;Rhizobium sp.
-648995	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Rhizobiaceae;Rhizobium;Rhizobium pusense
-1484702	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Rhizobiaceae;Agrobacterium;Agrobacterium sp. CZBRN2
-1456594	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Rhizobiaceae;Agrobacterium;Agrobacterium sp. CRRI-74_SB13A
-686782	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Rhizobiaceae;Agrobacterium;Agrobacterium sp. BD-32
-1484790	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Methylobacteriaceae;Methylobacterium;Methylobacterium sp. WXGSD2
-582669	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Methylobacteriaceae;Methylobacterium;Methylobacterium sp. BL41
-582668	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Methylobacteriaceae;Methylobacterium;Methylobacterium sp. BL38
-409	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Methylobacteriaceae;Methylobacterium;Methylobacterium sp.
-31998	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Methylobacteriaceae;Methylobacterium;Methylobacterium radiotolerans
-77133	Bacteria;;;;;;uncultured bacterium
-409	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Methylobacteriaceae;Methylobacterium;Methylobacterium sp.
-31998	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Methylobacteriaceae;Methylobacterium;Methylobacterium radiotolerans
-563500	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Methylobacteriaceae;Methylobacterium;Methylobacterium sp. 13635G
-334852	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Methylobacteriaceae;Methylobacterium;Methylobacterium oryzae
-1343883	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Methylobacteriaceae;Methylobacterium;Methylobacterium sp. NG05
-409	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Methylobacteriaceae;Methylobacterium;Methylobacterium sp.
-409	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Methylobacteriaceae;Methylobacterium;Methylobacterium sp.
-31998	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Methylobacteriaceae;Methylobacterium;Methylobacterium radiotolerans
-31998	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Methylobacteriaceae;Methylobacterium;Methylobacterium radiotolerans
-418220	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Methylobacteriaceae;Methylobacterium;Methylobacterium sp. CBMB15
-409	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Methylobacteriaceae;Methylobacterium;Methylobacterium sp.
-409	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Methylobacteriaceae;Methylobacterium;Methylobacterium sp.
-31998	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Methylobacteriaceae;Methylobacterium;Methylobacterium radiotolerans
-2894310	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Methylobacteriaceae;Methylobacterium;Methylobacterium sp. NMS14P
-2894310	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Methylobacteriaceae;Methylobacterium;Methylobacterium sp. NMS14P
-2894310	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Methylobacteriaceae;Methylobacterium;Methylobacterium sp. NMS14P
-2894310	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Methylobacteriaceae;Methylobacterium;Methylobacterium sp. NMS14P
-2894310	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Methylobacteriaceae;Methylobacterium;Methylobacterium sp. NMS14P
-42190	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Brucellaceae;Ochrobactrum;Ochrobactrum sp.
-529	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Brucellaceae;Brucella;Brucella anthropi
-1393695	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Brucellaceae;Ochrobactrum;Ochrobactrum sp. n-9
-42190	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Brucellaceae;Ochrobactrum;Ochrobactrum sp.
-42190	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Brucellaceae;Ochrobactrum;Ochrobactrum sp.
-42190	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Brucellaceae;Ochrobactrum;Ochrobactrum sp.
-42190	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Brucellaceae;Ochrobactrum;Ochrobactrum sp.
-42190	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Brucellaceae;Ochrobactrum;Ochrobactrum sp.
-529	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Brucellaceae;Brucella;Brucella anthropi
-42190	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Brucellaceae;Ochrobactrum;Ochrobactrum sp.
-42190	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Brucellaceae;Ochrobactrum;Ochrobactrum sp.
-529	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Brucellaceae;Brucella;Brucella anthropi
-1869227	Bacteria;;;;;;bacterium
-42190	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Brucellaceae;Ochrobactrum;Ochrobactrum sp.
-42190	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Brucellaceae;Ochrobactrum;Ochrobactrum sp.
-1814028	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Brucellaceae;Ochrobactrum;Ochrobactrum sp. TCOB-1
-1293507	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Brucellaceae;Ochrobactrum;Ochrobactrum sp. DX2
-42190	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Brucellaceae;Ochrobactrum;Ochrobactrum sp.
-42190	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Brucellaceae;Ochrobactrum;Ochrobactrum sp.
-42190	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Brucellaceae;Ochrobactrum;Ochrobactrum sp.
-529	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Brucellaceae;Brucella;Brucella anthropi
-1331439	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Rhizobiaceae;Rhizobium;Rhizobium sp. W6
-77133	Bacteria;;;;;;uncultured bacterium
-77133	Bacteria;;;;;;uncultured bacterium
-77133	Bacteria;;;;;;uncultured bacterium
-1265931	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Rhizobiaceae;Rhizobium;Rhizobium metallidurans
-742907	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Rhizobiaceae;Rhizobium;Rhizobium sp. CCBAU 15278
-1847873	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Rhizobiaceae;Rhizobium;Rhizobium sp. SIB_Zn_E11
-1712076	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Rhizobiaceae;Rhizobium;Rhizobium sp. LS-1233
-1847874	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Rhizobiaceae;Rhizobium;Rhizobium sp. SIB_Zn_E5
-1265931	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Rhizobiaceae;Rhizobium;Rhizobium metallidurans
-1847878	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Rhizobiaceae;Rhizobium;Rhizobium sp. SIIB_Cd_R10
-1847869	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Rhizobiaceae;Rhizobium;Rhizobium sp. SIB_Cd_R2
-391	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Rhizobiaceae;Rhizobium;Rhizobium sp.
-391	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Rhizobiaceae;Rhizobium;Rhizobium sp.
-1265931	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Rhizobiaceae;Rhizobium;Rhizobium metallidurans
-1265931	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Rhizobiaceae;Rhizobium;Rhizobium metallidurans
-391	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Rhizobiaceae;Rhizobium;Rhizobium sp.
-1470388	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Rhizobiaceae;Rhizobium;Rhizobium sp. CNU082100
-391	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Rhizobiaceae;Rhizobium;Rhizobium sp.
-77133	Bacteria;;;;;;uncultured bacterium
-2740464	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Phyllobacteriaceae;Phyllobacterium;Phyllobacterium pellucidum
-1636070	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Phyllobacteriaceae;Phyllobacterium;Phyllobacterium sp. HRTP192
-2740464	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Phyllobacteriaceae;Phyllobacterium;Phyllobacterium pellucidum
-1871046	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Phyllobacteriaceae;Phyllobacterium;Phyllobacterium sp.
-555316	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Phyllobacteriaceae;Phyllobacterium;Phyllobacterium sp. T1018
-555316	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Phyllobacteriaceae;Phyllobacterium;Phyllobacterium sp. T1018
-476820	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Phyllobacteriaceae;Phyllobacterium;Phyllobacterium sp. CCBAU 13011
-555316	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Phyllobacteriaceae;Phyllobacterium;Phyllobacterium sp. T1018
-77133	Bacteria;;;;;;uncultured bacterium
-1871046	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Phyllobacteriaceae;Phyllobacterium;Phyllobacterium sp.
-1871046	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Phyllobacteriaceae;Phyllobacterium;Phyllobacterium sp.
-907688	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Phyllobacteriaceae;Phyllobacterium;Phyllobacterium sp. KW15
-1871046	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Phyllobacteriaceae;Phyllobacterium;Phyllobacterium sp.
-1871046	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Phyllobacteriaceae;Phyllobacterium;Phyllobacterium sp.
-77133	Bacteria;;;;;;uncultured bacterium
-77133	Bacteria;;;;;;uncultured bacterium
-77133	Bacteria;;;;;;uncultured bacterium
-1871066	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Phyllobacteriaceae;Mesorhizobium;Mesorhizobium sp.
-2294114	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Phyllobacteriaceae;Mesorhizobium;Mesorhizobium denitrificans
-1871066	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Phyllobacteriaceae;Mesorhizobium;Mesorhizobium sp.
-77133	Bacteria;;;;;;uncultured bacterium
-77133	Bacteria;;;;;;uncultured bacterium
-1621979	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Boseaceae;Bosea;Bosea sp. J1
-1545525	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Boseaceae;Bosea;Bosea sp. Zer-1
-755639	Bacteria;;;;;;bacterium KR 1999/1_178
-1818818	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Boseaceae;Bosea;Bosea sp. JCM 28714
-1871050	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Boseaceae;Bosea;Bosea sp.
-1387925	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Boseaceae;Bosea;Bosea sp. A3Ec1
-1871050	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Boseaceae;Bosea;Bosea sp.
-755654	Bacteria;;;;;;bacterium KR 2001/13_208
-755623	Bacteria;;;;;;bacterium KR 1998/3_164
-936191	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Boseaceae;Bosea;Bosea sp. RNE 2
-1533960	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Boseaceae;Bosea;Bosea sp. SR 5-12
-1871050	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Boseaceae;Bosea;Bosea sp.
-1533960	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Boseaceae;Bosea;Bosea sp. SR 5-12
-1871050	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Boseaceae;Bosea;Bosea sp.
-755657	Bacteria;;;;;;bacterium KR 2001/13_214
-755551	Bacteria;;;;;;bacterium KR 1979/121_155
-480660	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Boseaceae;Bosea;Bosea sp. WR72a
-755641	Bacteria;;;;;;bacterium KR 1999/1_66
-2599640	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Boseaceae;Bosea;Bosea sp. F3-2
-2599640	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Boseaceae;Bosea;Bosea sp. F3-2
-2599640	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Boseaceae;Bosea;Bosea sp. F3-2
-1871050	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Boseaceae;Bosea;Bosea sp.
-1871047	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium sp.
-253	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium indologenes
-253	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium indologenes
-253	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium indologenes
-253	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium indologenes
-253	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium indologenes
-253	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium indologenes
-253	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium indologenes
-253	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium indologenes
-253	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium indologenes
-253	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium indologenes
-253	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium indologenes
-253	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium indologenes
-253	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium indologenes
-253	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium indologenes
-253	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium indologenes
-253	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium indologenes
-253	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium indologenes
-253	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium indologenes
-253	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium indologenes
-253	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium indologenes
-253	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium indologenes
-253	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium indologenes
-253	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium indologenes
-253	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium indologenes
-253	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium indologenes
-253	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium indologenes
-253	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium indologenes
-253	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium indologenes
-253	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium indologenes
-253	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium indologenes
-253	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium indologenes
-253	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium indologenes
-253	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium indologenes
-253	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium indologenes
-253	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium indologenes
-253	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium indologenes
-253	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium indologenes
-253	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium indologenes
-253	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium indologenes
-253	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium indologenes
-253	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium indologenes
-253	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium indologenes
-253	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium indologenes
-253	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium indologenes
-253	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium indologenes
-1218103	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium indologenes
-253	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium indologenes
-253	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium indologenes
-253	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium indologenes
-253	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium indologenes
-253	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium indologenes
-253	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium indologenes
-253	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium indologenes
-253	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium indologenes
-253	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium indologenes
-253	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium indologenes
-253	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium indologenes
-253	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium indologenes
-253	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium indologenes
-253	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium indologenes
-253	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium indologenes
-253	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium indologenes
-253	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium indologenes
-253	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium indologenes
-1218103	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium indologenes
-77133	Bacteria;;;;;;uncultured bacterium
-152509	Bacteria;Bacteroidota;;;;;uncultured Bacteroidetes bacterium
-253	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium indologenes
-986	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;Flavobacterium johnsoniae
-376686	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;Flavobacterium johnsoniae
-376686	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;Flavobacterium johnsoniae
-376686	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;Flavobacterium johnsoniae
-376686	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;Flavobacterium johnsoniae
-376686	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;Flavobacterium johnsoniae
-376686	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;Flavobacterium johnsoniae
-986	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;Flavobacterium johnsoniae
-986	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;Flavobacterium johnsoniae
-376686	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;Flavobacterium johnsoniae
-986	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;Flavobacterium johnsoniae
-986	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;Flavobacterium johnsoniae
-986	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;Flavobacterium johnsoniae
-986	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;Flavobacterium johnsoniae
-986	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;Flavobacterium johnsoniae
-986	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;Flavobacterium johnsoniae
-986	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;Flavobacterium johnsoniae
-986	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;Flavobacterium johnsoniae
-986	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;Flavobacterium johnsoniae
-986	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;Flavobacterium johnsoniae
-77133	Bacteria;;;;;;uncultured bacterium
-986	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;Flavobacterium johnsoniae
-239	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;Flavobacterium sp.
-280	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Xanthobacteraceae;Xanthobacter;Xanthobacter autotrophicus
-986	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;Flavobacterium johnsoniae
-986	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;Flavobacterium johnsoniae
-986	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;Flavobacterium johnsoniae
-986	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;Flavobacterium johnsoniae
-986	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;Flavobacterium johnsoniae
-165435	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;uncultured Flavobacterium sp.
-986	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;Flavobacterium johnsoniae
-1871047	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium sp.
-77133	Bacteria;;;;;;uncultured bacterium
-1871047	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium sp.
-1869227	Bacteria;;;;;;bacterium
-1871047	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium sp.
-1871047	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium sp.
-279209	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium sp. MH
-259322	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;uncultured Chryseobacterium sp.
-1869227	Bacteria;;;;;;bacterium
-1069980	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium gwangjuense
-386927	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium sp. CI15
-366362	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium sp. CHNTR56
-1871047	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium sp.
-1533998	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium sp. DR 6-07
-1871047	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium sp.
-687846	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium ginsenosidimutans
-259322	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;uncultured Chryseobacterium sp.
-1166115	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium sp. S1-412
-647979	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium sp. PP-4
-77133	Bacteria;;;;;;uncultured bacterium
-1871047	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium sp.
-1871047	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium sp.
-1978493	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium candidae
-2135644	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium sp. CBTAP 102
-1274294	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium sp. OS7
-706985	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium sp. ANSL
-1917718	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium sp. PT238
-1871047	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium sp.
-259908	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium sp. ACP12
-1871047	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium sp.
-1871047	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium sp.
-250	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium gleum
-253	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium indologenes
-250	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium gleum
-1609531	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium rhizoplanae
-1241981	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium lactis
-250	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium gleum
-250	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium gleum
-253	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium indologenes
-680127	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Weeksellaceae;Chryseobacterium;Chryseobacterium culicis
-398527	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Paraburkholderia;Paraburkholderia phytofirmans
-398527	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Paraburkholderia;Paraburkholderia phytofirmans
-398527	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Paraburkholderia;Paraburkholderia phytofirmans
-134536	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Paraburkholderia;Paraburkholderia caledonica
-2026199	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Paraburkholderia;Paraburkholderia aromaticivorans
-2026199	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Paraburkholderia;Paraburkholderia aromaticivorans
-2026199	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Paraburkholderia;Paraburkholderia aromaticivorans
-134536	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Paraburkholderia;Paraburkholderia caledonica
-134536	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Paraburkholderia;Paraburkholderia caledonica
-134536	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Paraburkholderia;Paraburkholderia caledonica
-134536	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Paraburkholderia;Paraburkholderia caledonica
-2026199	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Paraburkholderia;Paraburkholderia aromaticivorans
-2026199	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Paraburkholderia;Paraburkholderia aromaticivorans
-2026199	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Paraburkholderia;Paraburkholderia aromaticivorans
-77133	Bacteria;;;;;;uncultured bacterium
-77133	Bacteria;;;;;;uncultured bacterium
-134536	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Paraburkholderia;Paraburkholderia caledonica
-134536	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Paraburkholderia;Paraburkholderia caledonica
-1544843	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia;Burkholderia sp. DS21
-980394	Bacteria;;;;;;endophytic bacterium 15(2011)
-980395	Bacteria;;;;;;endophytic bacterium 16(2011)
-980403	Bacteria;;;;;;endophytic bacterium 23(2011)
-741712	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia;Burkholderia sp. R4M-O
-83503	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;;;2,4-D-degrading bacterium TFD6
-104692	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;;;2,4-D-degrading bacterium TFD13
-104693	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;;;2,4-D-degrading bacterium TFD20
-132401	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia;Burkholderia sp. S4.11
-261302	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Paraburkholderia;Paraburkholderia phytofirmans
-261302	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Paraburkholderia;Paraburkholderia phytofirmans
-398527	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Paraburkholderia;Paraburkholderia phytofirmans
-398527	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Paraburkholderia;Paraburkholderia phytofirmans
-398527	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Paraburkholderia;Paraburkholderia phytofirmans
-1245417	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Paraburkholderia;Paraburkholderia strydomiana
-222633	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia;Burkholderia sp. H4
-1869227	Bacteria;;;;;;bacterium
-1869227	Bacteria;;;;;;bacterium
-1869227	Bacteria;;;;;;bacterium
-54061	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Ralstonia;Ralstonia sp.
-1869227	Bacteria;;;;;;bacterium
-1869227	Bacteria;;;;;;bacterium
-54061	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Ralstonia;Ralstonia sp.
-1869227	Bacteria;;;;;;bacterium
-1869227	Bacteria;;;;;;bacterium
-1869227	Bacteria;;;;;;bacterium
-1869227	Bacteria;;;;;;bacterium
-1869227	Bacteria;;;;;;bacterium
-1869227	Bacteria;;;;;;bacterium
-1869227	Bacteria;;;;;;bacterium
-1869227	Bacteria;;;;;;bacterium
-1869227	Bacteria;;;;;;bacterium
-54061	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Ralstonia;Ralstonia sp.
-105219	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Ralstonia;Ralstonia mannitolilytica
-105219	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Ralstonia;Ralstonia mannitolilytica
-2842456	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Ralstonia;Ralstonia wenshanensis
-2842456	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Ralstonia;Ralstonia wenshanensis
-34073	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Comamonadaceae;Variovorax;Variovorax paradoxus
-34073	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Comamonadaceae;Variovorax;Variovorax paradoxus
-34073	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Comamonadaceae;Variovorax;Variovorax paradoxus
-2496117	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Comamonadaceae;Variovorax;Variovorax beijingensis
-34073	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Comamonadaceae;Variovorax;Variovorax paradoxus
-1646511	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Comamonadaceae;Variovorax;Variovorax sp. RC3.3
-114708	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Comamonadaceae;Variovorax;uncultured Variovorax sp.
-34073	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Comamonadaceae;Variovorax;Variovorax paradoxus
-1321610	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Comamonadaceae;Variovorax;Variovorax paradoxus
-34073	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Comamonadaceae;Variovorax;Variovorax paradoxus
-34073	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Comamonadaceae;Variovorax;Variovorax paradoxus
-34073	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Comamonadaceae;Variovorax;Variovorax paradoxus
-34073	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Comamonadaceae;Variovorax;Variovorax paradoxus
-34073	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Comamonadaceae;Variovorax;Variovorax paradoxus
-34073	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Comamonadaceae;Variovorax;Variovorax paradoxus
-1775474	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Comamonadaceae;Variovorax;Variovorax guangxiensis
-34073	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Comamonadaceae;Variovorax;Variovorax paradoxus
-34073	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Comamonadaceae;Variovorax;Variovorax paradoxus
-2496117	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Comamonadaceae;Variovorax;Variovorax beijingensis
-2496117	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Comamonadaceae;Variovorax;Variovorax beijingensis
-1871054	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;Janthinobacterium;Janthinobacterium sp.
-55508	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;Janthinobacterium;Janthinobacterium agaricidamnosum
-55508	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;Janthinobacterium;Janthinobacterium agaricidamnosum
-55508	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;Janthinobacterium;Janthinobacterium agaricidamnosum
-55508	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;Janthinobacterium;Janthinobacterium agaricidamnosum
-55508	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;Janthinobacterium;Janthinobacterium agaricidamnosum
-55508	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;Janthinobacterium;Janthinobacterium agaricidamnosum
-55508	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;Janthinobacterium;Janthinobacterium agaricidamnosum
-55508	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;Janthinobacterium;Janthinobacterium agaricidamnosum
-29581	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;Janthinobacterium;Janthinobacterium lividum
-1327323	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;Janthinobacterium;Janthinobacterium sp. Rb10
-77133	Bacteria;;;;;;uncultured bacterium
-368607	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;Janthinobacterium;Janthinobacterium svalbardensis
-1871054	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;Janthinobacterium;Janthinobacterium sp.
-368607	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;Janthinobacterium;Janthinobacterium svalbardensis
-1905844	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;Janthinobacterium;Janthinobacterium sp. Isl
-1537272	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;Janthinobacterium;Janthinobacterium sp. HH100
-1537274	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;Janthinobacterium;Janthinobacterium sp. HH102
-1537275	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;Janthinobacterium;Janthinobacterium sp. HH103
-77133	Bacteria;;;;;;uncultured bacterium
-1537274	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;Janthinobacterium;Janthinobacterium sp. HH102
-1537274	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;Janthinobacterium;Janthinobacterium sp. HH102
-1537274	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;Janthinobacterium;Janthinobacterium sp. HH102
-1537274	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;Janthinobacterium;Janthinobacterium sp. HH102
-1537274	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;Janthinobacterium;Janthinobacterium sp. HH102
-1537274	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;Janthinobacterium;Janthinobacterium sp. HH102
-1537274	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;Janthinobacterium;Janthinobacterium sp. HH102
-1537274	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;Janthinobacterium;Janthinobacterium sp. HH102
-1871054	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;Janthinobacterium;Janthinobacterium sp.
-1871054	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;Janthinobacterium;Janthinobacterium sp.
-1871054	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;Janthinobacterium;Janthinobacterium sp.
-29581	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;Janthinobacterium;Janthinobacterium lividum
-29581	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;Janthinobacterium;Janthinobacterium lividum
-1327322	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;Janthinobacterium;Janthinobacterium sp. Eab4
-1871054	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;Janthinobacterium;Janthinobacterium sp.
-1871054	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;Janthinobacterium;Janthinobacterium sp.
-1934311	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Comamonadaceae;Pseudacidovorax;Pseudacidovorax sp.
-433924	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Comamonadaceae;Pseudacidovorax;Pseudacidovorax intermedius
-1871071	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Comamonadaceae;;Comamonadaceae bacterium
-433924	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Comamonadaceae;Pseudacidovorax;Pseudacidovorax intermedius
-120485	Bacteria;Pseudomonadota;;;;;nitrogen-fixing bacterium MI753
-647638	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Comamonadaceae;Pseudacidovorax;Pseudacidovorax sp. ptl-2
-1934311	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Comamonadaceae;Pseudacidovorax;Pseudacidovorax sp.
-1934311	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Comamonadaceae;Pseudacidovorax;Pseudacidovorax sp.
-433924	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Comamonadaceae;Pseudacidovorax;Pseudacidovorax intermedius
-77133	Bacteria;;;;;;uncultured bacterium
-165437	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Comamonadaceae;;uncultured Comamonadaceae bacterium
-433924	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Comamonadaceae;Pseudacidovorax;Pseudacidovorax intermedius
-1049002	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Comamonadaceae;Pseudacidovorax;Pseudacidovorax sp. NH-1
-1934311	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Comamonadaceae;Pseudacidovorax;Pseudacidovorax sp.
-433924	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Comamonadaceae;Pseudacidovorax;Pseudacidovorax intermedius
-433924	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Comamonadaceae;Pseudacidovorax;Pseudacidovorax intermedius
-433924	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Comamonadaceae;Pseudacidovorax;Pseudacidovorax intermedius
-1934311	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Comamonadaceae;Pseudacidovorax;Pseudacidovorax sp.
-77133	Bacteria;;;;;;uncultured bacterium
-1934311	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Comamonadaceae;Pseudacidovorax;Pseudacidovorax sp.
-1404	Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Priestia;Priestia megaterium
-1404	Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Priestia;Priestia megaterium
-412384	Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Priestia;Priestia aryabhattai
-1869227	Bacteria;;;;;;bacterium
-412384	Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Priestia;Priestia aryabhattai
-2663026	Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus zanthoxyli
-1404	Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Priestia;Priestia megaterium
-1869227	Bacteria;;;;;;bacterium
-412384	Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Priestia;Priestia aryabhattai
-412384	Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Priestia;Priestia aryabhattai
-1404	Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Priestia;Priestia megaterium
-1404	Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Priestia;Priestia megaterium
-1869227	Bacteria;;;;;;bacterium
-1404	Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Priestia;Priestia megaterium
-1404	Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Priestia;Priestia megaterium
-1409	Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus sp. (in: firmicutes)
-1409	Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus sp. (in: firmicutes)
-412384	Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Priestia;Priestia aryabhattai
-1404	Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Priestia;Priestia megaterium
-412384	Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Priestia;Priestia aryabhattai
-526262	Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus sp. B-7
-1409	Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus sp. (in: firmicutes)
-1409	Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus sp. (in: firmicutes)
-209458	Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus arbutinivorans
-1409	Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus sp. (in: firmicutes)
-1869227	Bacteria;;;;;;bacterium
-1409	Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus sp. (in: firmicutes)
-220684	Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Neobacillus;Neobacillus drentensis
-1409	Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus sp. (in: firmicutes)
-1869227	Bacteria;;;;;;bacterium
-1869227	Bacteria;;;;;;bacterium
-664972	Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus sp. TSH18
-1305921	Bacteria;;;;;;bacterium JP61
-220684	Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Neobacillus;Neobacillus drentensis
-220684	Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Neobacillus;Neobacillus drentensis
-413542	Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus sp. P-150
-1869227	Bacteria;;;;;;bacterium
-220684	Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Neobacillus;Neobacillus drentensis
-77133	Bacteria;;;;;;uncultured bacterium
-77133	Bacteria;;;;;;uncultured bacterium
-1409	Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus sp. (in: firmicutes)
-1409	Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus sp. (in: firmicutes)
-1393683	Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus sp. Gr-11
-1408	Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus pumilus
-1408	Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus pumilus
-1409	Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus sp. (in: firmicutes)
-1389171	Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus sp. CZB12
-1423	Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus subtilis
-1408	Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus pumilus
-1409	Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus sp. (in: firmicutes)
-293387	Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus altitudinis
-1409	Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus sp. (in: firmicutes)
-561879	Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus safensis
-1409	Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus sp. (in: firmicutes)
-1509266	Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus sp. SAUK10-3
-83428	Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;uncultured Bacillus sp.
-1458759	Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus sp. hb24
-561879	Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus safensis
-1031354	Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus sp. YXC1-10
-1409	Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus sp. (in: firmicutes)
-2023772	Bacteria;Bacillota;Bacilli;Bacillales;Paenibacillaceae;Paenibacillus;Paenibacillus sp. RUD330
-2023772	Bacteria;Bacillota;Bacilli;Bacillales;Paenibacillaceae;Paenibacillus;Paenibacillus sp. RUD330
-2023772	Bacteria;Bacillota;Bacilli;Bacillales;Paenibacillaceae;Paenibacillus;Paenibacillus sp. RUD330
-2023772	Bacteria;Bacillota;Bacilli;Bacillales;Paenibacillaceae;Paenibacillus;Paenibacillus sp. RUD330
-2023772	Bacteria;Bacillota;Bacilli;Bacillales;Paenibacillaceae;Paenibacillus;Paenibacillus sp. RUD330
-2023772	Bacteria;Bacillota;Bacilli;Bacillales;Paenibacillaceae;Paenibacillus;Paenibacillus sp. RUD330
-2023772	Bacteria;Bacillota;Bacilli;Bacillales;Paenibacillaceae;Paenibacillus;Paenibacillus sp. RUD330
-2023772	Bacteria;Bacillota;Bacilli;Bacillales;Paenibacillaceae;Paenibacillus;Paenibacillus sp. RUD330
-227322	Bacteria;Bacillota;Bacilli;Bacillales;Paenibacillaceae;Paenibacillus;uncultured Paenibacillus sp.
-58172	Bacteria;Bacillota;Bacilli;Bacillales;Paenibacillaceae;Paenibacillus;Paenibacillus sp.
-412861	Bacteria;Bacillota;Bacilli;Bacillales;Paenibacillaceae;Paenibacillus;Paenibacillus humicus
-412861	Bacteria;Bacillota;Bacilli;Bacillales;Paenibacillaceae;Paenibacillus;Paenibacillus humicus
-227322	Bacteria;Bacillota;Bacilli;Bacillales;Paenibacillaceae;Paenibacillus;uncultured Paenibacillus sp.
-412861	Bacteria;Bacillota;Bacilli;Bacillales;Paenibacillaceae;Paenibacillus;Paenibacillus humicus
-77133	Bacteria;;;;;;uncultured bacterium
-412861	Bacteria;Bacillota;Bacilli;Bacillales;Paenibacillaceae;Paenibacillus;Paenibacillus humicus
-412861	Bacteria;Bacillota;Bacilli;Bacillales;Paenibacillaceae;Paenibacillus;Paenibacillus humicus
-412861	Bacteria;Bacillota;Bacilli;Bacillales;Paenibacillaceae;Paenibacillus;Paenibacillus humicus
-483908	Bacteria;Bacillota;Bacilli;Bacillales;Paenibacillaceae;Paenibacillus;Paenibacillus sp. P22
-483914	Bacteria;Bacillota;Bacilli;Bacillales;Paenibacillaceae;Paenibacillus;Paenibacillus sp. Ma-2
-483915	Bacteria;Bacillota;Bacilli;Bacillales;Paenibacillaceae;Paenibacillus;Paenibacillus sp. La1
-77133	Bacteria;;;;;;uncultured bacterium
-412861	Bacteria;Bacillota;Bacilli;Bacillales;Paenibacillaceae;Paenibacillus;Paenibacillus humicus
-412861	Bacteria;Bacillota;Bacilli;Bacillales;Paenibacillaceae;Paenibacillus;Paenibacillus humicus
-412861	Bacteria;Bacillota;Bacilli;Bacillales;Paenibacillaceae;Paenibacillus;Paenibacillus humicus
-58172	Bacteria;Bacillota;Bacilli;Bacillales;Paenibacillaceae;Paenibacillus;Paenibacillus sp.
-126569	Bacteria;Bacillota;Bacilli;Bacillales;Paenibacillaceae;Paenibacillus;Paenibacillus glycanilyticus
-412861	Bacteria;Bacillota;Bacilli;Bacillales;Paenibacillaceae;Paenibacillus;Paenibacillus humicus
-412861	Bacteria;Bacillota;Bacilli;Bacillales;Paenibacillaceae;Paenibacillus;Paenibacillus humicus
-412861	Bacteria;Bacillota;Bacilli;Bacillales;Paenibacillaceae;Paenibacillus;Paenibacillus humicus
-1409	Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus sp. (in: firmicutes)
-1408	Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus pumilus
-1408	Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus pumilus
-1409	Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus sp. (in: firmicutes)
-1408	Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus pumilus
-561879	Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus safensis
-1408	Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus pumilus
-1408	Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus pumilus
-1756175	Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus sp. WP01
-1544111	Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus sp. L103
-83428	Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;uncultured Bacillus sp.
-1458759	Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus sp. hb24
-1409	Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus sp. (in: firmicutes)
-1409	Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus sp. (in: firmicutes)
-1869227	Bacteria;;;;;;bacterium
-1409	Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus sp. (in: firmicutes)
-1408	Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus pumilus
-1408	Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus pumilus
-1754009	Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus sp. G13(2015)
-1409	Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus sp. (in: firmicutes)
-864953	Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus sp. DB134(2010)
-58172	Bacteria;Bacillota;Bacilli;Bacillales;Paenibacillaceae;Paenibacillus;Paenibacillus sp.
-58172	Bacteria;Bacillota;Bacilli;Bacillales;Paenibacillaceae;Paenibacillus;Paenibacillus sp.
-864956	Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus sp. DB137(2010)
-1349476	Bacteria;Bacillota;Bacilli;Bacillales;Paenibacillaceae;Paenibacillus;Paenibacillus sp. HA18
-528187	Bacteria;Bacillota;Bacilli;Bacillales;Paenibacillaceae;Paenibacillus;Paenibacillus tundrae
-528187	Bacteria;Bacillota;Bacilli;Bacillales;Paenibacillaceae;Paenibacillus;Paenibacillus tundrae
-528187	Bacteria;Bacillota;Bacilli;Bacillales;Paenibacillaceae;Paenibacillus;Paenibacillus tundrae
-1491692	Bacteria;Bacillota;Bacilli;Bacillales;Paenibacillaceae;Paenibacillus;Paenibacillus sp. KT19
-1349467	Bacteria;Bacillota;Bacilli;Bacillales;Paenibacillaceae;Paenibacillus;Paenibacillus sp. HA1
-1349554	Bacteria;Bacillota;Bacilli;Bacillales;Paenibacillaceae;Paenibacillus;Paenibacillus sp. PAMC 26813
-1349552	Bacteria;Bacillota;Bacilli;Bacillales;Paenibacillaceae;Paenibacillus;Paenibacillus sp. PAMC 26811
-1349548	Bacteria;Bacillota;Bacilli;Bacillales;Paenibacillaceae;Paenibacillus;Paenibacillus sp. PAMC 26803
-1349545	Bacteria;Bacillota;Bacilli;Bacillales;Paenibacillaceae;Paenibacillus;Paenibacillus sp. PAMC 26800
-1349541	Bacteria;Bacillota;Bacilli;Bacillales;Paenibacillaceae;Paenibacillus;Paenibacillus sp. PAMC 26796
-1349491	Bacteria;Bacillota;Bacilli;Bacillales;Paenibacillaceae;Paenibacillus;Paenibacillus sp. HA31
-1349530	Bacteria;Bacillota;Bacilli;Bacillales;Paenibacillaceae;Paenibacillus;Paenibacillus sp. HA67
-1349507	Bacteria;Bacillota;Bacilli;Bacillales;Paenibacillaceae;Paenibacillus;Paenibacillus sp. HA46
-1349526	Bacteria;Bacillota;Bacilli;Bacillales;Paenibacillaceae;Paenibacillus;Paenibacillus sp. HA63
-1349520	Bacteria;Bacillota;Bacilli;Bacillales;Paenibacillaceae;Paenibacillus;Paenibacillus sp. HA58
-1349517	Bacteria;Bacillota;Bacilli;Bacillales;Paenibacillaceae;Paenibacillus;Paenibacillus sp. HA55
-1349508	Bacteria;Bacillota;Bacilli;Bacillales;Paenibacillaceae;Paenibacillus;Paenibacillus sp. HA47
-1349503	Bacteria;Bacillota;Bacilli;Bacillales;Paenibacillaceae;Paenibacillus;Paenibacillus sp. HA42
-1349506	Bacteria;Bacillota;Bacilli;Bacillales;Paenibacillaceae;Paenibacillus;Paenibacillus sp. HA45
-562	Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia coli
-1884818	Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia sp.
-562	Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia coli
-562	Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia coli
-625	Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Shigella;Shigella sp.
-1884818	Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia sp.
-562	Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia coli
-562	Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia coli
-562	Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia coli
-562	Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia coli
-562	Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia coli
-562	Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia coli
-625	Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Shigella;Shigella sp.
-1716503	Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Shigella;Shigella sp. CH-12
-562	Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia coli
-562	Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia coli
-562	Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia coli
-1632404	Bacteria;;;;;;bacterium YC-LK-LKJ9
-562	Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia coli
-562	Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia coli
-500610	Bacteria;Pseudomonadota;Gammaproteobacteria;Xanthomonadales;Rhodanobacteraceae;Dyella;Dyella marensis
-500610	Bacteria;Pseudomonadota;Gammaproteobacteria;Xanthomonadales;Rhodanobacteraceae;Dyella;Dyella marensis
-500610	Bacteria;Pseudomonadota;Gammaproteobacteria;Xanthomonadales;Rhodanobacteraceae;Dyella;Dyella marensis
-1869338	Bacteria;Pseudomonadota;Gammaproteobacteria;Xanthomonadales;Rhodanobacteraceae;Dyella;Dyella sp.
-1869338	Bacteria;Pseudomonadota;Gammaproteobacteria;Xanthomonadales;Rhodanobacteraceae;Dyella;Dyella sp.
-500610	Bacteria;Pseudomonadota;Gammaproteobacteria;Xanthomonadales;Rhodanobacteraceae;Dyella;Dyella marensis
-1534011	Bacteria;Pseudomonadota;Gammaproteobacteria;Xanthomonadales;Rhodanobacteraceae;Dyella;Dyella sp. GR 3-10
-500610	Bacteria;Pseudomonadota;Gammaproteobacteria;Xanthomonadales;Rhodanobacteraceae;Dyella;Dyella marensis
-500610	Bacteria;Pseudomonadota;Gammaproteobacteria;Xanthomonadales;Rhodanobacteraceae;Dyella;Dyella marensis
-500610	Bacteria;Pseudomonadota;Gammaproteobacteria;Xanthomonadales;Rhodanobacteraceae;Dyella;Dyella marensis
-1869338	Bacteria;Pseudomonadota;Gammaproteobacteria;Xanthomonadales;Rhodanobacteraceae;Dyella;Dyella sp.
-500610	Bacteria;Pseudomonadota;Gammaproteobacteria;Xanthomonadales;Rhodanobacteraceae;Dyella;Dyella marensis
-1869338	Bacteria;Pseudomonadota;Gammaproteobacteria;Xanthomonadales;Rhodanobacteraceae;Dyella;Dyella sp.
-1869338	Bacteria;Pseudomonadota;Gammaproteobacteria;Xanthomonadales;Rhodanobacteraceae;Dyella;Dyella sp.
-1869338	Bacteria;Pseudomonadota;Gammaproteobacteria;Xanthomonadales;Rhodanobacteraceae;Dyella;Dyella sp.
-1869338	Bacteria;Pseudomonadota;Gammaproteobacteria;Xanthomonadales;Rhodanobacteraceae;Dyella;Dyella sp.
-1869338	Bacteria;Pseudomonadota;Gammaproteobacteria;Xanthomonadales;Rhodanobacteraceae;Dyella;Dyella sp.
-1869338	Bacteria;Pseudomonadota;Gammaproteobacteria;Xanthomonadales;Rhodanobacteraceae;Dyella;Dyella sp.
-654670	Bacteria;Pseudomonadota;Gammaproteobacteria;Xanthomonadales;Rhodanobacteraceae;Dyella;Dyella sp. enrichment culture clone Pn5_1.5
-1869338	Bacteria;Pseudomonadota;Gammaproteobacteria;Xanthomonadales;Rhodanobacteraceae;Dyella;Dyella sp.
-77133	Bacteria;;;;;;uncultured bacterium
-242606	Bacteria;Pseudomonadota;Gammaproteobacteria;Xanthomonadales;Rhodanobacteraceae;Luteibacter;Luteibacter rhizovicinus
-242606	Bacteria;Pseudomonadota;Gammaproteobacteria;Xanthomonadales;Rhodanobacteraceae;Luteibacter;Luteibacter rhizovicinus
-928892	Bacteria;Pseudomonadota;Gammaproteobacteria;Xanthomonadales;Rhodanobacteraceae;Luteibacter;Luteibacter sp. IMP04
-242606	Bacteria;Pseudomonadota;Gammaproteobacteria;Xanthomonadales;Rhodanobacteraceae;Luteibacter;Luteibacter rhizovicinus
-242606	Bacteria;Pseudomonadota;Gammaproteobacteria;Xanthomonadales;Rhodanobacteraceae;Luteibacter;Luteibacter rhizovicinus
-77133	Bacteria;;;;;;uncultured bacterium
-242606	Bacteria;Pseudomonadota;Gammaproteobacteria;Xanthomonadales;Rhodanobacteraceae;Luteibacter;Luteibacter rhizovicinus
-373641	Bacteria;Pseudomonadota;Gammaproteobacteria;Xanthomonadales;Rhodanobacteraceae;Luteibacter;uncultured Luteibacter sp.
-1390166	Bacteria;Pseudomonadota;Gammaproteobacteria;Xanthomonadales;Rhodanobacteraceae;Luteibacter;Luteibacter sp. NW-2013-Rh13
-242606	Bacteria;Pseudomonadota;Gammaproteobacteria;Xanthomonadales;Rhodanobacteraceae;Luteibacter;Luteibacter rhizovicinus
-1886636	Bacteria;Pseudomonadota;Gammaproteobacteria;Xanthomonadales;Rhodanobacteraceae;Luteibacter;Luteibacter sp.
-1886636	Bacteria;Pseudomonadota;Gammaproteobacteria;Xanthomonadales;Rhodanobacteraceae;Luteibacter;Luteibacter sp.
-1886636	Bacteria;Pseudomonadota;Gammaproteobacteria;Xanthomonadales;Rhodanobacteraceae;Luteibacter;Luteibacter sp.
-1886636	Bacteria;Pseudomonadota;Gammaproteobacteria;Xanthomonadales;Rhodanobacteraceae;Luteibacter;Luteibacter sp.
-1886636	Bacteria;Pseudomonadota;Gammaproteobacteria;Xanthomonadales;Rhodanobacteraceae;Luteibacter;Luteibacter sp.
-1886636	Bacteria;Pseudomonadota;Gammaproteobacteria;Xanthomonadales;Rhodanobacteraceae;Luteibacter;Luteibacter sp.
-1440763	Bacteria;Pseudomonadota;Gammaproteobacteria;Xanthomonadales;Rhodanobacteraceae;Luteibacter;Luteibacter rhizovicinus
-1440763	Bacteria;Pseudomonadota;Gammaproteobacteria;Xanthomonadales;Rhodanobacteraceae;Luteibacter;Luteibacter rhizovicinus
-242606	Bacteria;Pseudomonadota;Gammaproteobacteria;Xanthomonadales;Rhodanobacteraceae;Luteibacter;Luteibacter rhizovicinus
-908945	Bacteria;Pseudomonadota;Gammaproteobacteria;Xanthomonadales;Rhodanobacteraceae;Luteibacter;Luteibacter sp. AJM040
-242606	Bacteria;Pseudomonadota;Gammaproteobacteria;Xanthomonadales;Rhodanobacteraceae;Luteibacter;Luteibacter rhizovicinus
-1619313	Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Erwiniaceae;Duffyella;Duffyella gerundensis
-1619313	Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Erwiniaceae;Duffyella;Duffyella gerundensis
-1619313	Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Erwiniaceae;Duffyella;Duffyella gerundensis
-1619313	Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Erwiniaceae;Duffyella;Duffyella gerundensis
-1619313	Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Erwiniaceae;Duffyella;Duffyella gerundensis
-1619313	Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Erwiniaceae;Duffyella;Duffyella gerundensis
-1619313	Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Erwiniaceae;Duffyella;Duffyella gerundensis
-558	Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Erwiniaceae;Erwinia;Erwinia sp.
-1619313	Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Erwiniaceae;Duffyella;Duffyella gerundensis
-1619313	Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Erwiniaceae;Duffyella;Duffyella gerundensis
-1619313	Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Erwiniaceae;Duffyella;Duffyella gerundensis
-1619313	Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Erwiniaceae;Duffyella;Duffyella gerundensis
-1619313	Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Erwiniaceae;Duffyella;Duffyella gerundensis
-1619313	Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Erwiniaceae;Duffyella;Duffyella gerundensis
-1619313	Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Erwiniaceae;Duffyella;Duffyella gerundensis
-1619313	Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Erwiniaceae;Duffyella;Duffyella gerundensis
-1619313	Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Erwiniaceae;Duffyella;Duffyella gerundensis
-1619313	Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Erwiniaceae;Duffyella;Duffyella gerundensis
-1619313	Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Erwiniaceae;Duffyella;Duffyella gerundensis
-1619313	Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Erwiniaceae;Duffyella;Duffyella gerundensis
-1619313	Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Erwiniaceae;Duffyella;Duffyella gerundensis
-1619313	Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Erwiniaceae;Duffyella;Duffyella gerundensis
-558	Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Erwiniaceae;Erwinia;Erwinia sp.
-558	Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Erwiniaceae;Erwinia;Erwinia sp.
-558	Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Erwiniaceae;Erwinia;Erwinia sp.
-558	Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Erwiniaceae;Erwinia;Erwinia sp.
-2025874	Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Erwiniaceae;Pantoea;Pantoea sp. B2(2017)
-915001	Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Erwiniaceae;Pantoea;Pantoea sp. CH-N10
-77133	Bacteria;;;;;;uncultured bacterium
-549	Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Erwiniaceae;Pantoea;Pantoea agglomerans
-1619313	Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Erwiniaceae;Duffyella;Duffyella gerundensis
-549	Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Erwiniaceae;Pantoea;Pantoea agglomerans
-558	Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Erwiniaceae;Erwinia;Erwinia sp.
-558	Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Erwiniaceae;Erwinia;Erwinia sp.
-218084	Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Erwiniaceae;Pantoea;uncultured Pantoea sp.
-1619313	Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Erwiniaceae;Duffyella;Duffyella gerundensis
-549	Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Erwiniaceae;Pantoea;Pantoea agglomerans
-558	Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Erwiniaceae;Erwinia;Erwinia sp.
-69393	Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Erwiniaceae;Pantoea;Pantoea sp.
-380021	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas protegens
-1649608	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas sp. SCO-6
-306	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas sp.
-1379367	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas sp. J4.2B4
-294	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas fluorescens
-306	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas sp.
-306	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas sp.
-1379359	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas sp. J2.4D1
-380021	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas protegens
-380021	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas protegens
-306	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas sp.
-306	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas sp.
-1560629	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas sp. S18(2014)
-380021	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas protegens
-380021	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas protegens
-1534121	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas sp. GT 5-01
-1335787	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas sp. DT4
-1231459	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas sp. CHM-31
-155567	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Rhizobiaceae;Rhizobium;uncultured Rhizobium sp.
-306	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas sp.
-104087	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas frederiksbergensis
-104087	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas frederiksbergensis
-1869227	Bacteria;;;;;;bacterium
-1869227	Bacteria;;;;;;bacterium
-104087	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas frederiksbergensis
-306	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas sp.
-1869227	Bacteria;;;;;;bacterium
-306	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas sp.
-1869227	Bacteria;;;;;;bacterium
-1534116	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas sp. GR 7-06
-1034549	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas sp. bG16(2011)
-587753	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas chlororaphis
-2895474	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas sp. B21-017
-2895474	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas sp. B21-017
-2895474	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas sp. B21-017
-2895474	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas sp. B21-017
-2895474	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas sp. B21-017
-2895474	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas sp. B21-017
-392469	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas sp. IBUN S1901
-587753	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas chlororaphis
-75612	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas mandelii
-589235	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas sp. enrichment culture clone SYW11
-294	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas fluorescens
-306	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas sp.
-1869227	Bacteria;;;;;;bacterium
-104087	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas frederiksbergensis
-104087	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas frederiksbergensis
-104087	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas frederiksbergensis
-1869227	Bacteria;;;;;;bacterium
-1869227	Bacteria;;;;;;bacterium
-1869227	Bacteria;;;;;;bacterium
-104087	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas frederiksbergensis
-104087	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas frederiksbergensis
-104087	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas frederiksbergensis
-104087	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas frederiksbergensis
-104087	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas frederiksbergensis
-104087	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas frederiksbergensis
-104087	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas frederiksbergensis
-1869227	Bacteria;;;;;;bacterium
-104087	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas frederiksbergensis
-306	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas sp.
-587753	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas chlororaphis
-306	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas sp.
-1105203	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas sp. WS06
-1659194	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas sp. GR 6-02
-1659194	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas sp. GR 6-02
-1659194	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas sp. GR 6-02
-1659194	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas sp. GR 6-02
-1659194	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas sp. GR 6-02
-1659194	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas sp. GR 6-02
-104087	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas frederiksbergensis
-2895474	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas sp. B21-017
-2895474	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas sp. B21-017
-2895474	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas sp. B21-017
-2895474	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas sp. B21-017
-2895474	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas sp. B21-017
-2895474	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas sp. B21-017
-2895475	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas sp. B21-019
-2895475	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas sp. B21-019
-2895475	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas sp. B21-019
-2895475	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas sp. B21-019
-2895475	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas sp. B21-019
-2895475	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas sp. B21-019
-1034549	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas sp. bG16(2011)
-306	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas sp.
-1869227	Bacteria;;;;;;bacterium
-1662601	Bacteria;Pseudomonadota;Gammaproteobacteria;Moraxellales;Moraxellaceae;Acinetobacter;Acinetobacter sp. HN-7
-1507736	Bacteria;Pseudomonadota;Gammaproteobacteria;Moraxellales;Moraxellaceae;Acinetobacter;Acinetobacter sp. TRS9
-1869227	Bacteria;;;;;;bacterium
-472	Bacteria;Pseudomonadota;Gammaproteobacteria;Moraxellales;Moraxellaceae;Acinetobacter;Acinetobacter sp.
-471	Bacteria;Pseudomonadota;Gammaproteobacteria;Moraxellales;Moraxellaceae;Acinetobacter;Acinetobacter calcoaceticus
-471	Bacteria;Pseudomonadota;Gammaproteobacteria;Moraxellales;Moraxellaceae;Acinetobacter;Acinetobacter calcoaceticus
-471	Bacteria;Pseudomonadota;Gammaproteobacteria;Moraxellales;Moraxellaceae;Acinetobacter;Acinetobacter calcoaceticus
-472	Bacteria;Pseudomonadota;Gammaproteobacteria;Moraxellales;Moraxellaceae;Acinetobacter;Acinetobacter sp.
-471	Bacteria;Pseudomonadota;Gammaproteobacteria;Moraxellales;Moraxellaceae;Acinetobacter;Acinetobacter calcoaceticus
-472	Bacteria;Pseudomonadota;Gammaproteobacteria;Moraxellales;Moraxellaceae;Acinetobacter;Acinetobacter sp.
-472	Bacteria;Pseudomonadota;Gammaproteobacteria;Moraxellales;Moraxellaceae;Acinetobacter;Acinetobacter sp.
-471	Bacteria;Pseudomonadota;Gammaproteobacteria;Moraxellales;Moraxellaceae;Acinetobacter;Acinetobacter calcoaceticus
-1609919	Bacteria;Pseudomonadota;Gammaproteobacteria;Moraxellales;Moraxellaceae;Acinetobacter;Acinetobacter sp. LMB-5
-1484699	Bacteria;Pseudomonadota;Gammaproteobacteria;Moraxellales;Moraxellaceae;Acinetobacter;Acinetobacter sp. FSGSY19
-1869227	Bacteria;;;;;;bacterium
-1869227	Bacteria;;;;;;bacterium
-1869227	Bacteria;;;;;;bacterium
-1869227	Bacteria;;;;;;bacterium
-472	Bacteria;Pseudomonadota;Gammaproteobacteria;Moraxellales;Moraxellaceae;Acinetobacter;Acinetobacter sp.
-306	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas sp.
-1036157	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas sp. PG-3-10
-1451462	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas sp. FBF110
-1451479	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas sp. FBF130
-294	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas fluorescens
-303	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas putida
-321846	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas simiae
-306	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas sp.
-200451	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas poae
-306	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas sp.
-321846	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas simiae
-294	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas fluorescens
-294	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas fluorescens
-303	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas putida
-569518	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas sp. WH1
-447050	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas sp. CBCEN8
-200451	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas poae
-321846	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas simiae
-1416789	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas sp. Plant11
-200451	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas poae
+941373	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Tuberaceae;Tuber;Tuber sp. 47 GB-2010
+672092	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Tuberaceae;Tuber;Tuber sp. GB-2
+210224	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Tuberaceae;;uncultured Tuber
+210224	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Tuberaceae;;uncultured Tuber
+210224	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Tuberaceae;;uncultured Tuber
+1945639	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Tuberaceae;Tuber;Tuber floridanum
+1945639	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Tuberaceae;Tuber;Tuber floridanum
+1945639	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Tuberaceae;Tuber;Tuber floridanum
+1945639	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Tuberaceae;Tuber;Tuber floridanum
+1945639	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Tuberaceae;Tuber;Tuber floridanum
+1945639	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Tuberaceae;Tuber;Tuber floridanum
+1945639	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Tuberaceae;Tuber;Tuber floridanum
+1945639	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Tuberaceae;Tuber;Tuber floridanum
+1945639	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Tuberaceae;Tuber;Tuber floridanum
+1945639	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Tuberaceae;Tuber;Tuber floridanum
+1945639	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Tuberaceae;Tuber;Tuber floridanum
+1945639	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Tuberaceae;Tuber;Tuber floridanum
+1945639	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Tuberaceae;Tuber;Tuber floridanum
+175245	Eukaryota;;;;;;uncultured fungus
+1945639	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Tuberaceae;Tuber;Tuber floridanum
+1945639	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Tuberaceae;Tuber;Tuber floridanum
+175245	Eukaryota;;;;;;uncultured fungus
+1945639	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Tuberaceae;Tuber;Tuber floridanum
+1945639	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Tuberaceae;Tuber;Tuber floridanum
+1945639	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Tuberaceae;Tuber;Tuber floridanum
+2810295	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Tuberaceae;Tuber;Tuber sp. BR-2020a
+2810295	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Tuberaceae;Tuber;Tuber sp. BR-2020a
+2810295	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Tuberaceae;Tuber;Tuber sp. BR-2020a
+2810295	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Tuberaceae;Tuber;Tuber sp. BR-2020a
+2810295	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Tuberaceae;Tuber;Tuber sp. BR-2020a
+2810295	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Tuberaceae;Tuber;Tuber sp. BR-2020a
+2810295	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Tuberaceae;Tuber;Tuber sp. BR-2020a
+2810295	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Tuberaceae;Tuber;Tuber sp. BR-2020a
+358422	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Tuberaceae;;uncultured Tuberaceae
+2810295	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Tuberaceae;Tuber;Tuber sp. BR-2020a
+2810295	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Tuberaceae;Tuber;Tuber sp. BR-2020a
+2810295	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Tuberaceae;Tuber;Tuber sp. BR-2020a
+2810295	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Tuberaceae;Tuber;Tuber sp. BR-2020a
+2810295	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Tuberaceae;Tuber;Tuber sp. BR-2020a
+2810295	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Tuberaceae;Tuber;Tuber sp. BR-2020a
+2810295	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Tuberaceae;Tuber;Tuber sp. BR-2020a
+2810295	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Tuberaceae;Tuber;Tuber sp. BR-2020a
+2810295	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Tuberaceae;Tuber;Tuber sp. BR-2020a
+2810295	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Tuberaceae;Tuber;Tuber sp. BR-2020a
+2810295	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Tuberaceae;Tuber;Tuber sp. BR-2020a
+2810295	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Tuberaceae;Tuber;Tuber sp. BR-2020a
+2810295	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Tuberaceae;Tuber;Tuber sp. BR-2020a
+2810295	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Tuberaceae;Tuber;Tuber sp. BR-2020a
+2810295	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Tuberaceae;Tuber;Tuber sp. BR-2020a
+210224	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Tuberaceae;;uncultured Tuber
+210224	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Tuberaceae;;uncultured Tuber
+1582323	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Morchellaceae;Morchella;Morchella americana
+175245	Eukaryota;;;;;;uncultured fungus
+1582323	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Morchellaceae;Morchella;Morchella americana
+1582323	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Morchellaceae;Morchella;Morchella americana
+1582323	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Morchellaceae;Morchella;Morchella americana
+1582323	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Morchellaceae;Morchella;Morchella americana
+1582323	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Morchellaceae;Morchella;Morchella americana
+1582323	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Morchellaceae;Morchella;Morchella americana
+1582323	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Morchellaceae;Morchella;Morchella americana
+1582323	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Morchellaceae;Morchella;Morchella americana
+1582323	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Morchellaceae;Morchella;Morchella americana
+1582323	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Morchellaceae;Morchella;Morchella americana
+1582323	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Morchellaceae;Morchella;Morchella americana
+1582323	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Morchellaceae;Morchella;Morchella americana
+1582323	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Morchellaceae;Morchella;Morchella americana
+1582323	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Morchellaceae;Morchella;Morchella americana
+1582323	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Morchellaceae;Morchella;Morchella americana
+1582323	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Morchellaceae;Morchella;Morchella americana
+1582323	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Morchellaceae;Morchella;Morchella americana
+1582323	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Morchellaceae;Morchella;Morchella americana
+1582323	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Morchellaceae;Morchella;Morchella americana
+1582323	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Morchellaceae;Morchella;Morchella americana
+39407	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Morchellaceae;Morchella;Morchella esculenta
+62754	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Morchellaceae;Morchella;Morchella crassipes
+39407	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Morchellaceae;Morchella;Morchella esculenta
+1582323	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Morchellaceae;Morchella;Morchella americana
+1593264	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Bolbitiaceae;Cyclocybe;Cyclocybe cylindracea
+2488328	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Strophariaceae;Agrocybe;Agrocybe aff. cylindracea
+1973307	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Bolbitiaceae;Cyclocybe;Cyclocybe aegerita
+1973307	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Bolbitiaceae;Cyclocybe;Cyclocybe aegerita
+1973307	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Bolbitiaceae;Cyclocybe;Cyclocybe aegerita
+1973307	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Bolbitiaceae;Cyclocybe;Cyclocybe aegerita
+1973307	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Bolbitiaceae;Cyclocybe;Cyclocybe aegerita
+1593264	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Bolbitiaceae;Cyclocybe;Cyclocybe cylindracea
+1973307	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Bolbitiaceae;Cyclocybe;Cyclocybe aegerita
+1973307	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Bolbitiaceae;Cyclocybe;Cyclocybe aegerita
+64608	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Strophariaceae;Agrocybe;Agrocybe cylindracea
+5400	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Bolbitiaceae;Cyclocybe;Cyclocybe aegerita
+1973307	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Bolbitiaceae;Cyclocybe;Cyclocybe aegerita
+1973307	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Bolbitiaceae;Cyclocybe;Cyclocybe aegerita
+1973307	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Bolbitiaceae;Cyclocybe;Cyclocybe aegerita
+1973307	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Bolbitiaceae;Cyclocybe;Cyclocybe aegerita
+1967158	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Strophariaceae;Agrocybe;Agrocybe sp.
+1973307	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Bolbitiaceae;Cyclocybe;Cyclocybe aegerita
+1973307	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Bolbitiaceae;Cyclocybe;Cyclocybe aegerita
+1973307	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Bolbitiaceae;Cyclocybe;Cyclocybe aegerita
+64608	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Strophariaceae;Agrocybe;Agrocybe cylindracea
+1973307	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Bolbitiaceae;Cyclocybe;Cyclocybe aegerita
+64608	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Strophariaceae;Agrocybe;Agrocybe cylindracea
+1973307	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Bolbitiaceae;Cyclocybe;Cyclocybe aegerita
+1593264	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Bolbitiaceae;Cyclocybe;Cyclocybe cylindracea
+64608	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Strophariaceae;Agrocybe;Agrocybe cylindracea
+1973307	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Bolbitiaceae;Cyclocybe;Cyclocybe aegerita
+36074	Eukaryota;Basidiomycota;Agaricomycetes;Polyporales;Polyporaceae;Ganoderma;Ganoderma oregonense
+36074	Eukaryota;Basidiomycota;Agaricomycetes;Polyporales;Polyporaceae;Ganoderma;Ganoderma oregonense
+36069	Eukaryota;Basidiomycota;Agaricomycetes;Polyporales;Polyporaceae;Ganoderma;Ganoderma carnosum
+34467	Eukaryota;Basidiomycota;Agaricomycetes;Polyporales;Polyporaceae;Ganoderma;Ganoderma tsugae
+34467	Eukaryota;Basidiomycota;Agaricomycetes;Polyporales;Polyporaceae;Ganoderma;Ganoderma tsugae
+34467	Eukaryota;Basidiomycota;Agaricomycetes;Polyporales;Polyporaceae;Ganoderma;Ganoderma tsugae
+34467	Eukaryota;Basidiomycota;Agaricomycetes;Polyporales;Polyporaceae;Ganoderma;Ganoderma tsugae
+581218	Eukaryota;Basidiomycota;Agaricomycetes;Polyporales;;;uncultured Polyporales
+175245	Eukaryota;;;;;;uncultured fungus
+29884	Eukaryota;Basidiomycota;Agaricomycetes;Polyporales;Polyporaceae;Ganoderma;Ganoderma applanatum
+29884	Eukaryota;Basidiomycota;Agaricomycetes;Polyporales;Polyporaceae;Ganoderma;Ganoderma applanatum
+101940	Eukaryota;Basidiomycota;Agaricomycetes;Polyporales;Polyporaceae;Ganoderma;Ganoderma sessile
+101940	Eukaryota;Basidiomycota;Agaricomycetes;Polyporales;Polyporaceae;Ganoderma;Ganoderma sessile
+1296616	Eukaryota;Basidiomycota;;;;;Basidiomycota sp. T-861
+175245	Eukaryota;;;;;;uncultured fungus
+1296616	Eukaryota;Basidiomycota;;;;;Basidiomycota sp. T-861
+1296615	Eukaryota;Basidiomycota;;;;;Basidiomycota sp. T-847
+496552	Eukaryota;Basidiomycota;Agaricomycetes;Polyporales;Polyporaceae;Ganoderma;Ganoderma steyaertanum
+2719959	Eukaryota;Basidiomycota;Agaricomycetes;Polyporales;Polyporaceae;Ganoderma;Ganoderma cf. sessile
+581218	Eukaryota;Basidiomycota;Agaricomycetes;Polyporales;;;uncultured Polyporales
+114155	Eukaryota;Basidiomycota;Agaricomycetes;Polyporales;Polyporaceae;Dichomitus;Dichomitus squalens
+175245	Eukaryota;;;;;;uncultured fungus
+114155	Eukaryota;Basidiomycota;Agaricomycetes;Polyporales;Polyporaceae;Dichomitus;Dichomitus squalens
+114155	Eukaryota;Basidiomycota;Agaricomycetes;Polyporales;Polyporaceae;Dichomitus;Dichomitus squalens
+114155	Eukaryota;Basidiomycota;Agaricomycetes;Polyporales;Polyporaceae;Dichomitus;Dichomitus squalens
+2596645	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Strophariaceae;Pholiota;Pholiota cf. adiposa
+109638	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Strophariaceae;Pholiota;Pholiota limonella
+64639	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Strophariaceae;Pholiota;Pholiota adiposa
+109638	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Strophariaceae;Pholiota;Pholiota limonella
+109639	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Strophariaceae;Pholiota;Pholiota gummosa
+935600	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Strophariaceae;Pholiota;Pholiota terrestris
+1751032	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Strophariaceae;Pholiota;Pholiota sp. 1 MK-2015
+1751032	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Strophariaceae;Pholiota;Pholiota sp. 1 MK-2015
+109636	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Strophariaceae;Pholiota;Pholiota conissans
+13206	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Strophariaceae;Pholiota;Pholiota aurivella
+2596645	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Strophariaceae;Pholiota;Pholiota cf. adiposa
+13206	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Strophariaceae;Pholiota;Pholiota aurivella
+109638	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Strophariaceae;Pholiota;Pholiota limonella
+1917365	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Strophariaceae;Pholiota;Pholiota sp.
+1104355	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Strophariaceae;Pholiota;Pholiota abietis
+109638	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Strophariaceae;Pholiota;Pholiota limonella
+109640	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Strophariaceae;Pholiota;Pholiota jahnii
+1917365	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Strophariaceae;Pholiota;Pholiota sp.
+1917365	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Strophariaceae;Pholiota;Pholiota sp.
+175245	Eukaryota;;;;;;uncultured fungus
+64639	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Strophariaceae;Pholiota;Pholiota adiposa
+109638	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Strophariaceae;Pholiota;Pholiota limonella
+109638	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Strophariaceae;Pholiota;Pholiota limonella
+64639	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Strophariaceae;Pholiota;Pholiota adiposa
+64639	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Strophariaceae;Pholiota;Pholiota adiposa
+1755894	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;;Sarcomyxa;Sarcomyxa edulis
+1755894	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;;Sarcomyxa;Sarcomyxa edulis
+1755894	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;;Sarcomyxa;Sarcomyxa edulis
+1755894	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;;Sarcomyxa;Sarcomyxa edulis
+1755894	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;;Sarcomyxa;Sarcomyxa edulis
+1755894	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;;Sarcomyxa;Sarcomyxa edulis
+1755894	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;;Sarcomyxa;Sarcomyxa edulis
+1755894	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;;Sarcomyxa;Sarcomyxa edulis
+1755894	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;;Sarcomyxa;Sarcomyxa edulis
+1755894	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;;Sarcomyxa;Sarcomyxa edulis
+1755894	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;;Sarcomyxa;Sarcomyxa edulis
+1755894	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;;Sarcomyxa;Sarcomyxa edulis
+1755894	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;;Sarcomyxa;Sarcomyxa edulis
+1755894	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;;Sarcomyxa;Sarcomyxa edulis
+1755894	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;;Sarcomyxa;Sarcomyxa edulis
+1755894	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;;Sarcomyxa;Sarcomyxa edulis
+1755894	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;;Sarcomyxa;Sarcomyxa edulis
+1755894	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;;Sarcomyxa;Sarcomyxa edulis
+1755894	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;;Sarcomyxa;Sarcomyxa edulis
+1755894	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;;Sarcomyxa;Sarcomyxa edulis
+1755894	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;;Sarcomyxa;Sarcomyxa edulis
+1755894	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;;Sarcomyxa;Sarcomyxa edulis
+1755894	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;;Sarcomyxa;Sarcomyxa edulis
+1755894	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;;Sarcomyxa;Sarcomyxa edulis
+40488	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;;Sarcomyxa;Sarcomyxa serotina
+71948	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Strophariaceae;Kuehneromyces;Kuehneromyces mutabilis
+71948	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Strophariaceae;Kuehneromyces;Kuehneromyces mutabilis
+76327	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Tricholomataceae;Tricholoma;Tricholoma sejunctum
+2107928	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Strophariaceae;Kuehneromyces;Kuehneromyces sp.
+181748	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Strophariaceae;Hypholoma;Hypholoma ericaeum
+2107928	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Strophariaceae;Kuehneromyces;Kuehneromyces sp.
+71948	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Strophariaceae;Kuehneromyces;Kuehneromyces mutabilis
+71948	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Strophariaceae;Kuehneromyces;Kuehneromyces mutabilis
+2107928	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Strophariaceae;Kuehneromyces;Kuehneromyces sp.
+175244	Eukaryota;Basidiomycota;;;;;uncultured Basidiomycota
+2291771	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Strophariaceae;Kuehneromyces;Kuehneromyces sp. 1 MB-2018
+71948	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Strophariaceae;Kuehneromyces;Kuehneromyces mutabilis
+71948	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Strophariaceae;Kuehneromyces;Kuehneromyces mutabilis
+109642	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Strophariaceae;Pholiota;Pholiota lignicola
+71948	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Strophariaceae;Kuehneromyces;Kuehneromyces mutabilis
+71948	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Strophariaceae;Kuehneromyces;Kuehneromyces mutabilis
+71948	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Strophariaceae;Kuehneromyces;Kuehneromyces mutabilis
+71948	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Strophariaceae;Kuehneromyces;Kuehneromyces mutabilis
+175244	Eukaryota;Basidiomycota;;;;;uncultured Basidiomycota
+71948	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Strophariaceae;Kuehneromyces;Kuehneromyces mutabilis
+175244	Eukaryota;Basidiomycota;;;;;uncultured Basidiomycota
+71948	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Strophariaceae;Kuehneromyces;Kuehneromyces mutabilis
+175245	Eukaryota;;;;;;uncultured fungus
+71948	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Strophariaceae;Kuehneromyces;Kuehneromyces mutabilis
+71948	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Strophariaceae;Kuehneromyces;Kuehneromyces mutabilis
+5322	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Pleurotaceae;Pleurotus;Pleurotus ostreatus
+5322	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Pleurotaceae;Pleurotus;Pleurotus ostreatus
+5322	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Pleurotaceae;Pleurotus;Pleurotus ostreatus
+5322	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Pleurotaceae;Pleurotus;Pleurotus ostreatus
+28995	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Pleurotaceae;Pleurotus;Pleurotus pulmonarius
+5322	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Pleurotaceae;Pleurotus;Pleurotus ostreatus
+5322	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Pleurotaceae;Pleurotus;Pleurotus ostreatus
+28994	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Pleurotaceae;Pleurotus;Pleurotus populinus
+28995	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Pleurotaceae;Pleurotus;Pleurotus pulmonarius
+5323	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Pleurotaceae;Pleurotus;Pleurotus eryngii
+48251	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Pleurotaceae;Pleurotus;Pleurotus abieticola
+5323	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Pleurotaceae;Pleurotus;Pleurotus eryngii
+5323	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Pleurotaceae;Pleurotus;Pleurotus eryngii
+5322	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Pleurotaceae;Pleurotus;Pleurotus ostreatus
+98342	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Pleurotaceae;Pleurotus;Pleurotus citrinopileatus
+1008384	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Pleurotaceae;Pleurotus;Pleurotus sp. LAU09-LAU10
+50053	Eukaryota;Basidiomycota;Agaricomycetes;Polyporales;Polyporaceae;Lentinus;Lentinus sajor-caju
+1008386	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Pleurotaceae;Pleurotus;Pleurotus sp. LAU09-NE02
+1008385	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Pleurotaceae;Pleurotus;Pleurotus sp. LAU09-NE01
+1008388	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Pleurotaceae;Pleurotus;Pleurotus sp. LAU09-NE07
+188765	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Pleurotaceae;Pleurotus;Pleurotus ostreatus
+1415152	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Pleurotaceae;Pleurotus;Pleurotus sp. IOO-2013b
+1415152	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Pleurotaceae;Pleurotus;Pleurotus sp. IOO-2013b
+1709932	Eukaryota;Basidiomycota;Agaricomycetes;;;;Agaricomycetes sp.
+5322	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Pleurotaceae;Pleurotus;Pleurotus ostreatus
+1415151	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Pleurotaceae;Pleurotus;Pleurotus sp. IOO-2013a
+1415151	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Pleurotaceae;Pleurotus;Pleurotus sp. IOO-2013a
+5322	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Pleurotaceae;Pleurotus;Pleurotus ostreatus
+5322	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Pleurotaceae;Pleurotus;Pleurotus ostreatus
+5353	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Omphalotaceae;Lentinula;Lentinula edodes
+1445717	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Omphalotaceae;Lentinula;Lentinula sp. 507
+5353	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Omphalotaceae;Lentinula;Lentinula edodes
+5353	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Omphalotaceae;Lentinula;Lentinula edodes
+5353	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Omphalotaceae;Lentinula;Lentinula edodes
+1445723	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Omphalotaceae;Lentinula;Lentinula sp. S8
+5353	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Omphalotaceae;Lentinula;Lentinula edodes
+5353	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Omphalotaceae;Lentinula;Lentinula edodes
+1445725	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Omphalotaceae;Lentinula;Lentinula sp. Y3
+1445722	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Omphalotaceae;Lentinula;Lentinula sp. R
+1445719	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Omphalotaceae;Lentinula;Lentinula sp. G
+1445718	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Omphalotaceae;Lentinula;Lentinula sp. 808
+1445721	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Omphalotaceae;Lentinula;Lentinula sp. N1
+5353	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Omphalotaceae;Lentinula;Lentinula edodes
+5353	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Omphalotaceae;Lentinula;Lentinula edodes
+5353	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Omphalotaceae;Lentinula;Lentinula edodes
+5353	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Omphalotaceae;Lentinula;Lentinula edodes
+1445720	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Omphalotaceae;Lentinula;Lentinula sp. H3
+5353	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Omphalotaceae;Lentinula;Lentinula edodes
+5353	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Omphalotaceae;Lentinula;Lentinula edodes
+5353	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Omphalotaceae;Lentinula;Lentinula edodes
+5353	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Omphalotaceae;Lentinula;Lentinula edodes
+5353	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Omphalotaceae;Lentinula;Lentinula edodes
+5353	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Omphalotaceae;Lentinula;Lentinula edodes
+5353	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Omphalotaceae;Lentinula;Lentinula edodes
+5507	Eukaryota;Ascomycota;Sordariomycetes;Hypocreales;Nectriaceae;Fusarium;Fusarium oxysporum
+660027	Eukaryota;Ascomycota;Sordariomycetes;Hypocreales;Nectriaceae;Fusarium;Fusarium oxysporum
+660027	Eukaryota;Ascomycota;Sordariomycetes;Hypocreales;Nectriaceae;Fusarium;Fusarium oxysporum
+660027	Eukaryota;Ascomycota;Sordariomycetes;Hypocreales;Nectriaceae;Fusarium;Fusarium oxysporum
+660027	Eukaryota;Ascomycota;Sordariomycetes;Hypocreales;Nectriaceae;Fusarium;Fusarium oxysporum
+5507	Eukaryota;Ascomycota;Sordariomycetes;Hypocreales;Nectriaceae;Fusarium;Fusarium oxysporum
+5507	Eukaryota;Ascomycota;Sordariomycetes;Hypocreales;Nectriaceae;Fusarium;Fusarium oxysporum
+5507	Eukaryota;Ascomycota;Sordariomycetes;Hypocreales;Nectriaceae;Fusarium;Fusarium oxysporum
+5507	Eukaryota;Ascomycota;Sordariomycetes;Hypocreales;Nectriaceae;Fusarium;Fusarium oxysporum
+42551	Eukaryota;Ascomycota;Sordariomycetes;Hypocreales;Nectriaceae;Fusarium;Fusarium oxysporum
+42551	Eukaryota;Ascomycota;Sordariomycetes;Hypocreales;Nectriaceae;Fusarium;Fusarium oxysporum
+29916	Eukaryota;Ascomycota;Sordariomycetes;Hypocreales;Nectriaceae;Fusarium;Fusarium sp.
+29916	Eukaryota;Ascomycota;Sordariomycetes;Hypocreales;Nectriaceae;Fusarium;Fusarium sp.
+29916	Eukaryota;Ascomycota;Sordariomycetes;Hypocreales;Nectriaceae;Fusarium;Fusarium sp.
+29916	Eukaryota;Ascomycota;Sordariomycetes;Hypocreales;Nectriaceae;Fusarium;Fusarium sp.
+5507	Eukaryota;Ascomycota;Sordariomycetes;Hypocreales;Nectriaceae;Fusarium;Fusarium oxysporum
+1709941	Eukaryota;;;;;;fungal sp.
+2502997	Eukaryota;Ascomycota;Sordariomycetes;Hypocreales;Nectriaceae;Fusarium;Fusarium libertatis
+5507	Eukaryota;Ascomycota;Sordariomycetes;Hypocreales;Nectriaceae;Fusarium;Fusarium oxysporum
+5507	Eukaryota;Ascomycota;Sordariomycetes;Hypocreales;Nectriaceae;Fusarium;Fusarium oxysporum
+5507	Eukaryota;Ascomycota;Sordariomycetes;Hypocreales;Nectriaceae;Fusarium;Fusarium oxysporum
+5507	Eukaryota;Ascomycota;Sordariomycetes;Hypocreales;Nectriaceae;Fusarium;Fusarium oxysporum
+5507	Eukaryota;Ascomycota;Sordariomycetes;Hypocreales;Nectriaceae;Fusarium;Fusarium oxysporum
+5507	Eukaryota;Ascomycota;Sordariomycetes;Hypocreales;Nectriaceae;Fusarium;Fusarium oxysporum
+5507	Eukaryota;Ascomycota;Sordariomycetes;Hypocreales;Nectriaceae;Fusarium;Fusarium oxysporum
+29916	Eukaryota;Ascomycota;Sordariomycetes;Hypocreales;Nectriaceae;Fusarium;Fusarium sp.
+29916	Eukaryota;Ascomycota;Sordariomycetes;Hypocreales;Nectriaceae;Fusarium;Fusarium sp.
+29916	Eukaryota;Ascomycota;Sordariomycetes;Hypocreales;Nectriaceae;Fusarium;Fusarium sp.
+36080	Eukaryota;Mucoromycota;Mucoromycetes;Mucorales;Mucoraceae;Mucor;Mucor circinelloides
+36080	Eukaryota;Mucoromycota;Mucoromycetes;Mucorales;Mucoraceae;Mucor;Mucor circinelloides
+36080	Eukaryota;Mucoromycota;Mucoromycetes;Mucorales;Mucoraceae;Mucor;Mucor circinelloides
+36080	Eukaryota;Mucoromycota;Mucoromycetes;Mucorales;Mucoraceae;Mucor;Mucor circinelloides
+36080	Eukaryota;Mucoromycota;Mucoromycetes;Mucorales;Mucoraceae;Mucor;Mucor circinelloides
+36080	Eukaryota;Mucoromycota;Mucoromycetes;Mucorales;Mucoraceae;Mucor;Mucor circinelloides
+36080	Eukaryota;Mucoromycota;Mucoromycetes;Mucorales;Mucoraceae;Mucor;Mucor circinelloides
+36080	Eukaryota;Mucoromycota;Mucoromycetes;Mucorales;Mucoraceae;Mucor;Mucor circinelloides
+36080	Eukaryota;Mucoromycota;Mucoromycetes;Mucorales;Mucoraceae;Mucor;Mucor circinelloides
+36080	Eukaryota;Mucoromycota;Mucoromycetes;Mucorales;Mucoraceae;Mucor;Mucor circinelloides
+36080	Eukaryota;Mucoromycota;Mucoromycetes;Mucorales;Mucoraceae;Mucor;Mucor circinelloides
+36080	Eukaryota;Mucoromycota;Mucoromycetes;Mucorales;Mucoraceae;Mucor;Mucor circinelloides
+36080	Eukaryota;Mucoromycota;Mucoromycetes;Mucorales;Mucoraceae;Mucor;Mucor circinelloides
+36080	Eukaryota;Mucoromycota;Mucoromycetes;Mucorales;Mucoraceae;Mucor;Mucor circinelloides
+36080	Eukaryota;Mucoromycota;Mucoromycetes;Mucorales;Mucoraceae;Mucor;Mucor circinelloides
+1715236	Eukaryota;Mucoromycota;Mucoromycetes;Mucorales;Mucoraceae;Mucor;Mucor sp.
+36080	Eukaryota;Mucoromycota;Mucoromycetes;Mucorales;Mucoraceae;Mucor;Mucor circinelloides
+4841	Eukaryota;Mucoromycota;Mucoromycetes;Mucorales;Mucoraceae;Mucor;Mucor racemosus
+1715236	Eukaryota;Mucoromycota;Mucoromycetes;Mucorales;Mucoraceae;Mucor;Mucor sp.
+179640	Eukaryota;;;;;;uncultured zygomycete
+179640	Eukaryota;;;;;;uncultured zygomycete
+1715236	Eukaryota;Mucoromycota;Mucoromycetes;Mucorales;Mucoraceae;Mucor;Mucor sp.
+4841	Eukaryota;Mucoromycota;Mucoromycetes;Mucorales;Mucoraceae;Mucor;Mucor racemosus
+928730	Eukaryota;Mucoromycota;Mucoromycetes;Mucorales;Mucoraceae;Mucor;Mucor griseocyanus
+928730	Eukaryota;Mucoromycota;Mucoromycetes;Mucorales;Mucoraceae;Mucor;Mucor griseocyanus
+1935343	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Morchellaceae;Morchella;Morchella sp.
+1935343	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Morchellaceae;Morchella;Morchella sp.
+1935343	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Morchellaceae;Morchella;Morchella sp.
+368404	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Morchellaceae;Morchella;Morchella rufobrunnea
+368404	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Morchellaceae;Morchella;Morchella rufobrunnea
+368404	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Morchellaceae;Morchella;Morchella rufobrunnea
+368404	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Morchellaceae;Morchella;Morchella rufobrunnea
+368404	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Morchellaceae;Morchella;Morchella rufobrunnea
+62754	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Morchellaceae;Morchella;Morchella crassipes
+368404	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Morchellaceae;Morchella;Morchella rufobrunnea
+368404	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Morchellaceae;Morchella;Morchella rufobrunnea
+368404	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Morchellaceae;Morchella;Morchella rufobrunnea
+368404	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Morchellaceae;Morchella;Morchella rufobrunnea
+368404	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Morchellaceae;Morchella;Morchella rufobrunnea
+368404	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Morchellaceae;Morchella;Morchella rufobrunnea
+368404	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Morchellaceae;Morchella;Morchella rufobrunnea
+62754	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Morchellaceae;Morchella;Morchella crassipes
+368404	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Morchellaceae;Morchella;Morchella rufobrunnea
+368404	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Morchellaceae;Morchella;Morchella rufobrunnea
+368404	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Morchellaceae;Morchella;Morchella rufobrunnea
+368404	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Morchellaceae;Morchella;Morchella rufobrunnea
+368404	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Morchellaceae;Morchella;Morchella rufobrunnea
+368404	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Morchellaceae;Morchella;Morchella rufobrunnea
+368404	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Morchellaceae;Morchella;Morchella rufobrunnea
+368404	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Morchellaceae;Morchella;Morchella rufobrunnea
+48021	Eukaryota;Basidiomycota;Agaricomycetes;Russulales;Auriscalpiaceae;Artomyces;Artomyces pyxidatus
+48021	Eukaryota;Basidiomycota;Agaricomycetes;Russulales;Auriscalpiaceae;Artomyces;Artomyces pyxidatus
+175245	Eukaryota;;;;;;uncultured fungus
+48021	Eukaryota;Basidiomycota;Agaricomycetes;Russulales;Auriscalpiaceae;Artomyces;Artomyces pyxidatus
+175245	Eukaryota;;;;;;uncultured fungus
+40484	Eukaryota;Basidiomycota;Agaricomycetes;Russulales;Auriscalpiaceae;Lentinellus;Lentinellus ursinus
+48021	Eukaryota;Basidiomycota;Agaricomycetes;Russulales;Auriscalpiaceae;Artomyces;Artomyces pyxidatus
+154745	Eukaryota;Basidiomycota;Agaricomycetes;Russulales;Gloeocystidiellaceae;Gloeocystidiellum;Gloeocystidiellum porosum
+154745	Eukaryota;Basidiomycota;Agaricomycetes;Russulales;Gloeocystidiellaceae;Gloeocystidiellum;Gloeocystidiellum porosum
+154745	Eukaryota;Basidiomycota;Agaricomycetes;Russulales;Gloeocystidiellaceae;Gloeocystidiellum;Gloeocystidiellum porosum
+154745	Eukaryota;Basidiomycota;Agaricomycetes;Russulales;Gloeocystidiellaceae;Gloeocystidiellum;Gloeocystidiellum porosum
+167564	Eukaryota;Basidiomycota;Agaricomycetes;Russulales;Gloeocystidiellaceae;Gloeocystidiellum;Gloeocystidiellum sp. NH12972
+154745	Eukaryota;Basidiomycota;Agaricomycetes;Russulales;Gloeocystidiellaceae;Gloeocystidiellum;Gloeocystidiellum porosum
+154745	Eukaryota;Basidiomycota;Agaricomycetes;Russulales;Gloeocystidiellaceae;Gloeocystidiellum;Gloeocystidiellum porosum
+154745	Eukaryota;Basidiomycota;Agaricomycetes;Russulales;Gloeocystidiellaceae;Gloeocystidiellum;Gloeocystidiellum porosum
+154745	Eukaryota;Basidiomycota;Agaricomycetes;Russulales;Gloeocystidiellaceae;Gloeocystidiellum;Gloeocystidiellum porosum
+154745	Eukaryota;Basidiomycota;Agaricomycetes;Russulales;Gloeocystidiellaceae;Gloeocystidiellum;Gloeocystidiellum porosum
+154745	Eukaryota;Basidiomycota;Agaricomycetes;Russulales;Gloeocystidiellaceae;Gloeocystidiellum;Gloeocystidiellum porosum
+48021	Eukaryota;Basidiomycota;Agaricomycetes;Russulales;Auriscalpiaceae;Artomyces;Artomyces pyxidatus
+2950032	Eukaryota;Basidiomycota;Agaricomycetes;Russulales;Auriscalpiaceae;Artomyces;Artomyces sp. 'pyxidatus-IN01'
+2950032	Eukaryota;Basidiomycota;Agaricomycetes;Russulales;Auriscalpiaceae;Artomyces;Artomyces sp. 'pyxidatus-IN01'
+48021	Eukaryota;Basidiomycota;Agaricomycetes;Russulales;Auriscalpiaceae;Artomyces;Artomyces pyxidatus
+48021	Eukaryota;Basidiomycota;Agaricomycetes;Russulales;Auriscalpiaceae;Artomyces;Artomyces pyxidatus
+48021	Eukaryota;Basidiomycota;Agaricomycetes;Russulales;Auriscalpiaceae;Artomyces;Artomyces pyxidatus
+2950032	Eukaryota;Basidiomycota;Agaricomycetes;Russulales;Auriscalpiaceae;Artomyces;Artomyces sp. 'pyxidatus-IN01'
+937743	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Physalacriaceae;Hymenopellis;Hymenopellis radicata
+1291039	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Physalacriaceae;;uncultured Xerula
+937740	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Physalacriaceae;Hymenopellis;Hymenopellis furfuracea
+937740	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Physalacriaceae;Hymenopellis;Hymenopellis furfuracea
+937740	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Physalacriaceae;Hymenopellis;Hymenopellis furfuracea
+937740	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Physalacriaceae;Hymenopellis;Hymenopellis furfuracea
+937740	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Physalacriaceae;Hymenopellis;Hymenopellis furfuracea
+937743	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Physalacriaceae;Hymenopellis;Hymenopellis radicata
+882750	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Physalacriaceae;Xerula;Xerula sp. SFSU DED7661
+882750	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Physalacriaceae;Xerula;Xerula sp. SFSU DED7661
+937740	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Physalacriaceae;Hymenopellis;Hymenopellis furfuracea
+2740703	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Physalacriaceae;Xerula;Xerula atrocaerulea
+937740	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Physalacriaceae;Hymenopellis;Hymenopellis furfuracea
+937740	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Physalacriaceae;Hymenopellis;Hymenopellis furfuracea
+937740	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Physalacriaceae;Hymenopellis;Hymenopellis furfuracea
+937743	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Physalacriaceae;Hymenopellis;Hymenopellis radicata
+937740	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Physalacriaceae;Hymenopellis;Hymenopellis furfuracea
+937740	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Physalacriaceae;Hymenopellis;Hymenopellis furfuracea
+937740	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Physalacriaceae;Hymenopellis;Hymenopellis furfuracea
+937740	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Physalacriaceae;Hymenopellis;Hymenopellis furfuracea
+937740	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Physalacriaceae;Hymenopellis;Hymenopellis furfuracea
+937740	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Physalacriaceae;Hymenopellis;Hymenopellis furfuracea
+937740	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Physalacriaceae;Hymenopellis;Hymenopellis furfuracea
+937740	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Physalacriaceae;Hymenopellis;Hymenopellis furfuracea
+937740	Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Physalacriaceae;Hymenopellis;Hymenopellis furfuracea
+167363	Eukaryota;Basidiomycota;Agaricomycetes;Hymenochaetales;Hymenochaetaceae;Phellinus;Phellinus alni
+167363	Eukaryota;Basidiomycota;Agaricomycetes;Hymenochaetales;Hymenochaetaceae;Phellinus;Phellinus alni
+167363	Eukaryota;Basidiomycota;Agaricomycetes;Hymenochaetales;Hymenochaetaceae;Phellinus;Phellinus alni
+40472	Eukaryota;Basidiomycota;Agaricomycetes;Hymenochaetales;Hymenochaetaceae;Phellinus;Phellinus igniarius
+40472	Eukaryota;Basidiomycota;Agaricomycetes;Hymenochaetales;Hymenochaetaceae;Phellinus;Phellinus igniarius
+167363	Eukaryota;Basidiomycota;Agaricomycetes;Hymenochaetales;Hymenochaetaceae;Phellinus;Phellinus alni
+40472	Eukaryota;Basidiomycota;Agaricomycetes;Hymenochaetales;Hymenochaetaceae;Phellinus;Phellinus igniarius
+40472	Eukaryota;Basidiomycota;Agaricomycetes;Hymenochaetales;Hymenochaetaceae;Phellinus;Phellinus igniarius
+167363	Eukaryota;Basidiomycota;Agaricomycetes;Hymenochaetales;Hymenochaetaceae;Phellinus;Phellinus alni
+167363	Eukaryota;Basidiomycota;Agaricomycetes;Hymenochaetales;Hymenochaetaceae;Phellinus;Phellinus alni
+167363	Eukaryota;Basidiomycota;Agaricomycetes;Hymenochaetales;Hymenochaetaceae;Phellinus;Phellinus alni
+167363	Eukaryota;Basidiomycota;Agaricomycetes;Hymenochaetales;Hymenochaetaceae;Phellinus;Phellinus alni
+167363	Eukaryota;Basidiomycota;Agaricomycetes;Hymenochaetales;Hymenochaetaceae;Phellinus;Phellinus alni
+167363	Eukaryota;Basidiomycota;Agaricomycetes;Hymenochaetales;Hymenochaetaceae;Phellinus;Phellinus alni
+167363	Eukaryota;Basidiomycota;Agaricomycetes;Hymenochaetales;Hymenochaetaceae;Phellinus;Phellinus alni
+167363	Eukaryota;Basidiomycota;Agaricomycetes;Hymenochaetales;Hymenochaetaceae;Phellinus;Phellinus alni
+167363	Eukaryota;Basidiomycota;Agaricomycetes;Hymenochaetales;Hymenochaetaceae;Phellinus;Phellinus alni
+167363	Eukaryota;Basidiomycota;Agaricomycetes;Hymenochaetales;Hymenochaetaceae;Phellinus;Phellinus alni
+167363	Eukaryota;Basidiomycota;Agaricomycetes;Hymenochaetales;Hymenochaetaceae;Phellinus;Phellinus alni
+167363	Eukaryota;Basidiomycota;Agaricomycetes;Hymenochaetales;Hymenochaetaceae;Phellinus;Phellinus alni
+167363	Eukaryota;Basidiomycota;Agaricomycetes;Hymenochaetales;Hymenochaetaceae;Phellinus;Phellinus alni
+167363	Eukaryota;Basidiomycota;Agaricomycetes;Hymenochaetales;Hymenochaetaceae;Phellinus;Phellinus alni
+167363	Eukaryota;Basidiomycota;Agaricomycetes;Hymenochaetales;Hymenochaetaceae;Phellinus;Phellinus alni
+167363	Eukaryota;Basidiomycota;Agaricomycetes;Hymenochaetales;Hymenochaetaceae;Phellinus;Phellinus alni
+167363	Eukaryota;Basidiomycota;Agaricomycetes;Hymenochaetales;Hymenochaetaceae;Phellinus;Phellinus alni
+167363	Eukaryota;Basidiomycota;Agaricomycetes;Hymenochaetales;Hymenochaetaceae;Phellinus;Phellinus alni
+29884	Eukaryota;Basidiomycota;Agaricomycetes;Polyporales;Polyporaceae;Ganoderma;Ganoderma applanatum
+175245	Eukaryota;;;;;;uncultured fungus
+29884	Eukaryota;Basidiomycota;Agaricomycetes;Polyporales;Polyporaceae;Ganoderma;Ganoderma applanatum
+29884	Eukaryota;Basidiomycota;Agaricomycetes;Polyporales;Polyporaceae;Ganoderma;Ganoderma applanatum
+29884	Eukaryota;Basidiomycota;Agaricomycetes;Polyporales;Polyporaceae;Ganoderma;Ganoderma applanatum
+29884	Eukaryota;Basidiomycota;Agaricomycetes;Polyporales;Polyporaceae;Ganoderma;Ganoderma applanatum
+29884	Eukaryota;Basidiomycota;Agaricomycetes;Polyporales;Polyporaceae;Ganoderma;Ganoderma applanatum
+29884	Eukaryota;Basidiomycota;Agaricomycetes;Polyporales;Polyporaceae;Ganoderma;Ganoderma applanatum
+29884	Eukaryota;Basidiomycota;Agaricomycetes;Polyporales;Polyporaceae;Ganoderma;Ganoderma applanatum
+29884	Eukaryota;Basidiomycota;Agaricomycetes;Polyporales;Polyporaceae;Ganoderma;Ganoderma applanatum
+29884	Eukaryota;Basidiomycota;Agaricomycetes;Polyporales;Polyporaceae;Ganoderma;Ganoderma applanatum
+29884	Eukaryota;Basidiomycota;Agaricomycetes;Polyporales;Polyporaceae;Ganoderma;Ganoderma applanatum
+29884	Eukaryota;Basidiomycota;Agaricomycetes;Polyporales;Polyporaceae;Ganoderma;Ganoderma applanatum
+551035	Eukaryota;Basidiomycota;Agaricomycetes;Polyporales;Polyporaceae;;uncultured Ganoderma
+551035	Eukaryota;Basidiomycota;Agaricomycetes;Polyporales;Polyporaceae;;uncultured Ganoderma
+101938	Eukaryota;Basidiomycota;Agaricomycetes;Polyporales;Polyporaceae;Ganoderma;Ganoderma lipsiense
+1869158	Eukaryota;Basidiomycota;Agaricomycetes;Polyporales;Polyporaceae;Ganoderma;Ganoderma sp.
+101938	Eukaryota;Basidiomycota;Agaricomycetes;Polyporales;Polyporaceae;Ganoderma;Ganoderma lipsiense
+101938	Eukaryota;Basidiomycota;Agaricomycetes;Polyporales;Polyporaceae;Ganoderma;Ganoderma lipsiense
+29884	Eukaryota;Basidiomycota;Agaricomycetes;Polyporales;Polyporaceae;Ganoderma;Ganoderma applanatum
+175245	Eukaryota;;;;;;uncultured fungus
+29884	Eukaryota;Basidiomycota;Agaricomycetes;Polyporales;Polyporaceae;Ganoderma;Ganoderma applanatum
+29884	Eukaryota;Basidiomycota;Agaricomycetes;Polyporales;Polyporaceae;Ganoderma;Ganoderma applanatum
+29884	Eukaryota;Basidiomycota;Agaricomycetes;Polyporales;Polyporaceae;Ganoderma;Ganoderma applanatum
+101938	Eukaryota;Basidiomycota;Agaricomycetes;Polyporales;Polyporaceae;Ganoderma;Ganoderma lipsiense
+1924244	Eukaryota;Ascomycota;Sordariomycetes;Hypocreales;Hypocreaceae;Hypomyces;Hypomyces tubariicola
+5131	Eukaryota;Ascomycota;Sordariomycetes;Hypocreales;Hypocreaceae;Hypomyces;Hypomyces chrysospermus
+100997	Eukaryota;Ascomycota;Sordariomycetes;Hypocreales;Hypocreaceae;Hypomyces;Hypomyces cervinigenus
+1522464	Eukaryota;Ascomycota;Sordariomycetes;Hypocreales;Hypocreaceae;;Hypocreaceae sp. 1b4
+5131	Eukaryota;Ascomycota;Sordariomycetes;Hypocreales;Hypocreaceae;Hypomyces;Hypomyces chrysospermus
+113635	Eukaryota;Ascomycota;Sordariomycetes;Hypocreales;Hypocreaceae;Sepedonium;Sepedonium sp.
+935618	Eukaryota;Ascomycota;Sordariomycetes;Hypocreales;Hypocreaceae;Sepedonium;Sepedonium sp. ARB 2010
+5131	Eukaryota;Ascomycota;Sordariomycetes;Hypocreales;Hypocreaceae;Hypomyces;Hypomyces chrysospermus
+5131	Eukaryota;Ascomycota;Sordariomycetes;Hypocreales;Hypocreaceae;Hypomyces;Hypomyces chrysospermus
+5131	Eukaryota;Ascomycota;Sordariomycetes;Hypocreales;Hypocreaceae;Hypomyces;Hypomyces chrysospermus
+1868164	Eukaryota;Ascomycota;Sordariomycetes;Hypocreales;Hypocreaceae;Hypomyces;Hypomyces sp.
+101002	Eukaryota;Ascomycota;Sordariomycetes;Hypocreales;Hypocreaceae;Hypomyces;Hypomyces armeniacus
+29870	Eukaryota;Ascomycota;Sordariomycetes;Hypocreales;Hypocreaceae;Sphaerostilbella;Sphaerostilbella aureonitens
+29853	Eukaryota;Ascomycota;Sordariomycetes;Hypocreales;Hypocreaceae;Hypomyces;Hypomyces australis
+2489192	Eukaryota;Ascomycota;Sordariomycetes;Hypocreales;Hypocreaceae;Sphaerostilbella;Sphaerostilbella himalayensis
+1054401	Eukaryota;Ascomycota;Sordariomycetes;Hypocreales;;Gliocladium;Gliocladium sp. NRRL 22971
+57168	Eukaryota;Ascomycota;Sordariomycetes;Hypocreales;Nectriaceae;Atractium;Atractium crassum
+175245	Eukaryota;;;;;;uncultured fungus
+2489193	Eukaryota;Ascomycota;Sordariomycetes;Hypocreales;Hypocreaceae;Sphaerostilbella;Sphaerostilbella toxica
+2489193	Eukaryota;Ascomycota;Sordariomycetes;Hypocreales;Hypocreaceae;Sphaerostilbella;Sphaerostilbella toxica
+129729	Eukaryota;Ascomycota;Sordariomycetes;Hypocreales;Hypocreaceae;Sphaerostilbella;Sphaerostilbella broomeana
+2489191	Eukaryota;Ascomycota;Sordariomycetes;Hypocreales;Hypocreaceae;Sphaerostilbella;Sphaerostilbella appalachiensis
+129729	Eukaryota;Ascomycota;Sordariomycetes;Hypocreales;Hypocreaceae;Sphaerostilbella;Sphaerostilbella broomeana
+91930	Eukaryota;Ascomycota;Sordariomycetes;Coniochaetales;Coniochaetaceae;Coniochaeta;Coniochaeta hoffmannii
+1567482	Eukaryota;Ascomycota;Sordariomycetes;Hypocreales;Hypocreaceae;Trichoderma;Trichoderma afroharzianum
+1567482	Eukaryota;Ascomycota;Sordariomycetes;Hypocreales;Hypocreaceae;Trichoderma;Trichoderma afroharzianum
+1491472	Eukaryota;Ascomycota;Sordariomycetes;Hypocreales;Hypocreaceae;Trichoderma;Trichoderma lixii
+979171	Eukaryota;Ascomycota;Sordariomycetes;Hypocreales;Nectriaceae;Thyronectria;Thyronectria berolinensis
+5544	Eukaryota;Ascomycota;Sordariomycetes;Hypocreales;Hypocreaceae;Trichoderma;Trichoderma harzianum
+1143252	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Tuberaceae;Tuber;Tuber mexiusanum
+175245	Eukaryota;;;;;;uncultured fungus
+175245	Eukaryota;;;;;;uncultured fungus
+175245	Eukaryota;;;;;;uncultured fungus
+175245	Eukaryota;;;;;;uncultured fungus
+1709941	Eukaryota;;;;;;fungal sp.
+210224	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Tuberaceae;;uncultured Tuber
+1709941	Eukaryota;;;;;;fungal sp.
+175245	Eukaryota;;;;;;uncultured fungus
+1143248	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Tuberaceae;Tuber;Tuber beyerlei
+175245	Eukaryota;;;;;;uncultured fungus
+175245	Eukaryota;;;;;;uncultured fungus
+1104266	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Tuberaceae;Tuber;Tuber sp. 36 GB-2011
+1945638	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Tuberaceae;Tuber;Tuber brennemanii
+210224	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Tuberaceae;;uncultured Tuber
+672091	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Tuberaceae;Tuber;Tuber sp. GB-1
+672091	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Tuberaceae;Tuber;Tuber sp. GB-1
+672091	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Tuberaceae;Tuber;Tuber sp. GB-1
+672091	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Tuberaceae;Tuber;Tuber sp. GB-1
+672091	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Tuberaceae;Tuber;Tuber sp. GB-1
+672091	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Tuberaceae;Tuber;Tuber sp. GB-1
+210224	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Tuberaceae;;uncultured Tuber
+405902	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Tuberaceae;Tuber;Tuber sp. src664
+175243	Eukaryota;Ascomycota;;;;;uncultured Ascomycota
+672091	Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Tuberaceae;Tuber;Tuber sp. GB-1
+2058368	Eukaryota;Basidiomycota;Agaricomycetes;Russulales;Hericiaceae;Hericium;Hericium flagellum
+135208	Eukaryota;Basidiomycota;Agaricomycetes;Russulales;Hericiaceae;Hericium;Hericium alpestre
+2771933	Eukaryota;Basidiomycota;Agaricomycetes;Russulales;Hericiaceae;Hericium;Hericium cf. erinaceus
+91752	Eukaryota;Basidiomycota;Agaricomycetes;Russulales;Hericiaceae;Hericium;Hericium erinaceus
+2771933	Eukaryota;Basidiomycota;Agaricomycetes;Russulales;Hericiaceae;Hericium;Hericium cf. erinaceus
+91752	Eukaryota;Basidiomycota;Agaricomycetes;Russulales;Hericiaceae;Hericium;Hericium erinaceus
+91752	Eukaryota;Basidiomycota;Agaricomycetes;Russulales;Hericiaceae;Hericium;Hericium erinaceus
+91752	Eukaryota;Basidiomycota;Agaricomycetes;Russulales;Hericiaceae;Hericium;Hericium erinaceus
+135208	Eukaryota;Basidiomycota;Agaricomycetes;Russulales;Hericiaceae;Hericium;Hericium alpestre
+91752	Eukaryota;Basidiomycota;Agaricomycetes;Russulales;Hericiaceae;Hericium;Hericium erinaceus
+100756	Eukaryota;Basidiomycota;Agaricomycetes;Russulales;Hericiaceae;Hericium;Hericium coralloides
+91752	Eukaryota;Basidiomycota;Agaricomycetes;Russulales;Hericiaceae;Hericium;Hericium erinaceus
+91752	Eukaryota;Basidiomycota;Agaricomycetes;Russulales;Hericiaceae;Hericium;Hericium erinaceus
+91752	Eukaryota;Basidiomycota;Agaricomycetes;Russulales;Hericiaceae;Hericium;Hericium erinaceus
+100756	Eukaryota;Basidiomycota;Agaricomycetes;Russulales;Hericiaceae;Hericium;Hericium coralloides
+91752	Eukaryota;Basidiomycota;Agaricomycetes;Russulales;Hericiaceae;Hericium;Hericium erinaceus
+91752	Eukaryota;Basidiomycota;Agaricomycetes;Russulales;Hericiaceae;Hericium;Hericium erinaceus
+91752	Eukaryota;Basidiomycota;Agaricomycetes;Russulales;Hericiaceae;Hericium;Hericium erinaceus
+91752	Eukaryota;Basidiomycota;Agaricomycetes;Russulales;Hericiaceae;Hericium;Hericium erinaceus
+91752	Eukaryota;Basidiomycota;Agaricomycetes;Russulales;Hericiaceae;Hericium;Hericium erinaceus
+91752	Eukaryota;Basidiomycota;Agaricomycetes;Russulales;Hericiaceae;Hericium;Hericium erinaceus
+91752	Eukaryota;Basidiomycota;Agaricomycetes;Russulales;Hericiaceae;Hericium;Hericium erinaceus
+91752	Eukaryota;Basidiomycota;Agaricomycetes;Russulales;Hericiaceae;Hericium;Hericium erinaceus
+91752	Eukaryota;Basidiomycota;Agaricomycetes;Russulales;Hericiaceae;Hericium;Hericium erinaceus
+91752	Eukaryota;Basidiomycota;Agaricomycetes;Russulales;Hericiaceae;Hericium;Hericium erinaceus
