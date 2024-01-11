@@ -1,0 +1,994 @@
+query,subject,bitscore,e_value,percent_identity,query_coverage,Kingdom,Phylum,Class,Order,Family,Genus,Species
+Query_1,HQ166103,2248,0.0,97.378,99,Bacteria,Actinomycetota,Actinomycetes,Micrococcales,Micrococcaceae,Arthrobacter,Arthrobacter sp. d9(2010)
+Query_1,MK934454,2242,0.0,97.720,98,Bacteria,Actinomycetota,Actinomycetes,Micrococcales,Micrococcaceae,Arthrobacter,Arthrobacter humicola
+Query_1,KC816574,2242,0.0,97.650,99,Bacteria,Actinomycetota,Actinomycetes,Micrococcales,Micrococcaceae,Arthrobacter,Arthrobacter humicola
+Query_1,JX401507,2242,0.0,97.790,98,Bacteria,Actinomycetota,Actinomycetes,Micrococcales,Micrococcaceae,Arthrobacter,Arthrobacter sp. BJC15-A6
+Query_1,CP042172,2239,0.0,97.646,98,Bacteria,Actinomycetota,Actinomycetes,Micrococcales,Micrococcaceae,Arthrobacter,Arthrobacter sp. KBS0702
+Query_1,CP042172,2239,0.0,97.646,98,Bacteria,Actinomycetota,Actinomycetes,Micrococcales,Micrococcaceae,Arthrobacter,Arthrobacter sp. KBS0702
+Query_1,CP042172,2239,0.0,97.646,98,Bacteria,Actinomycetota,Actinomycetes,Micrococcales,Micrococcaceae,Arthrobacter,Arthrobacter sp. KBS0702
+Query_1,CP042172,2239,0.0,97.646,98,Bacteria,Actinomycetota,Actinomycetes,Micrococcales,Micrococcaceae,Arthrobacter,Arthrobacter sp. KBS0702
+Query_1,CP042172,2204,0.0,97.191,98,Bacteria,Actinomycetota,Actinomycetes,Micrococcales,Micrococcaceae,Arthrobacter,Arthrobacter sp. KBS0702
+Query_1,MN004834,2239,0.0,97.646,98,Bacteria,Actinomycetota,Actinomycetes,Micrococcales,Micrococcaceae,Arthrobacter,Arthrobacter humicola
+Query_1,MK934394,2239,0.0,97.717,98,Bacteria,Actinomycetota,Actinomycetes,Micrococcales,Micrococcaceae,Arthrobacter,Arthrobacter humicola
+Query_1,MH699253,2239,0.0,97.646,98,Bacteria,Actinomycetota,Actinomycetes,Micrococcales,Micrococcaceae,Arthrobacter,Arthrobacter sp.
+Query_1,MG461445,2239,0.0,97.646,98,Bacteria,Actinomycetota,Actinomycetes,Micrococcales,Micrococcaceae,Arthrobacter,Arthrobacter sp. H-02-3
+Query_1,KT820197,2239,0.0,97.717,98,Bacteria,Actinomycetota,Actinomycetes,Micrococcales,Micrococcaceae,Arthrobacter,Arthrobacter sp. MW3
+Query_1,OP986378,2239,0.0,97.646,98,Bacteria,Actinomycetota,Actinomycetes,Micrococcales,Micrococcaceae,Arthrobacter,Arthrobacter sp.
+Query_1,OP986372,2239,0.0,97.646,98,Bacteria,Actinomycetota,Actinomycetes,Micrococcales,Micrococcaceae,Arthrobacter,Arthrobacter sp.
+Query_1,OP881674,2239,0.0,97.233,99,Bacteria,Actinomycetota,Actinomycetes,,,,Actinomycetia bacterium
+Query_1,OP881667,2239,0.0,97.233,99,Bacteria,Actinomycetota,Actinomycetes,,,,Actinomycetia bacterium
+Query_1,ON514311,2239,0.0,97.646,98,Bacteria,Actinomycetota,Actinomycetes,Micrococcales,Micrococcaceae,Arthrobacter,Arthrobacter humicola
+Query_1,KF071415,2239,0.0,97.646,98,Bacteria,,,,,,uncultured bacterium
+Query_1,AP024655,2239,0.0,97.646,98,Bacteria,Actinomycetota,Actinomycetes,Micrococcales,Micrococcaceae,Arthrobacter,Arthrobacter sp. NicSoilB8
+Query_1,AP024655,2239,0.0,97.646,98,Bacteria,Actinomycetota,Actinomycetes,Micrococcales,Micrococcaceae,Arthrobacter,Arthrobacter sp. NicSoilB8
+Query_1,AP024655,2239,0.0,97.646,98,Bacteria,Actinomycetota,Actinomycetes,Micrococcales,Micrococcaceae,Arthrobacter,Arthrobacter sp. NicSoilB8
+Query_1,AP024655,2239,0.0,97.646,98,Bacteria,Actinomycetota,Actinomycetes,Micrococcales,Micrococcaceae,Arthrobacter,Arthrobacter sp. NicSoilB8
+Query_1,AP024655,2239,0.0,97.646,98,Bacteria,Actinomycetota,Actinomycetes,Micrococcales,Micrococcaceae,Arthrobacter,Arthrobacter sp. NicSoilB8
+Query_1,FJ938115,2239,0.0,97.368,99,Bacteria,Actinomycetota,Actinomycetes,Micrococcales,Micrococcaceae,Arthrobacter,Arthrobacter sp. 210_4
+Query_1,AB496410,2239,0.0,97.646,98,Bacteria,Actinomycetota,Actinomycetes,Micrococcales,Micrococcaceae,Arthrobacter,Arthrobacter humicola
+Query_1,AB496410,2239,0.0,97.646,98,Bacteria,Actinomycetota,Actinomycetes,Micrococcales,Micrococcaceae,Arthrobacter,Arthrobacter sp. S21004
+Query_1,AB496410,2239,0.0,97.646,98,Bacteria,Actinomycetota,Actinomycetes,Micrococcales,Micrococcaceae,Arthrobacter,Arthrobacter sp. S22236
+Query_1,NR_041546,2239,0.0,97.646,98,Bacteria,Actinomycetota,Actinomycetes,Micrococcales,Micrococcaceae,Arthrobacter,Arthrobacter humicola
+Query_1,NR_041546,2239,0.0,97.646,98,Bacteria,Actinomycetota,Actinomycetes,Micrococcales,Micrococcaceae,Arthrobacter,Arthrobacter sp. NCCP-1110
+Query_2,KC764990,2226,0.0,97.352,98,Bacteria,Actinomycetota,Actinomycetes,Micrococcales,Micrococcaceae,Paenarthrobacter,Paenarthrobacter nicotinovorans
+Query_2,MN710483,2222,0.0,97.212,99,Bacteria,Actinomycetota,Actinomycetes,Micrococcales,Micrococcaceae,Paenarthrobacter,Paenarthrobacter nicotinovorans
+Query_2,OP247623,2222,0.0,97.281,98,Bacteria,Actinomycetota,Actinomycetes,Micrococcales,Micrococcaceae,Paenarthrobacter,Paenarthrobacter sp.
+Query_2,KY649371,2218,0.0,97.483,98,Bacteria,Actinomycetota,Actinomycetes,Micrococcales,Micrococcaceae,Paenarthrobacter,Paenarthrobacter nicotinovorans
+Query_2,LC214531,2218,0.0,97.414,98,Bacteria,Actinomycetota,Actinomycetes,Micrococcales,Micrococcaceae,Arthrobacter,Arthrobacter sp. GBD-1
+Query_2,ON116169,2218,0.0,97.414,98,Bacteria,Actinomycetota,Actinomycetes,Micrococcales,Micrococcaceae,Paenarthrobacter,Paenarthrobacter sp.
+Query_2,ON514552,2217,0.0,97.275,98,Bacteria,Actinomycetota,Actinomycetes,Micrococcales,Micrococcaceae,Pseudarthrobacter,Pseudarthrobacter enclensis
+Query_2,MK824537,2215,0.0,97.065,99,Bacteria,,,,,,bacterium
+Query_2,MK089840,2215,0.0,96.999,99,Bacteria,Actinomycetota,Actinomycetes,Micrococcales,Micrococcaceae,Paenarthrobacter,Paenarthrobacter sp.
+Query_2,MW227489,2215,0.0,97.203,98,Bacteria,Actinomycetota,Actinomycetes,Micrococcales,Micrococcaceae,Paenarthrobacter,Paenarthrobacter nicotinovorans
+Query_2,MK981170,2213,0.0,97.409,98,Bacteria,Actinomycetota,Actinomycetes,Micrococcales,Micrococcaceae,Paenarthrobacter,Paenarthrobacter nicotinovorans
+Query_2,OK160728,2213,0.0,97.065,99,Bacteria,,,,,,bacterium
+Query_2,MK823839,2211,0.0,97.199,98,Bacteria,,,,,,bacterium
+Query_2,KR922212,2211,0.0,97.475,97,Bacteria,Actinomycetota,Actinomycetes,Micrococcales,Micrococcaceae,Paenarthrobacter,Paenarthrobacter nicotinovorans
+Query_2,MW879453,2211,0.0,96.992,99,Bacteria,Actinomycetota,Actinomycetes,Micrococcales,Micrococcaceae,Paenarthrobacter,Paenarthrobacter nicotinovorans
+Query_2,JF700391,2211,0.0,97.407,98,Bacteria,Actinomycetota,Actinomycetes,Micrococcales,Micrococcaceae,Paenarthrobacter,Paenarthrobacter nicotinovorans
+Query_2,MH671654,2209,0.0,96.992,99,Bacteria,Actinomycetota,Actinomycetes,Micrococcales,Micrococcaceae,Arthrobacter,Arthrobacter sp.
+Query_2,MH130327,2209,0.0,96.992,99,Bacteria,Actinomycetota,Actinomycetes,Micrococcales,Micrococcaceae,Arthrobacter,Arthrobacter sp.
+Query_2,MK823849,2209,0.0,96.924,99,Bacteria,,,,,,bacterium
+Query_2,MK823841,2209,0.0,97.267,98,Bacteria,,,,,,bacterium
+Query_3,MG234436,2202,0.0,96.585,99,Bacteria,Actinomycetota,Actinomycetes,Micrococcales,Microbacteriaceae,Curtobacterium,Curtobacterium sp.
+Query_3,KF040990,2198,0.0,96.644,99,Bacteria,Actinomycetota,Actinomycetes,Micrococcales,Microbacteriaceae,Curtobacterium,Curtobacterium citreum
+Query_3,MK280704,2193,0.0,96.704,99,Bacteria,Actinomycetota,Actinomycetes,Micrococcales,Microbacteriaceae,Curtobacterium,Curtobacterium sp.
+Query_3,KT759381,2191,0.0,96.702,98,Bacteria,Actinomycetota,Actinomycetes,Micrococcales,Microbacteriaceae,Curtobacterium,uncultured Curtobacterium sp.
+Query_3,KR906484,2191,0.0,96.637,99,Bacteria,Actinomycetota,Actinomycetes,Micrococcales,Microbacteriaceae,Curtobacterium,Curtobacterium sp. HBUM179747
+Query_3,KJ944147,2191,0.0,96.702,98,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Flavobacterium,Flavobacterium sp. L303(2014)
+Query_3,KJ200386,2191,0.0,96.702,99,Bacteria,Actinomycetota,Actinomycetes,Micrococcales,Microbacteriaceae,Curtobacterium,Curtobacterium sp. FSGSY23
+Query_3,FJ976534,2191,0.0,96.699,99,Bacteria,Actinomycetota,Actinomycetes,Micrococcales,Microbacteriaceae,Curtobacterium,Curtobacterium sp. LCR25
+Query_3,MK704290,2189,0.0,96.370,99,Bacteria,Actinomycetota,Actinomycetes,Micrococcales,Microbacteriaceae,Curtobacterium,Curtobacterium sp.
+Query_3,JF460771,2189,0.0,96.767,98,Bacteria,Actinomycetota,Actinomycetes,Micrococcales,Microbacteriaceae,Curtobacterium,Curtobacterium oceanosedimentum
+Query_3,FJ976532,2189,0.0,96.767,98,Bacteria,Actinomycetota,Actinomycetes,Micrococcales,Microbacteriaceae,Curtobacterium,Curtobacterium citreum
+Query_3,KU221444,2187,0.0,96.498,99,Bacteria,,,,,,bacterium R48
+Query_3,KR906483,2187,0.0,96.565,99,Bacteria,Actinomycetota,Actinomycetes,Micrococcales,Microbacteriaceae,Curtobacterium,Curtobacterium sp. HBUM179744
+Query_3,FJ976531,2187,0.0,96.562,99,Bacteria,Actinomycetota,Actinomycetes,Micrococcales,Microbacteriaceae,Curtobacterium,Curtobacterium sp. LCR22
+Query_3,MT367788,2185,0.0,96.629,98,Bacteria,Actinomycetota,Actinomycetes,Micrococcales,Microbacteriaceae,Curtobacterium,Curtobacterium sp.
+Query_3,MN577383,2185,0.0,96.629,98,Bacteria,Actinomycetota,Actinomycetes,Micrococcales,Microbacteriaceae,Curtobacterium,Curtobacterium sp.
+Query_3,MK415002,2185,0.0,96.762,98,Bacteria,Actinomycetota,Actinomycetes,Micrococcales,Microbacteriaceae,Curtobacterium,Curtobacterium oceanosedimentum
+Query_3,KR708888,2185,0.0,96.495,99,Bacteria,Actinomycetota,Actinomycetes,Micrococcales,Microbacteriaceae,Curtobacterium,Curtobacterium oceanosedimentum
+Query_3,KR906477,2185,0.0,96.629,98,Bacteria,Actinomycetota,Actinomycetes,Micrococcales,Microbacteriaceae,Curtobacterium,Curtobacterium sp. HBUM179125
+Query_3,MT367830,2183,0.0,96.624,98,Bacteria,Actinomycetota,Actinomycetes,Micrococcales,Microbacteriaceae,Curtobacterium,Curtobacterium albidum
+Query_4,MZ254804,2252,0.0,98.151,98,Bacteria,Actinomycetota,Actinomycetes,Kitasatosporales,Streptomycetaceae,Streptomyces,Streptomyces neopeptinius
+Query_4,OK135801,2248,0.0,98.150,98,Bacteria,Actinomycetota,Actinomycetes,Kitasatosporales,Streptomycetaceae,Streptomyces,Streptomyces neopeptinius
+Query_4,MH337943,2241,0.0,98.217,98,Bacteria,Actinomycetota,Actinomycetes,Kitasatosporales,Streptomycetaceae,Streptomyces,Streptomyces sp.
+Query_4,OP881788,2239,0.0,98.069,98,Bacteria,Actinomycetota,Actinomycetes,,,,Actinomycetia bacterium
+Query_4,MZ254831,2237,0.0,98.214,98,Bacteria,Actinomycetota,Actinomycetes,Kitasatosporales,Streptomycetaceae,Streptomyces,Streptomyces rishiriensis
+Query_4,KC429608,2237,0.0,98.361,97,Bacteria,Actinomycetota,Actinomycetes,Kitasatosporales,Streptomycetaceae,Streptomyces,Streptomyces rishiriensis
+Query_4,MH337982,2235,0.0,98.140,98,Bacteria,Actinomycetota,Actinomycetes,Kitasatosporales,Streptomycetaceae,Streptomyces,Streptomyces sp.
+Query_4,MW495033,2235,0.0,97.925,98,Bacteria,Actinomycetota,Actinomycetes,,,,Actinomycetia bacterium
+Query_4,JX535236,2235,0.0,97.925,98,Bacteria,Actinomycetota,Actinomycetes,Kitasatosporales,Streptomycetaceae,Streptomyces,Streptomyces sp. SLBN-115
+Query_4,MH337890,2230,0.0,98.209,97,Bacteria,Actinomycetota,Actinomycetes,Kitasatosporales,Streptomycetaceae,Streptomyces,Streptomyces sp.
+Query_4,KT597552,2230,0.0,97.848,98,Bacteria,Actinomycetota,Actinomycetes,Kitasatosporales,Streptomycetaceae,Streptomyces,Streptomyces ryensis
+Query_4,HQ662221,2230,0.0,97.848,98,Bacteria,Actinomycetota,Actinomycetes,Kitasatosporales,Streptomycetaceae,Streptomyces,Streptomyces sp. Ank150
+Query_4,JX430822,2226,0.0,97.986,98,Bacteria,Actinomycetota,Actinomycetes,Kitasatosporales,Streptomycetaceae,Streptomyces,Streptomyces sp. YRA005
+Query_4,EU413893,2226,0.0,98.132,97,Bacteria,Actinomycetota,Actinomycetes,Kitasatosporales,Streptomycetaceae,Streptomyces,Streptomyces sp. 18-7
+Query_4,KC336416,2224,0.0,97.771,98,Bacteria,Actinomycetota,Actinomycetes,Kitasatosporales,Streptomycetaceae,Streptomyces,Streptomyces rishiriensis
+Query_4,MT856217,2224,0.0,97.773,98,Bacteria,Actinomycetota,Actinomycetes,Kitasatosporales,Streptomycetaceae,Streptomyces,Streptomyces ryensis
+Query_4,KJ781968,2222,0.0,97.912,98,Bacteria,Actinomycetota,Actinomycetes,Kitasatosporales,Streptomycetaceae,Streptomyces,Streptomyces rishiriensis
+Query_4,ON493627,2222,0.0,98.128,97,Bacteria,Actinomycetota,Actinomycetes,Kitasatosporales,Streptomycetaceae,Streptomyces,Streptomyces sp.
+Query_4,KX530775,2220,0.0,97.694,98,Bacteria,Actinomycetota,Actinomycetes,Kitasatosporales,Streptomycetaceae,Streptomyces,Streptomyces rishiriensis
+Query_4,KP185309,2220,0.0,98.053,97,Bacteria,Actinomycetota,Actinomycetes,,,,actinobacterium S7
+Query_5,JF820102,1988,0.0,96.691,98,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Mycobacteriaceae,Mycolicibacterium,Mycolicibacterium fluoranthenivorans
+Query_5,JF820102,159,8.64e-34,100.000,98,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Mycobacteriaceae,Mycolicibacterium,Mycolicibacterium fluoranthenivorans
+Query_5,CP059894,1984,0.0,96.396,99,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Mycobacteriaceae,Mycolicibacterium,Mycolicibacterium fluoranthenivorans
+Query_5,CP059894,1984,0.0,96.396,99,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Mycobacteriaceae,Mycolicibacterium,Mycolicibacterium fluoranthenivorans
+Query_5,AB648999,1984,0.0,96.396,99,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Mycobacteriaceae,Mycolicibacterium,Mycolicibacterium fluoranthenivorans
+Query_5,FJ006915,1984,0.0,96.396,99,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Mycobacteriaceae,Mycobacterium,Mycobacterium sp. WPCB170
+Query_5,NR_115184,1984,0.0,96.396,99,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Mycobacteriaceae,Mycobacterium,Mycobacterium hackensackense
+Query_5,NR_042224,1984,0.0,96.396,99,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Mycobacteriaceae,Mycolicibacterium,Mycolicibacterium fluoranthenivorans
+Query_5,AB354138,1977,0.0,96.675,98,Bacteria,,,,,,bacterium 1a-G2
+Query_5,OM149383,1973,0.0,96.523,98,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Mycobacteriaceae,Mycolicibacterium,Mycolicibacterium sp.
+Query_5,MW750547,1973,0.0,96.669,98,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Mycobacteriaceae,Mycolicibacterium,Mycolicibacterium sp.
+Query_5,AY796288,1973,0.0,96.233,99,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Mycobacteriaceae,Mycobacterium,Mycobacterium sp. K128WA
+Query_5,MZ768650,1965,0.0,96.658,97,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Mycobacteriaceae,Mycobacterium,Mycobacterium sp.
+Query_5,OP986249,1962,0.0,96.069,99,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Mycobacteriaceae,Mycolicibacterium,Mycolicibacterium fluoranthenivorans
+Query_5,CP015596,1945,0.0,95.830,99,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Mycobacteriaceae,Mycobacterium,Mycobacterium sp. YC-RL4
+Query_5,CP015596,1945,0.0,95.830,99,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Mycobacteriaceae,Mycobacterium,Mycobacterium sp. YC-RL4
+Query_5,OQ096616,1945,0.0,95.830,99,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Mycobacteriaceae,Mycobacterium,Mycobacterium sp.
+Query_5,KF226144,1945,0.0,95.830,99,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Mycobacteriaceae,Mycobacterium,Mycobacterium sp. enrichment culture clone WP-5
+Query_5,JX566890,1945,0.0,95.830,99,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Mycobacteriaceae,Mycobacterium,Mycobacterium sp. WP16
+Query_5,HQ671520,1945,0.0,95.830,99,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Mycobacteriaceae,Mycobacterium,Mycobacterium sp. H5(2011)
+Query_5,FJ172310,1945,0.0,95.830,99,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Mycobacteriaceae,Mycolicibacterium,Mycolicibacterium fluoranthenivorans
+Query_5,DQ533579,1945,0.0,95.892,99,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Mycobacteriaceae,Mycobacterium,Mycobacterium sp. ZD-19
+Query_5,DQ372728,1945,0.0,95.830,99,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Mycobacteriaceae,Mycobacterium,Mycobacterium sp. O228YA
+Query_6,KX900580,2239,0.0,97.713,98,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Nocardiaceae,Rhodococcus,Rhodococcus sp.
+Query_6,KX900581,2237,0.0,97.712,97,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Nocardiaceae,Rhodococcus,Rhodococcus sp.
+Query_6,MH699138,2235,0.0,97.222,99,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Nocardiaceae,Rhodococcus,Rhodococcus sp.
+Query_6,MH688785,2235,0.0,97.222,99,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Nocardiaceae,Rhodococcus,Rhodococcus sp.
+Query_6,OM060597,2235,0.0,97.222,99,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Nocardiaceae,Rhodococcus,Rhodococcus sp.
+Query_6,MN636667,2235,0.0,97.222,99,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Nocardiaceae,Rhodococcus,Rhodococcus yunnanensis
+Query_6,AF538745,2235,0.0,97.222,99,Bacteria,,,,,,bacterium CAGY6
+Query_6,AJ244659,2235,0.0,97.222,99,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Nocardiaceae,Rhodococcus,Rhodococcus sp. V4.ME.27
+Query_6,MT278159,2233,0.0,97.639,98,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Nocardiaceae,Rhodococcus,Rhodococcus sp.
+Query_6,MZ452389,2233,0.0,97.568,98,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Nocardiaceae,Rhodococcus,Rhodococcus sp.
+Query_6,KX502977,2231,0.0,97.706,97,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Nocardiaceae,Rhodococcus,Rhodococcus cercidiphylli
+Query_6,ON738615,2230,0.0,97.147,99,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Nocardiaceae,Rhodococcus,Rhodococcus fascians
+Query_6,JF722669,2230,0.0,97.705,97,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Nocardiaceae,Rhodococcus,Rhodococcus sp. 28-JH4M
+Query_6,KX502988,2228,0.0,97.703,97,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Nocardiaceae,Rhodococcus,Rhodococcus fascians
+Query_6,MG890217,2222,0.0,97.485,98,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Nocardiaceae,Rhodococcus,Rhodococcus cercidiphylli
+Query_6,GQ060982,2220,0.0,97.625,97,Bacteria,,,,,,uncultured bacterium
+Query_6,MN058235,2218,0.0,96.997,99,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Nocardiaceae,Rhodococcus,Rhodococcus sp.
+Query_6,JQ861537,2218,0.0,96.997,99,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Nocardiaceae,Rhodococcus,Rhodococcus sp. Pp2
+Query_6,KF998943,2215,0.0,97.342,98,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Nocardiaceae,Rhodococcus,Rhodococcus sp. M4S2
+Query_6,EU834254,2215,0.0,97.342,98,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Nocardiaceae,Rhodococcus,Rhodococcus cercidiphylli
+Query_7,EU413897,2274,0.0,98.242,98,Bacteria,Actinomycetota,Actinomycetes,Kitasatosporales,Streptomycetaceae,Streptomyces,Streptomyces sp. 18-13
+Query_7,EU144078,2274,0.0,98.242,98,Bacteria,Actinomycetota,Actinomycetes,Kitasatosporales,Streptomycetaceae,Streptomyces,Streptomyces canus
+Query_7,KC243295,2272,0.0,98.168,98,Bacteria,Actinomycetota,Actinomycetes,Kitasatosporales,Streptomycetaceae,Streptomyces,Streptomyces sp. SAUAS2-3
+Query_7,AY572485,2268,0.0,98.165,98,Bacteria,Actinomycetota,Actinomycetes,Kitasatosporales,Streptomycetaceae,Streptomyces,Streptomyces sp. R46S
+Query_7,EU054370,2257,0.0,98.157,98,Bacteria,Actinomycetota,Actinomycetes,Kitasatosporales,Streptomycetaceae,Streptomyces,Streptomyces resistomycificus
+Query_7,ON493618,2250,0.0,98.297,97,Bacteria,Actinomycetota,Actinomycetes,Kitasatosporales,Streptomycetaceae,Streptomyces,Streptomyces sp.
+Query_7,MH482898,2248,0.0,97.579,99,Bacteria,Actinomycetota,Actinomycetes,Kitasatosporales,Streptomycetaceae,Streptomyces,Streptomyces pseudovenezuelae
+Query_7,MN658347,2246,0.0,97.859,98,Bacteria,Actinomycetota,Actinomycetes,Kitasatosporales,Streptomycetaceae,Streptomyces,Streptomyces pseudovenezuelae
+Query_7,KY649421,2246,0.0,97.788,98,Bacteria,Actinomycetota,Actinomycetes,Kitasatosporales,Streptomycetaceae,Streptomyces,Streptomyces canus
+Query_7,JF180304,2246,0.0,97.859,98,Bacteria,,,,,,uncultured bacterium
+Query_7,NR_041090,2246,0.0,97.859,98,Bacteria,Actinomycetota,Actinomycetes,Kitasatosporales,Streptomycetaceae,Streptomyces,Streptomyces pseudovenezuelae
+Query_7,MH482893,2244,0.0,97.576,99,Bacteria,Actinomycetota,Actinomycetes,Kitasatosporales,Streptomycetaceae,Streptomyces,Streptomyces pseudovenezuelae
+Query_7,MH482875,2242,0.0,97.504,99,Bacteria,Actinomycetota,Actinomycetes,Kitasatosporales,Streptomycetaceae,Streptomyces,Streptomyces pseudovenezuelae
+Query_7,KY649420,2242,0.0,97.713,98,Bacteria,Actinomycetota,Actinomycetes,Kitasatosporales,Streptomycetaceae,Streptomyces,Streptomyces plumbiresistens
+Query_7,OP881779,2242,0.0,97.713,98,Bacteria,Actinomycetota,Actinomycetes,,,,Actinomycetia bacterium
+Query_7,KM073962,2242,0.0,97.715,98,Bacteria,Actinomycetota,Actinomycetes,Kitasatosporales,Streptomycetaceae,Streptomyces,Streptomyces sp. THG S11-19
+Query_7,MH482891,2241,0.0,97.500,99,Bacteria,Actinomycetota,Actinomycetes,Kitasatosporales,Streptomycetaceae,Streptomyces,Streptomyces pseudovenezuelae
+Query_7,KJ767385,2241,0.0,97.785,98,Bacteria,Actinomycetota,Actinomycetes,Kitasatosporales,Streptomycetaceae,Streptomyces,Streptomyces pseudovenezuelae
+Query_7,KJ767385,2241,0.0,97.785,98,Bacteria,Actinomycetota,Actinomycetes,Kitasatosporales,Streptomycetaceae,Streptomyces,uncultured Streptomyces sp.
+Query_7,HM330072,2241,0.0,97.783,98,Bacteria,,,,,,uncultured bacterium
+Query_7,NR_114832,2241,0.0,97.926,98,Bacteria,Actinomycetota,Actinomycetes,Kitasatosporales,Streptomycetaceae,Streptomyces,Streptomyces pseudovenezuelae
+Query_8,OP986487,2255,0.0,97.801,98,Bacteria,Actinomycetota,Actinomycetes,Propionibacteriales,Nocardioidaceae,Nocardioides,Nocardioides sp.
+Query_8,CP022295,2255,0.0,97.801,98,Bacteria,Actinomycetota,Actinomycetes,Propionibacteriales,Nocardioidaceae,Nocardioides,Nocardioides aromaticivorans
+Query_8,CP022295,2255,0.0,97.662,98,Bacteria,Actinomycetota,Actinomycetes,Propionibacteriales,Nocardioidaceae,Nocardioides,Nocardioides aromaticivorans
+Query_8,MK424297,2244,0.0,97.650,98,Bacteria,Actinomycetota,Actinomycetes,Propionibacteriales,Nocardioidaceae,Nocardioides,Nocardioides aromaticivorans
+Query_8,AB196255,2244,0.0,97.650,98,Bacteria,Actinomycetota,Actinomycetes,Propionibacteriales,Nocardioidaceae,Nocardioides,Nocardioides sp. IC177
+Query_8,AB087724,2244,0.0,97.650,98,Bacteria,Actinomycetota,Actinomycetes,Propionibacteriales,Nocardioidaceae,Nocardioides,Nocardioides sp. A-3
+Query_8,NR_040938,2244,0.0,97.650,98,Bacteria,Actinomycetota,Actinomycetes,Propionibacteriales,Nocardioidaceae,Nocardioides,Nocardioides aromaticivorans
+Query_8,NR_040938,2244,0.0,97.650,98,Bacteria,Actinomycetota,Actinomycetes,Propionibacteriales,Nocardioidaceae,Nocardioides,Nocardioides sp. NSA1-2
+Query_8,NR_040938,2244,0.0,97.650,98,Bacteria,Actinomycetota,Actinomycetes,Propionibacteriales,Nocardioidaceae,Nocardioides,Nocardioides sp. RS3-1
+Query_8,AB087722,2230,0.0,97.422,98,Bacteria,Actinomycetota,Actinomycetes,Propionibacteriales,Nocardioidaceae,Nocardioides,Nocardioides sp. NSA1-1
+Query_8,DQ984621,2228,0.0,97.422,98,Bacteria,,,,,,uncultured bacterium
+Query_8,AB087725,2228,0.0,97.422,98,Bacteria,Actinomycetota,Actinomycetes,Propionibacteriales,Nocardioidaceae,Nocardioides,Nocardioides sp. H-2
+Query_8,MT533911,2213,0.0,97.619,97,Bacteria,Actinomycetota,Actinomycetes,Propionibacteriales,Nocardioidaceae,Nocardioides,Nocardioides aromaticivorans
+Query_8,KY436456,2193,0.0,97.385,97,Bacteria,Actinomycetota,Actinomycetes,Propionibacteriales,Nocardioidaceae,Nocardioides,Nocardioides sp.
+Query_8,AB727960,2185,0.0,96.958,98,Bacteria,Actinomycetota,Actinomycetes,Propionibacteriales,Nocardioidaceae,Pimelobacter,Pimelobacter simplex
+Query_8,MG897135,2180,0.0,97.018,97,Bacteria,Actinomycetota,Actinomycetes,Propionibacteriales,Nocardioidaceae,Nocardioides,Nocardioides aromaticivorans
+Query_8,KX618261,2172,0.0,96.870,97,Bacteria,Actinomycetota,Actinomycetes,Propionibacteriales,Nocardioidaceae,Nocardioides,Nocardioides sp.
+Query_8,OL677219,2172,0.0,96.669,98,Bacteria,Actinomycetota,Actinomycetes,Propionibacteriales,Nocardioidaceae,Pimelobacter,Pimelobacter simplex
+Query_8,GQ921954,2172,0.0,96.870,97,Bacteria,Actinomycetota,Actinomycetes,Propionibacteriales,Nocardioidaceae,Nocardioides,Nocardioides sp. C1S
+Query_8,MG232291,2167,0.0,96.591,98,Bacteria,Actinomycetota,Actinomycetes,Propionibacteriales,Nocardioidaceae,Nocardioides,Nocardioides sp.
+Query_8,OP986390,2167,0.0,96.588,98,Bacteria,Actinomycetota,Actinomycetes,Propionibacteriales,Nocardioidaceae,Pimelobacter,Pimelobacter simplex
+Query_8,CP096276,2167,0.0,96.588,98,Bacteria,Actinomycetota,Actinomycetes,Propionibacteriales,Nocardioidaceae,Pimelobacter,Pimelobacter simplex
+Query_8,CP096276,2167,0.0,96.456,98,Bacteria,Actinomycetota,Actinomycetes,Propionibacteriales,Nocardioidaceae,Pimelobacter,Pimelobacter simplex
+Query_8,CP097984,2167,0.0,96.588,98,Bacteria,Actinomycetota,Actinomycetes,Propionibacteriales,Nocardioidaceae,Pimelobacter,Pimelobacter simplex
+Query_8,CP097984,2167,0.0,96.456,98,Bacteria,Actinomycetota,Actinomycetes,Propionibacteriales,Nocardioidaceae,Pimelobacter,Pimelobacter simplex
+Query_9,MN199671,2272,0.0,97.535,99,Bacteria,Actinomycetota,Actinomycetes,Kitasatosporales,Streptomycetaceae,Streptomyces,Streptomyces sp.
+Query_9,MF094453,2272,0.0,97.535,99,Bacteria,Actinomycetota,Actinomycetes,Kitasatosporales,Streptomycetaceae,Streptomyces,Streptomyces thermocarboxydus
+Query_9,AB894408,2272,0.0,97.535,99,Bacteria,Actinomycetota,Actinomycetes,Kitasatosporales,Streptomycetaceae,Streptomyces,Streptomyces thermocarboxydus
+Query_9,AB894406,2272,0.0,97.535,99,Bacteria,Actinomycetota,Actinomycetes,Kitasatosporales,Streptomycetaceae,Streptomyces,Streptomyces thermocarboxydus
+Query_9,KT163792,2272,0.0,97.673,98,Bacteria,Actinomycetota,Actinomycetes,Kitasatosporales,Streptomycetaceae,Streptomyces,Streptomyces thermocarboxydus
+Query_9,OP897030,2272,0.0,97.535,99,Bacteria,Actinomycetota,Actinomycetes,Kitasatosporales,Streptomycetaceae,Streptomyces,Streptomyces thermocarboxydus
+Query_9,CP058273,2272,0.0,97.535,99,Bacteria,Actinomycetota,Actinomycetes,Kitasatosporales,Streptomycetaceae,Streptomyces,Streptomyces thermocarboxydus
+Query_9,CP058273,2272,0.0,97.535,99,Bacteria,Actinomycetota,Actinomycetes,Kitasatosporales,Streptomycetaceae,Streptomyces,Streptomyces thermocarboxydus
+Query_9,CP058273,2268,0.0,97.463,99,Bacteria,Actinomycetota,Actinomycetes,Kitasatosporales,Streptomycetaceae,Streptomyces,Streptomyces thermocarboxydus
+Query_9,CP058273,2268,0.0,97.463,99,Bacteria,Actinomycetota,Actinomycetes,Kitasatosporales,Streptomycetaceae,Streptomyces,Streptomyces thermocarboxydus
+Query_9,CP058273,2268,0.0,97.463,99,Bacteria,Actinomycetota,Actinomycetes,Kitasatosporales,Streptomycetaceae,Streptomyces,Streptomyces thermocarboxydus
+Query_9,CP058273,2268,0.0,97.463,99,Bacteria,Actinomycetota,Actinomycetes,Kitasatosporales,Streptomycetaceae,Streptomyces,Streptomyces thermocarboxydus
+Query_9,ON023831,2272,0.0,97.535,99,Bacteria,Actinomycetota,Actinomycetes,Kitasatosporales,Streptomycetaceae,Streptomyces,Streptomyces sp.
+Query_9,AB907696,2272,0.0,97.535,99,Bacteria,Actinomycetota,Actinomycetes,Kitasatosporales,Streptomycetaceae,Streptomyces,Streptomyces thermocarboxydus
+Query_9,KJ021960,2272,0.0,97.535,99,Bacteria,Actinomycetota,Actinomycetes,Kitasatosporales,Streptomycetaceae,Streptomyces,Streptomyces sp. FQ1
+Query_9,KF194334,2272,0.0,97.535,99,Bacteria,Actinomycetota,Actinomycetes,Kitasatosporales,Streptomycetaceae,Streptomyces,Streptomyces sp. HW13
+Query_9,MZ389922,2272,0.0,97.535,99,Bacteria,Actinomycetota,Actinomycetes,Kitasatosporales,Streptomycetaceae,Streptomyces,Streptomyces thermocarboxydus
+Query_9,MZ389913,2272,0.0,97.535,99,Bacteria,Actinomycetota,Actinomycetes,Kitasatosporales,Streptomycetaceae,Streptomyces,Streptomyces thermocarboxydus
+Query_9,JQ358573,2272,0.0,97.535,99,Bacteria,Actinomycetota,Actinomycetes,Kitasatosporales,Streptomycetaceae,Streptomyces,uncultured Streptomyces sp.
+Query_9,MN339785,2272,0.0,97.535,99,Bacteria,Actinomycetota,Actinomycetes,Kitasatosporales,Streptomycetaceae,Streptomyces,Streptomyces sp.
+Query_9,HQ992723,2272,0.0,97.535,99,Bacteria,Actinomycetota,Actinomycetes,Kitasatosporales,Streptomycetaceae,Streptomyces,Streptomyces sp. 172120
+Query_9,DQ663168,2272,0.0,97.535,99,Bacteria,Actinomycetota,Actinomycetes,Kitasatosporales,Streptomycetaceae,Streptomyces,Streptomyces aureus
+Query_9,DQ663168,2272,0.0,97.535,99,Bacteria,Actinomycetota,Actinomycetes,Kitasatosporales,Streptomycetaceae,Streptomyces,Streptomyces sp. 3860
+Query_9,DQ663168,2272,0.0,97.535,99,Bacteria,Actinomycetota,Actinomycetes,Kitasatosporales,Streptomycetaceae,Streptomyces,Streptomyces sp. JXNT-A-12
+Query_9,DQ663168,2272,0.0,97.535,99,Bacteria,Actinomycetota,Actinomycetes,Kitasatosporales,Streptomycetaceae,Streptomyces,Streptomyces sp. 3048
+Query_9,DQ663168,2272,0.0,97.535,99,Bacteria,Actinomycetota,Actinomycetes,Kitasatosporales,Streptomycetaceae,Streptomyces,Streptomyces sp. 349-2-2-199
+Query_9,NR_112585,2272,0.0,97.535,99,Bacteria,Actinomycetota,Actinomycetes,Kitasatosporales,Streptomycetaceae,Streptomyces,Streptomyces thermocarboxydus
+Query_9,AB098079,2272,0.0,97.535,99,Bacteria,Actinomycetota,Actinomycetes,Kitasatosporales,Streptomycetaceae,Streptomyces,Streptomyces thermocarboxydus
+Query_9,AJ249627,2272,0.0,97.743,98,Bacteria,Actinomycetota,Actinomycetes,Kitasatosporales,Streptomycetaceae,Streptomyces,Streptomyces thermocarboxydus
+Query_10,OP080826,2180,0.0,96.288,99,Bacteria,Pseudomonadota,Alphaproteobacteria,Caulobacterales,Caulobacteraceae,Brevundimonas,Brevundimonas vesicularis
+Query_10,MH283789,2170,0.0,96.672,97,Bacteria,Pseudomonadota,Alphaproteobacteria,Caulobacterales,Caulobacteraceae,Brevundimonas,Brevundimonas vesicularis
+Query_10,KP843023,2169,0.0,96.672,97,Bacteria,,,,,,uncultured bacterium
+Query_10,KF006808,2169,0.0,98.089,93,Bacteria,Pseudomonadota,Alphaproteobacteria,Caulobacterales,Caulobacteraceae,Brevundimonas,Brevundimonas vesicularis
+Query_10,KF006808,2169,0.0,98.089,93,Bacteria,Pseudomonadota,Alphaproteobacteria,Caulobacterales,Caulobacteraceae,Brevundimonas,Brevundimonas nasdae
+Query_10,KP843074,2167,0.0,96.601,97,Bacteria,,,,,,uncultured bacterium
+Query_10,OP593241,2167,0.0,96.601,97,Bacteria,,,,,,bacterium
+Query_10,MK072779,2165,0.0,96.396,98,Bacteria,,,,,,bacterium
+Query_10,OP364497,2165,0.0,96.599,97,Bacteria,Pseudomonadota,Alphaproteobacteria,Caulobacterales,Caulobacteraceae,Brevundimonas,Brevundimonas sp.
+Query_10,KP843057,2163,0.0,96.596,97,Bacteria,,,,,,uncultured bacterium
+Query_10,MN810196,2161,0.0,96.659,97,Bacteria,Pseudomonadota,Alphaproteobacteria,Caulobacterales,Caulobacteraceae,Brevundimonas,Brevundimonas sp.
+Query_10,CP039435,2161,0.0,96.659,97,Bacteria,Pseudomonadota,Alphaproteobacteria,Caulobacterales,Caulobacteraceae,Brevundimonas,Brevundimonas sp. SGAir0440
+Query_10,CP039435,2156,0.0,96.583,97,Bacteria,Pseudomonadota,Alphaproteobacteria,Caulobacterales,Caulobacteraceae,Brevundimonas,Brevundimonas sp. SGAir0440
+Query_10,MH392655,2161,0.0,96.659,97,Bacteria,Pseudomonadota,Alphaproteobacteria,Caulobacterales,Caulobacteraceae,Brevundimonas,Brevundimonas sp.
+Query_10,MG650163,2161,0.0,96.659,97,Bacteria,Pseudomonadota,Alphaproteobacteria,Caulobacterales,Caulobacteraceae,Brevundimonas,Brevundimonas nasdae
+Query_10,KU605683,2161,0.0,98.083,93,Bacteria,Pseudomonadota,Alphaproteobacteria,Caulobacterales,Caulobacteraceae,Brevundimonas,Brevundimonas sp. FPBTIH1
+Query_10,KT751295,2161,0.0,96.659,97,Bacteria,Pseudomonadota,Alphaproteobacteria,Caulobacterales,Caulobacteraceae,Brevundimonas,Brevundimonas vesicularis
+Query_10,KU060872,2161,0.0,96.659,97,Bacteria,Pseudomonadota,Alphaproteobacteria,Caulobacterales,Caulobacteraceae,Brevundimonas,Brevundimonas sp.
+Query_10,CP115671,2161,0.0,96.659,97,Bacteria,Pseudomonadota,Alphaproteobacteria,Caulobacterales,Caulobacteraceae,Brevundimonas,Brevundimonas vesicularis
+Query_10,CP115671,2161,0.0,96.659,97,Bacteria,Pseudomonadota,Alphaproteobacteria,Caulobacterales,Caulobacteraceae,Brevundimonas,Brevundimonas vesicularis
+Query_10,CP114278,2161,0.0,96.659,97,Bacteria,Pseudomonadota,Alphaproteobacteria,Caulobacterales,Caulobacteraceae,Brevundimonas,Brevundimonas vesicularis
+Query_10,CP114278,2161,0.0,96.659,97,Bacteria,Pseudomonadota,Alphaproteobacteria,Caulobacterales,Caulobacteraceae,Brevundimonas,Brevundimonas vesicularis
+Query_10,NR_181184,2161,0.0,96.659,97,Bacteria,Pseudomonadota,Alphaproteobacteria,Caulobacterales,Caulobacteraceae,Brevundimonas,Brevundimonas huaxiensis
+Query_10,OP861543,2161,0.0,96.659,97,Bacteria,Pseudomonadota,Alphaproteobacteria,Caulobacterales,Caulobacteraceae,Brevundimonas,Brevundimonas vesicularis
+Query_11,MK824848,2182,0.0,97.660,96,Bacteria,,,,,,bacterium
+Query_11,MG997084,2182,0.0,97.804,96,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Rhizobium,Rhizobium pusense
+Query_11,MG996799,2180,0.0,97.802,96,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Rhizobium,Rhizobium pusense
+Query_11,HQ678666,2180,0.0,97.731,96,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Agrobacterium,Agrobacterium sp. PAE1
+Query_11,MK241857,2178,0.0,97.584,96,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Rhizobium,Rhizobium pusense
+Query_11,KT380607,2178,0.0,97.729,96,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Rhizobium,Rhizobium pusense
+Query_11,MK318781,2176,0.0,97.654,96,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Rhizobium,Rhizobium sp.
+Query_11,MK734334,2176,0.0,97.512,97,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Rhizobium,Rhizobium pusense
+Query_11,KM891589,2176,0.0,97.512,97,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Rhizobium,Rhizobium sp. LMB-1
+Query_11,ON358080,2176,0.0,97.582,96,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Rhizobium,Rhizobium pusense
+Query_11,JX498970,2176,0.0,97.727,96,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Agrobacterium,Agrobacterium tumefaciens
+Query_11,JQ756125,2176,0.0,97.654,96,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Agrobacterium,Agrobacterium tumefaciens
+Query_11,MK824849,2174,0.0,97.724,96,Bacteria,,,,,,bacterium
+Query_11,MG575706,2174,0.0,97.725,96,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Rhizobium,Rhizobium pusense
+Query_11,KT894723,2174,0.0,97.580,96,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Agrobacterium,Agrobacterium tumefaciens
+Query_11,ON221919,2174,0.0,97.653,96,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Rhizobium,Rhizobium sp.
+Query_11,OL798021,2174,0.0,97.725,96,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Rhizobium,Rhizobium pusense
+Query_11,KJ184915,2174,0.0,97.510,97,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Agrobacterium,Agrobacterium sp. CZBRN2
+Query_11,KF840387,2174,0.0,97.725,96,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Agrobacterium,Agrobacterium sp. CRRI-74_SB13A
+Query_11,GU085230,2174,0.0,97.725,96,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Agrobacterium,Agrobacterium sp. BD-32
+Query_12,KJ184939,2272,0.0,97.539,98,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Methylobacteriaceae,Methylobacterium,Methylobacterium sp. WXGSD2
+Query_12,EU912441,2270,0.0,97.400,99,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Methylobacteriaceae,Methylobacterium,Methylobacterium sp. BL41
+Query_12,EU912440,2270,0.0,97.333,99,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Methylobacteriaceae,Methylobacterium,Methylobacterium sp. BL38
+Query_12,MF625028,2266,0.0,97.329,99,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Methylobacteriaceae,Methylobacterium,Methylobacterium sp.
+Query_12,OM486954,2266,0.0,97.329,99,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Methylobacteriaceae,Methylobacterium,Methylobacterium radiotolerans
+Query_12,JQ770101,2266,0.0,97.329,99,Bacteria,,,,,,uncultured bacterium
+Query_12,AB698731,2266,0.0,97.329,99,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Methylobacteriaceae,Methylobacterium,Methylobacterium sp.
+Query_12,AB698731,2266,0.0,97.329,99,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Methylobacteriaceae,Methylobacterium,Methylobacterium radiotolerans
+Query_12,EU741080,2266,0.0,97.329,99,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Methylobacteriaceae,Methylobacterium,Methylobacterium sp. 13635G
+Query_12,OP080834,2265,0.0,97.323,99,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Methylobacteriaceae,Methylobacterium,Methylobacterium oryzae
+Query_12,KC702828,2265,0.0,97.669,98,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Methylobacteriaceae,Methylobacterium,Methylobacterium sp. NG05
+Query_12,OL477308,2263,0.0,97.598,98,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Methylobacteriaceae,Methylobacterium,Methylobacterium sp.
+Query_12,MW139991,2263,0.0,97.876,97,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Methylobacteriaceae,Methylobacterium,Methylobacterium sp.
+Query_12,HM582876,2263,0.0,97.461,98,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Methylobacteriaceae,Methylobacterium,Methylobacterium radiotolerans
+Query_12,GQ895736,2263,0.0,97.321,99,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Methylobacteriaceae,Methylobacterium,Methylobacterium radiotolerans
+Query_12,EF126745,2263,0.0,97.459,98,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Methylobacteriaceae,Methylobacterium,Methylobacterium sp. CBMB15
+Query_12,MN982792,2261,0.0,97.255,99,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Methylobacteriaceae,Methylobacterium,Methylobacterium sp.
+Query_12,MF625026,2261,0.0,97.255,99,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Methylobacteriaceae,Methylobacterium,Methylobacterium sp.
+Query_12,KX622800,2261,0.0,97.255,99,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Methylobacteriaceae,Methylobacterium,Methylobacterium radiotolerans
+Query_12,CP087107,2261,0.0,97.255,99,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Methylobacteriaceae,Methylobacterium,Methylobacterium sp. NMS14P
+Query_12,CP087106,2261,0.0,97.255,99,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Methylobacteriaceae,Methylobacterium,Methylobacterium sp. NMS14P
+Query_12,CP087106,2261,0.0,97.390,99,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Methylobacteriaceae,Methylobacterium,Methylobacterium sp. NMS14P
+Query_12,CP087106,2261,0.0,97.390,99,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Methylobacteriaceae,Methylobacterium,Methylobacterium sp. NMS14P
+Query_12,CP087106,2254,0.0,97.181,99,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Methylobacteriaceae,Methylobacterium,Methylobacterium sp. NMS14P
+Query_13,MN176368,2228,0.0,98.207,96,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Brucellaceae,Ochrobactrum,Ochrobactrum sp.
+Query_13,KF010632,2228,0.0,97.989,96,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Brucellaceae,Brucella,Brucella anthropi
+Query_13,KF010632,2228,0.0,97.989,96,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Brucellaceae,Ochrobactrum,Ochrobactrum sp. n-9
+Query_13,MK949385,2226,0.0,97.988,96,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Brucellaceae,Ochrobactrum,Ochrobactrum sp.
+Query_13,MK583625,2224,0.0,98.057,96,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Brucellaceae,Ochrobactrum,Ochrobactrum sp.
+Query_13,MF285784,2224,0.0,98.059,96,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Brucellaceae,Ochrobactrum,Ochrobactrum sp.
+Query_13,KY770707,2224,0.0,98.205,96,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Brucellaceae,Ochrobactrum,Ochrobactrum sp.
+Query_13,KY770534,2224,0.0,98.059,96,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Brucellaceae,Ochrobactrum,Ochrobactrum sp.
+Query_13,KM894186,2224,0.0,97.986,96,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Brucellaceae,Brucella,Brucella anthropi
+Query_13,MW410032,2224,0.0,98.205,96,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Brucellaceae,Ochrobactrum,Ochrobactrum sp.
+Query_13,MW409857,2224,0.0,98.059,96,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Brucellaceae,Ochrobactrum,Ochrobactrum sp.
+Query_13,EU187487,2222,0.0,97.984,96,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Brucellaceae,Brucella,Brucella anthropi
+Query_13,MK823785,2220,0.0,97.910,96,Bacteria,,,,,,bacterium
+Query_13,KY770681,2220,0.0,98.202,95,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Brucellaceae,Ochrobactrum,Ochrobactrum sp.
+Query_13,KY770536,2220,0.0,97.838,96,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Brucellaceae,Ochrobactrum,Ochrobactrum sp.
+Query_13,KU257687,2220,0.0,97.838,96,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Brucellaceae,Ochrobactrum,Ochrobactrum sp. TCOB-1
+Query_13,KC462882,2220,0.0,98.202,95,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Brucellaceae,Ochrobactrum,Ochrobactrum sp. DX2
+Query_13,MW410006,2220,0.0,98.202,95,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Brucellaceae,Ochrobactrum,Ochrobactrum sp.
+Query_13,MW409859,2220,0.0,97.838,96,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Brucellaceae,Ochrobactrum,Ochrobactrum sp.
+Query_13,MW221368,2220,0.0,98.056,96,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Brucellaceae,Ochrobactrum,Ochrobactrum sp.
+Query_13,KU999381,2218,0.0,97.981,96,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Brucellaceae,Brucella,Brucella anthropi
+Query_14,KC853173,2202,0.0,97.119,98,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Rhizobium,Rhizobium sp. W6
+Query_14,JQ798436,2202,0.0,97.119,98,Bacteria,,,,,,uncultured bacterium
+Query_14,HM273190,2196,0.0,98.186,94,Bacteria,,,,,,uncultured bacterium
+Query_14,HM273150,2191,0.0,98.107,94,Bacteria,,,,,,uncultured bacterium
+Query_14,OP364632,2180,0.0,96.413,99,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Rhizobium,Rhizobium metallidurans
+Query_14,GU552897,2180,0.0,97.301,96,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Rhizobium,Rhizobium sp. CCBAU 15278
+Query_14,KX036581,2176,0.0,96.677,98,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Rhizobium,Rhizobium sp. SIB_Zn_E11
+Query_14,KT387299,2174,0.0,96.740,98,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Rhizobium,Rhizobium sp. LS-1233
+Query_14,KX036578,2174,0.0,96.740,98,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Rhizobium,Rhizobium sp. SIB_Zn_E5
+Query_14,KX036562,2174,0.0,96.740,98,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Rhizobium,Rhizobium metallidurans
+Query_14,KX036628,2172,0.0,96.601,98,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Rhizobium,Rhizobium sp. SIIB_Cd_R10
+Query_14,KX036567,2170,0.0,96.804,97,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Rhizobium,Rhizobium sp. SIB_Cd_R2
+Query_14,MK863548,2169,0.0,96.664,98,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Rhizobium,Rhizobium sp.
+Query_14,MK863547,2169,0.0,96.664,98,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Rhizobium,Rhizobium sp.
+Query_14,KX664481,2169,0.0,96.664,98,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Rhizobium,Rhizobium metallidurans
+Query_14,LN995698,2169,0.0,96.664,98,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Rhizobium,Rhizobium metallidurans
+Query_14,OP986261,2169,0.0,96.664,98,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Rhizobium,Rhizobium sp.
+Query_14,KF979147,2169,0.0,96.664,98,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Rhizobium,Rhizobium sp. CNU082100
+Query_14,MW256430,2169,0.0,96.399,98,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Rhizobium,Rhizobium sp.
+Query_14,JQ996671,2169,0.0,96.664,98,Bacteria,,,,,,uncultured bacterium
+Query_15,MN658537,2213,0.0,96.999,99,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Phyllobacteriaceae,Phyllobacterium,Phyllobacterium pellucidum
+Query_15,LC040876,2213,0.0,96.999,99,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Phyllobacteriaceae,Phyllobacterium,Phyllobacterium sp. HRTP192
+Query_15,NR_180927,2213,0.0,96.999,99,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Phyllobacteriaceae,Phyllobacterium,Phyllobacterium pellucidum
+Query_15,OP341212,2213,0.0,96.999,99,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Phyllobacteriaceae,Phyllobacterium,Phyllobacterium sp.
+Query_15,CP088292,2213,0.0,97.068,99,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Phyllobacteriaceae,Phyllobacterium,Phyllobacterium sp. T1018
+Query_15,CP088292,2213,0.0,97.068,99,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Phyllobacteriaceae,Phyllobacterium,Phyllobacterium sp. T1018
+Query_15,EU170548,2207,0.0,97.267,98,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Phyllobacteriaceae,Phyllobacterium,Phyllobacterium sp. CCBAU 13011
+Query_15,EU928863,2206,0.0,97.334,98,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Phyllobacteriaceae,Phyllobacterium,Phyllobacterium sp. T1018
+Query_15,KF070904,2198,0.0,97.324,98,Bacteria,,,,,,uncultured bacterium
+Query_15,MG461476,2187,0.0,96.629,99,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Phyllobacteriaceae,Phyllobacterium,Phyllobacterium sp.
+Query_15,MH095998,2159,0.0,97.352,96,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Phyllobacteriaceae,Phyllobacterium,Phyllobacterium sp.
+Query_15,HQ231954,2089,0.0,95.682,98,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Phyllobacteriaceae,Phyllobacterium,Phyllobacterium sp. KW15
+Query_15,OM909372,2087,0.0,95.808,97,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Phyllobacteriaceae,Phyllobacterium,Phyllobacterium sp.
+Query_15,MW821295,1989,0.0,99.365,83,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Phyllobacteriaceae,Phyllobacterium,Phyllobacterium sp.
+Query_15,LN562336,1943,0.0,93.764,98,Bacteria,,,,,,uncultured bacterium
+Query_15,LR638307,1941,0.0,93.338,99,Bacteria,,,,,,uncultured bacterium
+Query_15,LR653392,1941,0.0,93.348,99,Bacteria,,,,,,uncultured bacterium
+Query_15,NR_165713,1941,0.0,93.348,99,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Phyllobacteriaceae,Mesorhizobium,Mesorhizobium sp.
+Query_15,NR_165713,1941,0.0,93.348,99,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Phyllobacteriaceae,Mesorhizobium,Mesorhizobium denitrificans
+Query_15,MH094647,1938,0.0,93.274,99,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Phyllobacteriaceae,Mesorhizobium,Mesorhizobium sp.
+Query_15,JF104487,1938,0.0,93.755,98,Bacteria,,,,,,uncultured bacterium
+Query_15,JF104310,1938,0.0,93.755,98,Bacteria,,,,,,uncultured bacterium
+Query_16,KP125320,2222,0.0,98.203,94,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Boseaceae,Bosea,Bosea sp. J1
+Query_16,KM025198,2222,0.0,98.203,94,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Boseaceae,Bosea,Bosea sp. Zer-1
+Query_16,GQ288963,2222,0.0,98.277,94,Bacteria,,,,,,bacterium KR 1999/1_178
+Query_16,LC133745,2220,0.0,98.276,94,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Boseaceae,Bosea,Bosea sp. JCM 28714
+Query_16,OP986460,2220,0.0,98.276,94,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Boseaceae,Bosea,Bosea sp.
+Query_16,LC388674,2220,0.0,98.276,94,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Boseaceae,Bosea,Bosea sp. A3Ec1
+Query_16,LC388674,2220,0.0,98.276,94,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Boseaceae,Bosea,Bosea sp.
+Query_16,GQ288975,2220,0.0,98.276,94,Bacteria,,,,,,bacterium KR 2001/13_208
+Query_16,GQ288953,2220,0.0,98.276,94,Bacteria,,,,,,bacterium KR 1998/3_164
+Query_16,FR749828,2220,0.0,98.276,94,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Boseaceae,Bosea,Bosea sp. RNE 2
+Query_16,KF891412,2218,0.0,98.202,94,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Boseaceae,Bosea,Bosea sp. SR 5-12
+Query_16,MH671624,2217,0.0,98.199,94,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Boseaceae,Bosea,Bosea sp.
+Query_16,KM253172,2217,0.0,98.273,94,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Boseaceae,Bosea,Bosea sp. SR 5-12
+Query_16,OP784457,2213,0.0,98.122,94,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Boseaceae,Bosea,Bosea sp.
+Query_16,GQ288977,2213,0.0,98.195,94,Bacteria,,,,,,bacterium KR 2001/13_214
+Query_16,GQ288949,2213,0.0,98.196,94,Bacteria,,,,,,bacterium KR 1979/121_155
+Query_16,AB365793,2213,0.0,98.270,93,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Boseaceae,Bosea,Bosea sp. WR72a
+Query_16,GQ288926,2211,0.0,98.122,94,Bacteria,,,,,,bacterium KR 1999/1_66
+Query_16,CP042332,2209,0.0,98.119,94,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Boseaceae,Bosea,Bosea sp. F3-2
+Query_16,CP042331,2209,0.0,98.119,94,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Boseaceae,Bosea,Bosea sp. F3-2
+Query_16,CP042331,2209,0.0,98.119,94,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Boseaceae,Bosea,Bosea sp. F3-2
+Query_16,OM852058,2209,0.0,97.754,95,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Boseaceae,Bosea,Bosea sp.
+Query_17,MT516454,2283,0.0,98.178,96,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium sp.
+Query_17,LN624801,2276,0.0,98.244,96,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium indologenes
+Query_17,CP050961,2272,0.0,98.169,96,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium indologenes
+Query_17,CP050961,2272,0.0,98.169,96,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium indologenes
+Query_17,CP050961,2272,0.0,98.169,96,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium indologenes
+Query_17,CP050961,2272,0.0,98.169,96,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium indologenes
+Query_17,CP050961,2272,0.0,98.169,96,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium indologenes
+Query_17,CP050961,2266,0.0,98.093,96,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium indologenes
+Query_17,MN758832,2272,0.0,98.169,96,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium indologenes
+Query_17,LR215967,2272,0.0,98.169,96,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium indologenes
+Query_17,LR215967,2272,0.0,98.169,96,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium indologenes
+Query_17,LR215967,2272,0.0,98.169,96,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium indologenes
+Query_17,LR215967,2272,0.0,98.169,96,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium indologenes
+Query_17,LR215967,2272,0.0,98.169,96,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium indologenes
+Query_17,LR215967,2272,0.0,98.169,96,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium indologenes
+Query_17,CP033930,2272,0.0,98.169,96,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium indologenes
+Query_17,CP033930,2272,0.0,98.169,96,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium indologenes
+Query_17,CP033930,2272,0.0,98.169,96,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium indologenes
+Query_17,CP033930,2272,0.0,98.169,96,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium indologenes
+Query_17,CP033930,2272,0.0,98.169,96,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium indologenes
+Query_17,CP033930,2265,0.0,98.093,96,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium indologenes
+Query_17,CP033828,2272,0.0,98.169,96,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium indologenes
+Query_17,CP033828,2272,0.0,98.169,96,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium indologenes
+Query_17,CP033828,2272,0.0,98.169,96,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium indologenes
+Query_17,CP033828,2266,0.0,98.093,96,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium indologenes
+Query_17,CP033828,2266,0.0,98.093,96,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium indologenes
+Query_17,CP033828,2261,0.0,98.017,96,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium indologenes
+Query_17,CP033760,2272,0.0,98.169,96,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium indologenes
+Query_17,CP033760,2272,0.0,98.169,96,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium indologenes
+Query_17,CP033760,2265,0.0,98.093,96,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium indologenes
+Query_17,CP033760,2259,0.0,98.017,96,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium indologenes
+Query_17,CP033760,2259,0.0,98.017,96,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium indologenes
+Query_17,CP033760,2254,0.0,97.941,96,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium indologenes
+Query_17,MH628236,2272,0.0,98.169,96,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium indologenes
+Query_17,CP022058,2272,0.0,98.169,96,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium indologenes
+Query_17,CP022058,2272,0.0,98.169,96,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium indologenes
+Query_17,CP022058,2272,0.0,98.169,96,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium indologenes
+Query_17,CP022058,2272,0.0,98.169,96,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium indologenes
+Query_17,CP022058,2272,0.0,98.169,96,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium indologenes
+Query_17,CP022058,2272,0.0,98.169,96,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium indologenes
+Query_17,CP023968,2272,0.0,98.169,96,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium indologenes
+Query_17,CP023968,2272,0.0,98.169,96,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium indologenes
+Query_17,CP023968,2272,0.0,98.169,96,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium indologenes
+Query_17,CP023968,2266,0.0,98.093,96,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium indologenes
+Query_17,CP023968,2265,0.0,98.093,96,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium indologenes
+Query_17,CP023968,2265,0.0,98.093,96,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium indologenes
+Query_17,LN681561,2272,0.0,98.169,96,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium indologenes
+Query_17,CP085529,2272,0.0,98.169,96,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium indologenes
+Query_17,CP085529,2272,0.0,98.169,96,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium indologenes
+Query_17,CP085529,2272,0.0,98.169,96,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium indologenes
+Query_17,CP085529,2272,0.0,98.169,96,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium indologenes
+Query_17,CP085529,2272,0.0,98.169,96,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium indologenes
+Query_17,CP085529,2266,0.0,98.093,96,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium indologenes
+Query_17,CP067044,2272,0.0,98.169,96,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium indologenes
+Query_17,CP067044,2272,0.0,98.169,96,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium indologenes
+Query_17,CP067044,2272,0.0,98.169,96,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium indologenes
+Query_17,CP067044,2272,0.0,98.169,96,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium indologenes
+Query_17,CP067044,2266,0.0,98.093,96,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium indologenes
+Query_17,CP065590,2272,0.0,98.169,96,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium indologenes
+Query_17,CP065590,2272,0.0,98.169,96,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium indologenes
+Query_17,CP065590,2272,0.0,98.169,96,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium indologenes
+Query_17,CP065590,2272,0.0,98.169,96,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium indologenes
+Query_17,CP065590,2272,0.0,98.169,96,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium indologenes
+Query_17,CP065590,2266,0.0,98.093,96,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium indologenes
+Query_17,MT793133,2272,0.0,98.169,96,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium indologenes
+Query_17,NR_112975,2272,0.0,98.169,96,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium indologenes
+Query_17,HM328172,2272,0.0,98.169,96,Bacteria,,,,,,uncultured bacterium
+Query_17,AJ583194,2272,0.0,98.169,96,Bacteria,Bacteroidota,,,,,uncultured Bacteroidetes bacterium
+Query_17,MT793134,2266,0.0,98.093,96,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium indologenes
+Query_18,NR_074455,2220,0.0,97.070,98,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Flavobacterium,Flavobacterium johnsoniae
+Query_18,CP000685,2220,0.0,97.070,98,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Flavobacterium,Flavobacterium johnsoniae
+Query_18,CP000685,2220,0.0,97.070,98,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Flavobacterium,Flavobacterium johnsoniae
+Query_18,CP000685,2220,0.0,97.070,98,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Flavobacterium,Flavobacterium johnsoniae
+Query_18,CP000685,2220,0.0,97.070,98,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Flavobacterium,Flavobacterium johnsoniae
+Query_18,CP000685,2209,0.0,96.920,98,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Flavobacterium,Flavobacterium johnsoniae
+Query_18,CP000685,2209,0.0,96.920,98,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Flavobacterium,Flavobacterium johnsoniae
+Query_18,NR_113704,2218,0.0,96.995,98,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Flavobacterium,Flavobacterium johnsoniae
+Query_18,NR_042496,2215,0.0,96.995,98,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Flavobacterium,Flavobacterium johnsoniae
+Query_18,NR_042496,2215,0.0,96.995,98,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Flavobacterium,Flavobacterium johnsoniae
+Query_18,CP031763,2209,0.0,96.920,98,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Flavobacterium,Flavobacterium johnsoniae
+Query_18,CP031763,2209,0.0,96.920,98,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Flavobacterium,Flavobacterium johnsoniae
+Query_18,CP031763,2204,0.0,96.844,98,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Flavobacterium,Flavobacterium johnsoniae
+Query_18,CP031763,2198,0.0,96.769,98,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Flavobacterium,Flavobacterium johnsoniae
+Query_18,CP031763,2193,0.0,96.694,98,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Flavobacterium,Flavobacterium johnsoniae
+Query_18,CP031763,2193,0.0,96.694,98,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Flavobacterium,Flavobacterium johnsoniae
+Query_18,AB681010,2209,0.0,96.920,98,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Flavobacterium,Flavobacterium johnsoniae
+Query_18,MW527136,2206,0.0,96.844,98,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Flavobacterium,Flavobacterium johnsoniae
+Query_18,AB078043,2206,0.0,96.844,98,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Flavobacterium,Flavobacterium johnsoniae
+Query_18,HM224403,2204,0.0,96.844,98,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Flavobacterium,Flavobacterium johnsoniae
+Query_18,KR188933,2202,0.0,96.769,98,Bacteria,,,,,,uncultured bacterium
+Query_18,7JIL_2,2200,0.0,96.772,98,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Flavobacterium,Flavobacterium johnsoniae
+Query_18,OK236088,2196,0.0,97.106,97,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Flavobacterium,Flavobacterium sp.
+Query_18,MG456791,2193,0.0,96.694,98,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Xanthobacteraceae,Xanthobacter,Xanthobacter autotrophicus
+Query_18,OP986265,2193,0.0,96.694,98,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Flavobacterium,Flavobacterium johnsoniae
+Query_18,OP986260,2193,0.0,96.694,98,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Flavobacterium,Flavobacterium johnsoniae
+Query_18,OP986259,2193,0.0,96.694,98,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Flavobacterium,Flavobacterium johnsoniae
+Query_18,OP986253,2193,0.0,96.694,98,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Flavobacterium,Flavobacterium johnsoniae
+Query_18,JF700377,2183,0.0,97.021,97,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Flavobacterium,Flavobacterium johnsoniae
+Query_18,MK684322,2182,0.0,96.544,98,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Flavobacterium,uncultured Flavobacterium sp.
+Query_18,MN718166,2169,0.0,96.664,97,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Flavobacterium,Flavobacterium johnsoniae
+Query_19,MK095762,2241,0.0,97.715,97,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium sp.
+Query_19,LN560447,2185,0.0,96.954,97,Bacteria,,,,,,uncultured bacterium
+Query_19,OP879198,2165,0.0,96.515,97,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium sp.
+Query_19,MH910219,2163,0.0,96.649,97,Bacteria,,,,,,bacterium
+Query_19,OP623513,2161,0.0,96.442,97,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium sp.
+Query_19,JN975947,2150,0.0,96.494,97,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium sp.
+Query_19,AB179867,2150,0.0,96.497,97,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium sp. MH
+Query_19,ON081093,2146,0.0,96.420,97,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,uncultured Chryseobacterium sp.
+Query_19,MW037533,2146,0.0,96.420,97,Bacteria,,,,,,bacterium
+Query_19,NR_135722,2146,0.0,96.420,97,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium gwangjuense
+Query_19,DQ530069,2146,0.0,96.420,97,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium sp. CI15
+Query_19,DQ337588,2146,0.0,96.420,97,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium sp. CHNTR56
+Query_19,JN975952,2141,0.0,96.412,97,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium sp.
+Query_19,KM253027,2141,0.0,96.353,97,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium sp. DR 6-07
+Query_19,MW370165,2139,0.0,96.341,97,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium sp.
+Query_19,NR_108691,2139,0.0,96.347,97,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium ginsenosidimutans
+Query_19,KX456366,2135,0.0,96.268,97,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,uncultured Chryseobacterium sp.
+Query_19,JQ660045,2135,0.0,96.274,97,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium sp. S1-412
+Query_19,FJ605416,2135,0.0,95.994,97,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium sp. PP-4
+Query_19,GQ070614,2135,0.0,96.268,97,Bacteria,,,,,,uncultured bacterium
+Query_20,MK095761,2246,0.0,97.581,98,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium sp.
+Query_20,MH185872,2246,0.0,97.581,98,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium sp.
+Query_20,NR_170452,2246,0.0,97.303,99,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium candidae
+Query_20,KT735047,2241,0.0,97.506,98,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium sp. CBTAP 102
+Query_20,KC182748,2241,0.0,97.508,98,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium sp. OS7
+Query_20,GU296676,2241,0.0,97.506,98,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium sp. ANSL
+Query_20,KY124231,2239,0.0,97.644,97,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium sp. PT238
+Query_20,MK397526,2235,0.0,97.432,98,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium sp.
+Query_20,AY464462,2204,0.0,96.983,98,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium sp. ACP12
+Query_20,MK720104,2200,0.0,97.256,97,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium sp.
+Query_20,ON799114,2176,0.0,96.466,98,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium sp.
+Query_20,OK189584,2165,0.0,96.183,99,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium gleum
+Query_20,KJ806354,2163,0.0,96.447,98,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium indologenes
+Query_20,OK189585,2161,0.0,96.177,99,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium gleum
+Query_20,MN330161,2161,0.0,96.180,99,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium rhizoplanae
+Query_20,MN330109,2161,0.0,96.246,98,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium lactis
+Query_20,OK189559,2159,0.0,96.174,98,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium gleum
+Query_20,MN330160,2159,0.0,96.243,98,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium gleum
+Query_20,KR002424,2158,0.0,96.372,98,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium indologenes
+Query_20,KR002422,2158,0.0,96.372,98,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium culicis
+Query_21,CP001053,2194,0.0,96.498,99,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Paraburkholderia,Paraburkholderia phytofirmans
+Query_21,CP001053,2182,0.0,96.349,99,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Paraburkholderia,Paraburkholderia phytofirmans
+Query_21,CP001053,2182,0.0,96.349,99,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Paraburkholderia,Paraburkholderia phytofirmans
+Query_21,JX010965,2191,0.0,96.426,99,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Paraburkholderia,Paraburkholderia caledonica
+Query_21,CP022989,2189,0.0,96.423,99,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Paraburkholderia,Paraburkholderia aromaticivorans
+Query_21,CP022989,2189,0.0,96.423,99,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Paraburkholderia,Paraburkholderia aromaticivorans
+Query_21,CP022989,2170,0.0,96.200,99,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Paraburkholderia,Paraburkholderia aromaticivorans
+Query_21,JX010968,2185,0.0,96.482,99,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Paraburkholderia,Paraburkholderia caledonica
+Query_21,CP024906,2183,0.0,96.349,99,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Paraburkholderia,Paraburkholderia caledonica
+Query_21,CP024906,2172,0.0,96.200,99,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Paraburkholderia,Paraburkholderia caledonica
+Query_21,CP024906,2172,0.0,96.200,99,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Paraburkholderia,Paraburkholderia caledonica
+Query_21,CP022990,2183,0.0,96.349,99,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Paraburkholderia,Paraburkholderia aromaticivorans
+Query_21,CP022990,2170,0.0,96.200,99,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Paraburkholderia,Paraburkholderia aromaticivorans
+Query_21,CP022990,2170,0.0,96.200,99,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Paraburkholderia,Paraburkholderia aromaticivorans
+Query_21,KX509178,2183,0.0,96.349,99,Bacteria,,,,,,uncultured bacterium
+Query_21,KX509142,2183,0.0,96.349,99,Bacteria,,,,,,uncultured bacterium
+Query_21,OP986441,2183,0.0,96.349,99,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Paraburkholderia,Paraburkholderia caledonica
+Query_21,OP986430,2183,0.0,96.349,99,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Paraburkholderia,Paraburkholderia caledonica
+Query_21,AB982950,2183,0.0,96.349,99,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,Burkholderia sp. DS21
+Query_21,JF265195,2183,0.0,96.349,99,Bacteria,,,,,,endophytic bacterium 15(2011)
+Query_21,JF265195,2183,0.0,96.349,99,Bacteria,,,,,,endophytic bacterium 16(2011)
+Query_21,JF265195,2183,0.0,96.349,99,Bacteria,,,,,,endophytic bacterium 23(2011)
+Query_21,GQ478268,2183,0.0,96.349,99,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,Burkholderia sp. R4M-O
+Query_21,AF184926,2183,0.0,96.349,99,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,,,2
+Query_21,AF184926,2183,0.0,96.349,99,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,,,2
+Query_21,AF184926,2183,0.0,96.349,99,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,,,2
+Query_21,AF247495,2183,0.0,96.349,99,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,Burkholderia sp. S4.11
+Query_21,OM670222,2182,0.0,96.349,99,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Paraburkholderia,Paraburkholderia phytofirmans
+Query_21,AB741457,2182,0.0,96.349,99,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Paraburkholderia,Paraburkholderia phytofirmans
+Query_21,CP001052,2182,0.0,96.349,99,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Paraburkholderia,Paraburkholderia phytofirmans
+Query_21,CP001052,2182,0.0,96.349,99,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Paraburkholderia,Paraburkholderia phytofirmans
+Query_21,CP001052,2176,0.0,96.274,99,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Paraburkholderia,Paraburkholderia phytofirmans
+Query_21,HF674684,2180,0.0,96.674,98,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Paraburkholderia,Paraburkholderia strydomiana
+Query_21,JQ579639,2180,0.0,96.341,99,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,Burkholderia sp. H4
+Query_22,MK825219,2265,0.0,97.321,98,Bacteria,,,,,,bacterium
+Query_22,MK825266,2263,0.0,97.388,97,Bacteria,,,,,,bacterium
+Query_22,MK824912,2263,0.0,97.187,98,Bacteria,,,,,,bacterium
+Query_22,OK236186,2263,0.0,97.185,98,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Ralstonia,Ralstonia sp.
+Query_22,MK825086,2261,0.0,97.455,97,Bacteria,,,,,,bacterium
+Query_22,MK824834,2261,0.0,97.319,98,Bacteria,,,,,,bacterium
+Query_22,KY357344,2261,0.0,97.455,97,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Ralstonia,Ralstonia sp.
+Query_22,MK311319,2255,0.0,97.380,97,Bacteria,,,,,,bacterium
+Query_22,MK825174,2255,0.0,97.382,97,Bacteria,,,,,,bacterium
+Query_22,MK825105,2255,0.0,97.380,97,Bacteria,,,,,,bacterium
+Query_22,MK825068,2255,0.0,97.382,97,Bacteria,,,,,,bacterium
+Query_22,MK825063,2255,0.0,97.380,97,Bacteria,,,,,,bacterium
+Query_22,MK824911,2255,0.0,97.380,97,Bacteria,,,,,,bacterium
+Query_22,MK825141,2254,0.0,97.378,97,Bacteria,,,,,,bacterium
+Query_22,MK825132,2254,0.0,97.175,98,Bacteria,,,,,,bacterium
+Query_22,MK825124,2254,0.0,97.175,98,Bacteria,,,,,,bacterium
+Query_22,LC385687,2252,0.0,97.309,97,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Ralstonia,Ralstonia sp.
+Query_22,LN890005,2252,0.0,97.309,97,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Ralstonia,Ralstonia mannitolilytica
+Query_22,LN890003,2252,0.0,97.309,97,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Ralstonia,Ralstonia mannitolilytica
+Query_22,CP076413,2252,0.0,97.309,97,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Ralstonia,Ralstonia wenshanensis
+Query_22,CP076413,2252,0.0,97.309,97,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Ralstonia,Ralstonia wenshanensis
+Query_23,MH071316,2248,0.0,97.517,97,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Comamonadaceae,Variovorax,Variovorax paradoxus
+Query_23,OQ421724,2244,0.0,97.444,97,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Comamonadaceae,Variovorax,Variovorax paradoxus
+Query_23,OQ421669,2241,0.0,97.168,98,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Comamonadaceae,Variovorax,Variovorax paradoxus
+Query_23,MG820625,2239,0.0,97.100,98,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Comamonadaceae,Variovorax,Variovorax beijingensis
+Query_23,MF101056,2239,0.0,97.100,98,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Comamonadaceae,Variovorax,Variovorax paradoxus
+Query_23,KP267842,2239,0.0,97.100,98,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Comamonadaceae,Variovorax,Variovorax sp. RC3.3
+Query_23,KC166765,2239,0.0,97.100,98,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Comamonadaceae,Variovorax,uncultured Variovorax sp.
+Query_23,MW828645,2239,0.0,97.100,98,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Comamonadaceae,Variovorax,Variovorax paradoxus
+Query_23,NR_113736,2239,0.0,97.100,98,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Comamonadaceae,Variovorax,Variovorax paradoxus
+Query_23,AB622222,2239,0.0,97.100,98,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Comamonadaceae,Variovorax,Variovorax paradoxus
+Query_23,AB622221,2239,0.0,97.100,98,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Comamonadaceae,Variovorax,Variovorax paradoxus
+Query_23,AB622220,2239,0.0,97.100,98,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Comamonadaceae,Variovorax,Variovorax paradoxus
+Query_23,GQ920616,2239,0.0,97.100,98,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Comamonadaceae,Variovorax,Variovorax paradoxus
+Query_23,DQ256487,2239,0.0,97.100,98,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Comamonadaceae,Variovorax,Variovorax paradoxus
+Query_23,MF101053,2237,0.0,97.506,97,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Comamonadaceae,Variovorax,Variovorax paradoxus
+Query_23,MT634607,2237,0.0,97.164,98,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Comamonadaceae,Variovorax,Variovorax guangxiensis
+Query_23,MT634572,2237,0.0,97.096,98,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Comamonadaceae,Variovorax,Variovorax paradoxus
+Query_23,MT634565,2237,0.0,97.164,98,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Comamonadaceae,Variovorax,Variovorax paradoxus
+Query_23,MG820624,2235,0.0,97.228,97,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Comamonadaceae,Variovorax,Variovorax beijingensis
+Query_23,NR_179934,2235,0.0,97.228,97,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Comamonadaceae,Variovorax,Variovorax beijingensis
+Query_24,KU671182,2292,0.0,97.692,97,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Oxalobacteraceae,Janthinobacterium,Janthinobacterium sp.
+Query_24,CP033019,2290,0.0,97.623,97,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Oxalobacteraceae,Janthinobacterium,Janthinobacterium agaricidamnosum
+Query_24,CP033019,2290,0.0,97.623,97,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Oxalobacteraceae,Janthinobacterium,Janthinobacterium agaricidamnosum
+Query_24,CP033019,2285,0.0,97.548,97,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Oxalobacteraceae,Janthinobacterium,Janthinobacterium agaricidamnosum
+Query_24,CP033019,2279,0.0,97.474,97,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Oxalobacteraceae,Janthinobacterium,Janthinobacterium agaricidamnosum
+Query_24,CP033019,2274,0.0,97.400,97,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Oxalobacteraceae,Janthinobacterium,Janthinobacterium agaricidamnosum
+Query_24,CP033019,2274,0.0,97.400,97,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Oxalobacteraceae,Janthinobacterium,Janthinobacterium agaricidamnosum
+Query_24,CP033019,2274,0.0,97.400,97,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Oxalobacteraceae,Janthinobacterium,Janthinobacterium agaricidamnosum
+Query_24,CP033019,2268,0.0,97.325,97,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Oxalobacteraceae,Janthinobacterium,Janthinobacterium agaricidamnosum
+Query_24,OP837545,2290,0.0,97.623,97,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Oxalobacteraceae,Janthinobacterium,Janthinobacterium lividum
+Query_24,JQ977179,2290,0.0,97.690,97,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Oxalobacteraceae,Janthinobacterium,Janthinobacterium sp. Rb10
+Query_24,AY662007,2290,0.0,97.623,97,Bacteria,,,,,,uncultured bacterium
+Query_24,NR_132608,2289,0.0,97.617,97,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Oxalobacteraceae,Janthinobacterium,Janthinobacterium svalbardensis
+Query_24,MH221885,2287,0.0,97.756,97,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Oxalobacteraceae,Janthinobacterium,Janthinobacterium sp.
+Query_24,MW928752,2287,0.0,97.481,97,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Oxalobacteraceae,Janthinobacterium,Janthinobacterium svalbardensis
+Query_24,LC189080,2285,0.0,97.548,97,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Oxalobacteraceae,Janthinobacterium,Janthinobacterium sp. Isl
+Query_24,KJ855970,2285,0.0,97.548,97,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Oxalobacteraceae,Janthinobacterium,Janthinobacterium sp. HH100
+Query_24,KJ855970,2285,0.0,97.548,97,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Oxalobacteraceae,Janthinobacterium,Janthinobacterium sp. HH102
+Query_24,KJ855970,2285,0.0,97.548,97,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Oxalobacteraceae,Janthinobacterium,Janthinobacterium sp. HH103
+Query_24,KF611963,2285,0.0,97.548,97,Bacteria,,,,,,uncultured bacterium
+Query_24,CP062062,2285,0.0,97.548,97,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Oxalobacteraceae,Janthinobacterium,Janthinobacterium sp. HH102
+Query_24,CP062062,2285,0.0,97.548,97,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Oxalobacteraceae,Janthinobacterium,Janthinobacterium sp. HH102
+Query_24,CP062062,2285,0.0,97.548,97,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Oxalobacteraceae,Janthinobacterium,Janthinobacterium sp. HH102
+Query_24,CP062062,2285,0.0,97.548,97,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Oxalobacteraceae,Janthinobacterium,Janthinobacterium sp. HH102
+Query_24,CP062062,2285,0.0,97.548,97,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Oxalobacteraceae,Janthinobacterium,Janthinobacterium sp. HH102
+Query_24,CP062062,2285,0.0,97.548,97,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Oxalobacteraceae,Janthinobacterium,Janthinobacterium sp. HH102
+Query_24,CP062062,2285,0.0,97.548,97,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Oxalobacteraceae,Janthinobacterium,Janthinobacterium sp. HH102
+Query_24,CP062062,2285,0.0,97.548,97,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Oxalobacteraceae,Janthinobacterium,Janthinobacterium sp. HH102
+Query_24,KU671216,2283,0.0,97.545,97,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Oxalobacteraceae,Janthinobacterium,Janthinobacterium sp.
+Query_24,KU671184,2283,0.0,97.546,97,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Oxalobacteraceae,Janthinobacterium,Janthinobacterium sp.
+Query_24,KU671181,2283,0.0,97.546,97,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Oxalobacteraceae,Janthinobacterium,Janthinobacterium sp.
+Query_24,KF993615,2283,0.0,97.545,97,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Oxalobacteraceae,Janthinobacterium,Janthinobacterium lividum
+Query_24,KC920945,2283,0.0,97.545,97,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Oxalobacteraceae,Janthinobacterium,Janthinobacterium lividum
+Query_24,JQ977373,2283,0.0,97.683,97,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Oxalobacteraceae,Janthinobacterium,Janthinobacterium sp. Eab4
+Query_24,MH221886,2281,0.0,97.681,97,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Oxalobacteraceae,Janthinobacterium,Janthinobacterium sp.
+Query_24,KY623384,2281,0.0,97.407,97,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Oxalobacteraceae,Janthinobacterium,Janthinobacterium sp.
+Query_25,MH698868,2222,0.0,96.672,98,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Comamonadaceae,Pseudacidovorax,Pseudacidovorax sp.
+Query_25,ON834322,2222,0.0,96.476,99,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Comamonadaceae,Pseudacidovorax,Pseudacidovorax intermedius
+Query_25,MT677889,2222,0.0,96.672,98,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Comamonadaceae,,Comamonadaceae bacterium
+Query_25,NR_044241,2222,0.0,96.672,98,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Comamonadaceae,Pseudacidovorax,Pseudacidovorax intermedius
+Query_25,AF214644,2222,0.0,96.672,98,Bacteria,Pseudomonadota,,,,,nitrogen-fixing bacterium MI753
+Query_25,FJ581042,2220,0.0,96.669,98,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Comamonadaceae,Pseudacidovorax,Pseudacidovorax sp. ptl-2
+Query_25,MZ490719,2218,0.0,96.798,98,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Comamonadaceae,Pseudacidovorax,Pseudacidovorax sp.
+Query_25,MZ490718,2218,0.0,96.798,98,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Comamonadaceae,Pseudacidovorax,Pseudacidovorax sp.
+Query_25,MN589769,2217,0.0,96.534,99,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Comamonadaceae,Pseudacidovorax,Pseudacidovorax intermedius
+Query_25,MZ352419,2217,0.0,96.598,98,Bacteria,,,,,,uncultured bacterium
+Query_25,AB114619,2217,0.0,96.598,98,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Comamonadaceae,,uncultured Comamonadaceae bacterium
+Query_25,MT160405,2215,0.0,96.729,98,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Comamonadaceae,Pseudacidovorax,Pseudacidovorax intermedius
+Query_25,HQ834240,2211,0.0,96.524,98,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Comamonadaceae,Pseudacidovorax,Pseudacidovorax sp. NH-1
+Query_25,MN067577,2209,0.0,96.786,98,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Comamonadaceae,Pseudacidovorax,Pseudacidovorax sp.
+Query_25,KX082848,2209,0.0,96.786,98,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Comamonadaceae,Pseudacidovorax,Pseudacidovorax intermedius
+Query_25,MN889302,2207,0.0,96.649,98,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Comamonadaceae,Pseudacidovorax,Pseudacidovorax intermedius
+Query_25,MT160406,2207,0.0,96.784,98,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Comamonadaceae,Pseudacidovorax,Pseudacidovorax intermedius
+Query_25,MN067610,2207,0.0,96.784,98,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Comamonadaceae,Pseudacidovorax,Pseudacidovorax sp.
+Query_25,GU940951,2207,0.0,96.852,97,Bacteria,,,,,,uncultured bacterium
+Query_25,MN067629,2204,0.0,96.709,98,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Comamonadaceae,Pseudacidovorax,Pseudacidovorax sp.
+Query_26,KF158230,2239,0.0,97.434,99,Bacteria,Bacillota,Bacilli,Bacillales,Bacillaceae,Priestia,Priestia megaterium
+Query_26,MF431758,2237,0.0,97.295,99,Bacteria,Bacillota,Bacilli,Bacillales,Bacillaceae,Priestia,Priestia megaterium
+Query_26,KU179345,2235,0.0,97.293,99,Bacteria,Bacillota,Bacilli,Bacillales,Bacillaceae,Priestia,Priestia aryabhattai
+Query_26,OP364719,2235,0.0,97.360,99,Bacteria,,,,,,bacterium
+Query_26,OK594051,2235,0.0,97.293,99,Bacteria,Bacillota,Bacilli,Bacillales,Bacillaceae,Priestia,Priestia aryabhattai
+Query_26,MT225770,2233,0.0,97.428,98,Bacteria,Bacillota,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus zanthoxyli
+Query_26,MG430231,2233,0.0,97.430,98,Bacteria,Bacillota,Bacilli,Bacillales,Bacillaceae,Priestia,Priestia megaterium
+Query_26,KY069033,2233,0.0,97.430,98,Bacteria,,,,,,bacterium
+Query_26,MK521059,2231,0.0,97.428,98,Bacteria,Bacillota,Bacilli,Bacillales,Bacillaceae,Priestia,Priestia aryabhattai
+Query_26,MH748613,2231,0.0,97.358,99,Bacteria,Bacillota,Bacilli,Bacillales,Bacillaceae,Priestia,Priestia aryabhattai
+Query_26,MG430221,2231,0.0,97.358,98,Bacteria,Bacillota,Bacilli,Bacillales,Bacillaceae,Priestia,Priestia megaterium
+Query_26,MG430211,2231,0.0,97.358,98,Bacteria,Bacillota,Bacilli,Bacillales,Bacillaceae,Priestia,Priestia megaterium
+Query_26,KY069044,2231,0.0,97.220,99,Bacteria,,,,,,bacterium
+Query_26,OP364650,2231,0.0,97.428,98,Bacteria,Bacillota,Bacilli,Bacillales,Bacillaceae,Priestia,Priestia megaterium
+Query_26,OP364552,2231,0.0,97.358,99,Bacteria,Bacillota,Bacilli,Bacillales,Bacillaceae,Priestia,Priestia megaterium
+Query_26,ON920666,2231,0.0,97.426,98,Bacteria,Bacillota,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus sp. (in: firmicutes)
+Query_26,MW730718,2231,0.0,97.358,98,Bacteria,Bacillota,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus sp. (in: firmicutes)
+Query_26,HQ908708,2231,0.0,97.496,98,Bacteria,Bacillota,Bacilli,Bacillales,Bacillaceae,Priestia,Priestia aryabhattai
+Query_26,HQ143579,2231,0.0,97.356,99,Bacteria,Bacillota,Bacilli,Bacillales,Bacillaceae,Priestia,Priestia megaterium
+Query_26,MT078622,2230,0.0,97.356,98,Bacteria,Bacillota,Bacilli,Bacillales,Bacillaceae,Priestia,Priestia aryabhattai
+Query_27,JX122829,1781,0.0,91.546,95,Bacteria,Bacillota,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus sp. B-7
+Query_27,MH484252,1779,0.0,91.763,94,Bacteria,Bacillota,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus sp. (in: firmicutes)
+Query_27,OP364493,1775,0.0,91.463,95,Bacteria,Bacillota,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus sp. (in: firmicutes)
+Query_27,KT763358,1768,0.0,91.294,94,Bacteria,Bacillota,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus arbutinivorans
+Query_27,MT279342,1764,0.0,91.488,94,Bacteria,Bacillota,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus sp. (in: firmicutes)
+Query_27,MK823850,1764,0.0,91.424,95,Bacteria,,,,,,bacterium
+Query_27,OM909492,1760,0.0,91.583,94,Bacteria,Bacillota,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus sp. (in: firmicutes)
+Query_27,OM909397,1760,0.0,91.525,94,Bacteria,Bacillota,Bacilli,Bacillales,Bacillaceae,Neobacillus,Neobacillus drentensis
+Query_27,MW971723,1760,0.0,91.525,94,Bacteria,Bacillota,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus sp. (in: firmicutes)
+Query_27,MK824066,1759,0.0,91.519,94,Bacteria,,,,,,bacterium
+Query_27,MK823739,1759,0.0,91.354,95,Bacteria,,,,,,bacterium
+Query_27,AB508884,1759,0.0,91.411,94,Bacteria,Bacillota,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus sp. TSH18
+Query_27,KC602292,1757,0.0,91.291,95,Bacteria,,,,,,bacterium JP61
+Query_27,MT416000,1755,0.0,91.448,94,Bacteria,Bacillota,Bacilli,Bacillales,Bacillaceae,Neobacillus,Neobacillus drentensis
+Query_27,KU254657,1755,0.0,91.506,94,Bacteria,Bacillota,Bacilli,Bacillales,Bacillaceae,Neobacillus,Neobacillus drentensis
+Query_27,AM412171,1755,0.0,91.341,94,Bacteria,Bacillota,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus sp. P-150
+Query_27,MK824126,1753,0.0,91.499,94,Bacteria,,,,,,bacterium
+Query_27,KT719648,1753,0.0,91.278,95,Bacteria,Bacillota,Bacilli,Bacillales,Bacillaceae,Neobacillus,Neobacillus drentensis
+Query_27,KC408580,1753,0.0,91.334,94,Bacteria,,,,,,uncultured bacterium
+Query_27,MT798437,1753,0.0,91.334,94,Bacteria,,,,,,uncultured bacterium
+Query_28,MK285608,2222,0.0,97.208,99,Bacteria,Bacillota,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus sp. (in: firmicutes)
+Query_28,KT981879,2218,0.0,97.136,99,Bacteria,Bacillota,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus sp. (in: firmicutes)
+Query_28,KF010630,2218,0.0,97.203,99,Bacteria,Bacillota,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus sp. Gr-11
+Query_28,MF079281,2217,0.0,97.201,99,Bacteria,Bacillota,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus pumilus
+Query_28,OP364521,2215,0.0,97.065,99,Bacteria,Bacillota,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus pumilus
+Query_28,OL654387,2215,0.0,97.132,99,Bacteria,Bacillota,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus sp. (in: firmicutes)
+Query_28,KF482855,2215,0.0,97.132,99,Bacteria,Bacillota,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus sp. CZB12
+Query_28,MH910177,2213,0.0,97.061,99,Bacteria,Bacillota,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus subtilis
+Query_28,MH910113,2213,0.0,97.059,99,Bacteria,Bacillota,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus pumilus
+Query_28,MG388141,2213,0.0,97.061,99,Bacteria,Bacillota,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus sp. (in: firmicutes)
+Query_28,MK483718,2213,0.0,97.061,99,Bacteria,Bacillota,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus altitudinis
+Query_28,MH518186,2213,0.0,97.061,99,Bacteria,Bacillota,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus sp. (in: firmicutes)
+Query_28,KY621525,2213,0.0,97.061,99,Bacteria,Bacillota,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus safensis
+Query_28,OP364670,2213,0.0,97.199,99,Bacteria,Bacillota,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus sp. (in: firmicutes)
+Query_28,KJ659072,2213,0.0,97.267,99,Bacteria,Bacillota,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus sp. SAUK10-3
+Query_28,OK274125,2213,0.0,97.197,99,Bacteria,Bacillota,Bacilli,Bacillales,Bacillaceae,Bacillus,uncultured Bacillus sp.
+Query_28,KF863824,2213,0.0,97.197,99,Bacteria,Bacillota,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus sp. hb24
+Query_28,JX867749,2213,0.0,97.130,99,Bacteria,Bacillota,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus safensis
+Query_28,JF701961,2213,0.0,97.130,99,Bacteria,Bacillota,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus sp. YXC1-10
+Query_28,MK371783,2211,0.0,97.264,99,Bacteria,Bacillota,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus sp. (in: firmicutes)
+Query_29,CP022655,2237,0.0,97.156,98,Bacteria,Bacillota,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,Paenibacillus sp. RUD330
+Query_29,CP022655,2237,0.0,97.156,98,Bacteria,Bacillota,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,Paenibacillus sp. RUD330
+Query_29,CP022655,2237,0.0,97.156,98,Bacteria,Bacillota,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,Paenibacillus sp. RUD330
+Query_29,CP022655,2231,0.0,97.081,98,Bacteria,Bacillota,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,Paenibacillus sp. RUD330
+Query_29,CP022655,2231,0.0,97.081,98,Bacteria,Bacillota,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,Paenibacillus sp. RUD330
+Query_29,CP022655,2231,0.0,97.081,98,Bacteria,Bacillota,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,Paenibacillus sp. RUD330
+Query_29,CP022655,2226,0.0,97.006,98,Bacteria,Bacillota,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,Paenibacillus sp. RUD330
+Query_29,CP022655,2220,0.0,96.931,98,Bacteria,Bacillota,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,Paenibacillus sp. RUD330
+Query_29,KX077202,2231,0.0,97.081,98,Bacteria,Bacillota,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,uncultured Paenibacillus sp.
+Query_29,MW261887,2226,0.0,97.006,98,Bacteria,Bacillota,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,Paenibacillus sp.
+Query_29,MW534854,2222,0.0,96.856,98,Bacteria,Bacillota,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,Paenibacillus humicus
+Query_29,MW534851,2218,0.0,96.781,98,Bacteria,Bacillota,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,Paenibacillus humicus
+Query_29,KX077201,2209,0.0,96.784,98,Bacteria,Bacillota,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,uncultured Paenibacillus sp.
+Query_29,JF970586,2209,0.0,96.784,98,Bacteria,Bacillota,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,Paenibacillus humicus
+Query_29,OL862813,2198,0.0,96.632,98,Bacteria,,,,,,uncultured bacterium
+Query_29,MG650048,2193,0.0,97.452,95,Bacteria,Bacillota,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,Paenibacillus humicus
+Query_29,KY660578,2178,0.0,96.534,97,Bacteria,Bacillota,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,Paenibacillus humicus
+Query_29,MZ895390,2178,0.0,96.332,98,Bacteria,Bacillota,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,Paenibacillus humicus
+Query_29,AM906085,2178,0.0,96.335,98,Bacteria,Bacillota,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,Paenibacillus sp. P22
+Query_29,AM906085,2178,0.0,96.335,98,Bacteria,Bacillota,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,Paenibacillus sp. Ma-2
+Query_29,AM906085,2178,0.0,96.335,98,Bacteria,Bacillota,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,Paenibacillus sp. La1
+Query_29,HM835857,2176,0.0,96.335,98,Bacteria,,,,,,uncultured bacterium
+Query_29,NR_042577,2176,0.0,96.335,98,Bacteria,Bacillota,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,Paenibacillus humicus
+Query_29,AM411529,2176,0.0,96.335,98,Bacteria,Bacillota,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,Paenibacillus humicus
+Query_29,NR_114076,2174,0.0,96.185,98,Bacteria,Bacillota,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,Paenibacillus humicus
+Query_29,KY660598,2172,0.0,96.593,97,Bacteria,Bacillota,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,Paenibacillus sp.
+Query_29,KY660598,2172,0.0,96.593,97,Bacteria,Bacillota,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,Paenibacillus glycanilyticus
+Query_29,MW534849,2172,0.0,96.185,98,Bacteria,Bacillota,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,Paenibacillus humicus
+Query_29,ON420766,2170,0.0,97.207,94,Bacteria,Bacillota,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,Paenibacillus humicus
+Query_29,ON420737,2170,0.0,97.207,94,Bacteria,Bacillota,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,Paenibacillus humicus
+Query_30,MN559531,2220,0.0,97.764,98,Bacteria,Bacillota,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus sp. (in: firmicutes)
+Query_30,MK521061,2215,0.0,97.759,98,Bacteria,Bacillota,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus pumilus
+Query_30,KF933674,2215,0.0,97.617,98,Bacteria,Bacillota,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus pumilus
+Query_30,MH071746,2213,0.0,97.829,98,Bacteria,Bacillota,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus sp. (in: firmicutes)
+Query_30,MG597491,2213,0.0,97.687,98,Bacteria,Bacillota,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus pumilus
+Query_30,MF594146,2213,0.0,97.757,98,Bacteria,Bacillota,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus safensis
+Query_30,MK521063,2211,0.0,97.755,98,Bacteria,Bacillota,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus pumilus
+Query_30,MH910113,2211,0.0,97.612,98,Bacteria,Bacillota,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus pumilus
+Query_30,KT149392,2211,0.0,97.683,98,Bacteria,Bacillota,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus sp. WP01
+Query_30,KJ944109,2211,0.0,97.685,98,Bacteria,Bacillota,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus sp. L103
+Query_30,OK274125,2211,0.0,97.683,98,Bacteria,Bacillota,Bacilli,Bacillales,Bacillaceae,Bacillus,uncultured Bacillus sp.
+Query_30,KF863824,2211,0.0,97.683,98,Bacteria,Bacillota,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus sp. hb24
+Query_30,MZ425402,2211,0.0,97.685,98,Bacteria,Bacillota,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus sp. (in: firmicutes)
+Query_30,MT673794,2211,0.0,97.683,98,Bacteria,Bacillota,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus sp. (in: firmicutes)
+Query_30,MK824579,2209,0.0,97.683,98,Bacteria,,,,,,bacterium
+Query_30,MK285608,2209,0.0,97.682,98,Bacteria,Bacillota,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus sp. (in: firmicutes)
+Query_30,MF079281,2209,0.0,97.682,98,Bacteria,Bacillota,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus pumilus
+Query_30,KU922444,2209,0.0,97.612,98,Bacteria,Bacillota,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus pumilus
+Query_30,KU095078,2209,0.0,97.612,98,Bacteria,Bacillota,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus sp. G13(2015)
+Query_30,OP364670,2209,0.0,97.540,98,Bacteria,Bacillota,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus sp. (in: firmicutes)
+Query_31,HM566847,2252,0.0,97.449,97,Bacteria,Bacillota,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus sp. DB134(2010)
+Query_31,MK290403,2246,0.0,96.841,98,Bacteria,Bacillota,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,Paenibacillus sp.
+Query_31,OL354437,2246,0.0,96.841,98,Bacteria,Bacillota,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,Paenibacillus sp.
+Query_31,HM566850,2246,0.0,97.307,97,Bacteria,Bacillota,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus sp. DB137(2010)
+Query_31,KF011602,2242,0.0,96.767,98,Bacteria,Bacillota,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,Paenibacillus sp. HA18
+Query_31,KU605721,2241,0.0,96.767,98,Bacteria,Bacillota,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,Paenibacillus tundrae
+Query_31,KX349197,2241,0.0,96.767,98,Bacteria,Bacillota,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,Paenibacillus tundrae
+Query_31,ON819742,2241,0.0,96.767,98,Bacteria,Bacillota,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,Paenibacillus tundrae
+Query_31,KJ733988,2241,0.0,96.965,98,Bacteria,Bacillota,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,Paenibacillus sp. KT19
+Query_31,KF011585,2241,0.0,96.767,98,Bacteria,Bacillota,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,Paenibacillus sp. HA1
+Query_31,KF011585,2241,0.0,96.767,98,Bacteria,Bacillota,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,Paenibacillus sp. PAMC 26813
+Query_31,KF011685,2241,0.0,96.767,98,Bacteria,Bacillota,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,Paenibacillus sp. PAMC 26811
+Query_31,KF011677,2241,0.0,96.767,98,Bacteria,Bacillota,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,Paenibacillus sp. PAMC 26803
+Query_31,KF011674,2241,0.0,96.767,98,Bacteria,Bacillota,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,Paenibacillus sp. PAMC 26800
+Query_31,KF011670,2241,0.0,96.767,98,Bacteria,Bacillota,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,Paenibacillus sp. PAMC 26796
+Query_31,KF011615,2241,0.0,96.767,98,Bacteria,Bacillota,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,Paenibacillus sp. HA31
+Query_31,KF011615,2241,0.0,96.767,98,Bacteria,Bacillota,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,Paenibacillus sp. HA67
+Query_31,KF011630,2241,0.0,96.767,98,Bacteria,Bacillota,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,Paenibacillus sp. HA46
+Query_31,KF011630,2241,0.0,96.767,98,Bacteria,Bacillota,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,Paenibacillus sp. HA63
+Query_31,KF011642,2241,0.0,96.767,98,Bacteria,Bacillota,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,Paenibacillus sp. HA58
+Query_31,KF011639,2241,0.0,96.767,98,Bacteria,Bacillota,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,Paenibacillus sp. HA55
+Query_31,KF011631,2241,0.0,96.767,98,Bacteria,Bacillota,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,Paenibacillus sp. HA47
+Query_31,KF011626,2241,0.0,96.767,98,Bacteria,Bacillota,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,Paenibacillus sp. HA42
+Query_31,KF011626,2241,0.0,96.767,98,Bacteria,Bacillota,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,Paenibacillus sp. HA45
+Query_32,MK615932,2250,0.0,97.039,99,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli
+Query_32,MW301227,2250,0.0,96.974,99,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia sp.
+Query_32,MK561308,2248,0.0,97.039,99,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli
+Query_32,MG602206,2248,0.0,97.039,99,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli
+Query_32,KY492059,2248,0.0,97.105,99,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Shigella,Shigella sp.
+Query_32,MW301223,2248,0.0,97.039,99,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia sp.
+Query_32,MN208219,2246,0.0,97.037,99,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli
+Query_32,KJ477010,2246,0.0,97.105,99,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli
+Query_32,MN208173,2244,0.0,96.967,99,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli
+Query_32,MN208085,2244,0.0,97.035,99,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli
+Query_32,MW301915,2244,0.0,97.100,99,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli
+Query_32,MN208228,2242,0.0,96.900,99,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli
+Query_32,MN191860,2242,0.0,96.965,99,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Shigella,Shigella sp.
+Query_32,KR148963,2242,0.0,97.030,99,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Shigella,Shigella sp. CH-12
+Query_32,KJ477007,2242,0.0,97.033,99,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli
+Query_32,MW582672,2242,0.0,97.100,99,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli
+Query_32,OP776665,2241,0.0,97.028,99,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli
+Query_32,KP174619,2241,0.0,96.963,99,Bacteria,,,,,,bacterium YC-LK-LKJ9
+Query_32,KJ477002,2241,0.0,96.961,99,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli
+Query_32,MN208117,2239,0.0,96.896,99,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli
+Query_33,JQ897945,2246,0.0,97.107,99,Bacteria,Pseudomonadota,Gammaproteobacteria,Xanthomonadales,Rhodanobacteraceae,Dyella,Dyella marensis
+Query_33,KF475806,2237,0.0,97.231,98,Bacteria,Pseudomonadota,Gammaproteobacteria,Xanthomonadales,Rhodanobacteraceae,Dyella,Dyella marensis
+Query_33,JX185523,2237,0.0,97.231,98,Bacteria,Pseudomonadota,Gammaproteobacteria,Xanthomonadales,Rhodanobacteraceae,Dyella,Dyella marensis
+Query_33,MN830098,2226,0.0,97.149,98,Bacteria,Pseudomonadota,Gammaproteobacteria,Xanthomonadales,Rhodanobacteraceae,Dyella,Dyella sp.
+Query_33,MH699158,2226,0.0,97.081,98,Bacteria,Pseudomonadota,Gammaproteobacteria,Xanthomonadales,Rhodanobacteraceae,Dyella,Dyella sp.
+Query_33,LN890104,2226,0.0,97.081,98,Bacteria,Pseudomonadota,Gammaproteobacteria,Xanthomonadales,Rhodanobacteraceae,Dyella,Dyella marensis
+Query_33,KM253068,2226,0.0,97.081,98,Bacteria,Pseudomonadota,Gammaproteobacteria,Xanthomonadales,Rhodanobacteraceae,Dyella,Dyella sp. GR 3-10
+Query_33,KF150437,2226,0.0,97.081,98,Bacteria,Pseudomonadota,Gammaproteobacteria,Xanthomonadales,Rhodanobacteraceae,Dyella,Dyella marensis
+Query_33,HQ222324,2226,0.0,97.081,98,Bacteria,Pseudomonadota,Gammaproteobacteria,Xanthomonadales,Rhodanobacteraceae,Dyella,Dyella marensis
+Query_33,NR_042691,2226,0.0,97.081,98,Bacteria,Pseudomonadota,Gammaproteobacteria,Xanthomonadales,Rhodanobacteraceae,Dyella,Dyella marensis
+Query_33,MN830092,2224,0.0,97.147,97,Bacteria,Pseudomonadota,Gammaproteobacteria,Xanthomonadales,Rhodanobacteraceae,Dyella,Dyella sp.
+Query_33,MF093193,2224,0.0,97.079,98,Bacteria,Pseudomonadota,Gammaproteobacteria,Xanthomonadales,Rhodanobacteraceae,Dyella,Dyella marensis
+Query_33,MN830095,2220,0.0,97.143,97,Bacteria,Pseudomonadota,Gammaproteobacteria,Xanthomonadales,Rhodanobacteraceae,Dyella,Dyella sp.
+Query_33,MN830083,2220,0.0,97.074,98,Bacteria,Pseudomonadota,Gammaproteobacteria,Xanthomonadales,Rhodanobacteraceae,Dyella,Dyella sp.
+Query_33,MF093194,2220,0.0,97.074,98,Bacteria,Pseudomonadota,Gammaproteobacteria,Xanthomonadales,Rhodanobacteraceae,Dyella,Dyella sp.
+Query_33,MH699289,2218,0.0,97.006,98,Bacteria,Pseudomonadota,Gammaproteobacteria,Xanthomonadales,Rhodanobacteraceae,Dyella,Dyella sp.
+Query_33,MH698684,2218,0.0,97.006,98,Bacteria,Pseudomonadota,Gammaproteobacteria,Xanthomonadales,Rhodanobacteraceae,Dyella,Dyella sp.
+Query_33,MN830094,2215,0.0,97.136,97,Bacteria,Pseudomonadota,Gammaproteobacteria,Xanthomonadales,Rhodanobacteraceae,Dyella,Dyella sp.
+Query_33,GQ181136,2215,0.0,97.139,97,Bacteria,Pseudomonadota,Gammaproteobacteria,Xanthomonadales,Rhodanobacteraceae,Dyella,Dyella sp. enrichment culture clone Pn5_1.5
+Query_33,MN830078,2207,0.0,97.128,97,Bacteria,Pseudomonadota,Gammaproteobacteria,Xanthomonadales,Rhodanobacteraceae,Dyella,Dyella sp.
+Query_34,HQ118832,2073,0.0,95.349,97,Bacteria,,,,,,uncultured bacterium
+Query_34,MT827097,2073,0.0,95.349,97,Bacteria,Pseudomonadota,Gammaproteobacteria,Xanthomonadales,Rhodanobacteraceae,Luteibacter,Luteibacter rhizovicinus
+Query_34,OM963139,2067,0.0,95.527,96,Bacteria,Pseudomonadota,Gammaproteobacteria,Xanthomonadales,Rhodanobacteraceae,Luteibacter,Luteibacter rhizovicinus
+Query_34,FR727720,2067,0.0,95.465,97,Bacteria,Pseudomonadota,Gammaproteobacteria,Xanthomonadales,Rhodanobacteraceae,Luteibacter,Luteibacter sp. IMP04
+Query_34,MT008462,2065,0.0,95.396,97,Bacteria,Pseudomonadota,Gammaproteobacteria,Xanthomonadales,Rhodanobacteraceae,Luteibacter,Luteibacter rhizovicinus
+Query_34,MK391154,2065,0.0,95.400,97,Bacteria,Pseudomonadota,Gammaproteobacteria,Xanthomonadales,Rhodanobacteraceae,Luteibacter,Luteibacter rhizovicinus
+Query_34,KF065659,2061,0.0,95.199,97,Bacteria,,,,,,uncultured bacterium
+Query_34,AY785744,2061,0.0,95.260,97,Bacteria,Pseudomonadota,Gammaproteobacteria,Xanthomonadales,Rhodanobacteraceae,Luteibacter,Luteibacter rhizovicinus
+Query_34,AY785744,2061,0.0,95.260,97,Bacteria,Pseudomonadota,Gammaproteobacteria,Xanthomonadales,Rhodanobacteraceae,Luteibacter,uncultured Luteibacter sp.
+Query_34,HG423551,2060,0.0,95.245,97,Bacteria,Pseudomonadota,Gammaproteobacteria,Xanthomonadales,Rhodanobacteraceae,Luteibacter,Luteibacter sp. NW-2013-Rh13
+Query_34,KX036584,2058,0.0,95.382,97,Bacteria,Pseudomonadota,Gammaproteobacteria,Xanthomonadales,Rhodanobacteraceae,Luteibacter,Luteibacter rhizovicinus
+Query_34,MK559966,2056,0.0,95.127,97,Bacteria,Pseudomonadota,Gammaproteobacteria,Xanthomonadales,Rhodanobacteraceae,Luteibacter,Luteibacter sp.
+Query_34,MK559964,2056,0.0,95.127,97,Bacteria,Pseudomonadota,Gammaproteobacteria,Xanthomonadales,Rhodanobacteraceae,Luteibacter,Luteibacter sp.
+Query_34,MK559963,2056,0.0,95.127,97,Bacteria,Pseudomonadota,Gammaproteobacteria,Xanthomonadales,Rhodanobacteraceae,Luteibacter,Luteibacter sp.
+Query_34,MK559960,2056,0.0,95.127,97,Bacteria,Pseudomonadota,Gammaproteobacteria,Xanthomonadales,Rhodanobacteraceae,Luteibacter,Luteibacter sp.
+Query_34,MK559957,2056,0.0,95.127,97,Bacteria,Pseudomonadota,Gammaproteobacteria,Xanthomonadales,Rhodanobacteraceae,Luteibacter,Luteibacter sp.
+Query_34,MK559952,2056,0.0,95.127,97,Bacteria,Pseudomonadota,Gammaproteobacteria,Xanthomonadales,Rhodanobacteraceae,Luteibacter,Luteibacter sp.
+Query_34,CP017480,2056,0.0,95.127,97,Bacteria,Pseudomonadota,Gammaproteobacteria,Xanthomonadales,Rhodanobacteraceae,Luteibacter,Luteibacter rhizovicinus
+Query_34,CP017480,2056,0.0,95.127,97,Bacteria,Pseudomonadota,Gammaproteobacteria,Xanthomonadales,Rhodanobacteraceae,Luteibacter,Luteibacter rhizovicinus
+Query_34,OM533725,2056,0.0,95.127,97,Bacteria,Pseudomonadota,Gammaproteobacteria,Xanthomonadales,Rhodanobacteraceae,Luteibacter,Luteibacter rhizovicinus
+Query_34,FR714940,2056,0.0,95.124,97,Bacteria,Pseudomonadota,Gammaproteobacteria,Xanthomonadales,Rhodanobacteraceae,Luteibacter,Luteibacter sp. AJM040
+Query_34,AJ580499,2056,0.0,95.127,97,Bacteria,Pseudomonadota,Gammaproteobacteria,Xanthomonadales,Rhodanobacteraceae,Luteibacter,Luteibacter rhizovicinus
+Query_35,CP072598,2302,0.0,97.773,99,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Erwiniaceae,Duffyella,Duffyella gerundensis
+Query_35,CP072598,2290,0.0,97.624,99,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Erwiniaceae,Duffyella,Duffyella gerundensis
+Query_35,CP072598,2290,0.0,97.624,99,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Erwiniaceae,Duffyella,Duffyella gerundensis
+Query_35,CP072598,2290,0.0,97.624,99,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Erwiniaceae,Duffyella,Duffyella gerundensis
+Query_35,CP072598,2285,0.0,97.550,99,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Erwiniaceae,Duffyella,Duffyella gerundensis
+Query_35,CP072598,2279,0.0,97.476,99,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Erwiniaceae,Duffyella,Duffyella gerundensis
+Query_35,CP072598,2279,0.0,97.476,99,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Erwiniaceae,Duffyella,Duffyella gerundensis
+Query_35,MK070120,2296,0.0,97.699,99,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Erwiniaceae,Erwinia,Erwinia sp.
+Query_35,CP073262,2296,0.0,97.699,99,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Erwiniaceae,Duffyella,Duffyella gerundensis
+Query_35,CP073262,2290,0.0,97.624,99,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Erwiniaceae,Duffyella,Duffyella gerundensis
+Query_35,CP073262,2290,0.0,97.624,99,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Erwiniaceae,Duffyella,Duffyella gerundensis
+Query_35,CP073262,2285,0.0,97.550,99,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Erwiniaceae,Duffyella,Duffyella gerundensis
+Query_35,CP073262,2285,0.0,97.550,99,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Erwiniaceae,Duffyella,Duffyella gerundensis
+Query_35,CP073262,2285,0.0,97.550,99,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Erwiniaceae,Duffyella,Duffyella gerundensis
+Query_35,CP073262,2242,0.0,97.030,99,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Erwiniaceae,Duffyella,Duffyella gerundensis
+Query_35,LN907827,2292,0.0,97.624,99,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Erwiniaceae,Duffyella,Duffyella gerundensis
+Query_35,LN907827,2290,0.0,97.624,99,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Erwiniaceae,Duffyella,Duffyella gerundensis
+Query_35,LN907827,2290,0.0,97.624,99,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Erwiniaceae,Duffyella,Duffyella gerundensis
+Query_35,LN907827,2290,0.0,97.624,99,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Erwiniaceae,Duffyella,Duffyella gerundensis
+Query_35,LN907827,2285,0.0,97.550,99,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Erwiniaceae,Duffyella,Duffyella gerundensis
+Query_35,LN907827,2285,0.0,97.550,99,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Erwiniaceae,Duffyella,Duffyella gerundensis
+Query_35,LN907827,2285,0.0,97.550,99,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Erwiniaceae,Duffyella,Duffyella gerundensis
+Query_35,MK070131,2290,0.0,97.624,99,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Erwiniaceae,Erwinia,Erwinia sp.
+Query_35,MK070125,2290,0.0,97.624,99,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Erwiniaceae,Erwinia,Erwinia sp.
+Query_35,MK070122,2290,0.0,97.624,99,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Erwiniaceae,Erwinia,Erwinia sp.
+Query_35,MK070119,2290,0.0,97.624,99,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Erwiniaceae,Erwinia,Erwinia sp.
+Query_35,KX674362,2290,0.0,97.901,98,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Erwiniaceae,Pantoea,Pantoea sp. B2(2017)
+Query_35,HQ396801,2290,0.0,97.624,99,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Erwiniaceae,Pantoea,Pantoea sp. CH-N10
+Query_35,HM328013,2290,0.0,97.624,99,Bacteria,,,,,,uncultured bacterium
+Query_35,KY495782,2289,0.0,97.968,98,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Erwiniaceae,Pantoea,Pantoea agglomerans
+Query_35,MH071319,2287,0.0,97.550,99,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Erwiniaceae,Duffyella,Duffyella gerundensis
+Query_35,MK883196,2285,0.0,97.617,99,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Erwiniaceae,Pantoea,Pantoea agglomerans
+Query_35,MK070133,2285,0.0,97.550,99,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Erwiniaceae,Erwinia,Erwinia sp.
+Query_35,MK070126,2285,0.0,97.550,99,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Erwiniaceae,Erwinia,Erwinia sp.
+Query_35,LC050302,2285,0.0,97.550,99,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Erwiniaceae,Pantoea,uncultured Pantoea sp.
+Query_35,ON600534,2285,0.0,97.965,98,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Erwiniaceae,Duffyella,Duffyella gerundensis
+Query_35,ON202849,2285,0.0,97.550,99,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Erwiniaceae,Pantoea,Pantoea agglomerans
+Query_35,MW370069,2281,0.0,97.890,98,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Erwiniaceae,Erwinia,Erwinia sp.
+Query_35,MW370069,2281,0.0,97.890,98,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Erwiniaceae,Pantoea,Pantoea sp.
+Query_36,HF952548,2215,0.0,97.061,99,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas protegens
+Query_36,KP262336,2213,0.0,96.924,99,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas sp. SCO-6
+Query_36,OP341247,2211,0.0,96.789,99,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas sp.
+Query_36,KF317739,2211,0.0,96.786,99,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas sp. J4.2B4
+Query_36,DQ095904,2211,0.0,96.990,99,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas fluorescens
+Query_36,KX378937,2209,0.0,96.988,99,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas sp.
+Query_36,OM867424,2209,0.0,96.920,99,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas sp.
+Query_36,KF317745,2209,0.0,96.784,99,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas sp. J2.4D1
+Query_36,MN515143,2207,0.0,96.716,99,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas protegens
+Query_36,MH813535,2207,0.0,96.917,99,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas protegens
+Query_36,OP341329,2207,0.0,96.917,99,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas sp.
+Query_36,OP341248,2207,0.0,96.852,99,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas sp.
+Query_36,KM117221,2207,0.0,96.716,99,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas sp. S18(2014)
+Query_36,MT505104,2206,0.0,96.915,99,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas protegens
+Query_36,MN959751,2206,0.0,97.186,98,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas protegens
+Query_36,KM253093,2206,0.0,96.915,99,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas sp. GT 5-01
+Query_36,KC920926,2206,0.0,96.915,99,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas sp. DT4
+Query_36,JX430001,2206,0.0,96.915,99,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas sp. CHM-31
+Query_36,MW326964,2204,0.0,96.647,99,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Rhizobium,uncultured Rhizobium sp.
+Query_36,MH127753,2202,0.0,96.844,99,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas sp.
+Query_37,OK560628,2265,0.0,97.394,99,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas frederiksbergensis
+Query_37,OK271131,2265,0.0,97.257,99,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas frederiksbergensis
+Query_37,OK160865,2255,0.0,97.179,99,Bacteria,,,,,,bacterium
+Query_37,OK160948,2254,0.0,97.177,99,Bacteria,,,,,,bacterium
+Query_37,MT078678,2252,0.0,97.107,99,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas frederiksbergensis
+Query_37,MK602368,2252,0.0,97.041,99,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas sp.
+Query_37,OK160956,2252,0.0,97.041,99,Bacteria,,,,,,bacterium
+Query_37,OP168386,2252,0.0,97.311,99,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas sp.
+Query_37,OK160943,2248,0.0,97.105,99,Bacteria,,,,,,bacterium
+Query_37,KM253082,2248,0.0,97.237,99,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas sp. GR 7-06
+Query_37,JF772537,2248,0.0,97.173,99,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas sp. bG16(2011)
+Query_37,OP364565,2244,0.0,96.963,99,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas chlororaphis
+Query_37,CP087194,2244,0.0,97.303,98,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas sp. B21-017
+Query_37,CP087194,2244,0.0,97.303,98,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas sp. B21-017
+Query_37,CP087194,2244,0.0,97.303,98,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas sp. B21-017
+Query_37,CP087194,2239,0.0,97.228,98,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas sp. B21-017
+Query_37,CP087194,2239,0.0,97.228,98,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas sp. B21-017
+Query_37,CP087194,2239,0.0,97.228,98,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas sp. B21-017
+Query_37,DQ813328,2244,0.0,97.098,99,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas sp. IBUN S1901
+Query_37,MT102292,2242,0.0,97.028,99,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas chlororaphis
+Query_37,OP364532,2242,0.0,96.893,99,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas mandelii
+Query_37,FJ601641,2242,0.0,97.301,98,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas sp. enrichment culture clone SYW11
+Query_37,FJ422406,2242,0.0,97.164,99,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas fluorescens
+Query_37,MT026958,2241,0.0,96.893,99,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas sp.
+Query_37,MK823524,2241,0.0,97.164,99,Bacteria,,,,,,bacterium
+Query_38,OK271131,2279,0.0,98.029,98,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas frederiksbergensis
+Query_38,MT078678,2274,0.0,97.953,98,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas frederiksbergensis
+Query_38,OK560628,2268,0.0,98.092,97,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas frederiksbergensis
+Query_38,OK160948,2266,0.0,97.947,98,Bacteria,,,,,,bacterium
+Query_38,OK160956,2265,0.0,97.803,98,Bacteria,,,,,,bacterium
+Query_38,OK160865,2265,0.0,97.876,98,Bacteria,,,,,,bacterium
+Query_38,CP023466,2261,0.0,97.803,98,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas frederiksbergensis
+Query_38,CP023466,2250,0.0,97.652,98,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas frederiksbergensis
+Query_38,CP023466,2250,0.0,97.581,98,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas frederiksbergensis
+Query_38,CP023466,2250,0.0,97.581,98,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas frederiksbergensis
+Query_38,CP023466,2250,0.0,97.581,98,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas frederiksbergensis
+Query_38,CP023466,2250,0.0,97.581,98,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas frederiksbergensis
+Query_38,KU647216,2261,0.0,97.872,98,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas frederiksbergensis
+Query_38,OK160943,2261,0.0,97.872,98,Bacteria,,,,,,bacterium
+Query_38,MT856253,2261,0.0,97.872,98,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas frederiksbergensis
+Query_38,MK602368,2259,0.0,97.800,98,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas sp.
+Query_38,OP364565,2257,0.0,97.796,98,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas chlororaphis
+Query_38,OP168386,2257,0.0,98.011,97,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas sp.
+Query_38,JN210901,2257,0.0,97.798,98,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas sp. WS06
+Query_38,CP011567,2255,0.0,97.727,98,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas sp. GR 6-02
+Query_38,CP011567,2255,0.0,97.657,98,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas sp. GR 6-02
+Query_38,CP011567,2250,0.0,97.652,98,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas sp. GR 6-02
+Query_38,CP011567,2250,0.0,97.652,98,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas sp. GR 6-02
+Query_38,CP011567,2250,0.0,97.652,98,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas sp. GR 6-02
+Query_38,CP011567,2250,0.0,97.581,98,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas sp. GR 6-02
+Query_38,KJ767322,2255,0.0,97.727,98,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas frederiksbergensis
+Query_38,CP087194,2255,0.0,97.727,98,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas sp. B21-017
+Query_38,CP087194,2255,0.0,97.727,98,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas sp. B21-017
+Query_38,CP087194,2255,0.0,97.657,98,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas sp. B21-017
+Query_38,CP087194,2250,0.0,97.652,98,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas sp. B21-017
+Query_38,CP087194,2250,0.0,97.652,98,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas sp. B21-017
+Query_38,CP087194,2250,0.0,97.581,98,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas sp. B21-017
+Query_38,CP087193,2255,0.0,97.727,98,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas sp. B21-019
+Query_38,CP087193,2255,0.0,97.657,98,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas sp. B21-019
+Query_38,CP087193,2250,0.0,97.652,98,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas sp. B21-019
+Query_38,CP087193,2250,0.0,97.652,98,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas sp. B21-019
+Query_38,CP087193,2250,0.0,97.581,98,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas sp. B21-019
+Query_38,CP087193,2244,0.0,97.576,98,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas sp. B21-019
+Query_38,JF772537,2255,0.0,97.796,98,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas sp. bG16(2011)
+Query_38,MT026958,2254,0.0,97.724,98,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas sp.
+Query_39,MK072798,2266,0.0,97.402,97,Bacteria,,,,,,bacterium
+Query_39,KT003253,2266,0.0,97.402,98,Bacteria,Pseudomonadota,Gammaproteobacteria,Moraxellales,Moraxellaceae,Acinetobacter,Acinetobacter sp. HN-7
+Query_39,KJ631601,2265,0.0,97.466,97,Bacteria,Pseudomonadota,Gammaproteobacteria,Moraxellales,Moraxellaceae,Acinetobacter,Acinetobacter sp. TRS9
+Query_39,MK072801,2263,0.0,97.398,97,Bacteria,,,,,,bacterium
+Query_39,MG755256,2261,0.0,97.465,97,Bacteria,Pseudomonadota,Gammaproteobacteria,Moraxellales,Moraxellaceae,Acinetobacter,Acinetobacter sp.
+Query_39,KY596056,2261,0.0,97.532,97,Bacteria,Pseudomonadota,Gammaproteobacteria,Moraxellales,Moraxellaceae,Acinetobacter,Acinetobacter calcoaceticus
+Query_39,KU937387,2261,0.0,97.463,97,Bacteria,Pseudomonadota,Gammaproteobacteria,Moraxellales,Moraxellaceae,Acinetobacter,Acinetobacter calcoaceticus
+Query_39,KU937386,2261,0.0,97.463,97,Bacteria,Pseudomonadota,Gammaproteobacteria,Moraxellales,Moraxellaceae,Acinetobacter,Acinetobacter calcoaceticus
+Query_39,MF148440,2259,0.0,97.463,97,Bacteria,Pseudomonadota,Gammaproteobacteria,Moraxellales,Moraxellaceae,Acinetobacter,Acinetobacter sp.
+Query_39,MN911371,2257,0.0,97.323,97,Bacteria,Pseudomonadota,Gammaproteobacteria,Moraxellales,Moraxellaceae,Acinetobacter,Acinetobacter calcoaceticus
+Query_39,MN207191,2257,0.0,97.325,97,Bacteria,Pseudomonadota,Gammaproteobacteria,Moraxellales,Moraxellaceae,Acinetobacter,Acinetobacter sp.
+Query_39,MG755253,2257,0.0,97.392,97,Bacteria,Pseudomonadota,Gammaproteobacteria,Moraxellales,Moraxellaceae,Acinetobacter,Acinetobacter sp.
+Query_39,MF186612,2257,0.0,97.323,97,Bacteria,Pseudomonadota,Gammaproteobacteria,Moraxellales,Moraxellaceae,Acinetobacter,Acinetobacter calcoaceticus
+Query_39,KM981462,2257,0.0,97.392,97,Bacteria,Pseudomonadota,Gammaproteobacteria,Moraxellales,Moraxellaceae,Acinetobacter,Acinetobacter sp. LMB-5
+Query_39,KJ185004,2257,0.0,97.392,97,Bacteria,Pseudomonadota,Gammaproteobacteria,Moraxellales,Moraxellaceae,Acinetobacter,Acinetobacter sp. FSGSY19
+Query_39,MK825145,2255,0.0,97.321,97,Bacteria,,,,,,bacterium
+Query_39,MK823330,2255,0.0,97.459,97,Bacteria,,,,,,bacterium
+Query_39,MK823311,2255,0.0,97.457,97,Bacteria,,,,,,bacterium
+Query_39,MK823309,2255,0.0,97.459,97,Bacteria,,,,,,bacterium
+Query_39,MF148432,2255,0.0,97.390,97,Bacteria,Pseudomonadota,Gammaproteobacteria,Moraxellales,Moraxellaceae,Acinetobacter,Acinetobacter sp.
+Query_40,OP325954,2283,0.0,97.617,97,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas sp.
+Query_40,JF820107,2281,0.0,97.683,97,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas sp. PG-3-10
+Query_40,HG805781,2278,0.0,97.749,97,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas sp. FBF110
+Query_40,HG805798,2276,0.0,97.678,97,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas sp. FBF130
+Query_40,KJ756337,2276,0.0,97.748,97,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas fluorescens
+Query_40,OK147805,2276,0.0,97.680,97,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas putida
+Query_40,MT974315,2276,0.0,97.748,97,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas simiae
+Query_40,MN081018,2274,0.0,97.746,97,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas sp.
+Query_40,MK883118,2274,0.0,97.470,97,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas poae
+Query_40,MT672755,2274,0.0,97.678,97,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas sp.
+Query_40,KY939757,2272,0.0,97.744,96,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas simiae
+Query_40,KJ756339,2272,0.0,97.532,97,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas fluorescens
+Query_40,KJ756336,2272,0.0,97.743,96,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas fluorescens
+Query_40,HF545843,2272,0.0,97.744,96,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas putida
+Query_40,FJ262366,2272,0.0,97.674,97,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas sp. WH1
+Query_40,EF427849,2272,0.0,97.744,96,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas sp. CBCEN8
+Query_40,MK883127,2268,0.0,97.534,97,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas poae
+Query_40,OK147788,2268,0.0,97.394,97,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas simiae
+Query_40,KF623094,2268,0.0,97.811,96,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas sp. Plant11
+Query_40,MW582674,2268,0.0,97.534,97,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas poae

@@ -89,7 +89,7 @@ done
 eval "$(conda shell.bash hook)"
 conda activate BLAST
 
-# remove white spaces in the fasta headers
+echo -e ">>>> Rename input .fasta file <<<<\n"
 python code/parseFasta.py $input_file ${out_dir} --prefix Query
 
 echo -e ">>>> Running BLAST <<<<\n"
@@ -116,4 +116,4 @@ python code/getTaxonomy.py $confidence $max_hits $ethresh $p_iden_thresh $out_di
 
 conda deactivate
 
-echo -e "\n>>>> All done! <<<<\n"
+echo -e ">>>> All done! <<<<\n"

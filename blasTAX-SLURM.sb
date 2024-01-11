@@ -11,7 +11,7 @@
 
 cd ${SLURM_SUBMIT_DIR}
 
-bash blasTAX.sh -i sequences/syncom.fasta -d /mnt/research/EvansLab/DATABASES/NCBInt_feb23 -t 16 --max_hits 20 -c 0.60 -e 0.001 -p 90.0 -o /mnt/home/benucci/blasTAX/outputs
+bash blasTAX.sh -i sequences/bryan.fasta -d /mnt/research/EvansLab/DATABASES/NCBInt_feb23 -t 16 --max_hits 20 -c 0.60 -e 0.001 -p 90.0 -o /mnt/home/benucci/blasTAX/outputs
 
 echo -e "\n========= Sbatch log =========\n"
 echo -e "\n Current directory: `pwd` \n"

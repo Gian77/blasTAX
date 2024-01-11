@@ -1,0 +1,41 @@
+OTU_ID	OTU_Score	Kingdom	K_score	Phylum	P_score	Class	C_score	Order	O_score	Family	F_score	Genus	G_score	Species	S_score
+Query_1	1.0	Bacteria	1.0	Actinomycetota	1.0	Actinomycetes	1.0	Micrococcales	1.0	Micrococcaceae	1.0	Arthrobacter	1.0
+Query_2	0.7333333333333333	Bacteria	1.0	Actinomycetota	1.0	Actinomycetes	1.0	Micrococcales	1.0	Micrococcaceae	1.0	Paenarthrobacter	0.7333333333333333
+Query_3	0.9473684210526315	Bacteria	1.0	Actinomycetota	0.9473684210526315	Actinomycetes	0.9473684210526315	Micrococcales	0.9473684210526315	Microbacteriaceae	0.9473684210526315	Curtobacterium	0.9473684210526315
+Query_4	1.0	Bacteria	1.0	Actinomycetota	1.0	Actinomycetes	1.0	Kitasatosporales	1.0	Streptomycetaceae	1.0	Streptomyces	1.0
+Query_5	1.0	Bacteria	1.0	Actinomycetota	1.0	Actinomycetes	1.0	Mycobacteriales	1.0	Mycobacteriaceae	1.0
+Query_6	1.0	Bacteria	1.0	Actinomycetota	1.0	Actinomycetes	1.0	Mycobacteriales	1.0	Nocardiaceae	1.0	Rhodococcus	1.0
+Query_7	1.0	Bacteria	1.0	Actinomycetota	1.0	Actinomycetes	1.0	Kitasatosporales	1.0	Streptomycetaceae	1.0	Streptomyces	1.0
+Query_8	0.8947368421052632	Bacteria	1.0	Actinomycetota	1.0	Actinomycetes	1.0	Propionibacteriales	1.0	Nocardioidaceae	1.0	Nocardioides	0.8947368421052632
+Query_9	0.7	Bacteria	1.0	Actinomycetota	1.0	Actinomycetes	1.0	Kitasatosporales	1.0	Streptomycetaceae	1.0	Streptomyces	1.0	Streptomyces thermocarboxydus	0.7
+Query_10	1.0	Bacteria	1.0	Pseudomonadota	1.0	Alphaproteobacteria	1.0	Caulobacterales	1.0	Caulobacteraceae	1.0	Brevundimonas	1.0
+Query_11	0.6111111111111112	Bacteria	1.0	Pseudomonadota	1.0	Alphaproteobacteria	1.0	Hyphomicrobiales	1.0	Rhizobiaceae	1.0	Rhizobium	0.6111111111111112
+Query_12	1.0	Bacteria	1.0	Pseudomonadota	1.0	Alphaproteobacteria	1.0	Hyphomicrobiales	1.0	Methylobacteriaceae	1.0	Methylobacterium	1.0
+Query_13	0.65	Bacteria	1.0	Pseudomonadota	1.0	Alphaproteobacteria	1.0	Hyphomicrobiales	1.0	Brucellaceae	1.0	Ochrobactrum	0.8421052631578947	Ochrobactrum sp.	0.65
+Query_14	1.0	Bacteria	1.0	Pseudomonadota	1.0	Alphaproteobacteria	1.0	Hyphomicrobiales	1.0	Rhizobiaceae	1.0	Rhizobium	1.0
+Query_15	0.8125	Bacteria	1.0	Pseudomonadota	1.0	Alphaproteobacteria	1.0	Hyphomicrobiales	1.0	Phyllobacteriaceae	1.0	Phyllobacterium	0.8125
+Query_16	1.0	Bacteria	1.0	Pseudomonadota	1.0	Alphaproteobacteria	1.0	Hyphomicrobiales	1.0	Boseaceae	1.0	Bosea	1.0
+Query_17	0.95	Bacteria	1.0	Bacteroidota	1.0	Flavobacteriia	1.0	Flavobacteriales	1.0	Weeksellaceae	1.0	Chryseobacterium	1.0	Chryseobacterium indologenes	0.95
+Query_18	1.0	Bacteria	1.0	Bacteroidota	1.0	Flavobacteriia	1.0	Flavobacteriales	1.0	Flavobacteriaceae	1.0	Flavobacterium	1.0	Flavobacterium johnsoniae	1.0
+Query_19	1.0	Bacteria	1.0	Bacteroidota	1.0	Flavobacteriia	1.0	Flavobacteriales	1.0	Weeksellaceae	1.0	Chryseobacterium	1.0
+Query_20	1.0	Bacteria	1.0	Bacteroidota	1.0	Flavobacteriia	1.0	Flavobacteriales	1.0	Weeksellaceae	1.0	Chryseobacterium	1.0
+Query_21	0.9411764705882353	Bacteria	1.0	Pseudomonadota	1.0	Betaproteobacteria	1.0	Burkholderiales	1.0	Burkholderiaceae	1.0	Paraburkholderia	0.9411764705882353
+Query_22	0.7	Bacteria	1.0	Pseudomonadota	1.0	Betaproteobacteria	1.0	Burkholderiales	1.0	Burkholderiaceae	1.0	Ralstonia	1.0	bacterium	0.7
+Query_23	0.7	Bacteria	1.0	Pseudomonadota	1.0	Betaproteobacteria	1.0	Burkholderiales	1.0	Comamonadaceae	1.0	Variovorax	1.0	Variovorax paradoxus	0.7
+Query_24	1.0	Bacteria	1.0	Pseudomonadota	1.0	Betaproteobacteria	1.0	Burkholderiales	1.0	Oxalobacteraceae	1.0	Janthinobacterium	1.0
+Query_25	1.0	Bacteria	1.0	Pseudomonadota	1.0	Betaproteobacteria	1.0	Burkholderiales	1.0	Comamonadaceae	1.0	Pseudacidovorax	1.0
+Query_26	0.8235294117647058	Bacteria	1.0	Bacillota	1.0	Bacilli	1.0	Bacillales	1.0	Bacillaceae	1.0	Priestia	0.8235294117647058
+Query_27	0.6923076923076923	Bacteria	1.0	Bacillota	1.0	Bacilli	1.0	Bacillales	1.0	Bacillaceae	1.0	Bacillus	0.6923076923076923
+Query_28	1.0	Bacteria	1.0	Bacillota	1.0	Bacilli	1.0	Bacillales	1.0	Bacillaceae	1.0	Bacillus	1.0
+Query_29	1.0	Bacteria	1.0	Bacillota	1.0	Bacilli	1.0	Bacillales	1.0	Paenibacillaceae	1.0	Paenibacillus	1.0
+Query_30	1.0	Bacteria	1.0	Bacillota	1.0	Bacilli	1.0	Bacillales	1.0	Bacillaceae	1.0	Bacillus	1.0
+Query_31	0.9	Bacteria	1.0	Bacillota	1.0	Bacilli	1.0	Bacillales	1.0	Paenibacillaceae	0.9	Paenibacillus	0.9
+Query_32	0.7	Bacteria	1.0	Pseudomonadota	1.0	Gammaproteobacteria	1.0	Enterobacterales	1.0	Enterobacteriaceae	1.0	Escherichia	0.8421052631578947	Escherichia coli	0.7
+Query_33	1.0	Bacteria	1.0	Pseudomonadota	1.0	Gammaproteobacteria	1.0	Xanthomonadales	1.0	Rhodanobacteraceae	1.0	Dyella	1.0
+Query_34	1.0	Bacteria	1.0	Pseudomonadota	1.0	Gammaproteobacteria	1.0	Xanthomonadales	1.0	Rhodanobacteraceae	1.0	Luteibacter	1.0
+Query_35	0.95	Bacteria	1.0	Pseudomonadota	1.0	Gammaproteobacteria	1.0	Enterobacterales	1.0	Erwiniaceae	1.0	Duffyella	0.95	Duffyella gerundensis	0.95
+Query_36	0.95	Bacteria	1.0	Pseudomonadota	1.0	Gammaproteobacteria	0.95	Pseudomonadales	0.95	Pseudomonadaceae	0.95	Pseudomonas	0.95
+Query_37	1.0	Bacteria	1.0	Pseudomonadota	1.0	Gammaproteobacteria	1.0	Pseudomonadales	1.0	Pseudomonadaceae	1.0	Pseudomonas	1.0
+Query_38	1.0	Bacteria	1.0	Pseudomonadota	1.0	Gammaproteobacteria	1.0	Pseudomonadales	1.0	Pseudomonadaceae	1.0	Pseudomonas	1.0
+Query_39	1.0	Bacteria	1.0	Pseudomonadota	1.0	Gammaproteobacteria	1.0	Moraxellales	1.0	Moraxellaceae	1.0	Acinetobacter	1.0
+Query_40	1.0	Bacteria	1.0	Pseudomonadota	1.0	Gammaproteobacteria	1.0	Pseudomonadales	1.0	Pseudomonadaceae	1.0	Pseudomonas	1.0

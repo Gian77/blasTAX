@@ -2,4 +2,19 @@
 
 sequences/S*
 sequences/s*
+sequences/b*
+
+debug/
+
 slurm-*
+
+outputs/blast_mod.out
+outputs/blast.out
+outputs/full_lineage.txt
+outputs/name_mapping.txt
+outputs/parsed_input.fasta
+outputs/taxformat.txt
+outputs/taxids.txt
+outputs/taxonomy.blast
+outputs/taxonomy_blast_final.txt
+

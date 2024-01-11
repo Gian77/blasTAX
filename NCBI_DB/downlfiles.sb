@@ -4,7 +4,7 @@
 #SBATCH --ntasks=1           
 #SBATCH --cpus-per-task=20   
 #SBATCH --mem=32G   
-#SBATCH --job-name dowl_nt
+#SBATCH --job-name download
 #SBACTH -A shade-cole-bonito
 
 cd ${SLURM_SUBMIT_DIR}
@@ -18,5 +18,10 @@ do
     wget "https://ftp.ncbi.nlm.nih.gov/blast/db/nt.${i}.tar.gz"
 done
 
+echo -e "\n Current directory: `pwd` \n"
+echo -e "\n `sacct -u benucci -j $SLURM_JOB_ID --format=JobID,JobName,Start,End,Elapsed,NCPUS,ReqMem` \n"
+scontrol show job $SLURM_JOB_ID
 
+# Links
+# https://ftp.ncbi.nlm.nih.gov/blast/db/
 # https://unix.stackexchange.com/questions/381700/how-to-loop-over-numbered-files-and-also-the-outputs

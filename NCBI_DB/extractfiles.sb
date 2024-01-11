@@ -2,9 +2,9 @@
 
 #SBATCH --time=03:59:00      
 #SBATCH --ntasks=1           
-#SBATCH --cpus-per-task=20   
-#SBATCH --mem=32G   
-#SBATCH --job-name  count
+#SBATCH --cpus-per-task=1 
+#SBATCH --mem=48G   
+#SBATCH --job-name extract
 #SBACTH -A shade-cole-bonito
 
 cd ${SLURM_SUBMIT_DIR}
@@ -12,10 +12,14 @@ cd ${SLURM_SUBMIT_DIR}
 cores=$SLURM_CPUS_PER_TASK
 RAM_GB=$SLURM_MEM_PER_NODE
 
-for i in $(seq -w 00 87)
+for i in $(seq -w 00 124)
 do
     tar -xvf "nt.${i}.tar.gz"
 done
 
+echo -e "\n Current directory: `pwd` \n"
+echo -e "\n `sacct -u benucci -j $SLURM_JOB_ID --format=JobID,JobName,Start,End,Elapsed,NCPUS,ReqMem` \n"
 scontrol show job $SLURM_JOB_ID
+
+# Links
 # https://unix.stackexchange.com/questions/381700/how-to-loop-over-numbered-files-and-also-the-outputs
