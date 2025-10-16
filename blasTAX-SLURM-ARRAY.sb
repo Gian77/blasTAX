@@ -1,0 +1,43 @@
+#!/bin/bash -login
+
+#SBATCH --time=012:00:00
+#SBATCH --nodes=1
+#SBATCH --ntasks=1
+#SBATCH --cpus-per-task=16
+#SBATCH --mem=128G
+#SBACTH -A glbrc
+#SBATCH --array=1-11
+#SBATCH --job-name blasTAX
+#SBATCH --output=slurm-%A_%a_blasTAX.out
+
+cd ${SLURM_SUBMIT_DIR}
+cores=$SLURM_CPUS_PER_TASK
+
+echo -e "loading conda modules...\n"
+module purge
+module load Miniforge3
+conda activate blasTAX
+
+echo -e "reading array file...\n"
+current_dir="`pwd`"
+sequence_file=$(awk -v ArrayTaskID=$SLURM_ARRAY_TASK_ID '$1==ArrayTaskID {print $2}' $current_dir/array/sequence_file.list)
+out_name=$(basename "$sequence_file" .fasta)
+
+num_arrays=$(( $(wc -l < "$current_dir"/sequence_file.list) - 1 ))
+echo "Number of array tasks: $num_arrays"
+
+echo -e "\nrunning blasTAX...\n"
+bash blasTAX.sh \
+	-i "$sequence_file" \
+	-d /mnt/research/glbrc_group/benuccigmn/DATABASES/NCBI_core_nt/ \
+	-t $cores \
+	--max_hits 25 \
+	-c 0.65 \
+	-e 0.001 \
+	-p 85.0 \
+	-o "$current_dir"/"$out_name"_taxonomy
+
+echo -e "run completed.\n"
+echo -e "current directory: `pwd` \n"
+echo -e "\n `sacct -u $USER -j $SLURM_JOB_ID --format=JobID,JobName,Start,End,Elapsed,NCPUS,ReqMem` \n"
+scontrol show job $SLURM_JOB_ID

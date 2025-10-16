@@ -1,19 +1,32 @@
 #!/bin/bash -login
 
-#SBATCH --time=12:00:00
+#SBATCH --time=03:59:00
 #SBATCH --nodes=1
 #SBATCH --ntasks=1
-#SBATCH --cpus-per-task=16
-#SBATCH --mem=96G
-#SBACTH -A shade-cole-bonito
+#SBATCH --cpus-per-task=32
+#SBATCH --mem=128G
+#SBACTH -A glbrc
 #SBATCH --job-name blasTAX
 #SBATCH --output=slurm-%A_blasTAX.out
 
 cd ${SLURM_SUBMIT_DIR}
+cores=$SLURM_CPUS_PER_TASK
 
-bash blasTAX.sh -i sequences/bryan.fasta -d /mnt/research/EvansLab/DATABASES/NCBInt_feb23 -t 16 --max_hits 25 -c 0.60 -e 0.001 -p 90.0 -o /mnt/home/benucci/blasTAX/outputs
+module purge
+module load Miniforge3
+conda activate blasTAX
+
+bash blasTAX.sh \
+	-i /mnt/home/benucci/blasTAX/sequences/fungi_rare.fasta \
+	-d /mnt/research/glbrc_group/benuccigmn/DATABASES/NCBI_core_nt/ \
+	-t $cores \
+	--max_hits 25 \
+	-c 0.65 \
+	-e 0.001 \
+	-p 85.0 \
+	-o /mnt/home/benucci/blasTAX/fungi_diff_abund_blast_rare
 
 echo -e "\n========= Sbatch log =========\n"
 echo -e "\n Current directory: `pwd` \n"
-echo -e "\n `sacct -u benucci -j $SLURM_JOB_ID --format=JobID,JobName,Start,End,Elapsed,NCPUS,ReqMem` \n"
+echo -e "\n `sacct -u $USER -j $SLURM_JOB_ID --format=JobID,JobName,Start,End,Elapsed,NCPUS,ReqMem` \n"
 scontrol show job $SLURM_JOB_ID

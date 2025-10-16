@@ -18,3 +18,5 @@ outputs/taxids.txt
 outputs/taxonomy.blast
 outputs/taxonomy_blast_final.txt
 
+outputs/*
+

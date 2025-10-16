@@ -1,0 +1,11 @@
+#!/bin/bash
+
+# set current dir
+current_dir="`pwd`"
+# generate the array list
+ls "$current_dir"/*.fasta | cat -n | sed 's/^ *//' | sed '1i ArrayTaskID\tSampleID' > "$current_dir"/sequence_file.list
+echo -e "array file creation completed. \n"
+# Print the number of array tasks to run
+num_arrays=$(( $(wc -l < "$current_dir"/sequence_file.list) - 1 ))
+echo "Number of array tasks: $num_arrays"
+echo -e "array content:\n\n `cat "$current_dir"/sequence_file.list`"
